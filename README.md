@@ -9,7 +9,7 @@ Feel free to download or access online. This repo will be updated as the course 
 While you do have the freedom to use the software you would like for this class, below are my recommendations
 * Python 3.10+
 * Anaconda.Navivate
-* Visual Studio Code
+* Visual Studio Code (Install Python and Jupyter Extensions)
 * Conda
 * Google Colab
 * Overleaf (LaTeX text editor)
