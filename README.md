@@ -15,7 +15,6 @@ While you do have the freedom to use the software you would like for this class,
 * Overleaf (LaTeX text editor)
 * GitHub
 * AI Assistants
-* DSCI_222_env
 
 ## Collaboration & Academic Integrity
 * Collaboration is encouraged for discussing concepts
