@@ -1,0 +1,10 @@
+Common Libraries Used for Course
+
+* matplotlib
+* networkx
+* numpy
+* opencv
+* pandas
+* pytorch
+* scikit-learn
+* tensorflow
