@@ -1,0 +1,180 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX Template
+% -----------------------------------------------------------
+% This template introduces the basics of LaTeX for writing 
+% reports, homework, and projects
+%
+% NOTE: Any line that begins with "%" is a COMMENT.
+% Comments are ignored by LaTeX and are only here to help you.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% -----------------------------------------------------------
+% 1. DOCUMENT CLASS
+% -----------------------------------------------------------
+% The document class sets the overall formatting (font, spacing, etc.).
+% "article" is good for reports, papers, and homework.
+\documentclass[12pt]{article} 
+
+% Options like 12pt change the base font size. Alternatives: 10pt, 11pt.
+
+% -----------------------------------------------------------
+% 2. PACKAGES
+% -----------------------------------------------------------
+% Packages extend LaTeX’s functionality, similar to Python. You load them with \usepackage.
+
+% Better math formatting:
+\usepackage{amsmath, amssymb}
+
+% To include images (figures/plots):
+\usepackage{graphicx}
+
+% To handle color in text, tables, etc.:
+\usepackage{xcolor}
+
+% To improve table formatting:
+\usepackage{booktabs}
+
+% For including code snippets in a nice style:
+\usepackage{listings}
+
+% Control page layout (margins):
+\usepackage[margin=1in]{geometry}
+
+% -----------------------------------------------------------
+% 3. TITLE INFO
+% This makes your title, but you will still need to print it (see below)
+% -----------------------------------------------------------
+\title{Sample Data Science Report in LaTeX}
+\author{Your Name Here}
+\date{\today} % \today automatically prints the current date
+
+% -----------------------------------------------------------
+% 4. BEGIN DOCUMENT
+% -----------------------------------------------------------
+\begin{document}
+
+% Print the title/author/date info that is written above:
+\maketitle
+
+% -----------------------------------------------------------
+% 5. INTRODUCTION SECTION
+% -----------------------------------------------------------
+\section{Introduction}
+
+This is a sample \LaTeX{} document for a data science class. 
+We will write text, add math, tables, figures, and even code.
+If you write your text on two lines in the editor
+LaTeX does not recognize the enter.
+You must hit enter twice
+
+for your text to go to a second line.
+
+By default, LaTeX indents a second paragraph. Use 
+
+\noindent if you don't want your second line to be indented
+
+
+
+
+Beyond this, the number of lines separating text does nothing
+
+\vspace{1em} \noindent This adds a vertical space with no indent
+
+
+% Notice how we just type plain text. LaTeX will handle line breaks
+% and spacing automatically. You don’t press enter at the end of
+% each line unless you want to start a new paragraph.
+
+% -----------------------------------------------------------
+% 6. MATH EXAMPLES
+% -----------------------------------------------------------
+\section{Math Examples}
+
+You can write math inline like this: $y = mx + b$.
+
+Or you can display equations centered on their own line:
+
+\begin{equation}
+    \hat{y} = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \epsilon
+\end{equation}
+
+% "equation" automatically numbers your equation.
+
+Use this if you don't want the number
+
+\begin{equation*}
+    \hat{y} = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \epsilon
+\end{equation*}
+
+% let's continue on a new page
+\newpage
+
+
+% -----------------------------------------------------------
+% 7. TABLE EXAMPLE
+% -----------------------------------------------------------
+\section{Tables}
+
+Here is a simple table with nice formatting:
+
+\begin{table}[h] % [h] means "place here"
+    \centering
+    \begin{tabular}{lrr} % l=left, r=right, c=center alignment
+        \toprule
+        Variable & Mean & Std. Dev. \\
+        \midrule
+        Age      & 34.5 & 5.2 \\
+        Income   & 55000 & 12000 \\
+        \bottomrule
+        Score    & 78.9 & 10.3 \\
+    \end{tabular}
+    \caption{Summary statistics for example dataset.}
+    \label{tab:summary}
+\end{table}
+
+% -----------------------------------------------------------
+% 8. FIGURE (IMAGE) EXAMPLE
+% -----------------------------------------------------------
+\section{Figures}
+
+To include an image (e.g., plot, diagram, or photo):
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\textwidth]{WVU.png}
+    % width=0.6 will adjust the size of the figure
+    \caption{An example figure.}
+\end{figure}
+
+% Note: The image file must be in the same folder as your .tex file,
+% or you must give the path.
+
+
+\newpage
+
+% -----------------------------------------------------------
+% 9. CODE SNIPPET EXAMPLE
+% -----------------------------------------------------------
+\section{Code Example}
+
+We can include code with the "listings" package from line 38:
+
+\begin{lstlisting}[language=Python, caption=Example Python code]
+import pandas as pd
+
+# Load CSV file
+df = pd.read_csv("data.csv")
+
+# Show first rows
+print(df.head())
+\end{lstlisting}
+
+% You can change "language=Python" to R, SQL, etc.
+
+% -----------------------------------------------------------
+% 10. END DOCUMENT
+% -----------------------------------------------------------
+
+% You must start and end everything in LaTeX, including the document itself
+\end{document}
+
