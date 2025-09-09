@@ -1,4 +1,4 @@
-﻿Player,Team,POS,ATT,YDS,TDS,REC,YDS,TDS,FL,FPTS
+﻿Player,Team,POS,ATT,RUSH_YDS,RUSH_TDS,REC,REC_YDS,REC_TDS,FL,FPTS
 Saquon Barkley,PHI,RB1,327.8,1661.5,10.8,41.9,318.2,2.2,1.4,273.1
 Bijan Robinson,ATL,RB2,299.3,1401.2,11.3,56.9,428.2,2.1,1.4,260.6
 Jahmyr Gibbs,DET,RB3,239.9,1239.5,11.7,57.7,508.8,2.8,1.3,258.9
@@ -502,4 +502,5 @@ Chris Moore,WAS,WR221,0,0,0,0.5,7,0,0,0.7
 Harrison Bryant,PHI,TE125,0,0,0,0.5,5.5,0,0,0.6
 Ihmir Smith-Marsette,NYG,WR222,0,2.5,0,0.8,9.5,0.1,0.5,0.5
 Trenton Irwin,JAC,WR223,0,5,0,0,0,0,0,0.5
+
 Xavier Smith,LAR,WR224,0,2.5,0,1,11,0,0.5,0.4
