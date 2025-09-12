@@ -25,7 +25,7 @@ jobs:
         run: git status
 
       # 4. Commit and push changes (force commit if needed)
-      - name: Commit and push feed.xml
+      - name: Commit and push lectures/feed.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
