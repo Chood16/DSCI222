@@ -1,0 +1,24 @@
+name: Update Engadget Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:      # also allow manual trigger
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download Engadget RSS feed
+        run: curl -s https://www.engadget.com/rss.xml -o feed.xml
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add feed.xml
+          git commit -m "Update Engadget feed" || echo "No changes"
+          git push
