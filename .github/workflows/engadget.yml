@@ -16,9 +16,8 @@ jobs:
       # 2. Download the latest Engadget RSS feed
       - name: Download Engadget RSS feed
         run: |
-          curl -s https://www.engadget.com/rss.xml -o feed.xml
-          echo "Downloaded feed.xml:"
-          head -n 10 feed.xml   # show first 10 lines for debugging
+          curl -s https://www.engadget.com/rss.xml -o lectures/feed.xml
+          echo "Downloaded lecrtures/feed.xml:"
 
       # 3. Show Git status before committing
       - name: Git status
@@ -31,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add feed.xml
+          git add lectures/feed.xml
           # Commit even if no changes (force update)
           git commit -m "Update Engadget feed" --allow-empty
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
