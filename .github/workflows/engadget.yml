@@ -1,24 +1,35 @@
 name: Update Engadget Feed
 
+# Triggers: every hour and manual
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:      # also allow manual trigger
+    - cron: '0 * * * *'  # runs at the top of every hour (UTC)
+  workflow_dispatch:      # allows manual run
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      # 1. Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2. Download the latest Engadget RSS feed
       - name: Download Engadget RSS feed
         run: curl -s https://www.engadget.com/rss.xml -o feed.xml
 
-      - name: Commit and push changes
+      # 3. Commit and push changes if any
+      - name: Commit and push feed.xml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          # Only commit if there are changes
           git add feed.xml
-          git commit -m "Update Engadget feed" || echo "No changes"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Engadget feed"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          else
+            echo "No changes to commit"
+          fi
