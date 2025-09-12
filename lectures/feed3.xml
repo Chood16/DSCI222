@@ -6,9 +6,79 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Fri, 12 Sep 2025 18:47:14 +0000</pubDate>
+            <pubDate>Fri, 12 Sep 2025 21:26:28 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[What to expect at Meta Connect 2025: 'Hypernova' smart glasses, AI and the metaverse]]></title>
+                                        <description type="html"><![CDATA[<p>Meta Connect, the company&#39;s annual event dedicated to all things AR, VR, AI and the metaverse is just days away. And once again, it seems like it will be a big year for smart glasses and AI.</p>
+<p>This year, the event will take a slightly different format than in the past. Mark Zuckerberg is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.meta.com/connect/agenda/"><ins>scheduled</ins></a> to kick things off with an evening keynote at 5PM PT on Wednesday, September 17. A developer keynote with other executives will take place the next morning on September 18, beginning at 10AM, with more talks and developer sessions to follow.</p>
+<span id="end-legacy-contents"></span><p>It&#39;s not clear why Meta changed things up this year, but it is shaping up to be a particularly eventful year for Connect. We&#39;re expecting two new models of smart glasses, including Meta&#39;s first to have a display, as well as new Meta AI and metaverse updates. As usual, Engadget will be reporting live from Zuckerberg&#39;s keynote at Meta HQ, but until then, here&#39;s a closer look at what&#39;s coming and what to keep an eye on.</p>
+<h2 id="jump-link-new-and-updated-smart-glasses">New and updated smart glasses</h2>
+<p>The biggest news of the day will be Meta&#39;s next-generation of smart glasses. The frames, often referred to by their reported internal name &quot;<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/wearables/report-meta-could-release-its-first-true-ar-headset-as-soon-as-2027-222502610.html"><ins>Hypernova</ins></a>,&quot; will be the first consumer-ready glasses from Meta that have a display. We already know quite a bit about these thanks to more than a year of leaks.</p>
+<p>While the frames are expected to have a small display on one side, they won&#39;t offer the kind of immersive augmented reality experience we&#39;ve seen on Meta&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ar-vr/metas-orion-prototype-offers-a-glimpse-into-our-ar-future-123038066.html"><ins>Orion prototype</ins></a>. Instead the display will allow you to view things like notifications and photo previews. The glasses will also come with a dedicated wristband, similar to what the company showed off with Orion, that allows the wearer to control specific features through hand gestures.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/a9fe4c50-901a-11f0-bffa-2179f92d70c9" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/a9fe4c50-901a-11f0-bffa-2179f92d70c9" style="height:1080px;width:1920px;" alt="The EMG wristband that&#39;s part of the Orion prototype." data-uuid="5578445e-a3af-31fb-a0f8-162405934313"><figcaption>The EMG wristband that&#39;s part of the Orion prototype.</figcaption><div class="photo-credit">Karissa Bell for Engadget</div></figure>
+<p>The glasses, which may officially be called &quot;Celeste,&quot; are expected to go on sale later this year, will likely cost around $800. They could be sold with Prada branding, which would be in line with Meta&#39;s longtime EssilorLuxottica partnership, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.cnbc.com/2025/08/22/meta-hypernova-ar-glasses-wristband.html"><ins>according to</ins></a> <em>CNBC.</em> Given the much higher price tag — most of Meta&#39;s Ray-Ban-branded glasses cost around $300 — it seems Meta is positioning this as a higher-end product that will have a more limited appeal. Analyst Ming-Chi Kuo has <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://x.com/mingchikuo/status/1960513106704277658"><ins>suggested</ins></a> Hypernova will have a &quot;negligible&quot; share of the overall smart glasses market.</p>
+<p>It also sounds like we could see a new version of Meta&#39;s smart glasses without a display with an updated version of the Ray-Ban Meta smart glasses. There could be two versions for sunglasses and clear frames, according to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.uploadvr.com/renders-of-next-gen-ray-ban-meta-glasses-leak/"><ins>leaked renders</ins></a>. The new glasses are reported to have improved cameras and battery life, and support new AI capabilities.</p>
+<p>We could also see new third-party glasses integrations. As <em>UploadVR </em>recently <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.uploadvr.com/meta-connect-agenda-reveals-smart-glasses-sdk/"><ins>pointed out,</ins></a> early versions of the Connect schedule for developers seemingly confirms that Meta is getting ready to give developers access to its smart glasses. Up to now, the Ray-Ban Meta and Oakley glasses have mostly been limited to apps within Meta&#39;s ecosystem (with a few exceptions like Spotify and Audible). Allowing more developers to start experimenting with the platform could bring even more functionality to the existing lineup of glasses.</p>
+<h2 id="jump-link-meta-ai">Meta AI</h2>
+<p>As with other recent years, AI will be a major theme throughout. Meta AI has <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/meta-ai-already-has-1-billion-active-users-120023875.html"><ins>a billion</ins></a> monthly users (something Zuckerberg will surely remind us of) and I&#39;m expecting to see new features for Meta AI both on the company&#39;s glasses and within its apps. <em>Business Insider</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:9;pos:1" class="no-affiliate-link" href="https://www.businessinsider.com/meta-hires-contractors-build-ai-chatbot-characters-key-markets-2025-9"><ins>reports</ins></a> the company has been working on new lineup of non-English speaking &quot;character-driven&quot; bots for its apps. (Meta&#39;s character-centric chatbots have also faced scrutiny, with the company <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/social-media/meta-is-re-training-its-ai-so-it-wont-discuss-self-harm-or-have-romantic-conversations-with-teens-182418587.html">recently blocking</a> teens&#39; access to many user-generated characters amid growing safety concerns.)</p>
+<p>Outside of Meta&#39;s chatbots, I&#39;m hoping Zuckerberg will talk more about his vision to create &quot;superintelligence.&quot; As I wrote in July, his <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:11;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/mark-zuckerberg-shares-a-confusing-vision-for-ai-superintelligence-153944322.html"><ins>initial manifesto</ins></a> that outlined his vision was confusing at best. The CEO has recently reorganized Meta&#39;s AI teams around the idea, and has been on a very expensive <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:12;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/meta-invests-148-billion-in-scale-ai-and-recruits-its-ceo-130029612.html"><ins>hiring spree</ins></a> to recruit executives and researchers for the effort.</p>
+<p>At the same time, Zuckerberg could use Connect to shore up expectations around its Llama models. The company&#39;s larger Llama 4 model has <a data-i13n="cpos:13;pos:1" href="https://www.engadget.com/ai/metas-behemoth-llama-4-model-might-still-be-months-away-221240585.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAK8jOG6ZjW9Df42BRFk1UksqV40HVE8Q0wTbOH5IZuP59ZiagOZy1iL3UxuJIEu2MfuOi8q-jZs_dNIKmHAs4qdPGtWziwt_PzQMluCqRQfu_ogi2IkikiavMMFYoH6ITEl6V-WNJ7QEcT1zAs49Sv0IJakYQTh3G8DM-5A36fuc"><ins>been delayed</ins></a> and reports suggest Meta&#39;s engineers have been struggling to improve it. There are other signs that Zuckerberg may be <a data-i13n="cpos:14;pos:1" href="https://www.engadget.com/ai/is-mark-zuckerberg-flip-flopping-on-open-source-ai-231310567.html"><ins>backing away</ins></a> from open-source AI.</p>
+<h2 id="jump-link-what-about-the-metaverse">What about the metaverse?</h2>
+<p>While the metaverse has taken somewhat of a backseat to AI in recent years, it wouldn&#39;t be Connect without some VR-related news. In a recent Instagram post, Meta CTO Andrew Bosworth teased &quot;metaverse software&quot; updates related to Horizon Worlds at Connect. The company recently offered <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:15;pos:1" class="no-affiliate-link" href="https://www.engadget.com/social-media/meta-is-bringing-ai-powered-npcs-to-the-metaverse-231605236.html"><ins>a preview</ins></a> to developers of its plan to bring AI-powered NPCs to the metaverse, and I expect we&#39;ll hear more about how generative AI could help shape the metaverse.</p>
+<p>And while there are no new Quest headsets expected, we could hear more about those third-party VR headsets that will run Meta&#39;s VR software. Last year, the company announced that <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:16;pos:1" class="no-affiliate-link" href="https://www.engadget.com/meta-opens-quest-os-to-third-parties-including-asus-and-lenovo-163127396.html"><ins>ASUS, Lenovo and Xbox</ins></a> were working on Meta Horizon OS headsets. We haven&#39;t heard too much about these devices since, but there was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:17;pos:1" class="no-affiliate-link" href="https://x.com/Lunayian/status/1878470166360580199"><ins>a leak earlier</ins></a> this year that suggested ASUS would be the first to launch, and that it would include face and eye tracking features.</p>
+<div id="269f1b00ffef4fafb3f5260230afab35"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: Details on the upcoming ASUS ROG VR headset running Meta Horizon OS.<br><br>It is codenamed Tarius, and will likely be one of the first 3P Horizon OS HMDs to ship.<br><br>It is planned to include Eye Tracking and Face Tracking. The displays will be QD-LCD with local dimming or µOLED. <a href="https://t.co/K5pYxcBK4h">pic.twitter.com/K5pYxcBK4h</a></p>— Luna (@Lunayian) <a href="https://twitter.com/Lunayian/status/1878470166360580199?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote>
+ 
+
+</div>
+<p>Another intriguing possibility is an update on Meta&#39;s holographic Codec avatars we got <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:18;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ar-vr/metas-orion-holographic-avatars-will-eventually-be-in-vr-too-235206805.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAK8jOG6ZjW9Df42BRFk1UksqV40HVE8Q0wTbOH5IZuP59ZiagOZy1iL3UxuJIEu2MfuOi8q-jZs_dNIKmHAs4qdPGtWziwt_PzQMluCqRQfu_ogi2IkikiavMMFYoH6ITEl6V-WNJ7QEcT1zAs49Sv0IJakYQTh3G8DM-5A36fuc"><ins>a glimpse</ins></a> of last year. While Meta&#39;s current lineup of VR headsets don&#39;t have the necessary face and eye-tracking sensors to support the tech, <em>UploadVR</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:19;pos:1" class="no-affiliate-link" href="https://www.uploadvr.com/meta-cto-teases-what-to-expect-at-connect-2025/"><ins>suggests</ins></a> Meta could show off a more &quot;rudimentary&quot; version of the avatars that could run on the Quest 3 or even work in conjunction with video calls on WhatsApp and Messenger.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/what-to-expect-at-meta-connect-2025-hypernova-smart-glasses-ai-and-the-metaverse-212628436.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/social-media/what-to-expect-at-meta-connect-2025-hypernova-smart-glasses-ai-and-the-metaverse-212628436.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">0f481904-ddad-4963-a173-5ebbdbea3bab</guid>
+                                                                                        <dc:creator><![CDATA[Karissa Bell]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Fri, 12 Sep 2025 21:26:28 +0000</pubDate>
+                    <ingested>1757712397</ingested>
+                    <modified>2025-09-12T21:26:43+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Karissa Bell]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-01%2F4138aef0-deb7-11ef-bf7f-683fb38e99a0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d19b5c4dd59b9b7e667cb2e00c398e65a99c2179" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-01%2F4138aef0-deb7-11ef-bf7f-683fb38e99a0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=428d2c4298b4a6eb7895e6ce34b4c5b81661d57b" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[FILE - Mark Zuckerberg talks about the Orion AR glasses during the Meta Connect conference on Sept. 25, 2024, in Menlo Park, Calif. (AP Photo/Godofredo A. Vásquez, File)]]></media:description>
+                                <media:title><![CDATA[Earns Meta]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Instagram fixed an issue that caused posting multiple Stories to tank your reach]]></title>
                                         <description type="html"><![CDATA[<p>Instagram fixed a bug that caused the reach of some users&#39; Stories to shrink when they posted more than one Story a day, Instagram head Adam Mosseri <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.instagram.com/reel/DOgMqw_Dp4j/?utm_source=ig_web_copy_link">shared on Friday</a>. The fix addresses a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.threads.com/@brndnslvra/post/DBwfKjYRBsg?xmt=AQF0I3ZlfyVtsKcCEZYk1HCzdPbjYx7HiyL5UvgrWbwEuA">common complaint</a> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.threads.com/@jeffrauseo/post/DOTNUDrgOE4?xmt=AQF0yn9CFNId1U-1FnapJxibUSsUNRtQDzxpTilNoDVBfA">shared by creators</a> in the last year that they were disincentivized to use Stories because of how regularly using the feature impacted the number of people who actually saw their posts.</p>
 <p>&quot;People were complaining about getting less reach with their Stories if they posted lots of Stories in the same day,&quot; Mosseri said in a video announcing the change. &quot;That is not at all the intended behavior of Instagram.&quot; Fixing the bug doesn&#39;t mean every Story you add will be watched, but Mosseri says posting multiple Stories a day won&#39;t negatively impact the reach of your Stories overall, especially your first Story.</p>
@@ -3427,60 +3497,6 @@
                                 <media:credit><![CDATA[REUTERS / Reuters]]></media:credit>
                                 <media:description><![CDATA[CEO and President of Warner Bros. Discovery David Zaslav attends the red carpet for the world premiere of the film "One Battle After Another" in the Hollywood neighborhood of Los Angeles, California, U.S., September 8, 2025.  REUTERS/Mike Blake]]></media:description>
                                 <media:title><![CDATA[Premiere of "One Battle After Another" in Los Angeles]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The PS Plus Game Catalog additions include Persona 5 Tactica and WWE 2K25]]></title>
-                                        <description type="html"><![CDATA[<p>On Wednesday, Sony rolled out its September Game Catalog additions for PS Plus subscribers. This month&#39;s entries run the gamut from turn-based tactics to survival horror and pro wrestling.</p>
-<p><em>Persona 5 Tactica</em> (PS5/ PS4) may be the most critically acclaimed title in the batch. The 2023 Persona spinoff takes the mainline games&#39; battles and shifts them into grid-based tactics. Think <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/xcom-chimera-squad-steam-pc-release-date-announcement-140116943.html">XCOM</a> with Phantom Thieves.</p>
-<span id="end-legacy-contents"></span><p><em>The Invincible</em> (PS5) is an adaptation of the 1963 sci-fi <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://en.wikipedia.org/wiki/The_Invincible">novel</a> by Stanisław Lem. As its inspiration may suggest, this isn&#39;t an action-heavy combat-fest. Instead, the narrative adventure invites you to explore the planet Regis III, searching for lost crew members. Your decisions will shape the story, so tread carefully.</p>
-<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/29819fb0-8e89-11f0-99fd-c6787a1fff18" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/29819fb0-8e89-11f0-99fd-c6787a1fff18" style="height:900px;width:1600px;" alt="The Rock walking in the video game WWE 2K25." data-uuid="4ce49c2a-5e93-32e4-93cc-b7ee89d1e470"><figcaption></figcaption><div class="photo-credit">2K / Sony</div></figure>
-<p>If exploring lost worlds as an astrobiologist isn&#39;t your thing, then maybe pile drivers and elbow drops are. (No judgment!) <em>WWE 2K25</em> (PS5 / PS4) is also on this month&#39;s list, letting you step into the ring as a steroid-infused behemoth. You can take satisfaction in knowing your video game match&#39;s outcomes are less pre-determined than the scripted matches you see on TV.</p>
-<p>Other games in this month&#39;s entries include the action RPG title <em>Fate / Samurai Remnant</em>, the s<a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/crow-country-is-a-darkly-meditative-callback-to-survival-horrors-past-130041405.html">urvival horror game <em>Crow Country</em></a> and the first-person survival sim <em>Green Hell.</em> You can check out the PlayStation Blog&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://blog.playstation.com/2025/09/10/playstation-plus-game-catalog-for-september-wwe-2k25-persona-5-tactica-green-hell-fate-samurai-remnant-and-more/">announcement</a> for all the details.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/the-ps-plus-game-catalog-additions-include-persona-5-tactica-and-wwe-2k25-211006881.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/playstation/the-ps-plus-game-catalog-additions-include-persona-5-tactica-and-wwe-2k25-211006881.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">32713ba4-be7a-4485-99a0-1044d1c628af</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 10 Sep 2025 21:10:06 +0000</pubDate>
-                    <ingested>1757538623</ingested>
-                    <modified>2025-09-10T21:10:25+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F402ec9f0-8e88-11f0-b57e-a9a1c8c511a9&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=2c51f9d441a206647a4af197c06fd1933a310b48" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F402ec9f0-8e88-11f0-b57e-a9a1c8c511a9&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=9d78e97f4d4236932dddeceb610b4e1eef5e687e" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[P Studio / Sony]]></media:credit>
-                                <media:description><![CDATA[Video game characters, preparing for battle.]]></media:description>
-                                <media:title><![CDATA[Persona 5 Tactica]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
