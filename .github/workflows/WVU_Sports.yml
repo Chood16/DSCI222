@@ -22,7 +22,8 @@ jobs: # A job is a list of steps run on a specific environment
         run: | # git tracks changes in a repo user.name and .email identify who commits the changes. 
           git config user.name "github-actions" 
           git config user.email "github-actions@github.com"
-          git add lectures/wvu_sports.xml # add stages the location where the commit will occur
-          git commit --allow-empty -m "Update WVU Sports Feed"
-          # git diff --cached --quiet || git commit -m "Update WVU Sports Feed" 
+          git add lectures/wvu_sports.xml       # add stages the location where the commit will occur
+          git commit --allow-empty -m "Update WVU Sports Feed"   # commits 
+          # Authenticate using this token and push my local commits to this repo on GitHub.
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          
