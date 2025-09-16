@@ -6,9 +6,97 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 07 Nov 2024 10:00:41 +0000</pubDate>
+            <pubDate>Tue, 16 Apr 2024 12:00:36 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[The best budgeting apps for 2025]]></title>
+                                        <description type="html"><![CDATA[<p>As a former Mint user, I had to find a new budgeting app not too long ago. Intuit, parent company of Mint, shut down the service in March 2024, and prompted users to transition to its other financial app, Credit Karma. However, after testing Credit Karma myself, I found it to be a poor Mint replacement — that meant I needed to branch out and look elsewhere for a trusted app to track all of my financial accounts, monitor my credit score, follow a monthly spending plan and set goals like building a rainy-day fund and paying down my mortgage faster. I tried out <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/apps/the-best-budgeting-apps-to-replace-mint-143047346.html">Mint's top competitors</a> in the hopes that I'd be able to find a new budgeting app that could handle all of my financial needs. Hopefully my journey can help you find the best budgeting app for you and your money as well.</p> 
+<h2 id="jump-link-best-budget-apps-of-2025">Best budget apps of 2025</h2> 
+<p> <core-commerce id="bb20dc45b8324009aa9cd29e1a2a1e55" data-type="product-list" data-original-url="https://www.quicken.com/products/simplifi/"></core-commerce></p> 
+<p> <core-commerce id="9f80c5fd1fd4460fae9fdf2cf5fbbe33" data-type="product-list" data-original-url="https://www.monarchmoney.com/"></core-commerce></p> 
+<p> <core-commerce id="39236874c65c492bb3682eddbfa1c0a2" data-type="product-list" data-original-url="https://www.nerdwallet.com/"></core-commerce></p> 
+<p> <core-commerce id="cb581f0fec1b41feafe2ea7de4181289" data-type="product-list" data-original-url="https://copilot.money/"></core-commerce></p> 
+<p> <core-commerce id="827b3d1854364b8fbd1c17dbca4adf40" data-type="product-list" data-original-url="https://www.ynab.com/"></core-commerce></p> 
+<h2 id="jump-link-other-budgeting-apps-we-tested">Other budgeting apps we tested</h2> 
+<h3 id="jump-link-pocketguard">PocketGuard</h3> 
+<p><a data-i13n="cpos:2;pos:1" href="https://pocketguard.com/">PocketGuard</a> used to be a solid free budget tracker, but the company has since limited its “free” version to just a free seven-day trial. Now, you’ll have to choose between two plans once the trial is over: a $13 monthly plan or a $75 annual plan. When I first tested it, I found it to be more restricted than NerdWallet, but still a decent option. The main overview screen shows you your net worth, total assets and debts; net income and total spending for the month; upcoming bills; a handy reminder of when your next paycheck lands; any debt payoff plan you have; and any goals. Like some other apps, including Quicken Simplifi, PocketGuard promotes an “after bills” approach, where you enter all of your recurring bills, and then PocketGuard shows you what’s left, and <em>that’s </em>what you’re supposed to be budgeting: your disposable income.</p> <span id="end-legacy-contents"></span> 
+<p>Although PocketGuard’s UI is easy enough to understand, it lacks polish. The “accounts” tab is a little busy, and doesn’t show totals for categories like cash or investments. Seemingly small details like weirdly phrased or punctuated copy occasionally make the app feel janky. More than once, it prompted me to update the app when no updates were available. The web version, meanwhile, feels like the mobile app blown up to a larger format and doesn’t take advantage of the extra screen real estate. Ultimately, now that the free tier is gone, it just doesn’t present the same value proposition as it once did.</p> 
+<h2 id="jump-link-how-we-test-budgeting-apps">How we test budgeting apps</h2> 
+<p>Before I dove in and started testing out budgeting apps, I had to do some research. To find a list of apps to try out, I consulted trusty ol’ Google (and even trustier Reddit); read reviews of popular apps on the App Store; and also asked friends and colleagues what budget tracking apps (or other budgeting methods) they might be using for money management. Some of the apps I found were free and these, of course, show loads of ads (excuse me, “offers”) to stay in business. But most of the available apps require paid subscriptions, with prices typically topping out around $100 a year, or $15 a month. (Spoiler: My top pick is cheaper than that.)</p> 
+<p>All of the services I chose to test needed to do several things: import all of your account data into one place; offer budgeting tools; and track your spending, net worth and credit score. Except where noted, all of these apps are available for iOS, Android and on the web.</p> 
+<p>Once I had my shortlist of six apps, I got to work setting them up. For the sake of thoroughly testing these apps, I made a point of adding every account to every budgeting app, no matter how small or immaterial the balance. What ensued was a veritable <em>Groundhog Day</em> of two-factor authentication. Just hours of entering passwords and one-time passcodes, for the same banks half a dozen times over. Hopefully, you only have to do this once.</p> 
+<h2 id="jump-link-budgeting-app-faqs">Budgeting app FAQs</h2> 
+<h3 id="jump-link-what-is-plaid-and-how-does-it-work">What is Plaid and how does it work?</h3> 
+<p>Each of the apps I tested uses the same underlying network, called Plaid, to pull in financial data, so it’s worth explaining what it is and how it works. Plaid was founded as a fintech startup in 2013 and is today the industry standard in connecting banks with third-party apps. Plaid works with over 12,000 financial institutions across the US, Canada and Europe. Additionally, more than 8,000 third-party apps and services rely on Plaid, <a data-i13n="cpos:3;pos:1" href="https://plaid.com/company/">the company claims</a>.</p> 
+<p>To be clear, you don’t need a dedicated Plaid app to use it; the technology is baked into a wide array of apps, including all of the budgeting apps listed in this guide. Once you find the “add an account” option in whichever one you’re using, you’ll see a menu of commonly used banks. There’s also a search field you can use to look yours up directly. Once you find yours, you’ll be prompted to enter your login credentials. If you have two-factor authentication set up, you’ll need to enter a one-time passcode as well.</p> 
+<p>As the middleman, Plaid is a passthrough for information that may include your account balances, transaction history, account type and routing or account number. Plaid uses encryption, and says it has a policy of not selling or renting customer data to other companies. However, I would not be doing my job if I didn’t note that in 2022 <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/plaid-must-pay-58-million-to-users-of-venmo-robinhood-and-other-apps-085908511.html">Plaid was forced to pay $58 million to consumers in a class action suit</a> for collecting “more financial data than was needed.” As part of the settlement, Plaid was compelled to change some of its business practices.</p> 
+<p>In a statement provided to Engadget, a Plaid spokesperson said the company continues to deny the allegations underpinning the lawsuit and that “the crux of the non-financial terms in the settlement are focused on us accelerating workstreams already underway related to giving people more transparency into Plaid’s role in connecting their accounts, and ensuring that our workstreams around data minimization remain on track.”</p> 
+<h3 id="jump-link-why-did-mint-shut-down">Why did Mint shut down?</h3> 
+<p>When parent company Intuit <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/intuit-is-closing-down-mint-its-popular-free-budget-tracking-app-054145229.html">announced</a> in December 2023 that it would shut down Mint, it did not provide a reason why it made the decision to do so. It did say that Mint's millions of users would be funneled over to its other finance app, Credit Karma. "Credit Karma is thrilled to invite all Minters to continue their financial journey on Credit Karma, where they will have access to Credit Karma’s suite of features, products, tools and services, including some of Mint’s most popular features," Mint wrote on its <a data-i13n="cpos:6;pos:1" href="https://mint.intuit.com/blog/mint-app-news/intuit-credit-karma-welcomes-minters/">product blog</a>. In our testing, we found that Credit Karma isn't an exact replacement for Mint — so if you're still looking for a <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/the-best-budgeting-apps-to-replace-mint-143047346.html">Mint alternative</a>, you have some decent options.</p> 
+<h3 id="jump-link-what-about-rocket-money">What about Rocket Money?</h3> 
+<p><a data-i13n="elm:affiliate_link;sellerN:Rocket Money;elmt:;cpos:8;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=432ed0d5-bf16-421f-b374-3c8c274ca4b9&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1bf1c17b-7ece-4b18-b17b-dc7b5e70f411&amp;featureId=text-link&amp;merchantName=Rocket+Money&amp;linkText=Rocket+Money&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5yb2NrZXRtb25leS5jb20vIiwiY29udGVudFV1aWQiOiIxYmYxYzE3Yi03ZWNlLTRiMTgtYjE3Yi1kYzdiNWU3MGY0MTEiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnJvY2tldG1vbmV5LmNvbS8ifQ&amp;signature=AQAAAeyodTOVgL4K8obQWCI4t6Y1fXcyzKzl35UCbEnr-1YG&amp;gcReferrer=https%3A%2F%2Fwww.rocketmoney.com%2F" class="rapid-with-clickid" data-original-link="https://www.rocketmoney.com/">Rocket Money</a> is another free financial app that tracks spending and supports things like balance alerts and account linking. If you pay for the premium tier, the service can also help you cancel unwanted subscriptions. We did not test it for this guide, but we'll consider it in future updates.</p>This article originally appeared on Engadget at https://www.engadget.com/apps/best-budgeting-apps-120036303.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/best-budgeting-apps-120036303.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">1bf1c17b-7ece-4b18-b17b-dc7b5e70f411</guid>
+                                                                                        <dc:creator><![CDATA[Dana Wollman,Valentina Palladino]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 16 Sep 2025 09:00:35 +0000</pubDate>
+                    <ingested>1758013246</ingested>
+                    <modified>2025-09-16T09:00:53+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Mobile Apps]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Personal Budgeting]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Banking & Budgeting]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Finance]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Dana Wollman]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fc68868f0-b7ef-11ef-ba7f-d3c50de0f3d8&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c86b67a591e4cc8b4a9cf5947d2783382f11c2c7" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-12%2Fc68868f0-b7ef-11ef-ba7f-d3c50de0f3d8&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=633b1392d47db96c05c170a6f19bf91cea3bdcee" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Quicken / Engadget]]></media:credit>
+                                <media:description><![CDATA[The best budgeting apps]]></media:description>
+                                <media:title><![CDATA[The best budgeting apps]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best AirPods for 2025]]></title>
                                         <description type="html"><![CDATA[<p>Whether you're all-in on the Apple ecosystem or just want a reliable pair of wireless earbuds, the best AirPods can deliver great sound, seamless pairing and smart features that are hard to beat. Over the years, Apple has expanded its AirPods lineup to suit a variety of users — from the minimalist appeal of the standard models to the premium experience of the AirPods Pro and AirPods Max with plush ear cups and active noise cancellation.<br><br>With rumors of new AirPods on the horizon and the 2nd generation AirPods Pro still going strong, now’s a great time to figure out which model suits you best. Some offer snug silicone tips for better isolation, while others prioritize comfort and simplicity. All of them work effortlessly across your Apple devices, whether you're switching from iPhone to iPad or taking a video call on your laptop.</p> 
 <h2 id="jump-link-table-of-contents">Table of contents</h2> 
@@ -3463,55 +3551,6 @@
                                 <media:credit><![CDATA[Square Enix]]></media:credit>
                                 <media:description><![CDATA[A shot from remake.]]></media:description>
                                 <media:title><![CDATA[FF 7]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The iPhone 17 square selfie camera is a bigger deal than you think]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">A square camera sensor may sound like one of those things only nerds would appreciate, but as part of the </span><a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/the-iphone-17s-new-selfie-camera-lets-you-take-group-shots-without-rotating-your-phone-195345475.html">new front-facing 18-megapixel &quot;Center Stage&quot; camera</a> <span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">on the iPhone 17 lineup, it could have massive implications for Apple&#39;s users. They&#39;ll no longer need to turn their phones to take a landscape selfie, especially if they need to fit a large group of people, as that&#39;s all handled automatically by Center Stage. It&#39;s the sort of &quot;Why didn&#39;t I think of that?&quot; feature that other phone makers will likely copy, simply because it&#39;s immensely practical. Those square camera sensors could help make Apple a selfie pioneer, once again.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">We&#39;ve come a long way from when the iPhone 4 and HTC Evo 4G introduced the idea of modern front-facing cameras in 2010. Earlier cellphones in Japan and Europe had low quality selfie cameras, and you could argue that the Game Boy Camera also toyed with the idea when it arrived in 1998. But in 2010, we finally had powerful phones on relatively speedy mobile connections that could easily share photos and let users hop on video chats on a whim. (It still stings that it took Apple two more years to release the LTE-capable iPhone 5, which made FaceTime much more useful.)</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/iphone-air-island2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/iphone-air-island2.jpg" style="height:2000px;width:3333px;" alt="iPhone Air selfie camera" data-uuid="28b70967-cd9d-4f7f-95f3-5ed40acc97b8"><figcaption>iPhone Air selfie camera</figcaption><div class="photo-credit">Sam Rutherford for Engadget</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">During the iPhone 17 launch event, Apple revealed that its customers took 500 billion selfies last year, a massive figure that shows just how normalized the practice has become. Selfies were often mocked when they were deemed the purview of Instagram-obsessed teenage girls, but these days it&#39;s not unusual to see everyone from seniors to a gaggle of sports bros gathering around a single phone like an object of worship. And, on a personal note, they&#39;re really the only way to get decent photos of your entire family, especially when you&#39;re juggling two rambunctious young kids.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">We take photos to preserve memories, but selfies feel distinctive for their intimacy. You&#39;re not just capturing where you were, but you&#39;re also documenting yourself in the moment, along with the people around you. By making it easier to take selfies, it follows that you&#39;ll start to take even more of them, ultimately tying yourself into Apple&#39;s ecosystem even further. That leads to needing an iPhone with more storage and potentially more iCloud backup space down the line. You&#39;re also not going to jump over to an Android phone if you have to turn your phone sideways for a landscape selfie, or if you lose access to all of the cherished memories in your Apple Photos library.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The square camera sensor keeps you loyal.&nbsp;</span></p><div><iframe src="https://www.youtube.com/embed/PIY7LZ7rFbs?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no"></iframe></div><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">It&#39;ll also change the way iPhone users take front-facing videos. Center Stage automatically keeps you in the center of FaceTime calls, so you don&#39;t have to worry so much about framing yourself up. And while I haven&#39;t seen this particular feature in action, it should also help alleviate the headache of turning your phone during a FaceTime call to match the recipient&#39;s device. (Or maybe I&#39;m just tired of telling my parents to flip their phones when their FaceTime chats have huge black borders.)</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">This may be a stretch, but I could see the Center Stage front camera making it more common to record video with your front and rear cameras at the same time. While it’s new to iPhone as “Dual Capture,” we’ve seen variants of it from Samsung and </span><a target="_blank" class="link" href="https://www.engadget.com/2017-08-16-nokia-8-hands-on.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAALr96R_xtfTOqLN4T-q0BnicMn6xlyv7nnfj3_svHK8dUOTtSU8pblckDwVzBA4F7_s7amLAqCbaVv-ZsGDBExxRf_n1vdWcKb8XswepJuiUKYR0xNQxK1hBrOsE3JKB4hcTnLkaismGyG2zFl_ZdB-KE2wg9NgYIaNSMhDOddaV"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Nokia (remember #bothie?)</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> Android devices, but they’ve never really taken off. TikTok’s dual-camera live streaming mode has been more successful, and there are also vlogging apps like MixCam built around dual recording.&nbsp;With Dual Capture on iPhone 17, Center Stage’s ability to keep you in the middle of the action with the front camera should let you focus more on getting the best shot with the rear lenses.</span></p><p style="text-align:left;">While I’d love to see Apple cram more pixels into the 18MP Center Stage camera, moving to a square sensor will honestly be more impactful for all of the reasons above. It’s easy to throw in a higher resolution sensor, it’s tougher to fundamentally rethink how you can improve upon something as simple as taking a selfie.</p><div><iframe src="https://www.youtube.com/embed/eYbH5_QP8ng?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no"></iframe></div><p style="text-align:left;"><br></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/the-iphone-17-square-selfie-camera-is-a-bigger-deal-than-you-think-151517041.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/mobile/smartphones/the-iphone-17-square-selfie-camera-is-a-bigger-deal-than-you-think-151517041.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">64690263-0e6f-478d-b343-12870e6fb62b</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Fri, 12 Sep 2025 15:15:17 +0000</pubDate>
-                    <ingested>1757694892</ingested>
-                    <modified>2025-09-12T16:34:56+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fipbone-air-center-stage2.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=141bc51c85a69f32ab342b6534310a892b74e3ae" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fipbone-air-center-stage2.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=141bc51c85a69f32ab342b6534310a892b74e3ae" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Sam Rutherford for Engadget]]></media:credit>
-                                <media:description><![CDATA[iPhone Air]]></media:description>
-                                <media:title><![CDATA[iPhone Air]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
