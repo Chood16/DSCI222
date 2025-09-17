@@ -6,9 +6,230 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 17 Sep 2025 17:05:05 +0000</pubDate>
+            <pubDate>Wed, 17 Sep 2025 18:10:16 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google will upgrade its revenge porn defenses with help from a UK nonprofit]]></title>
+                                        <description type="html"><![CDATA[<p>Google is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://blog.google/products/search/stopncii-program-partnership/">partnering</a> with a UK nonprofit to fight non-consensual intimate imagery (NCII). (You may know it better as <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cybersecurity/us-congress-passes-take-it-down-revenge-porn-bill-that-also-covers-ai-deepfakes-120047880.html">revenge porn</a>.) Over the coming months, the company will begin using StopNCII&#39;s hashes. These user-uploaded digital fingerprints can block individuals&#39; unwanted intimate content from appearing in search results.</p>
+<p>StopNCII has a pretty neat <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://stopncii.org/how-it-works/">system</a> to combat revenge porn. Say you have some images you most definitely don&#39;t want surfacing online. Select the picture on your device, and StopNCII will create a digital fingerprint of the file. That hash will be uploaded to the service. <em>The photo itself never leaves your device.</em> The organization then shares the hash (again, not the spicy pic) with participating platforms.</p>
+<span id="end-legacy-contents"></span><p>Then, if an asshole ex takes the liberty of uploading said photo to one of those companies&#39; services, it should be removed automatically. If the platform uses <em>real-time</em> hash matching, it can even block the upload immediately before it reaches anyone&#39;s eyes. It&#39;s a pretty solid defense against an ugly problem.</p>
+<p>The system isn&#39;t bulletproof. First, it only works for known images. So, if someone else has an intimate photo that you don&#39;t have a copy of, you&#39;ll have to fight that using other means. StopNCII doesn&#39;t work for AI-generated images, audio recordings or saucy text chats.</p>
+<p>The system also won&#39;t help if the content is uploaded to a non-partner platform. In addition to Google, StopNCII <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://stopncii.org/partners/industry-partners/?lang=en-gb">partners</a> with Meta, Reddit, Pornhub, OnlyFans, Snap, Microsoft Bing, X and more.</p>
+<p>This is far from Google&#39;s first move to combat NCII. A decade ago, it created a system for <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/2015-06-19-google-filtering-revenge-porn-by-request.html">submitting revenge porn takedown requests</a>. In 2024, it <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/google-makes-it-easier-to-remove-explicit-deepfakes-from-its-search-results-130058499.html">made it easier to remove deepfake NCII</a>. On Wednesday, Google product manager Griffin Hunt explained that &quot;given the scale of the open web, there&#39;s more to be done to reduce the burden on those who are affected by it.&quot;</p>
+<p>If you&#39;re 18 or older and have any photos of yourself that you want to flag proactively, you can start using StopNCII right now. Head to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://stopncii.org/create-your-case/">the org&#39;s website to create a case</a>. Note that the service only works for pictures that are nude, semi-nude or show a sexual act. And remember, <em>the photo itself never leaves your device</em>, so your privacy remains intact.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-will-upgrade-its-revenge-porn-defenses-with-help-from-a-uk-nonprofit-181016291.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/google-will-upgrade-its-revenge-porn-defenses-with-help-from-a-uk-nonprofit-181016291.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">46c3cae1-a750-4be5-9853-3a9187360c69</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 17 Sep 2025 18:10:16 +0000</pubDate>
+                    <ingested>1758133088</ingested>
+                    <modified>2025-09-17T18:18:13+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F7b59af20-93ee-11f0-ad16-3221a1a4f4ef&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=3b071fb73716c41576c3aecc9a600d6d75fc7b61" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F7b59af20-93ee-11f0-ad16-3221a1a4f4ef&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=e453eef19d5adffb0ed260388453888211c96c01" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Irish artist Emmalene Blake working on her latest mural, located in Dublin's city center. 
+The artist's latest work is related to the legislation outlawing so-called 'revenge porn', which is sexual abuse based on images, and which is still not a crime in Ireland.
+On Tuesday, Justice Minister Helen McEntee obtained government approval to pass laws banning the sharing of personal photos with the intent to cause harm, and now she hopes the bill will be passed by the end of the year.
+On Thursday, November 26, 2020, in Dublin, Ireland. (Photo by Artur Widak/NurPhoto via Getty Images)]]></media:description>
+                                <media:title><![CDATA[Ireland Set To Make Revenge Porn Illegal]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Logitech adds new devices to its gaming accessories lineup]]></title>
+                                        <description type="html"><![CDATA[<p>Logitech hosted its annual G Play showcase today and unveiled a collection of new gaming peripherals. The lineup includes headsets, mice and a keyboard.</p>
+<p>The G Pro X Superlight 2c is an even more compact redesign of the company&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/the-logitech-g-pro-x-superlight-2-improves-an-already-great-gaming-mouse-070133238.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAALFBPBtjmoaS99ZExAbN_HmZcxmukwANr6W38hlybp6NSZFNcNRxJKqhraxoh2yx02IPZ3SFI79STeg5n_WfkMRQ5N0PS63zanI0eiO1NQKxdJgu1T5CW6ta02UKMRUOvjcP2oqslV69QmWP6LelsSbV8ZSUaXXlLFEIFyDnSTYQ">Superlight 2</a> wireless mouse. This version weighs 51 grams and has up to 95 hours of battery life. It will be available on October 21 and will cost $160. Logitech&#39;s other new gaming mouse is the G Pro X Superstrike, which boasts a haptics system in its main click buttons, allowing players to customize their actuation points. It also has battery life of up to 90 hours and weighs 65 grams. There&#39;s no pricing information yet, and the release window is broadly set for the first quarter of 2026.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/8ff45ae0-932e-11f0-9fe9-03c1d82649e0" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/8ff45ae0-932e-11f0-9fe9-03c1d82649e0" style="height:8736px;width:11648px;" alt="Logitech Astro A20 X headset lifestyle shot " data-uuid="9e5ffcaa-43c9-3560-bb49-eb1482a37d88"><figcaption></figcaption><div class="photo-credit">Logitech</div></figure>
+<p>The company also announced a pair of headsets. The Astro A20 X is a mid-range model with the handy feature of being able to connect to two consoles or PCs at once. It has 40 mm PRO-G Audio Drivers, and RGB settings. Battery life is up to 40 hours with the RGB equipped or up to 90 hours without. The A20 X comes with the same microphone as Logitech&#39;s Astro A50 X model, which is one of <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/audio/headphones/best-gaming-headset-130006477.html">our favorite gaming headsets</a>. The A20 X will cost $180 and will be available on October 8. The other new headset is the G321 Lightspeed, a budget option at $60. This set has just 20 hours of battery life and emphasizes wearability in the design. It will be available starting sometime in October.</p>
+<p>The rest of the G Play lineup includes the G515 Rapid TKL keyboard, which has a low profile and magnetic analog switches. That&#39;s available today for $170. Logitech also added new RS50 and RS pedals for driving games. On the software side, the company has also added a game launcher to its G Hub portal. It supports Epic Game Store, GOG and WeGame libraries. The G Hub Games update will roll out during the holiday season.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/logitech-adds-new-devices-to-its-gaming-accessories-lineup-180138486.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/computing/accessories/logitech-adds-new-devices-to-its-gaming-accessories-lineup-180138486.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">e29c0c3e-cb94-44c1-878a-94ae3a6f6027</guid>
+                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 17 Sep 2025 18:01:38 +0000</pubDate>
+                    <ingested>1758050768</ingested>
+                    <modified>2025-09-16T19:26:11+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Anna Washenko]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F2faa1620-932e-11f0-bff7-4b4a1a398714&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=123c38637a7b6256949c8d37461aee3340260a13" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F2faa1620-932e-11f0-bff7-4b4a1a398714&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a8ad2223ba4404259481ddfd796132c90e86188f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Logitech]]></media:credit>
+                                <media:description><![CDATA[G Pro X Superlight 2c mouse in magenta]]></media:description>
+                                <media:title><![CDATA[Logitech Superlight mouse]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[A MacBook Pro touchscreen? About damn time]]></title>
+                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">It&#39;s somewhat ironic that Apple, the company that popularized the use of capacitive touchscreens with the iPhone and iPad, has been staunchly opposed to bringing our fingers anywhere near MacBook screens. Meanwhile, Microsoft and PC makers jumped at the opportunity to build touchscreen laptops years ago. The </span><a target="_blank" class="link" href="https://www.engadget.com/2012-10-30-windows-8-review.html">tablet-focused Windows 8</a> <span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">was a failure, sure, but touchscreens led to excellent convertible notebooks and hybrid tablets like the Surface lineup. Now, according to a new rumor from longtime Apple analyst Ming-Chi Kuo, Apple might finally be ready to bring touchscreens to the MacBook Pro.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">In </span><a target="_blank" class="link" href="https://x.com/mingchikuo/status/1968249865940709538"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">a tweet posted this morning</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">, Kuo wrote, &quot;</span><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">MacBook models will feature a touch panel for the first time, further blurring the line with the iPad. This shift appears to reflect Apple’s long-term observation of iPad user behavior, indicating that in certain scenarios, touch controls can enhance both productivity and the overall user experience.&quot;</span></p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">MacBook models will feature a touch panel for the first time, further blurring the line with the iPad. This shift appears to reflect Apple’s long-term observation of iPad user behavior, indicating that in certain scenarios, touch controls can enhance both productivity and the…</p>— 郭明錤 (Ming-Chi Kuo) (@mingchikuo) <a href="https://twitter.com/mingchikuo/status/1968249865940709538?ref_src=twsrc%5Etfw">September 17, 2025</a></blockquote> </div><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">Specifically, Kuo says that touchscreen MacBook Pro models are &quot;expected to enter mass production by late 2026,&quot; and that they&#39;ll use on-cell touch technology. Cheaper MacBooks (likely the Air) coming in late 2025 likely won&#39;t have touchscreens, but that could change with a 2027 refresh.</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">It’s worth pointing out that Kuo’s predictions, which typically come from sources within Apple’s supply chain, aren’t always accurate. But given the timing of this particular note, and the ubiquity of touchscreen laptops these days, it’s the idea of a touchscreen MacBook isn’t too farfetched.</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">Apple is a stubborn company, no doubt — especially when it comes to adopting features from others. When referring to iPad competitors in 2010, Steve Jobs famously said, &quot;If you see a stylus, they blew it.&quot; While he was referring to using a stylus for general operation of a device, and not a highly specific use-case, it was still funny to see </span><a target="_blank" class="link" href="https://www.engadget.com/2015-09-10-apple-ipad-pro-pencil-designer-reaction.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">the Apple Pencil</span></a><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;"> arrive five years later on the iPad Pro. There&#39;s a certain nobility to sticking with your design convictions, but it would have been stupid for Apple to completely ignore the benefits of tablet stylii, something Microsoft was leaning into hard with its Surface devices.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">So it goes with the touchscreen MacBook Pros. It&#39;s hard to deny the convenience of lazily swiping the screen when scrolling through long articles, instead of tapping repeatedly on your keyboard or swiping a touchpad. Apple&#39;s desire to keep touchscreens away from Macs is understandable. MacOS doesn&#39;t have large touch-points like iPadOS, and it&#39;s been honed for decades to work best with keyboards, mice and touchpads. But adding in basic touchscreen support doesn&#39;t really require a complete macOS redesign, especially when the platform has already had support for multitouch gestures on trackpads since the </span><a target="_blank" class="link" href="https://www.engadget.com/2008-01-15-first-macbook-air-multi-touch-control-panel-screenshot.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">first MacBook Air arrived in 2008</span></a><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">.</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">It&#39;s funny that the touchscreen MacBook Pro could also be arriving just as Apple is finally starting to make the iPad more Mac-like. </span><a target="_blank" class="link" href="https://www.engadget.com/mobile/tablets/ipados-26-makes-apples-tablets-more-like-macs-174904597.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">iPadOS 26</span></a><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;"> adds the ability to resize app windows, easily organize them on your screen and it even brings over the menu bar from MacOS. It&#39;s as if Apple is trying to appease all of its fans: The iPad owners who want more multitasking and productivity options, as well as the Mac owners who want a bit of iPad-like convenience.</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">Both of my kids were able to nimbly swipe around my phones and tablets at the age of two — that&#39;s the power of a truly intuitive input mechanism. And to a certain degree, I also think it helped them get used to the idea of computing in general. If it&#39;s easy enough for kids to grasp, why not make touchscreens a core feature of as many products as possible?&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(15, 20, 25);font-family:Arial, sans-serif;">Simply put, Apple has run out of excuses. The time for touchscreen Macbooks is now.</span></p><p style="text-align:left;"><br><br></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/a-macbook-pro-touchscreen-about-damn-time-180000315.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/computing/laptops/a-macbook-pro-touchscreen-about-damn-time-180000315.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">154d5f0a-b9dd-4426-9922-b05e0c3b11fb</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 17 Sep 2025 18:00:00 +0000</pubDate>
+                    <ingested>1758132054</ingested>
+                    <modified>2025-09-17T18:01:11+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple_macbook_pro__2024_small.jpg&amp;resize=1400%2C897&amp;client=19f2b5e49a271b2bde77&amp;signature=0c854eca12560b9e0588633cff1854e27fbc1695" width="1400" height="897" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple_macbook_pro__2024_small.jpg&amp;resize=1400%2C897&amp;client=19f2b5e49a271b2bde77&amp;signature=0c854eca12560b9e0588633cff1854e27fbc1695" width="1400" height="897" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
+                                <media:description><![CDATA[Apple MacBook Pro M4]]></media:description>
+                                <media:title><![CDATA[Apple MacBook Pro M4]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Google Discover is going to start showing social media posts and YouTube Shorts]]></title>
+                                        <description type="html"><![CDATA[<p>Google&#39;s Discover content feed is <a data-i13n="cpos:1;pos:1" href="https://blog.google/products/search/discover-updates-september-2025/"><ins>getting some new features</ins></a>. It&#39;ll soon include more than just articles from throughout the web. The company says the platform will be incorporating stuff like social media posts from platforms like Instagram and X along with YouTube Shorts.</p>
+<p>“In our research, people told us they enjoyed seeing a mix of content in Discover, including videos and social posts, in addition to articles,” the company wrote in an announcement. These changes will start showing up in the &quot;coming weeks.&quot;</p>
+<span id="end-legacy-contents"></span><p>However, that&#39;s not the only new tool arriving for Discover. Starting today, users can customize feeds in a number of ways. Folks can follow creators or publishers to see more content from them. Users can also tap the creator&#39;s name to preview social posts and articles before making a final decision. This is all similar to a recently-introduced feature for Search that lets people set <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/big-tech/google-lets-you-pick-preferred-sources-when-you-search-150012601.html"><ins>preferred news sources.</ins></a></p>
+<p>This is just the latest update to the company&#39;s Discover feed. Google recently introduced <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/big-tech/google-adds-ai-generated-summaries-to-discover-144341141.html"><ins>AI-generated summaries</ins></a> and a tool that <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/google-can-automatically-make-a-podcast-based-on-your-discover-feed-131126522.html"><ins>automatically creates a podcast</ins></a> based on the feed.</p>This article originally appeared on Engadget at https://www.engadget.com/apps/google-discover-is-going-to-start-showing-social-media-posts-and-youtube-shorts-175754283.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/google-discover-is-going-to-start-showing-social-media-posts-and-youtube-shorts-175754283.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">67b53ff8-9f74-44be-b715-8b21fe3a90e1</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 17 Sep 2025 17:57:54 +0000</pubDate>
+                    <ingested>1758131884</ingested>
+                    <modified>2025-09-17T17:58:07+00:00</modified>
+                                            <category>
+                            <![CDATA[Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Social & Online Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fc8142bb0-93ee-11f0-977f-ce2b2744bb54&amp;resize=1400%2C731&amp;client=19f2b5e49a271b2bde77&amp;signature=6d9d9de44bb2f97ee4b8a5bbde07d2b77447b266" width="1400" height="731" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2Fc8142bb0-93ee-11f0-977f-ce2b2744bb54&amp;resize=1400%2C731&amp;client=19f2b5e49a271b2bde77&amp;signature=ea19a3086f2d5da037e2b0aac50612d985023bf3" width="1400" height="731" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Google]]></media:credit>
+                                <media:description><![CDATA[An animated graphic showing the tool in action.]]></media:description>
+                                <media:title><![CDATA[Google Discover]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[One of the best Ninja air fryers for small kitchens is $60 off right now]]></title>
                                         <description type="html"><![CDATA[<p>If you’re in the market for an air fryer, first of all, welcome to the club. A world of perfectly- cooked fries awaits you. But which model to get? Well, you can save some cash right now if you pick Ninja’s Foodi <a data-i13n="elm:affiliate_link;sellerN:Ninja;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=994e1870-52dd-4a45-a479-718c3b12f605&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=865b8441-a9e3-45df-bcc5-d0c8b9d085c3&amp;featureId=text-link&amp;merchantName=Ninja&amp;linkText=DZ090C&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uaW5qYWtpdGNoZW4uY29tL3Byb2R1Y3RzL25pbmphLWZvb2RpLWR6MDkwYy01LWluLTEsLTYtcXQuLTItYmFza2V0LWFpci1mcnllci13aXRoLWR1YWx6b25lLXRlY2hub2xvZ3ktemlkRFowOTBDIiwiY29udGVudFV1aWQiOiI4NjViODQ0MS1hOWUzLTQ1ZGYtYmNjNS1kMGM4YjlkMDg1YzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm5pbmpha2l0Y2hlbi5jb20vcHJvZHVjdHMvbmluamEtZm9vZGktZHowOTBjLTUtaW4tMSwtNi1xdC4tMi1iYXNrZXQtYWlyLWZyeWVyLXdpdGgtZHVhbHpvbmUtdGVjaG5vbG9neS16aWREWjA5MEMifQ&amp;signature=AQAAASikia0donFCykzM1Jl3MunH50WT8Ge86frbjqTg_LY3&amp;gcReferrer=https%3A%2F%2Fwww.ninjakitchen.com%2Fproducts%2Fninja-foodi-dz090c-5-in-1%2C-6-qt.-2-basket-air-fryer-with-dualzone-technology-zidDZ090C" class="rapid-with-clickid" data-original-link="https://www.ninjakitchen.com/products/ninja-foodi-dz090c-5-in-1,-6-qt.-2-basket-air-fryer-with-dualzone-technology-zidDZ090C"><ins>DZ090C</ins></a> 5-in-1 air fryer, which is down to $120 from its regular price of $180 when purchased directly from the brand. That’s a sizable saving of $60.</p> 
 <p>A smaller version of the air fryer we featured as the best dual-zone option in our 2025 air fryer <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/best-air-fryers-133047180.html"><ins>buyers guide</ins></a>, the two-basket DZ090C lets you cook up two totally different foods in separate baskets simultaneously. And while its six-quart capacity isn’t hugely spacious, you should have more than enough space for small or solo meals. And if you have a small kitchen, it’s probably a more sensible pick than the DZ401 we highlight in our guide.</p> <span id="end-legacy-contents"></span> 
@@ -3346,374 +3567,6 @@
                                 <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
                                 <media:description><![CDATA[Photo illustration of TikTok app logo on a smartphone screen displayed with the American flag (USA). Amsterdam, the Netherlands on January 2025 (Photo by Nicolas Economou/NurPhoto via Getty Images)]]></media:description>
                                 <media:title><![CDATA[TikTok Ban Situation]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple Watch Series 11 review: A reliable wearable for when it matters most]]></title>
-                                        <description type="html"><![CDATA[<p>The <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/wearables/apple-watch-series-10-review-legacy-and-sequel-in-equal-measure-120021405.html">tenth generation of the Apple Watch</a> came and went without much fanfare last year, and the arrival of the <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFL8PZ5&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=36cf1f2c-017d-428a-afaa-69f826446fc3&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Series+11&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLVdhdGNoLVNtYXJ0d2F0Y2gtQWx1bWluaXVtLUFsd2F5cy9kcC9CMEZRRkw4UFo1Lz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiIzNmNmMWYyYy0wMTdkLTQyOGEtYWZhYS02OWY4MjY0NDZmYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQXBwbGUtV2F0Y2gtU21hcnR3YXRjaC1BbHVtaW5pdW0tQWx3YXlzL2RwL0IwRlFGTDhQWjUvIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAYGvo-T_wn00lrkq_rqmu0rPzeNywc6xnSOQPWd0mNbt&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Smartwatch-Aluminium-Always%2Fdp%2FB0FQFL8PZ5%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Apple-Watch-Smartwatch-Aluminium-Always/dp/B0FQFL8PZ5/">Series 11</a> is similarly subdued. Not much appears to have changed with Apple’s <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/wearables/best-smartwatches-153013118.html">smartwatch</a>, with no redesign to be seen. Still, that isn’t to say the Apple Watch Series 11 is unimpressive or unexciting. It has new health-related features, improved durability, 5G connectivity, support for a wrist-flick gesture and, for the first time in years, the promise of longer battery life.</p> 
-<p>The most noteworthy of these is Apple’s <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/wearables/apple-watch-series-11-includes-5g-and-a-hypertension-tracking-feature-172451506.html">new hypertension alerts system</a>, which only <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/wearables/apple-watch-series-11-receives-fda-approval-for-hypertension-alerts-120046036.html">received FDA clearance last week</a> soon after <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/apple-event/">the “Awe dropping” launch event</a>. The feature has yet to roll out to review units, and will remain untested until later this week, when I can enable it. Thankfully, it’s not a tool that will impact my experience with the Series 11 in my daily life, as it’s something that should work mostly in the background and only alert me if it notices I might have high blood pressure.</p> <span id="end-legacy-contents"></span> 
-<p>Because of that, I’m not going to be able to evaluate its practicality in this review, and I will update this piece when I’ve had a chance to use it. To be clear, though, even after it arrives, you won’t be able to use this feature ad-hoc to get blood pressure readings. Right now, all I can say is I think it’s an important area of health to pay attention to and I’m glad Apple is giving it due attention.</p> 
-<p>Of all the newness coming to the Series 11, the one that more people might encounter more frequently are the sleep score, wrist flick gesture and longer battery life.</p> 
-<p> <core-commerce id="813a976e018a41e99d2bf37e7d301930" data-type="product-list" data-original-url="https://www.amazon.com/Apple-Watch-Smartwatch-Aluminium-Always/dp/B0FQFL8PZ5/"></core-commerce></p> 
-<h2 id="jump-link-a-very-apple-approach-to-the-sleep-score">A very Apple approach to the Sleep Score</h2> 
-<p>In the land of sleep-tracking wearables, sleep scores are <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/2014-11-14-basis-peak-review.html">far</a> from a <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/2019-09-09-fitbit-versa-2-review-alexa-amoled.html">new feature</a>. But Apple is introducing it with the Watch Series 11, and as usual, its approach is a bit different from the competition. Whereas the likes of Fitbit, Google and Samsung will present you with a number and some data on how you slept, maybe assigning an animal to represent your profile, Apple’s score is shown in a ring with three colors. They represent the three components your Sleep Score is being calculated from: duration, interruptions and bedtime.</p> 
-<p>The first two are pretty self-explanatory; the longer you sleep and the less you wake up during the night, the better your score. As for the last one, Apple is looking for consistency in the hours at which you go to bed. The idea is that the routine helps your body maintain some consistency and better prepare for recovery.</p> 
-<p>I’m a huge proponent of getting more sleep, but I never was a stickler for bedtime schedules. As a reformed night owl that used to go to bed at 2AM and wake up closer to 9AM, I now go to bed by midnight and rise at 6AM. I’m surprised that despite having to get up earlier nowadays, I can still feel refreshed and energetic, as long as I’ve been routinely getting enough rest at roughly the same time each night.</p> 
-<p>While I haven’t worn the Series 11 to bed for that many nights, the Sleep Scores I’ve received so far have been telling. The first was 82, after a long day checking out of a hotel, meeting up with a friend from Singapore and then moving to a different friend’s home in California. I only got around to unpacking after dinner and a long heart-to-heart chat that lasted hours, so by the time I collapsed in bed it was about 1:30AM.</p> 
-<p>The next night, since I was already unpacked, I was able to fall asleep a bit earlier, just past midnight. The result? A Sleep Score of 97, with full marks across the bedtime and duration sections and only one interruption of three minutes. When I finally got home and forced myself to wear the watch to bed, a combination of jetlag and general anxiety brought my score down to 53, with the duration of 2 hours and 17 minutes being the main contributing factor.</p> 
-<figure> 
- <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/acf51d20-9296-11f0-9146-7e82dd205a74" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/acf51d20-9296-11f0-9146-7e82dd205a74" style="height:4000px;width:6000px;" alt="The Apple Watch Series 11 on a person's wrist, showing a ring with three segmented arcs encircling a Sleep Score of 53 and the description " data-uuid="f9901c49-90b2-316b-9ccd-0adfcb0f88ea"> 
- <figcaption></figcaption> 
- <div class="photo-credit">
-   Cherlynn Low for Engadget 
- </div> 
-</figure> 
-<p>Not only did the numbers seem to match how rested I felt, it also felt like Apple accurately detected when I had drifted off into slumber. I did find it funny how the Series 11 almost immediately told me to try and move about to meet my Stand goal for the hour, and even though I hardly stirred, it quickly told me I had moved enough to hit the mark.</p> 
-<p>Compared to the offerings from Google and Samsung, the broad strokes of Apple’s sleep score are similar. In my experience, I’d get about the same numbers for those types of nights. But it’s not the Score alone that matters. I like that Apple’s system makes it very easy to see at a glance what areas I should strive to improve. It’s almost like closing your activity rings in Fitness or watchOS — because it’s so clear on the Sleep Score’s ring where your deficits might be, it makes trying to hit a target a little easier to visualize.</p> 
-<p>Meanwhile, sleep scores on the Fitbit app, which is what Pixel Watches use, will <a data-i13n="cpos:9;pos:1" href="https://support.google.com/fitbit/answer/14236407?hl=en#zippy=%2Chow-to-find-sleeping-heart-rate-details">show more data as you keep tapping on the charts</a>.</p> 
-<p>I do prefer Google (or Fitbit) when it comes to the interface and data visualization, though. On Apple’s Health app, scrolling through your previous results isn’t as simple as swiping horizontally through pages. I also wish I could tap the “interruptions” scale to see exactly what times I stirred or woke up. I eventually did find that information, but I had to go to the Sleep graph in its dedicated section to see more. It’s just a bit unintuitive and requires a lot of tapping and swiping around to find things.</p> 
-<figure> 
- <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/de3684f0-9296-11f0-a6fd-2d3564867c96" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/de3684f0-9296-11f0-a6fd-2d3564867c96" style="height:4000px;width:6000px;" alt="The Apple Watch Series 11 on a person's wrist, lifted slightly in mid-air." data-uuid="a988e210-3f3d-3ff0-895e-f80fe4974433"> 
- <figcaption></figcaption> 
- <div class="photo-credit">
-   Cherlynn Low for Engadget 
- </div> 
-</figure> 
-<h2 id="jump-link-the-series-11s-hardier-design-is-a-subtle-refinement">The Series 11’s hardier design is a subtle refinement</h2> 
-<p>I usually loathe going to bed with a smartwatch on, but because the Series 11 is so thin and light, it wasn’t too bad. Its dimensions are identical to the Series 10, measuring 9.7mm thin and weighing about 0.3 grams more. As my relatively high Sleep Scores show, I didn’t actually jolt awake in the middle of the night like I usually did with previous heavier, clunkier watches. (I still hate wearing watches to sleep, though.)</p> 
-<p>More importantly, the Series 11 also has an IonX glass coating that Apple says is twice as scratch resistant as the Series 10, which might account for the slight increase in weight. While I didn’t try very hard to test that claim, I’ve certainly bumped my review unit against lots of hard surfaces, including the iPhone 17 Pro, and have yet to see a scratch.</p> 
-<p>I even knocked it against the Series 10 on my other wrist as I laid my hands on top of each other in various yoga poses that involved lying face down, and neither device was damaged. Given that the Series 10 I’ve been wearing remains pretty pristine after a year, I’m confident that the Series 11’s hardier material means it’ll stay similarly unmarred.</p> 
-<h2 id="jump-link-workout-tracking-gestures-and-watchos-26">Workout-tracking, gestures and watchOS 26</h2> 
-<p>During my time with the Series 11, I tracked a variety of workouts, including a yoga class, as well as my usual sessions of outdoor walking, functional strength and cross training. I noticed little differences here compared to my Series 10, and the main changes were the watchOS 26 interface. After I turned on Workout Buddy, selected one of three available voices and let it finish downloading, I had to set some targets and connect headphones before I even heard anything during my sessions. I don’t usually work out with headphones on, but I can see the coaching being useful for an aspirational future where I’m perhaps trying to hit a 6-minute mile (my current time is about 8 minutes).</p> 
-<figure> 
- <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/10749c40-9297-11f0-9bfe-94f0f4d5a252" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/10749c40-9297-11f0-9bfe-94f0f4d5a252" style="height:4000px;width:6000px;" alt="The Apple Watch Series 11 on a wrist, showing the watchOS 26 activity rings page." data-uuid="da3c494c-f871-36b3-aaf4-3358cbfa4112"> 
- <figcaption></figcaption> 
- <div class="photo-credit">
-   Cherlynn Low for Engadget 
- </div> 
-</figure> 
-<p>I will note that a lot of what makes the Series 11 feel new is in the software, which will be rolling out to older Apple Watches soon. <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/wearables/watchos-26-preview-its-the-little-things-140035949.html">watchOS 26</a> brings the Liquid Glass style, which allowed me to use some slick-looking fonts on my clock. I also liked the larger buttons across the interface and the refreshing feeling of looking at the translucent cards instead of the version before. It’s just a visual change that makes things feel updated, and my eyes welcomed it.</p> 
-<p>The Series 11 also gets a new wrist flick gesture that feels familiar for those of us who have covered the smartwatch industry since its inception. The gist is that you can quickly twist your wrist away from you to interact with your wearable. On other devices, you could use this action to scroll through lists of apps, for instance. On the Apple Watch Series 11, you have to first raise your wrist when a notification arrives, then flick your wrist to dismiss it and return to your watch face. This also works to end calls, alarms and timers. I was able to use this to silence an alarm, as long as I first raised my wrist before flicking.</p> 
-<h2 id="jump-link-battery-that-lasts-longer-than-a-day">Battery that lasts longer than a day</h2> 
-<p>When Apple said during its keynote that the Series 11 will last 24 hours thanks to its re-engineered battery, <a data-i13n="cpos:11;pos:1" href="https://www.engadget.com/apple-event-2025-live-updates-as-iphone-17-new-watches-airpods-pro-3-and-more-are-unveiled-100023813.html">my colleague Sam Rutherford scoffed</a>. That number is measly compared to the multi-day runtimes promised by the likes of Pixel and Samsung watches, let alone Garmin’s almost week-long estimates. But <a data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:12;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=36cf1f2c-017d-428a-afaa-69f826446fc3&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=when+you+consider+Apple+promises+up+to+18+hours+for+the+Series+10&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vd2F0Y2gvY29tcGFyZS8_bW9kZWxMaXN0PXdhdGNoLXNlcmllcy0xMSx3YXRjaC1zZXJpZXMtMTAiLCJjb250ZW50VXVpZCI6IjM2Y2YxZjJjLTAxN2QtNDI4YS1hZmFhLTY5ZjgyNjQ0NmZjMyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYXBwbGUuY29tL3dhdGNoL2NvbXBhcmUvP21vZGVsTGlzdD13YXRjaC1zZXJpZXMtMTEsd2F0Y2gtc2VyaWVzLTEwIn0&amp;signature=AQAAAcVcfO99KLwUnNLAw7y02Nlh9x0rpq-WpdRnaBMygrff&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fwatch%2Fcompare%2F%3FmodelList%3Dwatch-series-11%2Cwatch-series-10" class="rapid-with-clickid" data-original-link="https://www.apple.com/watch/compare/?modelList=watch-series-11,watch-series-10">when you consider Apple promises up to 18 hours for the Series 10</a>, the improvement is nothing to sneeze at.</p> 
-<p>Also, 24 hours is an estimate depending on how you use your Apple Watch. Many people only put their watch on when heading out for a walk, run or workout, while others use it all day. That estimate includes time for overnight sleep tracking, with 18 hours devoted to daytime “activities like checking the time, receiving notifications, using apps and doing a 60-minute workout.”</p> 
-<p>The gain in runtime is thanks in part to a 9 percent bigger battery in the 42mm model and an 11 percent larger one in the 46mm version, as well as optimizations in software and a new modem that also supports 5G.</p> 
-<p>The Series 11 certainly outlasted the 24-hour estimate in my experience. It usually lasts one and a half days, including some light activity tracking, media control and sleep tracking. One day, I pulled it off the charger at 2PM, tracked a workout at 4PM, used the camera remote control and viewfinder for about 20 minutes, went to dinner and wore it to bed. I woke up at 8AM with 39 percent left in the tank. Even hours later at 3:15PM, I still had a healthy 22 percent to work with. On a different day, I woke up with 29 percent of juice, tracked a 37-minute morning walk and had about 20 percent remaining. The energy efficiency does seem to have improved.</p> 
-<p>This also means continuous runtimes for specific activities have been increased. For example, you can run for an extra hour while tracking your heart rate, GPS and using other Apple Watch features for eight hours straight. Or, more likely, simply run a marathon without worrying about having juice after.</p> 
-<figure> 
- <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/6a6c6110-9297-11f0-b7ff-a194749af84f" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/6a6c6110-9297-11f0-b7ff-a194749af84f" style="height:4000px;width:6000px;" alt="The Apple Watch Series 11 on the inside of a person's wrist, showing the Control Center onscreen. The battery percentage tile is highlighted in yellow, indicating low power mode is on, and the power level is at 64 percent." data-uuid="a4358aa9-cf28-38c3-b065-268ac04f2060"> 
- <figcaption></figcaption> 
- <div class="photo-credit">
-   Cherlynn Low for Engadget 
- </div> 
-</figure> 
-<p>Apple was also able to boost its low power mode, now squeezing up to 38 hours of juice when enabled. It will turn off the always on display, disconnect cellular and Wi-Fi connections and also limit sensor activity, so background heart rate measurements and related alerts won’t work. I switched it on at 9:20PM one night when the battery was at 86 percent, in anticipation of a long day away from a charger.</p> 
-<p>The next day, after tracking about three hours of sleep overnight, a few workouts and general testing, the watch still held fairly strong at 22 percent at 8:50PM. I did have to restart the device and turn off low power mode a few times throughout the day just to check that certain features (like the AOD and gestures) were working, though, so uninterrupted use of the mode might get more hours out of it.</p> 
-<p>Charging is also quite speedy. I placed the Series 11 on the charging puck at about 1PM with 8 percent left, and came back ten minutes later to see it had already reached 38 percent. Just over thirty minutes later, it was fully recharged. That, of course, is with an Apple-supplied fast charger.</p> 
-<h2 id="jump-link-which-apple-watch-is-right-for-you">Which Apple Watch is right for you?</h2> 
-<p>If you’re reading this review, you’re not likely to be considering non-Apple watches, so I won’t even compare the Series 11 to the Galaxy Watch 8 or the Pixel Watch 4. We haven’t even reviewed that latter one, anyway. You also probably don’t currently own <a data-i13n="cpos:13;pos:1" href="https://www.engadget.com/wearables/apple-watch-series-10-review-legacy-and-sequel-in-equal-measure-120021405.html">a Series 10</a>, though if you do and are wondering if this is worth an upgrade, read on.</p> 
-<p>For those on older Apple Watches (like the Series 9 or earlier), the Series 11 is a solid upgrade. The battery life improvements will be meaningful even if you’re coming from the Series 10, though if you’re moving on from anything older the impact will be greater. You’ll appreciate the bigger screen with wider viewing angles, thinner profile and general modern features like the watchOS refresh and AI-based tools.</p> 
-<p>If you’re considering one of the three new Apple Watches, this year is a trickier situation than usual. Because it added an always on display and faster charging to the <a data-i13n="cpos:14;pos:1" href="https://www.engadget.com/wearables/apple-acquiesced-to-my-apple-watch-se-3-demands-mostly-220726287.html">SE 3</a>, Apple has made the entry-level smartwatch a no-brainer for pretty much anyone considering a starter device. For $250, that watch gives you everything the Series 11 does, except in a slightly bulkier case and smaller, dimmer display. You’ll be giving up ECG and blood oxygen features, as well as hypertension alerts and sensors for depth and water temperature. Battery life is also a bit shorter, and you won’t have an ultra-wideband chip for precision Find My.</p> 
-<p>But with the Watch SE 3, you’ll still be able to access a wide range of health and fitness features like wrist temperature monitoring, sleep score, emergency SOS, fall and crash detection and more. It’s a compelling option at an appealing price.</p> 
-<figure> 
- <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/de1d8940-9297-11f0-bfe6-407e07770e2a" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/de1d8940-9297-11f0-bfe6-407e07770e2a" style="height:4000px;width:6000px;" alt="The Apple Watch Series 11 on a wrist held out in mid air in front of a bush with some pink flowers." data-uuid="18a2ee43-fa62-3e2f-968f-2011c8647fd2"> 
- <figcaption></figcaption> 
- <div class="photo-credit">
-   Cherlynn Low for Engadget 
- </div> 
-</figure> 
-<h2 id="jump-link-wrap-up">Wrap-up</h2> 
-<p>I don’t expect companies to completely retool their products, especially 11 generations in. The Apple Watch Series 11 is a refinement of an already winning formula, packing a device that’s always on your person with exactly the type of passive features you’d want in something like that. Whether it’s quietly keeping tabs on your heart health and blood pressure changes, or providing better information on how well you slept, or even saving your life if you’ve fallen or gotten lost in the wilderness, the Series 11 is a capable companion. With longer battery life this time, it promises to provide even more peace of mind. Nifty touches like Liquid Glass in watchOS 26, Workout Buddy and 5G connectivity are icing on a rich, substantial cake.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/apple-watch-series-11-review-a-reliable-wearable-for-when-it-matters-most-120016945.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/apple-watch-series-11-review-a-reliable-wearable-for-when-it-matters-most-120016945.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">36cf1f2c-017d-428a-afaa-69f826446fc3</guid>
-                                                                                        <dc:creator><![CDATA[Cherlynn Low]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Sep 2025 12:00:16 +0000</pubDate>
-                    <ingested>1758024032</ingested>
-                    <modified>2025-09-16T12:00:46+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Cherlynn Low]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F6422c320-9289-11f0-9c7b-e672eac89e27&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=0ec2d3c4079400d31c41936e7ba8a9d828e849cf" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F6422c320-9289-11f0-9c7b-e672eac89e27&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=b575879d30520434e9840f8541a158125997fcb9" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Cherlynn Low for Engadget]]></media:credit>
-                                <media:description><![CDATA[The Apple Watch Series 11 on a person's wrist, showing the home screen.]]></media:description>
-                                <media:title><![CDATA[Apple Watch Series 11]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple Watch Ultra 3: A closer look at its satellite communications tools]]></title>
-                                        <description type="html"><![CDATA[<p>The latest generation of smartwatches is looking to the skies to expand their connectivity capabilities. The <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFHVZYL&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=e5f00510-9739-4bdf-ac16-fefc2a381f0e&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Apple+Watch+Ultra+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGSFZaWUwvcmVmPWZzX2Ffd3QyX3VzMD90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiJlNWYwMDUxMC05NzM5LTRiZGYtYWMxNi1mZWZjMmEzODFmMGUiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vZHAvQjBGUUZIVlpZTC9yZWY9ZnNfYV93dDJfdXMwIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAdLGuAXWh4NrI7S1UuErnYoSIB05HULJBvw89c6Ek_5h&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FQFHVZYL%2Fref%3Dfs_a_wt2_us0" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0FQFHVZYL/ref=fs_a_wt2_us0?th=1">Apple Watch Ultra 3</a> will be the second mainstream smartwatch (not counting the Garmin Fenix 8 Pro) to support satellite communications, and the new connectivity feature is one of a few changes coming to the device. Other upgrades include the S10 chip, a slightly larger display, bigger battery that lasts up to 42 hours, support for 5G, as well as the hypertension and sleep score features coming to the Series 11 (and also the Ultra 2 and several older Apple Watch models).</p>
-<p>While I continue to review the Series 11 before spending more time with the Ultra 3 (and the SE 3), I wanted to share what it’s like to use satellite communications on the wearable and how it differs from the approach on the Pixel Watch 4. To be clear, I have yet to receive a review unit of the Pixel Watch 4, so my impressions are based on a recorded demo at a hands-on event. For the Watch Ultra 3, I have a review unit and am using its built-in demo tool to connect to satellites.</p>
-<span id="end-legacy-contents"></span><p>You can launch satellite communications on the Watch Ultra 3 in a few ways. Add it to the Control Center or as a complication on any watch face, and you’ll get options to send messages, share your location or contact emergency services. The first two require paid cellular service for your smartwatch. The device will also automatically suggest satellite connectivity when you’re offline, though that’s a situation I have yet to encounter. Regardless of where you use it, a lot of the process of connecting to a satellite is similar to that on the iPhone 14 and newer. If you’ve never tried that before, hang tight, as I will explain the steps a little further down.</p>
-<h2 id="jump-link-emergency-satellite-communications-on-the-apple-watch-ultra-3">Emergency satellite communications on the Apple Watch Ultra 3</h2>
-<p>There’s also another screen where you might encounter a prompt to link to a satellite — in the phone dialer. Whether you’re on the watch or iPhone, Apple imagines (and likely hopes) that dialing your local emergency hotline is your first step. Here in the US, that number is 911. Of course, as a socially responsible person, I didn’t want to unnecessarily burden emergency services and did not try this out myself on the Watch Ultra 3. Instead, Apple representatives gave us a demo in Cupertino last week, and made a call to 911 that was routed to the company’s own call centers.</p>
-<p>As a reminder, the process for emergency SOS via satellite is different from using Messages or Find My via satellite because users are likely to be dialing their local services first and foremost. Only when that fails will the emergency satellite communications interface kick in. Once you select the Emergency SOS via Satellite option that appears after a few seconds or when your watch detects you’re offline, you’ll be shown a list of guidelines, recommending you be outside with a clear view of the sky and explaining that transmission will take longer than when sent over cellular networks.</p>
-<p>After that, you’ll be presented a series of multiple choice questions to inform rescue services of your condition and environment. Thanks to the Watch Ultra 3’s larger screen, the system’s large buttons and readable font weren’t hard to see, and I could make out the options at arm’s length. A few taps later, we had selected some answers indicating we were “lost or trapped,” alone, unharmed and near steep terrain. The Apple representative performing our demo also opted to notify the emergency contacts set up on the Watch Ultra 3.</p>
-<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/b9de71a0-9299-11f0-9ff7-b6f44e6e8c63" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/b9de71a0-9299-11f0-9ff7-b6f44e6e8c63" style="height:1440px;width:2560px;" alt="The Apple Watch Ultra 3 showing its satellite connection page on its screen, with guidance telling the user to " data-uuid="97cd6b46-11c6-3bc2-9425-b85214f1dbc9"><figcaption></figcaption><div class="photo-credit">Cherlynn Low for Engadget</div></figure>
-<p>Once that was done, the watch displayed an interface similar to the version on the iPhone, featuring a glowing arc and translucent image of the earth. Words on the screen said “Try to get a clear view of the sky” and guided the wearer in various directions to attempt to connect to satellites passing overhead. After a link was established, the words “Sending report” appeared with a progress bar below.</p>
-<p>We had to wait a minute and a half for the message to go through, which is quite long, but it was probably not the usual amount of time. At about 25 seconds in, it seemed like the connection was lost and had to be re-established. That may seem like a long while to hold your wrist up, but Apple did say you only need to lift your arm while establishing a connection to the satellite and not while the information was being sent. I believe the rep only had their arm up so we could more easily see the screen.</p>
-<p>Finally, when the report had been delivered, the Watch Ultra 3 took us to the Message window showing a confirmation that the request had been received. It also tells the wearer to reply with “Stop” if emergency services were not or no longer required.</p>
-<h2 id="jump-link-using-satellites-to-send-messages-and-your-location">Using satellites to send Messages and your location</h2>
-<p>Outside of using satellite communications when you’re in need of emergency services, you can also send messages or share your location when you’re off the grid. This, again, mirrors the iPhone version of this service. You can go to the Find My app on the Watch Ultra 3 to share your location when you’re out of coverage, and your position can be shared up to once every 15 minutes to previously added contacts. In the Messages app on the watch, you can contact people you’ve chatted with in the last 30 days.</p>
-<p>In my experience, it was easiest to add Satellite as a complication to a watch face. Tapping the button will bring up the Satellite screen with options to try a demo, go to Messages, share your location or contact emergency services. Like on the iPhone, the demo is there for users to get familiar with the process of connecting to a satellite, so they’re not completely unfamiliar in high pressure situations.</p>
-<p>Unfortunately, as I spent most of my time with the Ultra 3 so far in areas that had good coverage and signal, I never really got a chance to try to send a message or my location via satellite. First world problems, I know. I’ll embark on an adventure upstate soon to check it out, though, and will report back after.</p>
-<p>Those unfamiliar with Messages or Find My via Satellite on iPhones may wonder why those features exist. It’s not just for the frivolous desire to play with a novel feature. You can send texts, emojis and tapback reactions to let a loved one know you arrived in the desert safely for Burning Man, for example. Texts go through with a delivery message that says “sent via Satellite,” so your recipient will understand you have limited connectivity and can’t engage in a full-blown tea-spilling session right then.</p>
-<p>Or, if you’re like my partner and sometimes go camping in the middle of nowhere, sharing your location when you’ve arrived at your campsite can bring some peace of mind. (Note: I don’t go camping.) My partner tends to favor forested areas, though, where satellite connectivity would struggle with the dense foliage, hampering its usefulness.</p>
-<p>To be very clear, emergency SOS via Satellite will be supported on all models of the Watch Ultra 3, but satellite communications for Messages and Find My require a paid cellular plan. With all purchases of the Ultra 3, Apple is providing two years of satellite service for emergency, Messages and Find My.</p>
-<h2 id="jump-link-apple-watch-ultra-3-vs-pixel-watch-4-the-satellite-comparison">Apple Watch Ultra 3 vs Pixel Watch 4: The satellite comparison</h2>
-<p>That’s somewhat similar to Google’s approach for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/wearables/pixel-watch-4-hands-on-a-long-thoughtful-list-of-improvements-160015292.html">the Pixel Watch 4</a>, where Satellite SOS “is included at no additional charge for 2 years after launch.” However, only the LTE models of the Pixel Watch support its satellite feature, and it’s only available in the contiguous United States at the moment. Google’s version also uses Skylo’s Narrowband Non-Terrestrial Network (NB-NTN), and adopts similar haptic and audio cues to the Watch Ultra 3’s in the connecting process. One area that appears to be different is that the Pixel Watch 4 will offer a &quot;check replies&quot; button that <a data-i13n="cpos:3;pos:1" href="https://blog.google/products/pixel/pixel-watch-satellite-sos/">Google says</a> “guides you to re-establish connection for updates from emergency services as needed.”</p>
-<p>Meanwhile, Apple’s Find My and emergency satellite features will work in 18 countries at launch, including the US, UK, Japan, Switzerland, Australia and others. Messages via satellite is limited to Mexico, Canada and the US at the moment.</p>
-<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/ed5493c0-9299-11f0-bfb4-11c7c54d0ce8" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/ed5493c0-9299-11f0-bfb4-11c7c54d0ce8" style="height:4000px;width:6000px;" alt="The Apple Watch Ultra 3 on a person&#39;s wrist, showing the Modular watch face on its screen." data-uuid="4dfa3d36-e0ff-3414-847f-cc9fa5c20e91"><figcaption></figcaption><div class="photo-credit">Cherlynn Low for Engadget</div></figure>
-<h2 id="jump-link-other-testing-impressions-of-the-apple-watch-ultra-3">Other testing impressions of the Apple Watch Ultra 3</h2>
-<p>As I continue to put the <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFHVZYL&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=e5f00510-9739-4bdf-ac16-fefc2a381f0e&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Watch+Ultra+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGSFZaWUwvcmVmPWZzX2Ffd3QyX3VzMD90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiJlNWYwMDUxMC05NzM5LTRiZGYtYWMxNi1mZWZjMmEzODFmMGUiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vZHAvQjBGUUZIVlpZTC9yZWY9ZnNfYV93dDJfdXMwIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAdLGuAXWh4NrI7S1UuErnYoSIB05HULJBvw89c6Ek_5h&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FQFHVZYL%2Fref%3Dfs_a_wt2_us0" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0FQFHVZYL/ref=fs_a_wt2_us0?th=1">Watch Ultra 3</a> through its paces, it’s worth noting what changes the latest model has over its predecessor. Like I mentioned, it has a larger display while maintaining the same size, thanks to thinner bezels (which Apple said are 24 percent slimmer). It also uses an LTPO 3 panel that enables a faster refresh rate in Always On mode, as well as wide-angle OLEDs for easier reading at off angles.</p>
-<p>I’ve found the Watch Ultra 3 lightweight and comfortable to wear so far, and I enjoy tapping buttons or reading messages on its 49mm screen. Unfortunately, I am also a person who wears long-sleeved shirts that are snug at the wrist, making the bigger watches a harder sell, especially as the weather gets colder here in New York. I did find it amusing when the Night mode got triggered any time I tucked the Ultra 3 under my sleeve, turning the watch face’s dials, complications and other elements red.</p>
-<p>The Watch Ultra 3 gets the same 5G support, hypertension notifications and Sleep Score as the Series 11, along with watchOS 26 upgrades like Workout Buddy and Liquid Glass. I need a few more days with the Ultra 3 before I can vouch for its 42-hour battery estimate, but it’s nice to see longer runtimes on an endurance watch.</p>
-<p>My evaluation of those new features and whether they add up to a meaningful package will be ready soon in a full review. In the meantime, the Apple Watch Ultra 3 is available for pre-order and will arrive in stores on September 19.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/apple-watch-ultra-3-a-closer-look-at-its-satellite-communications-tools-120012387.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/apple-watch-ultra-3-a-closer-look-at-its-satellite-communications-tools-120012387.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e5f00510-9739-4bdf-ac16-fefc2a381f0e</guid>
-                                                                                        <dc:creator><![CDATA[Cherlynn Low]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Sep 2025 12:00:12 +0000</pubDate>
-                    <ingested>1758024030</ingested>
-                    <modified>2025-09-16T12:00:36+00:00</modified>
-                                            <category>
-                            <![CDATA[Telecommunication]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Cherlynn Low]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F1035c910-9298-11f0-b5ff-85afa5d758c9&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=11925f1dfa91ee0430c6b656d0727f6c4b9a83d0" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F1035c910-9298-11f0-b5ff-85afa5d758c9&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=98e11d6ef596f6e12f3633ab75f5e2316e8e4038" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Cherlynn Low for Engadget]]></media:credit>
-                                <media:description><![CDATA[The Apple Watch Ultra 3 with a ridged light green band on a person's wrist.]]></media:description>
-                                <media:title><![CDATA[Apple Watch Ultra 3]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The Morning After: The verdict on AirPods Pro 3]]></title>
-                                        <description type="html"><![CDATA[<p>Apple’s third-gen pro earbuds make a very strong case for upgrading. Alongside all those iPhones and Watches, Apple revealed the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/audio/headphones/airpods-pro-3-review-a-significant-update-to-apples-best-earbuds-120028170.html">AirPods Pro 3</a>, packing in major new features, like live translation and heart-rate sensing, all while tangibly boosting active noise cancellation (ANC).</p>
-<p>Those ANC upgrades? Ultra-low-noise microphones combine with advanced computational audio to silence even more noise, while new foam-infused ear tips play a major role here too, since they offer increased passive noise isolation. Apple says these buds cancel twice as much noise as the AirPods Pro 2 and four times more than the original AirPods Pro.</p>
-<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/62714520-92e2-11f0-bf7f-dfe45412c449" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/62714520-92e2-11f0-bf7f-dfe45412c449" style="height:427px;width:640px;" alt="TMA" data-uuid="f5503af5-9a5e-3c74-95c5-25eafec28597"><figcaption></figcaption><div class="photo-credit">Engadget</div></figure>
-<p>Then there’s the heart-rate sensors. While the tech debuted on the Powerbeats Pro 2, it’s got a more mainstream home in the AirPods Pro 3. Heart-rate data from the AirPods can be accessed by Apple’s own Fitness app and other workout apps, like Nike Run Club and Peloton. In fact, during his review, Billy Steele found they delivered just as much heart-rate data as his Apple Watch.</p>
-<p>There are some minor caveats: Battery life is less than previous models and the new shape of AirPod could take some time getting used to. Still, the newest AirPods garnered a score of 90 in our review. We like them. A lot.</p>
-<p>— Mat Smith</p>
-<p><em>Get Engadget&#39;s newsletter delivered</em> <em>direct to your inbox.</em><a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/about/newsletter/"><em> Subscribe right here!</em></a></p>
-<h3 id="jump-link-the-news-you-might-have-missed">The news you might have missed</h3>
-<ul>
-<li><p><a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/streaming/apple-tv-won-big-at-the-primetime-emmys-with-severance-and-the-studio-093051329.html"><ins>Apple TV+ won big at the Primetime Emmys with Severance and The Studio</ins></a></p></li>
-<li><p><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/social-media/what-to-expect-at-meta-connect-2025-hypernova-smart-glasses-ai-and-the-metaverse-212628436.html"><ins>What to expect at Meta Connect 2025: Hypernova smart glasses, AI and the metaverse</ins></a></p></li>
-<li><p><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/entertainment/streaming/free-spotify-users-can-finally-listen-to-any-track-immediately-130013081.html"><ins>Free Spotify users can finally listen to any track immediately</ins></a></p></li>
-<li><p><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/mobile/smartphones/the-iphone-17-square-selfie-camera-is-a-bigger-deal-than-you-think-151517041.html"><ins>The iPhone 17 square selfie camera is a bigger deal than you think</ins></a></p></li>
-</ul>
-<hr>
-<h2 id="jump-link-amazon-may-announce-new-echo-and-kindle-devices"><a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/social-media/what-to-expect-at-meta-connect-2025-hypernova-smart-glasses-ai-and-the-metaverse-212628436.html">Amazon may announce new Echo and Kindle devices</a></h2>
-<h3 id="jump-link-an-event-is-happening-on-september-30">An event is happening on September 30.</h3>
-<h3 id="jump-link-"></h3>
-<p>Amazon has a big event coming up and Panos Panay, who leads the company’s Devices &amp; Services team, will be on hand. This strongly suggests Amazon will announce some new hardware. The press invite also included a composite image of various Amazon devices. These appear to include a Kindle ereader, a Fire TV of some kind and an Echo speaker. Those are three of the company’s biggest product categories.</p>
-<p><a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/social-media/what-to-expect-at-meta-connect-2025-hypernova-smart-glasses-ai-and-the-metaverse-212628436.html"><strong>Continue reading.</strong></a></p>
-<hr>
-<h2 id="jump-link-all-the-biggest-announcements-from-nintendo-direct"><a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html">All the biggest announcements from Nintendo Direct</a></h2>
-<h3 id="jump-link-mario-metroid-virtual-boy-and-more">Mario, Metroid, Virtual Boy and more.</h3>
-<a href="https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html"><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/fef4fa50-92e1-11f0-abbf-991757cb01a1" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/fef4fa50-92e1-11f0-abbf-991757cb01a1" style="height:360px;width:640px;" alt="TMA" data-uuid="fce3b8ae-7117-372b-8774-98d5264b3f88"><figcaption></figcaption><div class="photo-credit">Nintendo</div></figure></a>
-<p>It was a jam-packed Nintendo Direct last Friday. First up, September 13 is the 40th anniversary of <em>Super Mario Bros.</em> in Japan, which is a big reason this Direct took place on a Friday. The company revealed the title for the next Mario movie. It’s called <em>The Super Mario Galaxy Movie</em>, and it’s coming to cinemas in the US on April 3. Also, the Virtual Boy is <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-is-bringing-back-the-virtual-boy-as-a-switch-and-switch-2-accessory-140037508.html"><ins>coming back</ins></a>! There was plenty more too.</p>
-<p><a data-i13n="cpos:11;pos:1" href="https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html"><strong>Continue reading.</strong></a></p>
-<hr>
-<span id="end-legacy-contents"></span><h2 id="jump-link-a-tiktok-deal-may-finally-happen"><a data-i13n="cpos:12;pos:1" href="https://www.engadget.com/general/a-tiktok-deal-may-finally-be-happening-160448732.html">A TikTok deal may finally happen</a></h2>
-<h3 id="jump-link-treasury-secretary-scott-bessent-said-unnamed-parties-reached-an-agreement">Treasury Secretary Scott Bessent said unnamed parties reached an agreement.</h3>
-<h3 id="jump-link-"></h3>
-<p>US Treasury Secretary Scott Bessent has said the United States and China have reached a framework deal on TikTok. Speaking to reporters in Madrid after two days of talks with his Chinese counterparts, Bessent said, “It’s between two private parties, but the commercial terms have been agreed upon.” President Trump said in a Truth Social post that he will be speaking with Xi Jinping this Friday regarding the potential deal, among other things.</p>
-<p><a data-i13n="cpos:13;pos:1" href="https://www.engadget.com/general/a-tiktok-deal-may-finally-be-happening-160448732.html"><strong>Continue reading.</strong></a></p>This article originally appeared on Engadget at https://www.engadget.com/general/the-morning-after-engadget-newsletter-111558719.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/general/the-morning-after-engadget-newsletter-111558719.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">a6500596-44b5-4040-bcc6-90609e20870d</guid>
-                                                                                        <dc:creator><![CDATA[Mat Smith]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Sep 2025 11:15:58 +0000</pubDate>
-                    <ingested>1758016641</ingested>
-                    <modified>2025-09-16T09:57:35+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Mat Smith]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F0b007070-91bd-11f0-beff-137e0361562d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=572f72794036f7d0355fe9301c43e0687248d2b8" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F0b007070-91bd-11f0-beff-137e0361562d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=6a807968c20f5b280d3988dc6d76d80085c3a533" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Billy Steele for Engadget]]></media:credit>
-                                <media:description><![CDATA[These earbuds still very much look like previous AirPods Pro models.]]></media:description>
-                                <media:title><![CDATA[Apple AirPods Pro 3 review]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The best budgeting apps for 2025]]></title>
-                                        <description type="html"><![CDATA[<p>As a former Mint user, I had to find a new budgeting app not too long ago. Intuit, parent company of Mint, shut down the service in March 2024, and prompted users to transition to its other financial app, Credit Karma. However, after testing Credit Karma myself, I found it to be a poor Mint replacement — that meant I needed to branch out and look elsewhere for a trusted app to track all of my financial accounts, monitor my credit score, follow a monthly spending plan and set goals like building a rainy-day fund and paying down my mortgage faster. I tried out <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/apps/the-best-budgeting-apps-to-replace-mint-143047346.html">Mint's top competitors</a> in the hopes that I'd be able to find a new budgeting app that could handle all of my financial needs. Hopefully my journey can help you find the best budgeting app for you and your money as well.</p> 
-<h2 id="jump-link-best-budget-apps-of-2025">Best budget apps of 2025</h2> 
-<p> <core-commerce id="bb20dc45b8324009aa9cd29e1a2a1e55" data-type="product-list" data-original-url="https://www.quicken.com/products/simplifi/"></core-commerce></p> 
-<p> <core-commerce id="9f80c5fd1fd4460fae9fdf2cf5fbbe33" data-type="product-list" data-original-url="https://www.monarchmoney.com/"></core-commerce></p> 
-<p> <core-commerce id="39236874c65c492bb3682eddbfa1c0a2" data-type="product-list" data-original-url="https://www.nerdwallet.com/"></core-commerce></p> 
-<p> <core-commerce id="cb581f0fec1b41feafe2ea7de4181289" data-type="product-list" data-original-url="https://copilot.money/"></core-commerce></p> 
-<p> <core-commerce id="827b3d1854364b8fbd1c17dbca4adf40" data-type="product-list" data-original-url="https://www.ynab.com/"></core-commerce></p> 
-<h2 id="jump-link-other-budgeting-apps-we-tested">Other budgeting apps we tested</h2> 
-<h3 id="jump-link-pocketguard">PocketGuard</h3> 
-<p><a data-i13n="cpos:2;pos:1" href="https://pocketguard.com/">PocketGuard</a> used to be a solid free budget tracker, but the company has since limited its “free” version to just a free seven-day trial. Now, you’ll have to choose between two plans once the trial is over: a $13 monthly plan or a $75 annual plan. When I first tested it, I found it to be more restricted than NerdWallet, but still a decent option. The main overview screen shows you your net worth, total assets and debts; net income and total spending for the month; upcoming bills; a handy reminder of when your next paycheck lands; any debt payoff plan you have; and any goals. Like some other apps, including Quicken Simplifi, PocketGuard promotes an “after bills” approach, where you enter all of your recurring bills, and then PocketGuard shows you what’s left, and <em>that’s </em>what you’re supposed to be budgeting: your disposable income.</p> <span id="end-legacy-contents"></span> 
-<p>Although PocketGuard’s UI is easy enough to understand, it lacks polish. The “accounts” tab is a little busy, and doesn’t show totals for categories like cash or investments. Seemingly small details like weirdly phrased or punctuated copy occasionally make the app feel janky. More than once, it prompted me to update the app when no updates were available. The web version, meanwhile, feels like the mobile app blown up to a larger format and doesn’t take advantage of the extra screen real estate. Ultimately, now that the free tier is gone, it just doesn’t present the same value proposition as it once did.</p> 
-<h2 id="jump-link-how-we-test-budgeting-apps">How we test budgeting apps</h2> 
-<p>Before I dove in and started testing out budgeting apps, I had to do some research. To find a list of apps to try out, I consulted trusty ol’ Google (and even trustier Reddit); read reviews of popular apps on the App Store; and also asked friends and colleagues what budget tracking apps (or other budgeting methods) they might be using for money management. Some of the apps I found were free and these, of course, show loads of ads (excuse me, “offers”) to stay in business. But most of the available apps require paid subscriptions, with prices typically topping out around $100 a year, or $15 a month. (Spoiler: My top pick is cheaper than that.)</p> 
-<p>All of the services I chose to test needed to do several things: import all of your account data into one place; offer budgeting tools; and track your spending, net worth and credit score. Except where noted, all of these apps are available for iOS, Android and on the web.</p> 
-<p>Once I had my shortlist of six apps, I got to work setting them up. For the sake of thoroughly testing these apps, I made a point of adding every account to every budgeting app, no matter how small or immaterial the balance. What ensued was a veritable <em>Groundhog Day</em> of two-factor authentication. Just hours of entering passwords and one-time passcodes, for the same banks half a dozen times over. Hopefully, you only have to do this once.</p> 
-<h2 id="jump-link-budgeting-app-faqs">Budgeting app FAQs</h2> 
-<h3 id="jump-link-what-is-plaid-and-how-does-it-work">What is Plaid and how does it work?</h3> 
-<p>Each of the apps I tested uses the same underlying network, called Plaid, to pull in financial data, so it’s worth explaining what it is and how it works. Plaid was founded as a fintech startup in 2013 and is today the industry standard in connecting banks with third-party apps. Plaid works with over 12,000 financial institutions across the US, Canada and Europe. Additionally, more than 8,000 third-party apps and services rely on Plaid, <a data-i13n="cpos:3;pos:1" href="https://plaid.com/company/">the company claims</a>.</p> 
-<p>To be clear, you don’t need a dedicated Plaid app to use it; the technology is baked into a wide array of apps, including all of the budgeting apps listed in this guide. Once you find the “add an account” option in whichever one you’re using, you’ll see a menu of commonly used banks. There’s also a search field you can use to look yours up directly. Once you find yours, you’ll be prompted to enter your login credentials. If you have two-factor authentication set up, you’ll need to enter a one-time passcode as well.</p> 
-<p>As the middleman, Plaid is a passthrough for information that may include your account balances, transaction history, account type and routing or account number. Plaid uses encryption, and says it has a policy of not selling or renting customer data to other companies. However, I would not be doing my job if I didn’t note that in 2022 <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/plaid-must-pay-58-million-to-users-of-venmo-robinhood-and-other-apps-085908511.html">Plaid was forced to pay $58 million to consumers in a class action suit</a> for collecting “more financial data than was needed.” As part of the settlement, Plaid was compelled to change some of its business practices.</p> 
-<p>In a statement provided to Engadget, a Plaid spokesperson said the company continues to deny the allegations underpinning the lawsuit and that “the crux of the non-financial terms in the settlement are focused on us accelerating workstreams already underway related to giving people more transparency into Plaid’s role in connecting their accounts, and ensuring that our workstreams around data minimization remain on track.”</p> 
-<h3 id="jump-link-why-did-mint-shut-down">Why did Mint shut down?</h3> 
-<p>When parent company Intuit <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/intuit-is-closing-down-mint-its-popular-free-budget-tracking-app-054145229.html">announced</a> in December 2023 that it would shut down Mint, it did not provide a reason why it made the decision to do so. It did say that Mint's millions of users would be funneled over to its other finance app, Credit Karma. "Credit Karma is thrilled to invite all Minters to continue their financial journey on Credit Karma, where they will have access to Credit Karma’s suite of features, products, tools and services, including some of Mint’s most popular features," Mint wrote on its <a data-i13n="cpos:6;pos:1" href="https://mint.intuit.com/blog/mint-app-news/intuit-credit-karma-welcomes-minters/">product blog</a>. In our testing, we found that Credit Karma isn't an exact replacement for Mint — so if you're still looking for a <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/the-best-budgeting-apps-to-replace-mint-143047346.html">Mint alternative</a>, you have some decent options.</p> 
-<h3 id="jump-link-what-about-rocket-money">What about Rocket Money?</h3> 
-<p><a data-i13n="elm:affiliate_link;sellerN:Rocket Money;elmt:;cpos:8;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=432ed0d5-bf16-421f-b374-3c8c274ca4b9&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1bf1c17b-7ece-4b18-b17b-dc7b5e70f411&amp;featureId=text-link&amp;merchantName=Rocket+Money&amp;linkText=Rocket+Money&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5yb2NrZXRtb25leS5jb20vIiwiY29udGVudFV1aWQiOiIxYmYxYzE3Yi03ZWNlLTRiMTgtYjE3Yi1kYzdiNWU3MGY0MTEiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnJvY2tldG1vbmV5LmNvbS8ifQ&amp;signature=AQAAAeyodTOVgL4K8obQWCI4t6Y1fXcyzKzl35UCbEnr-1YG&amp;gcReferrer=https%3A%2F%2Fwww.rocketmoney.com%2F" class="rapid-with-clickid" data-original-link="https://www.rocketmoney.com/">Rocket Money</a> is another free financial app that tracks spending and supports things like balance alerts and account linking. If you pay for the premium tier, the service can also help you cancel unwanted subscriptions. We did not test it for this guide, but we'll consider it in future updates.</p>This article originally appeared on Engadget at https://www.engadget.com/apps/best-budgeting-apps-120036303.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/apps/best-budgeting-apps-120036303.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">1bf1c17b-7ece-4b18-b17b-dc7b5e70f411</guid>
-                                                                                        <dc:creator><![CDATA[Dana Wollman,Valentina Palladino]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Sep 2025 09:00:35 +0000</pubDate>
-                    <ingested>1758013246</ingested>
-                    <modified>2025-09-16T09:00:53+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Mobile Apps]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Personal Budgeting]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Banking & Budgeting]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Finance]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Dana Wollman]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fc68868f0-b7ef-11ef-ba7f-d3c50de0f3d8&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c86b67a591e4cc8b4a9cf5947d2783382f11c2c7" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-12%2Fc68868f0-b7ef-11ef-ba7f-d3c50de0f3d8&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=633b1392d47db96c05c170a6f19bf91cea3bdcee" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Quicken / Engadget]]></media:credit>
-                                <media:description><![CDATA[The best budgeting apps]]></media:description>
-                                <media:title><![CDATA[The best budgeting apps]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
