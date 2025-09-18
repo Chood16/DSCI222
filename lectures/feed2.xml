@@ -6,9 +6,180 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 18 Sep 2025 15:44:44 +0000</pubDate>
+            <pubDate>Thu, 18 Sep 2025 17:10:57 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Steam is ending support for Windows 32-bit next year]]></title>
+                                        <description type="html"><![CDATA[<p>Steam is officially dropping Windows 32-bit support at the end of this year, the company <a data-i13n="cpos:1;pos:1" href="https://help.steampowered.com/en/faqs/view/49A1-B944-48B8-FF00"><ins>announced</ins></a> today. The only 32-bit version of Windows that is currently supported by Steam is Windows 10 32-bit. The company says 0.01 percent of systems reported through the Steam Hardware Survey are using that version of Windows. On any given day, Steam sees just over <a data-i13n="cpos:2;pos:1" href="https://store.steampowered.com/stats/stats/"><ins>36 million daily users</ins></a>, so it&#39;s safe to assume that this change will only affect a few thousand gamers.</p>
+<p>While this doesn&#39;t mean that your Steam client running on Windows 10 32-bit will self-destruct at midnight on January 1, it does mean that you will no longer receive updates or technical support. Microsoft is also <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/computing/ask-engadget-what-are-my-options-when-windows-10-support-ends-on-october-14-160534495.html"><ins>sunsetting Windows 10</ins></a> on October 14 of this year, which will similarly mean an end to security updates.</p>
+<span id="end-legacy-contents"></span><p>Valve will still support Steam on Windows 10 64-bit for the time being. <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/windows-11-review-microsoft-mindful-os-200028040-200028741.html"><ins>Windows 11</ins></a> doesn&#39;t offer a 32-bit version, making it the first version not to offer 32-bit since the feature was introduced with <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=db8072a9-f5f9-4b1b-9c18-6257e38f0cdc&amp;featureId=text-link&amp;linkText=Windows+NT&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3RlY2hjb21tdW5pdHkubWljcm9zb2Z0LmNvbS9ibG9nL3Nicy8zMC15ZWFycy1vZi13aW5kb3dzLXNlcnZlci8zODg0ODEwIiwiY29udGVudFV1aWQiOiJkYjgwNzJhOS1mNWY5LTRiMWItOWMxOC02MjU3ZTM4ZjBjZGMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vdGVjaGNvbW11bml0eS5taWNyb3NvZnQuY29tL2Jsb2cvc2JzLzMwLXllYXJzLW9mLXdpbmRvd3Mtc2VydmVyLzM4ODQ4MTAifQ&amp;signature=AQAAARxEeYZF7_yYQWhP7LfM_WA9pmpsJ38qQhfPHxjnNQO7&amp;gcReferrer=https%3A%2F%2Ftechcommunity.microsoft.com%2Fblog%2Fsbs%2F30-years-of-windows-server%2F3884810" class="rapid-with-clickid" data-original-link="https://techcommunity.microsoft.com/blog/sbs/30-years-of-windows-server/3884810"><ins>Windows NT</ins></a> in 1993.</p>
+<p>&quot;Core features in Steam rely on system drivers and other libraries that are not supported on 32-bit versions of Windows,&quot; Steam explained in the announcement. Hopefully this change frees up enough bandwidth at Valve to get <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/gaming/half-life-3-is-reportedly-playable-in-its-entirety-and-could-be-announced-this-year-183030499.html"><em><ins>Half-Life 3</ins></em></a> over the finish line.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/steam-is-ending-support-for-windows-32-bit-next-year-171057805.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/pc/steam-is-ending-support-for-windows-32-bit-next-year-171057805.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">db8072a9-f5f9-4b1b-9c18-6257e38f0cdc</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Sep 2025 17:10:57 +0000</pubDate>
+                    <ingested>1758215464</ingested>
+                    <modified>2025-09-18T17:11:06+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F41b0ed00-625d-11f0-bccf-8680a1e7f87d&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f12b6812cfe4b50039c3ea63af922bd9b8d66491" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-07%2F41b0ed00-625d-11f0-bccf-8680a1e7f87d&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bb6f0e75390cf54340ac56efa46203a5213437ae" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Valve]]></media:credit>
+                                <media:description><![CDATA[An ad.]]></media:description>
+                                <media:title><![CDATA[Steam Store]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Gemini in Chrome no longer requires a subscription]]></title>
+                                        <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/google-is-bringing-gemini-to-chrome-so-it-can-answer-questions-about-your-open-tabs-174903787.html"><ins>Back at I/O 2025</ins></a>, Google began integrating Gemini into Chrome. At the time, you needed an <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/google-wants-250-per-month-in-return-for-its-new-ai-ultra-plan-180248513.html"><ins>AI Pro or AI Ultra subscription</ins></a> to access the AI assistant in the browser. That&#39;s <a data-i13n="cpos:3;pos:1" href="https://urldefense.com/v3/__https://blog.google/products/chrome/new-ai-features-for-chrome/__;!!Op6eflyXZCqGR5I!FPnhblE5ZRQF1qh3yEaV-vyNBFujdOSYQ8M8XaYXIGxYMKw2nVXGU6vz0quRlOZ0ttHqIGYUL1cw_YeecDDYQFuoXznmEQ$">changing today</a>. Google has begun rolling out the tool to all Chrome desktop users on both Windows and Mac. Provided you have Chrome&#39;s language set to English and live in the US, you&#39;ll see a new <a data-i13n="cpos:4;pos:1" href="https://youtu.be/g-pG79LOtMw?si=UDjEW3S0ptiW3kZv"><ins>sparkle icon</ins></a> at the top of the interface. Tapping it will allow you to start making requests of Gemini.&nbsp;</p>
+<p>You can also use the tool on a smartphone. On Android, you can do so by holding your phone&#39;s power button. On iOS, meanwhile, Google is working on bringing the assistant to the Chrome app.&nbsp;&nbsp;</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/b5f68780-94a6-11f0-b55b-2323b93aa75e" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/b5f68780-94a6-11f0-b55b-2323b93aa75e" style="height:640px;width:1070px;" alt="A GIF demonstrating Gemini in Chrome, which is accessible through a new dedicated shortcut." data-uuid="f9612ca6-c109-364b-be83-ad55bc618516"><figcaption></figcaption><div class="photo-credit">Google</div></figure>
+<p>Since its introduction at I/O, Google has made some enhancements to how Gemini works inside of Chrome. To start, the tool can now work across multiple tabs, allowing it to compare and summarize information from different websites. At the same time, Gemini can access your browsing history thanks to a new recall feature. Google suggests this can be helpful in situations where you can&#39;t quite remember where you saw something online. Instead of manually sifting through your browser history, you can write a prompt like &quot;what was that blog I read on back to school shopping?&quot; and Gemini will take care of the rest.</p>
+<p>The new version of Gemini for Chrome also offers deeper integrations with other Google services, including Calendar, YouTube and Maps. For instance, you can ask the assistant to schedule meetings for you, and if you&#39;re working through a long YouTube video, Gemini can generate timestamps you can use to jump around the video.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/88813b80-94a9-11f0-bdff-4072beab706b" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/88813b80-94a9-11f0-bdff-4072beab706b" style="height:1080px;width:1920px;" alt="A GIF demonstrating Gemini in Chrome&#39;s browser history recall ability. " data-uuid="21ba87f4-81f6-3270-bcbd-3ceb2f07640f"><figcaption></figcaption><div class="photo-credit">Google</div></figure>
+<p>At the start of May, Google <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/chrome-will-now-use-gemini-nano-to-catch-scams-170057893.html"><ins>began using Gemini Nano</ins></a> to upgrade Chrome&#39;s Enhanced Protection suite. On Thursday, the company said Gemini Nano would also soon work to protect users against websites that use fake viruses or giveaways to trick them. Google has also added an algorithm that will learn your preferences for granting permissions. When it determines you&#39;re unlikely to grant a website permission to access your computer&#39;s camera or location, it will present those requests in a less intrusive way. Similarly, Google will add an AI designed to make it easier to update compromised credentials through Chrome&#39;s built-in password manager. Starting with a handful of supported websites — including Coursera, Duolingo and Spotify — you&#39;ll be able to change your passwords with a single click.</p>
+<p>In the coming months, Google plans to bring agentic capabilities to Chrome, meaning Gemini will be able to complete tasks for you. For example, the company envisions people using this feature to do their weekly grocery shopping through Instacart. The company first previewed this capability with <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/ai/jarvis-googles-web-browsing-ai-is-now-officially-known-as-project-mariner-191603929.html"><ins>Project Mariner</ins></a> at the end of 2024. Over the last year, a few different companies have released their own takes on web-surfing agents with mixed results. For example, people have complained of <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/ai/openais-operator-can-surf-the-web-for-you-210029243.html"><ins>OpenAI&#39;s Operator</ins></a> failing to complete some tasks.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/e6045150-94a6-11f0-b3ff-bd3d50646297" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/e6045150-94a6-11f0-b3ff-bd3d50646297" style="height:720px;width:1280px;" alt="A GIF demonstrating Chrome&#39;s Gemini agent completing an Instacart purchase. " data-uuid="ed9acfc5-7775-33d5-a3ae-aa1188381744"><figcaption></figcaption><div class="photo-credit">Google</div></figure>
+<p>&quot;Our hope is that by the time this gets to users, we&#39;ve done away with many of the potential snafus,&quot; said Mike Torres, vice president of product for Chrome, during a media briefing Google held ahead of today&#39;s announcement. &quot;This is an experimental experience we&#39;re continuing to improve. We&#39;re not going to do something that comprises the user experience.&quot;</p>
+<p>Last but not least, Google is adding an AI Mode mode shortcut directly to Chrome&#39;s address bar. If you need a refresher, AI Mode is Google&#39;s <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/ai/ai-mode-adds-a-dedicated-search-chatbot-to-google-170016310.html"><ins>dedicated search chatbot</ins></a>. At I/O 2025, the company made it available to every <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/ai/google-is-rolling-out-ai-mode-to-everyone-in-the-us-174917628.html"><ins>Search user in the US</ins></a>. Now you can access it without navigating to Google first. When I asked Torres about the button, he was quick to note users don&#39;t have to use the shortcut. &quot;What we&#39;re trying to do is maintain users&#39; existing behavior,&quot; he added.</p>
+<p>As with any major update from Google, it may take a few days for the new features to roll out to your installation of Chrome.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/gemini-in-chrome-no-longer-requires-a-subscription-170045611.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/gemini-in-chrome-no-longer-requires-a-subscription-170045611.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3f2c9048-caad-4bcd-9a41-cd6bea376f11</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Sep 2025 17:00:45 +0000</pubDate>
+                    <ingested>1758211983</ingested>
+                    <modified>2025-09-18T16:13:07+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F20817650-94a7-11f0-b8ff-cca00ed05a6f&amp;resize=1400%2C838&amp;client=19f2b5e49a271b2bde77&amp;signature=cbc84f52557015f530246077f773d9256dbc977b" width="1400" height="838" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F20817650-94a7-11f0-b8ff-cca00ed05a6f&amp;resize=1400%2C838&amp;client=19f2b5e49a271b2bde77&amp;signature=24676cbbe6d77fb050fa6accf31333f4e3b8d3b6" width="1400" height="838" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Google]]></media:credit>
+                                <media:description><![CDATA[Gemini in Chrome brings Google's AI assistant to the world's most popular web browser.]]></media:description>
+                                <media:title><![CDATA[Gemini in Chrome]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Notepad's AI writing features will soon run locally on Copilot+ PCs]]></title>
+                                        <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/microsoft-unveils-copilot-pcs-with-generative-ai-capabilities-baked-in-170445370.html">CoPilot+ PC</a> owners have a new perk in the pipeline. Your AI PC will soon perform Notepad&#39;s AI writing features on-device — no subscription required. The app&#39;s <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/microsoft-notepads-latest-ai-trick-churns-out-custom-text-for-you-174257053.html">summarize, write and rewrite options</a> were introduced earlier this year.</p>
+<p>Up to this point, you&#39;ve needed a <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/microsoft-copilot-pro-is-a-20-monthly-subscription-for-advanced-ai-features-234847522.html">CoPilot Pro</a> or <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/microsoft-office-phased-out-replaced-by-microsoft-365-104748463.html">Microsoft 365</a> subscription to use Notepad&#39;s AI writing tools. So, if you&#39;ve splurged on an AI PC, this could save you a few bucks each month. And if you have both a subscription and a CoPilot+ PC, it lets you choose between local and cloud generation.</p>
+<span id="end-legacy-contents"></span><p>Microsoft is rolling out the new local AI feature now for its Windows Insider beta testers. It&#39;s available in English only, at least for now.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/bcb9f4e0-94aa-11f0-93bf-de4303973d43" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/bcb9f4e0-94aa-11f0-93bf-de4303973d43" style="height:639px;width:1065px;" alt="Sample image showing Microsoft Paint&#39;s new " data-uuid="3a089255-0de2-3361-8b44-b5e95b549261"><figcaption></figcaption><div class="photo-credit">Microsoft</div></figure>
+<p>Paint is also getting some love in the latest Insider builds. You can now save projects, Adobe-style. If you&#39;re in the middle of an edit, you can choose <em>File &gt; Save as project</em>. You can then select a location to save the .paint file and pick up later where you left off.</p>
+<p>On top of that, Paint is also adding an opacity slider to the pencil and brush tools. Nobody in their right mind will describe MS Paint as a Photoshop rival. But at least the simple drawing and editing app is growing <em>slightly</em> more advanced. It&#39;s gotten a renewed focus from the company after <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/microsoft-paint-is-getting-an-ai-powered-image-generator-that-responds-to-your-text-prompts-and-doodles-190653716.html">adding AI image generation chops</a> last year.</p>
+<p>Last but... definitely least is an update to Snipping Tool. Insiders will see a new quick markup option in the screenshot app. After snipping something onscreen, you&#39;ll find the feature in the capture toolbar. You can then scribble away before saving.</p>
+<p>All the Windows updates are available in the Canary and Dev Insider channels. Anyone with a Microsoft account can <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.microsoft.com/en-us/windowsinsider/register">sign up</a> for free. The company does occasionally cancel beta features before they&#39;re released to Windows proper. But that&#39;s more the exception than the rule.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/notepads-ai-writing-features-will-soon-run-locally-on-copilot-pcs-163518223.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/notepads-ai-writing-features-will-soon-run-locally-on-copilot-pcs-163518223.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9e19c658-d15f-4e76-8423-4684567a00a6</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Sep 2025 16:35:18 +0000</pubDate>
+                    <ingested>1758213327</ingested>
+                    <modified>2025-09-18T16:35:30+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F27719900-94ab-11f0-baf2-1e358bd947de&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=42cbb09bb0b21263ce47a1fbe80c98b40fa4532c" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F27719900-94ab-11f0-baf2-1e358bd947de&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=3d5f2b8719b5ffcf83b70cd2a574adc1b791a364" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Microsoft]]></media:credit>
+                                <media:description><![CDATA[Sample image showing Windows Notepad's new on-device AI writing feature.]]></media:description>
+                                <media:title><![CDATA[Notepad AI]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[A former Facebook lobbyist is now in charge of the EU's Facebook regulator]]></title>
                                         <description type="html"><![CDATA[<p>A former lobbyist for Meta is now in charge of the EU&#39;s chief regulator for big tech firms, <a data-i13n="cpos:1;pos:1" href="https://www.irishtimes.com/business/2025/09/17/ex-tech-lobbyist-named-to-data-protection-commission/"><ins>according to reporting by </ins><em><ins>The Irish Times</ins></em></a>. Niamh Sweeney has been named commissioner of the Data Protection Commission (DPC), which is one of the largest EU data protection authorities.</p>
 <p>Prior to this, she worked at Meta for six years. Sweeney was director of European public policy at WhatsApp and head of Irish public policy at Facebook for many of those years. She becomes the third active commissioner of the regulatory body, joining Des Hogan and Dale Sutherland.</p>
@@ -3363,243 +3534,6 @@ On Thursday, November 26, 2020, in Dublin, Ireland. (Photo by Artur Widak/NurPho
                                 <media:credit><![CDATA[Billy Steele for Engadget]]></media:credit>
                                 <media:description><![CDATA[Bose QuietComfort Ultra Earbuds (2nd gen)]]></media:description>
                                 <media:title><![CDATA[Bose QuietComfort Ultra Earbuds (2nd gen)]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The best VPN deals: Get up to 87 percent off ExpressVPN, ProtonVPN, Surfshark and others]]></title>
-                                        <description type="html"><![CDATA[<p>A <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">virtual private network (VPN)</a> can come in handy daily, whether you're using one to streaming foreign TV shows or trying to save money buy browsing international sites for discounts. But if you're going to invest in a VPN, it's worth checking for sales and deals first before you subscribe. Pricing can be tricky for these services — and far from transparent — but there are deals to be had.</p> 
-<p>VPN provides often provide deep discounts to those willing to sign up for one- or two-year plans, paying the full charge for the period upfront. This is a win-win — they boost their subscriber numbers, and you get heavy price cuts on some of our favorite services. Most of the deals we highlight below follow that pattern, so make sure you're comfortable with a longer commitment before you take the plunge. If you've been thinking about subscribing to a VPN service, read on for the best VPN deals we could find right now.</p> <span id="end-legacy-contents"></span>
-<h2 id="jump-link-best-vpn-deals"><strong>Best VPN deals</strong></h2> 
-<p>
- <core-commerce id="96ac5765cf384f3bbb95c5bf40b9a658" data-type="product-list" data-original-url="https://protonvpn.com/l/vpn-home-plans-offer-66"></core-commerce></p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:NordVPN;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c52a3d27-2d9a-44d8-8cf2-6f6387b122a0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=NordVPN&amp;linkText=NordVPN+%E2%80%94+%2483.43+for+a+two-year+subscription+with+three+months+free+%2877+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25vcmR2cG4uY29tL3NwZWNpYWwvIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbm9yZHZwbi5jb20vc3BlY2lhbC8ifQ&amp;signature=AQAAAdOT-QW4mYUKKaZHKPgEaTgjP68Gxzw0j_z_9YlV2rsv&amp;gcReferrer=https%3A%2F%2Fnordvpn.com%2Fspecial%2F" class="rapid-with-clickid" data-original-link="https://nordvpn.com/special/"><strong>NordVPN — $83.43 for a two-year subscription with three months free (77 percent off):</strong></a> NordVPN gets the most important parts of a VPN right. It's fast, it doesn't leak any of your data and it's great at changing your virtual location. I noted in my <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html">NordVPN review</a> that it always connects quickly and includes a support page that makes it easy to get live help. Although I'm sad to see it <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-will-discontinue-meshnet-on-december-1-175538284.html">shutting down Meshnet</a>, NordVPN still includes a lot of cool features, like servers that instantly connect you to Tor. This deal gives you 77 percent off the two-year plan, which also comes with three extra months — but there's no expiration date, so you have a little time for comparison shopping.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:ExpressVPN;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4255ebf1-6185-403e-9be2-91ab47ad1ac3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ExpressVPN&amp;linkText=ExpressVPN+Basic+%E2%80%94+%2497.72+for+a+two-year+subscription+with+four+months+free+%2873+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS90b3Avc3BlY2lhbC1kZWFsL29mZmVyIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmV4cHJlc3N2cG4uY29tL3RvcC9zcGVjaWFsLWRlYWwvb2ZmZXIifQ&amp;signature=AQAAAdvyvaCYKEPEDRaiHSVqiB_O8xJWLFXjCV92TS8ZM1Yw&amp;gcReferrer=https%3A%2F%2Fwww.expressvpn.com%2Ftop%2Fspecial-deal%2Foffer" class="rapid-with-clickid" data-original-link="https://www.expressvpn.com/top/special-deal/offer"><strong>ExpressVPN Basic — $97.72 for a two-year subscription with four months free (73 percent off):</strong></a> This is one of the best VPNs, especially for new users, who will find its apps and website headache-free on all platforms. In tests for my <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/vpn-review-expressvpn-2023-gaming-streaming-160052492.html">ExpressVPN review</a>, it dropped my download speeds by less than 7 percent and successfully changed my virtual location 14 out of 15 times. In short, it's an all-around excellent service that only suffers from being a little overpriced — which is why I'm so excited whenever I find it offering a decent deal. This deal, which gets you 28 months of ExpressVPN service, represents a 73 percent savings. It's the lowest I've seen ExpressVPN go in some time, though like NordVPN, it's not on a ticking clock.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:ExpressVPN;elmt:;cpos:7;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4255ebf1-6185-403e-9be2-91ab47ad1ac3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ExpressVPN&amp;linkText=ExpressVPN+Advanced+%E2%80%94+%24125.72+for+a+two-year+subscription+with+four+months+free+%2867+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS9vcmRlci8iLCJjb250ZW50VXVpZCI6IjM4MjBmMDdmLTBjNWUtNGE5Ni1iYWJhLWQ2ZDllYTA1MTBjMyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuZXhwcmVzc3Zwbi5jb20vb3JkZXIvIn0&amp;signature=AQAAAYJJJiCVpBWMd-u8PFtNT1KgZesvJI5NwAjxhMUGyhNp&amp;gcReferrer=https%3A%2F%2Fwww.expressvpn.com%2Forder%2F" class="rapid-with-clickid" data-original-link="https://www.expressvpn.com/order/"><strong>ExpressVPN Advanced — $125.72 for a two-year subscription with four months free (67 percent off):</strong></a> ExpressVPN recently <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/cybersecurity/vpn/expressvpn-switches-to-multi-tiered-pricing-with-more-feature-options-130016633.html">split its pricing into multiple tiers</a>, but they all still come with similar discounts for going long. In addition to top-tier VPN service, advanced users get two additional simultaneous connections (for a total of 12), the ExpressVPN Keys password manager, advanced ad and tracker blocking, ID protection features and a 50 percent discount on an AirCove router.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:surfshark;elmt:;cpos:9;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6119f7ca-bf13-40ba-b3f6-2a335a8890f6&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=surfshark&amp;linkText=Surfshark+Starter+%E2%80%94+%2453.73+for+a+two-year+subscription+with+three+months+free+%2887+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyJ9&amp;signature=AQAAAdH2FAIDIVtPS_0cqGWMA7QRjWMeFVrXRjSMMEO0fqYM&amp;gcReferrer=https%3A%2F%2Fsurfshark.com%2Fpricing" class="rapid-with-clickid" data-original-link="https://surfshark.com/pricing"><strong>Surfshark Starter — $53.73 for a two-year subscription with three months free (87 percent off):</strong></a> This is the "basic" level of <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/cybersecurity/vpn/surfshark-vpn-review-a-fast-vpn-for-casual-users-170022675.html">Surfshark</a>, but it includes the entire VPN; everything on Surfshark One is an extra perk. With this subscription, you'll get some of the most envelope-pushing features in the VPN world right now. Surfshark has a more closely connected server network than most VPNs, so it can rotate your IP constantly to help you evade detection — it even lets you choose your own entry and exit nodes for a double-hop connection. That all comes with a near-invisible impact on download speeds. With this year-round deal, you can save 87 percent on 27 months of Surfshark.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:surfshark;elmt:;cpos:11;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6119f7ca-bf13-40ba-b3f6-2a335a8890f6&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=surfshark&amp;linkText=Surfshark+One+%E2%80%94+%2467.23+for+a+two-year+subscription+with+three+months+free+%2886+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyJ9&amp;signature=AQAAAdH2FAIDIVtPS_0cqGWMA7QRjWMeFVrXRjSMMEO0fqYM&amp;gcReferrer=https%3A%2F%2Fsurfshark.com%2Fpricing" class="rapid-with-clickid" data-original-link="https://surfshark.com/pricing"><strong>Surfshark One — $67.23 for a two-year subscription with three months free (86 percent off):</strong></a> A VPN is great, but it's not enough to protect your data all on its own. Surfshark One adds several apps that boost your security beyond just VPN service, including Surfshark Antivirus (scans devices and downloads for malware), Surfshark Alert (alerts you whenever your sensitive information shows up in a data breach) and Surfshark Search (a private search engine with no ads or activity tracking). This evergreen deal gives you 87 percent off all those features. If you bump up to Surfshark One+, you'll also get data removal through Incogni, but the price jumps enough that it's not quite worthwhile in my eyes.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:CyberGhost;elmt:;cpos:12;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=9fd99815-3196-46cf-9b6f-707caf84c282&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=CyberGhost&amp;linkText=CyberGhost+%E2%80%94+%2456.94+for+a+two-year+subscription+with+two+months+free+%2883+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jeWJlcmdob3N0dnBuLmNvbS9idXkvY3liZXJnaG9zdC12cG4tMyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5jeWJlcmdob3N0dnBuLmNvbS9idXkvY3liZXJnaG9zdC12cG4tMyJ9&amp;signature=AQAAAVFDOemP8POGnLzpyPpCaI_la8hdkR0Ve_jFdJWf5NL4&amp;gcReferrer=https%3A%2F%2Fwww.cyberghostvpn.com%2Fbuy%2Fcyberghost-vpn-3" class="rapid-with-clickid" data-original-link="https://www.cyberghostvpn.com/buy/cyberghost-vpn-3"><strong>CyberGhost — $56.94 for a two-year subscription with two months free (83 percent off):</strong></a> CyberGhost has some of the best automation you'll see on any VPN. With its Smart Rules system, you can determine how its apps respond to different types of Wi-Fi networks, with exceptions for specific networks you know by name. Typically, you can set it to auto-connect, disconnect or send you a message asking what to do. CyberGhost's other best feature is its streaming servers — while it's not totally clear what it does to optimize them, I've found both better video quality and more consistent unblocking when I use them on streaming sites. Currently, you can get 26 months of CyberGhost for 83 percent off the usual price.</p> 
-<p><a data-i13n="elm:affiliate_link;sellerN:private internet access;elmt:;cpos:13;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=8b0732cc-efc2-4542-849d-cadc641525e2&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=private+internet+access&amp;linkText=Private+Internet+Access+%E2%80%94+%2479+for+a+three-year+subscription+with+three+months+free+%2883+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5wcml2YXRlaW50ZXJuZXRhY2Nlc3MuY29tL2J1eS12cG4tb25saW5lP2NvdXBvbj1vZmZpY2lhbC1zaXRlIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYnV5LXZwbi1vbmxpbmU_Y291cG9uPW9mZmljaWFsLXNpdGUifQ&amp;signature=AQAAATlqHa_vZEKuis4XsOMk7-D6bWa2kZz1DudT0Xrs_4bN&amp;gcReferrer=https%3A%2F%2Fwww.privateinternetaccess.com%2Fbuy-vpn-online%3Fcoupon%3Dofficial-site" class="rapid-with-clickid" data-original-link="https://www.privateinternetaccess.com/buy-vpn-online?coupon=official-site"><strong>Private Internet Access — $79 for a three-year subscription with three months free (83 percent off):</strong></a> It's a bit hard to find (the link at the start of this paragraph includes the coupon), but Private Internet Access (PIA) is giving out the best available price right now on a VPN I'd recommend using. With this deal, you can get 39 months of PIA for a little bit over $2 per month — an 83 percent discount on its monthly price. Despite being so cheap, PIA almost never comes off as a budget VPN, coming with its own DNS servers, a built-in ad blocker and automation powers to rival CyberGhost. However, internet speeds can fluctuate while you're connected.</p> 
-<h2 id="jump-link-what-makes-a-good-vpn-deal"><strong>What makes a good VPN deal</strong></h2> 
-<p>Like I said in the intro, practically every VPN heavily discounts its long-term subscriptions the whole year round. The only noteworthy exception is Mullvad, the Costco hot dog of VPNs (that's a compliment, to be clear). When there's constantly a huge discount going on, it can be hard to tell when you're actually getting a good deal. The best way to squeeze out more savings is to look for seasonal deals, student discounts or exclusive sales like <a data-i13n="elm:affiliate_link;sellerN:ProtonVPN;elmt:;cpos:14;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=06a20697-4135-4e83-a421-f326eee937ed&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ProtonVPN&amp;linkText=Proton+VPN%27s+coupon+for+Engadget+readers&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3Byb3RvbnZwbi5jb20vbC92cG4taG9tZS1wbGFucy1vZmZlci02NiIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3Byb3RvbnZwbi5jb20vbC92cG4taG9tZS1wbGFucy1vZmZlci02NiJ9&amp;signature=AQAAAXblbAdg41Upy-ikI1NWGnvIj4qyrHoZiRe-XQqP16_n&amp;gcReferrer=https%3A%2F%2Fprotonvpn.com%2Fl%2Fvpn-home-plans-offer-66" class="rapid-with-clickid" data-original-link="https://protonvpn.com/l/vpn-home-plans-offer-66">Proton VPN's coupon for Engadget readers</a>.</p> 
-<p>One trick VPNs often use is to add extra months onto an introductory deal, pushing the average monthly price even lower. When it comes time to renew, you usually can't get these extra months again. You often can't even renew for the same basic period of time — for example, you may only be able to renew a two-year subscription for one year. If you're planning to hold onto a VPN indefinitely, check the fine print to see how much it will cost per month after the first renewal, and ensure that fits into your budget.</p> 
-<p><em>Follow </em><a data-i13n="cpos:15;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:16;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:17;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/best-vpn-deals-120056041.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/best-vpn-deals-120056041.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3820f07f-0c5e-4a96-baba-d6d9ea0510c3</guid>
-                                                                                        <dc:creator><![CDATA[Sam Chapman]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 17 Sep 2025 08:00:35 +0000</pubDate>
-                    <ingested>1758096036</ingested>
-                    <modified>2025-09-17T08:00:40+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sam Chapman]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2Fb2dd52b0-8365-11f0-b7fd-343d09fff71e&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=abeb41219838cfcffef2ca99a318932c0c24863c" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-08%2Fb2dd52b0-8365-11f0-b7fd-343d09fff71e&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=160299240bf5890c495b7bce8732e7c41ea1aae2" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[Best VPN deals]]></media:description>
-                                <media:title><![CDATA[Best VPN deals]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The best streaming services in 2025]]></title>
-                                        <description type="html"><![CDATA[<p>With so many options available today, choosing the best streaming services can feel overwhelming. Whether you’re into blockbuster movies, reality TV, documentaries or just want access to news channels, there’s a platform tailored to your tastes and budget. If you’re looking to cut the cord completely, you might also want to explore live TV options that offer cable-like channels without the hassle. We’ve also put together a separate guide to the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html">best live TV streaming services</a> if you’re after a full channel lineup that includes sports, local stations and breaking news. In this buying guide, though, we’re focusing on the top on-demand streaming services worth subscribing to right now — whether you’re binging shows solo or setting up family-friendly entertainment for the weekend.</p> 
-<h2 id="jump-link-best-streaming-services-for-2025">Best streaming services for 2025</h2> 
-<p> <core-commerce id="b31ad36fb71d4ac2a82d330a382fd57b" data-type="product-list" data-original-url="https://www.netflix.com/"></core-commerce></p> 
-<p> <core-commerce id="aee44ca8431e4262a123500a8345a1b1" data-type="product-list" data-original-url="https://www.hbomax.com/"></core-commerce></p> 
-<p> <core-commerce id="bace4047d76b4bb6a952ced2bb89d7d0" data-type="product-list" data-original-url="https://www.amazon.com/Prime-Video/b?node=2676882011"></core-commerce></p> 
-<p> <core-commerce id="845a3d3329ce42fd9d5742ecabb4633c" data-type="product-list" data-original-url="https://www.disneyplus.com/"></core-commerce></p> 
-<p> <core-commerce id="52ec2901bbb64d50b8d215784caa61af" data-type="product-list" data-original-url="https://tv.apple.com/"></core-commerce></p> 
-<p> <core-commerce id="5bf146069f9e4173a3f3410a2dc9185f" data-type="product-list" data-original-url="https://www.paramountplus.com/?"></core-commerce></p> 
-<p> <core-commerce id="75a0e134064343b9934ffd40803e4451" data-type="product-list" data-original-url="https://www.peacocktv.com/"></core-commerce></p> 
-<p> <core-commerce id="cdd488f7e02941f79fb61abbd90351fb" data-type="product-list" data-original-url="https://www.criterionchannel.com/"></core-commerce></p> 
-<p> <core-commerce id="ce69389c63f44dff8ec6e1a461631ab0" data-type="product-list" data-original-url="https://www.shudder.com/"></core-commerce></p> 
-<p> <core-commerce id="1b760c246ca84addad933b9e31ca718d" data-type="product-list" data-original-url="https://www.viki.com/"></core-commerce></p> 
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/best-streaming-services-154527042.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/best-streaming-services-154527042.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">0be6f8f4-074d-390f-96d4-13e40bbd63a2</guid>
-                                                                                        <dc:creator><![CDATA[Engadget]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 17 Sep 2025 07:01:26 +0000</pubDate>
-                    <ingested>1758111187</ingested>
-                    <modified>2025-09-17T12:13:36+00:00</modified>
-                                            <category>
-                            <![CDATA[Netflix]]>
-                        </category>
-                                            <category>
-                            <![CDATA[PrimeVideo]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Streamingvideo]]>
-                        </category>
-                                            <category>
-                            <![CDATA[thecriterionchannel]]>
-                        </category>
-                                            <category>
-                            <![CDATA[thebuyersguide]]>
-                        </category>
-                                            <category>
-                            <![CDATA[hgg2020]]>
-                        </category>
-                                            <category>
-                            <![CDATA[YouTube]]>
-                        </category>
-                                            <category>
-                            <![CDATA[VMHoliday2020]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Shudder]]>
-                        </category>
-                                            <category>
-                            <![CDATA[streaming]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Disney]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Hulu]]>
-                        </category>
-                                            <category>
-                            <![CDATA[hbomax]]>
-                        </category>
-                                            <category>
-                            <![CDATA[CBSAllAccess]]>
-                        </category>
-                                            <category>
-                            <![CDATA[streamingservices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[ESPNplus]]>
-                        </category>
-                                            <category>
-                            <![CDATA[holiday20]]>
-                        </category>
-                                            <category>
-                            <![CDATA[VRV]]>
-                        </category>
-                                            <category>
-                            <![CDATA[YouTubeTV]]>
-                        </category>
-                                            <category>
-                            <![CDATA[disneyplus]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Engadget]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F8e2c2f00-8d91-11f0-afad-433ebdb0b1f2&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=db38b9d7108dd7e8a9b6000de919eb33a6df0697" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F8e2c2f00-8d91-11f0-afad-433ebdb0b1f2&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=80291a38d52c0655e39e4c56317ade628e25d978" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[The best streaming services]]></media:description>
-                                <media:title><![CDATA[The best streaming services]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Fiverr is laying off 250 employees to become an 'AI-first company']]></title>
-                                        <description type="html"><![CDATA[<p>Gig economy platform Fiverr is laying off 250 employees as it pivots to being an &quot;AI-first company,&quot; CEO Micha Kaufman <a data-i13n="cpos:1;pos:1" href="https://x.com/michakaufman/status/1967624550020985069">shared in an essay on X</a>. The move affects around 30 percent of the company&#39;s staff, <a data-i13n="cpos:2;pos:1" href="https://www.theregister.com/2025/09/16/fiverr_ai_layoff/"><em>The Register</em> writes</a>, and it&#39;s not uncommon among tech companies in 2025. Duolingo announced similar plans to become <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/duolingo-will-replace-contract-workers-with-ai-for-content-creation-123058970.html">&quot;AI-first&quot;</a> in April.</p>
-<p>Kaufman describes this process as returning to &quot;startup mode&quot; and writes that his ultimate goal is to turn Fiverr into &quot;an AI-first company that&#39;s leaner, faster, with a modern AI-focused tech infrastructure, a smaller team, each with substantially greater productivity, and far fewer management layers.&quot; Part of the justification Kaufman offers for why Fiverr doesn&#39;t &quot;need as many people to operate the existing business&quot; is that the company has already integrated AI into its customer support and fraud detection programs.</p>
-<span id="end-legacy-contents"></span><p>The first sign that Fiverr might justify layoffs with AI came when Kaufman was <a data-i13n="cpos:4;pos:1" href="https://www.youtube.com/watch?v=8MPdmx-hiHA">interviewed by <em>CBS News</em></a> in May 2025 about the danger the technology posed to employees. Kaufman specifically advised employees to &quot;automate 100 percent&quot; of what they do with AI, while also claiming that wouldn&#39;t make them replaceable because they were still capable of &quot;non-linear thinking&quot; and &quot;judgement calls.&quot; That advice doesn&#39;t seem like it was ultimately helpful for Fiverr&#39;s own employees.</p>
-<p>The company&#39;s cuts affect fewer people than a larger firm like Workday, who announced plans to <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/workday-lays-off-1750-employees-citing-demand-for-ai-134922398.html">eliminate 1,750 roles</a> in February 2025. Regardless of the size of the company or its level of investment in AI, though, layoffs have the same effect: More work has to be done by fewer people.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/fiverr-is-laying-off-250-employees-to-become-an-ai-first-company-215730063.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/fiverr-is-laying-off-250-employees-to-become-an-ai-first-company-215730063.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">069e0222-e547-4ba6-b81c-c2f31753a641</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Sep 2025 21:57:30 +0000</pubDate>
-                    <ingested>1758059853</ingested>
-                    <modified>2025-09-16T21:57:37+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F247c23e0-9344-11f0-b677-c0d27d24108d&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=b70ab81c4d786e605a164ec12fa6e9c011883bd5" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F247c23e0-9344-11f0-b677-c0d27d24108d&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=d74d85efa697286d8e9a2f8b6508735ab6c4efba" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Fiverr]]></media:credit>
-                                <media:description><![CDATA[The Fiverr word mark on a green background.]]></media:description>
-                                <media:title><![CDATA[Fiverr-logo]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
