@@ -6,9 +6,74 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Mon, 09 Jun 2025 19:18:54 +0000</pubDate>
+            <pubDate>Fri, 19 Sep 2025 00:23:34 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Meta Ray-Ban Display hands-on: Discreet and intuitive]]></title>
+                                        <description type="html"><![CDATA[<p>I&#39;ve been testing smart glasses for almost a decade. And in that time, one of the questions I&#39;ve been asked the most is &quot;oh, but can you see anything in them?&quot; For years, I had to explain that no, glasses like that don&#39;t really exist yet.</p>
+<p>That&#39;s no longer the case. And while I&#39;ve seen a bunch of glasses over the last year that have some kind of display, the Meta Ray-Ban Display glasses feel the closest to fulfilling what so many people envision when they hear the words &quot;smart glasses.&quot;</p>
+<span id="end-legacy-contents"></span><p>To be clear, they don&#39;t offer the kind of immersive AR that&#39;s possible with <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ar-vr/metas-orion-prototype-offers-a-glimpse-into-our-ar-future-123038066.html">Meta&#39;s Orion prototype</a>. In fact Meta considers &quot;display AI glasses&quot; to be a totally separate category from AR. The display is only on one lens — the right — and its 20-degree field of view is much smaller than the 70 degrees on Orion. That may sound like a big compromise, but it doesn&#39;t feel like one.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/30113ea0-94ea-11f0-b5ef-5d7b928050e5" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/30113ea0-94ea-11f0-b5ef-5d7b928050e5" style="height:1280px;width:1920px;" alt="The Meta Ray-Ban Display glasses." data-uuid="6feaa76a-42bd-3213-aa1f-37d4da20ad79"><figcaption></figcaption><div class="photo-credit">Karissa Bell for Engadget</div></figure>
+<p>The single display feels much more practical for a pair of glasses you&#39;ll want to wear every day. It&#39;s meant to be something you can glance at when you need it, not an always-on overlay. The smaller size also means that the display is much sharper, at 42 pixels per degree. This was especially noticeable when I walked outside with the glasses on; images on the display looked even sharper than in indoor light, thanks to automatic brightness features.</p>
+<p>I also appreciated that you can&#39;t see any light from the display when you&#39;re looking at someone wearing the glasses. In fact the display is only barely noticeable at all when you at them up close.&nbsp;</p>
+<p>Having a smaller display also means that the glasses are cheaper, at $799, and that they don&#39;t look like the chunky AR glasses we&#39;ve seen so many times. At 69 grams, they are a bit heavier and thicker than the second-gen Meta Ray-Bans, but not much. As someone who has tried on way too many pairs of thick black smart glasses, I&#39;m glad Meta is offering these in a color besides black. All Wayfarer-style frames look wide on my face but the lighter &quot;sand&quot; color feels a lot more flattering.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/ebd71e80-94e9-11f0-b579-e622f4760786" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/ebd71e80-94e9-11f0-b579-e622f4760786" style="height:1080px;width:1920px;" alt="The Meta Ray-Ban Display (left) and second-gen Ray-Ban Meta glasses (right.) The display glasses a little thicker." data-uuid="6d8aeb21-16fa-3814-852c-80f9bbba4c52"><figcaption>The Meta Ray-Ban Display (left) and second-gen Ray-Ban Meta glasses (right.) The display glasses are a little thicker.</figcaption><div class="photo-credit">Karissa Bell for Engadget</div></figure>
+<p>The Meta Neural Band wristband that comes with the display glasses functions pretty much the same as the band I used on the Orion prototype. It uses sensors to detect the subtle muscle movements on your hand and wrist and can translate that into actions within the glasses&#39; interface.</p>
+<p>It&#39;s hard to describe, but the gestures for navigating the glasses interfaces work surprisingly well. I can see how it could take a little time to get used to the various gestures for navigating between apps, bringing up Meta AI, adjusting the volume and other actions, but they are all fairly intuitive. For example, you use your thumb to swipe along the the top of your index finger, sort of like a D-pad, to move up and down and side to side. And you can raise and lower the speaker volume by holding your thumb and index finger together and rotating your wrist right or left like it&#39;s a volume knob.</p>
+<p>It&#39;s no secret that Meta&#39;s ultimate goal for its smart glasses is to replace, or almost replace, your phone. That&#39;s not possible yet, but having an actual display means you can look at your phone a whole lot less.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/cd5d5770-94ea-11f0-9bd9-beed797f3ad5" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/cd5d5770-94ea-11f0-9bd9-beed797f3ad5" style="height:1280px;width:1920px;" alt="The Neural Wristband." data-uuid="b1c4c4ed-892e-3f74-9f71-1ac40e2d8250"><figcaption></figcaption><div class="photo-credit">Karissa Bell for Engadget</div></figure>
+<p>The display can surface incoming texts, navigation with map previews (for walking directions), and info from your calendar. I was also able to take a video call from the glasses — unlike Mark Zuckerberg&#39;s attempted live demo during his keynote — and it was way better than I expected. I could not only clearly see the person I was talking to and their surroundings, I could turn on my glasses&#39; camera and see a smaller version of the video from my side.</p>
+<p>I also got a chance to try the Conversational Focus feature, which allows you to get live captions of the person you&#39;re speaking with even in a loud environment that may be hard to hear. There was something very surreal about getting real-time subtitles to a conversation with a person standing  directly in front of me. As someone who tries really hard to not look at screens when I&#39;m speaking to people, it almost felt a little wrong. But I can also see how this would be incredibly helpful to people who have trouble hearing or processing conversations. It would also be great for translations, something Meta AI already does very well.</p>
+<core-slideshow data-slideshowid="984ad0dd-ca99-4a06-9688-02bfb2be8fa4"/>
+<p>I also appreciated that the wristband allows you to invoke Meta AI with a gesture so you don&#39;t always have to say &quot;Hey Meta.&quot; It&#39;s a small change, but I&#39;ve always felt weird about talking to Meta AI in public. The display also addresses another one of my longtime gripes with the Ray-Ban Meta and Oakley glasses: framing a photo is really difficult. But with a display, you can see a preview of your shot, as well as the photo after the fact, so you no longer have to just snap a bunch and hope for the best.</p>
+<p>I&#39;ve only had about 30 minutes with the glasses, so I don&#39;t really know how having a display could fit into my daily routine. But even after a short time with them, they really do feel like the beginning of the kind of smart glasses a lot of people have been waiting for.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/meta-ray-ban-display-hands-on-discreet-and-intuitive-002334346.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/wearables/meta-ray-ban-display-hands-on-discreet-and-intuitive-002334346.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">74689c5b-1a39-46f6-b763-398331c60fc3</guid>
+                                                                                        <dc:creator><![CDATA[Karissa Bell]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Fri, 19 Sep 2025 00:23:34 +0000</pubDate>
+                    <ingested>1758241422</ingested>
+                    <modified>2025-09-19T00:23:48+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Karissa Bell]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F46334fa0-94d8-11f0-96ff-f923169b6397&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=9dbbeb03319d0f0fdcf9553f81ed271f533487a8" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F46334fa0-94d8-11f0-96ff-f923169b6397&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=9fcf267a92fc8e4c6d52ba9b63ccdd18f0872e03" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Karissa Bell for Engadget]]></media:credit>
+                                <media:description><![CDATA[The Meta Ray-Ban Display glasses.]]></media:description>
+                                <media:title><![CDATA[The Meta Ray-Ban Display glasses.]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Ready to download iOS 26? See if your iPhone is eligible for the free update first]]></title>
                                         <description type="html"><![CDATA[<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-06/e8198950-4560-11f0-b77d-f9c64c0ca41d" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-06/e8198950-4560-11f0-b77d-f9c64c0ca41d" style="height:1080px;width:1920px;" alt="All the new features iOS 26 has to offer." data-uuid="d1c00410-920f-387b-8f1d-4057226dedd6"><figcaption></figcaption></figure>
 <p>Now that iOS 26 is available to download for many iPhone users — <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/mobile/smartphones/ios-26-is-now-available-heres-how-to-install-it-on-your-iphone-171233434.html">here's how to install it</a> — it's time to check your phone to see if you're eligible for the update. The new OS became available on Monday this week, along with iPadOS 26 and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/smartphones/ios-26-ipados-26-watchos-26-and-macos-26-will-be-released-on-september-15-182024821.html">Apple's other operating system updates</a>.</p>
@@ -3286,62 +3351,6 @@ On Thursday, November 26, 2020, in Dublin, Ireland. (Photo by Artur Widak/NurPho
                                 <media:credit><![CDATA[Sam Rutherford for Engadget]]></media:credit>
                                 <media:description><![CDATA[iPhone 17]]></media:description>
                                 <media:title><![CDATA[iPhone 17]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Pick up the iPad Air M3 while it's $150 off right now]]></title>
-                                        <description type="html"><![CDATA[<p>Now's the time to be on the lookout for <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/deals/the-best-ipad-deals-you-can-get-right-now-include-the-ipad-a16-for-299-150020765.html">iPads deals</a> as we get closer and closer to the holiday season. Whether you're looking for a new tablet for yourself or someone else, the next few months should present plenty of worthy discounts to consider. Case in point: this <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0DZ74YQ1V&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3cea4cba-2e10-45af-bd97-60f01aa0757e&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=iPad+Air+M3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRFo3NFlRMVYvP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjNjZWE0Y2JhLTJlMTAtNDVhZi1iZDk3LTYwZjAxYWEwNzU3ZSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMERaNzRZUTFWLyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAXStkJrrPZBEJFpckMgTcEfLn3PlZT_jls5DADza62A1&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ74YQ1V%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0DZ74YQ1V/?th=1">iPad Air M3</a> deal, which knocks $150 off the 11-inch Wi-Fi model, bringing it down to a record low of $450.</p> 
-<p>We gave the iPad Air M3 an <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/mobile/tablets/ipad-air-m3-review-a-modest-update-thats-still-easy-to-recommend-130045196.html">89 in our review</a>, thanks, in part, to its new chip. The M3 chip gives this generation's iPad Air a big boost over the M2 model — despite coming out less than a year apart. Plus, even without the discount, it's a more affordable option across Apple's iPad range.&nbsp;</p> <span id="end-legacy-contents"></span> 
-<p> <core-commerce id="946329fad81c4099bbf9f6d1871a89d9" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0DZ74YQ1V/?th=1"></core-commerce></p> 
-<p>In fact, we named the iPad Air M3 as our choice for the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/mobile/tablets/best-ipads-how-to-pick-the-best-apple-tablet-for-you-150054066.html">best iPad for most people</a>. Unless you plan to use your iPad as a substitute computer or really want a top notch screen, then you probably don't need the <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html">iPad Pro</a>. The iPad Air M3 strikes a great balance of features for a lot less money.&nbsp;</p> 
-<p><em>Check out our coverage of the </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/deals/best-apple-deals-150020110.html"><em>best Apple deals</em></a><em> for more discounts, and follow </em><a data-i13n="cpos:7;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest tech deals and buying advice.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/pick-up-the-ipad-air-m3-while-its-150-off-right-now-133334122.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/pick-up-the-ipad-air-m3-while-its-150-off-right-now-133334122.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3cea4cba-2e10-45af-bd97-60f01aa0757e</guid>
-                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 17 Sep 2025 12:17:45 +0000</pubDate>
-                    <ingested>1758111475</ingested>
-                    <modified>2025-09-17T12:17:59+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sarah Fielding]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2F801bfc60-fb83-11ef-ae9a-e4bd9bab8298&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=de865ef68be3fc5bb7812cadc4eed6deb4f8ff4a" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-03%2F801bfc60-fb83-11ef-ae9a-e4bd9bab8298&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=3e7610f4bfbdbeaba67952cfd8893b8ec869a244" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Nathan Ingraham for Engadget]]></media:credit>
-                                <media:description><![CDATA[Apple iPad Air (M3)]]></media:description>
-                                <media:title><![CDATA[Apple iPad Air (M3)]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
