@@ -6,9 +6,225 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 25 Sep 2025 16:06:41 +0000</pubDate>
+            <pubDate>Thu, 25 Sep 2025 17:01:07 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Microsoft blocks Israel's use of its data centers for mass surveillance of Palestinians]]></title>
+                                        <description type="html"><![CDATA[<p>Microsoft has ended access to its data centers for a unit of the Israeli military that helped power a massive surveillance operation against Palestinian civilians, <a data-i13n="cpos:1;pos:1" href="https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians">according to a report by <em>The Guardian</em></a>. The company says that the country&#39;s spy agency has violated its terms of service.</p>
+<p>This surveillance system collected <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/big-tech/israel-is-reportedly-storing-millions-of-palestinian-phone-calls-on-microsoft-servers-161127912.html"><ins>millions of phone calls made by Palestinian civilians</ins></a> every day in Gaza and the West Bank. The massive trove of data has been stored via Microsoft&#39;s Azure cloud platform, but the company just informed Israel&#39;s spy agency that this practice will no longer be acceptable.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>Microsoft’s vice-chair and president, Brad Smith, alerted staff of the move in an email, writing that the company had “ceased and disabled a set of services to a unit within the Israel ministry of defense.&quot; He went to suggest that this included cutting off access to cloud storage and some AI services.</p>
+<p>“We do not provide technology to facilitate mass surveillance of civilians,&quot; he continued. &quot;We have applied this principle in every country around the world, and we have insisted on it repeatedly for more than two decades.”</p>
+<p>Microsoft came to this decision after conducting an external inquiry to review the spy agency&#39;s use of its Azure cloud platform. It also comes amid pressure from <a data-i13n="cpos:3;pos:1" href="https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella">both employees</a> and <a data-i13n="cpos:4;pos:1" href="https://www.bloomberg.com/news/articles/2025-07-11/microsoft-investors-prod-company-over-work-with-israeli-military">investors</a> for the company to examine its relationship with Israel as it relates to the military offensive in Gaza.</p>
+<p>This reportedly started back in 2021, when Microsoft CEO Satya Nadella allegedly okayed the storage effort personally after meeting with a commander from Israel&#39;s elite military surveillance corps, Unit 8200. Nadella reportedly gave the country a customized and segregated area within the Azure platform to store these phone calls, all without knowledge or consent from Palestinians.&nbsp;</p>
+<p>While conflict has existed between Israel and Palestinian groups for decades, these platforms were built out a full two years before the the most recent escalation in violence, beginning October 7, 2023. The mantra when building out the project was to record &quot;a million calls an hour.&quot;</p>
+<p>Leaked Microsoft files suggested that the lion&#39;s share of this data was being stored in Azure facilities in the Netherlands, but Israel allegedly moved it after Microsoft started its initial investigation. <em>The Guardian</em> has reported that Unit 8200 planned on transferring the data to the Amazon Web Services cloud platform. We have contacted Amazon to ask if it has accepted this gigantic trove of personal data.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">e0e05266-98cf-4780-abf5-c5d2714dfb4e</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 25 Sep 2025 17:01:07 +0000</pubDate>
+                    <ingested>1758819677</ingested>
+                    <modified>2025-09-25T17:01:18+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F9c21ba60-9a2c-11f0-9ffd-b344a5e619f8&amp;resize=1400%2C879&amp;client=19f2b5e49a271b2bde77&amp;signature=ad0430a072a2f688e2eac39f7c8acbab4040d28d" width="1400" height="879" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F9c21ba60-9a2c-11f0-9ffd-b344a5e619f8&amp;resize=1400%2C879&amp;client=19f2b5e49a271b2bde77&amp;signature=9df3ebfe15a3260227438abd766d713606f4f52a" width="1400" height="879" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Microsoft ]]></media:credit>
+                                <media:description><![CDATA[A logo.]]></media:description>
+                                <media:title><![CDATA[Microsoft Azure]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Nintendo is opening a pop-up store in London this fall]]></title>
+                                        <description type="html"><![CDATA[<p>Nintendo <a data-i13n="cpos:1;pos:1" href="https://www.nintendo.com/en-gb/News/2025/September/Announcing-the-Nintendo-POP-UP-STORE-in-LONDON--2922380.html?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=NULL%7Cl_id_NUK_FK39XyTr"><ins>will open</ins></a> an official pop-up store in London this fall, its first-ever in the UK. The store will be open from October 22 to November 16 on the ground floor of the Westfield London shopping mall in Shepherd&#39;s Bush.</p>
+<p>The Japanese gaming giant operates official stores in Tokyo and Kyoto, as well as permanent locations in New York and (20 years later) <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendos-san-francisco-store-will-open-on-may-15-213532685.html"><ins>San Francisco</ins></a>. The pop-up store in London will feature an extensive collection of Nintendo merchandise across the brand&#39;s most iconic titles including Super Mario, Donkey Kong, The Legend of Zelda, Animal Crossing and more. Fans can pick up all sorts of apparel and collectible accessories like keyrings, pins and bags.</p>
+<span id="end-legacy-contents"></span><p>Entry to the pop-up during its first week will be by reservation only, with tickets going live on October 7. Guests will be able to reserve a date and time slot to enter between October 22 and 26. From October 27, store entry will operate via a first-come, first-served system, though don&#39;t be surprised to see a line out the door.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/nintendo-is-opening-a-pop-up-store-in-london-this-fall-164549021.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/nintendo-is-opening-a-pop-up-store-in-london-this-fall-164549021.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">bfbe22a4-3702-4439-8063-64b11dbe30a4</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 25 Sep 2025 16:45:49 +0000</pubDate>
+                    <ingested>1758818223</ingested>
+                    <modified>2025-09-25T16:37:04+00:00</modified>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2F4cdebf30-0052-11f0-b6df-731c40e5257f&amp;resize=1400%2C955&amp;client=19f2b5e49a271b2bde77&amp;signature=1fc5b7d1fe18dafc5d2b2728b9599b09f07ca2f9" width="1400" height="955" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-03%2F4cdebf30-0052-11f0-b6df-731c40e5257f&amp;resize=1400%2C955&amp;client=19f2b5e49a271b2bde77&amp;signature=e936648b4d876ea8f19593a9fe3ad04d3e82681a" width="1400" height="955" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[REUTERS / Reuters]]></media:credit>
+                                <media:description><![CDATA[Nintendo's game character items and goods are displayed at Nintendo Tokyo, the first-ever Nintendo official store in Japan, at at SHIBUYA PARCO department store and shopping mall complex, during a press preview in Tokyo, Japan November 19, 2019.  REUTERS/Issei Kato]]></media:description>
+                                <media:title><![CDATA[Nintendo's game character items and goods are displayed at Nintendo Tokyo, the first-ever Nintendo official store in Japan, during a press preview in Tokyo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Microsoft pressured to extend free Windows 10 security updates in most of Europe]]></title>
+                                        <description type="html"><![CDATA[<p>Score another win for EU consumers. On Wednesday, Microsoft <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.windowscentral.com/microsoft/windows-10/major-backtrack-as-microsoft-makes-windows-10-extended-security-updates-free-for-an-extra-year-but-only-in-certain-markets">backtracked</a> on the strings it had attached to Windows 10&#39;s Extended Security Updates (ESU) program. However, it only did so in the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)">European Economic Area (EEA)</a> following complaints from an advocacy group. The elephant in the room? The EU&#39;s Digital Markets Act (DMA) safeguards against unlawful bundling and restricting consumer choice. Had the company not relented, those regulations could have spawned investigations and hefty fines.</p>
+<p>&quot;In the European Economic Area, we’re making updates to the enrollment process to ensure it meets local expectations and delivers a secure, streamlined experience,&quot; a Microsoft spokesperson told <em>Windows Central</em>. &quot;Our goal is to support customers and provide them with options as they transition to Windows 11, with uninterrupted access to critical security updates.&quot;</p>
+<span id="end-legacy-contents"></span><p>The move stems from Microsoft&#39;s decisions regarding the future of Windows 10. In early 2023, the company said it would only support <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/microsoft-to-stop-selling-windows-10-downloads-as-part-of-planned-shutdown-133756584.html">crucial security updates for the operating system</a> until October 2025.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/dd65f310-9a2c-11f0-aff7-835aec738cb1" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/dd65f310-9a2c-11f0-aff7-835aec738cb1" style="height:1112px;width:1976px;" alt="Screenshot from a Microsoft website. A Message states that the company will no longer offer free updates to Windows 10 after October 14. Blue background, with a floating Windows laptop off to the right." data-uuid="5a9f52c7-286b-3596-8858-22b28fc36aa1"><figcaption></figcaption><div class="photo-credit">Microsoft</div></figure>
+<p>Since then, the company launched the ESU program. It <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/computing/microsoft-offers-windows-10-users-a-year-of-security-updates-for-30-160036244.html">allows consumers to pay $30</a> to add a one-year extension on security updates. The Windows maker also added a couple of &quot;free&quot; options. The first one is to enable Windows cloud backup using a Microsoft account. However, that uses OneDrive. And once you surpass 5GB of free storage, you&#39;ll need to pay for more. (If you have a lot of big files to back up, that would likely apply.) The other option is to <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/computing/windows-10-users-can-get-extended-security-updates-for-1000-microsoft-rewards-points-170023129.html">spend 1,000 Microsoft Rewards points</a>, which not everyone has lying around.</p>
+<p>The advocacy org Euroconsumers <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.euroconsumers.org/microsoft-security-windows-10-planned-obsolescence/">called out Microsoft</a> in June. &quot;Limiting security means limiting product life,&quot; the nonprofit wrote. It described Microsoft&#39;s Windows 10 requirements as &quot;planned obsolescence.&quot; That&#39;s the practice of <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/2017-12-20-apple-says-slower-performance-of-older-iphones-intentional.html">deliberately designing products with limited lifespans</a>. Conveniently for Big Tech, that tends to boost sales. Inconveniently for consumers, it&#39;s an added cost.</p>
+<p>Planned obsolescence is also a term that could have drawn the ire of EU regulators. Tech titans like Microsoft found to violate the DMA can be forced to pay up to 10 percent of their global annual turnover.</p>
+<p>Euroconsumers said Microsoft was steering consumers toward two options. &quot;Buy a new device before you&#39;re ready or stick with your current one and face increased security risks,&quot; it wrote. The group noted that 22 percent of EU PC owners still run a Windows device from 2017 or earlier. 2018 is often considered a rough baseline for Windows 11 eligibility, given the software&#39;s technical requirements.</p>
+<p>While PC users in the EEA now have an extra year, the rest of the world isn&#39;t so lucky. If you&#39;re still running Windows 10, you only have until October 14 to do one of three things: upgrade to Windows 11 (Microsoft&#39;s preferred choice), pay $30, turn on Windows backup, or fork over reward points. <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/computing/ask-engadget-what-are-my-options-when-windows-10-support-ends-on-october-14-160534495.html">Choose wisely</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/microsoft-pressured-to-extend-free-windows-10-security-updates-in-most-of-europe-164533056.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/computing/microsoft-pressured-to-extend-free-windows-10-security-updates-in-most-of-europe-164533056.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3f011bd8-396d-4527-acb0-95ee61ed3768</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 25 Sep 2025 16:45:33 +0000</pubDate>
+                    <ingested>1758818740</ingested>
+                    <modified>2025-09-25T16:45:42+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F41efc830-9a2b-11f0-addf-5f7f73b1962b&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=97c68fd9122ddbed014c20d1b2a447178caf441e" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F41efc830-9a2b-11f0-addf-5f7f73b1962b&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=f393b39ac806f36cd092bbcd4ac01670935b783b" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
+                                <media:description><![CDATA[A screenshot of Windows 10, with the taskbar visible in front of the default wallpaper.]]></media:description>
+                                <media:title><![CDATA[Windows 10]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Elon Musk’s Grok is cleared for federal government use]]></title>
+                                        <description type="html"><![CDATA[<p>Despite Elon Musk and Donald Trump’s very public spats and seemingly still ongoing feud, the White House has remained committed to <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/the-white-house-reportedly-ordered-xais-grok-to-be-approved-for-government-use-165625891.html"><ins>supporting</ins></a> the former’s AI ambitions. And today, the General Services Administration (GSA) <a data-i13n="cpos:2;pos:1" href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025"><ins>announced</ins></a> that it has reached an agreement with xAI that will allow it to buy Musk’s Grok AI models for $0.42 per organization.</p>
+<p>As part of the Trump administration’s OneGov procurement initiative, the deal with xAI will allow federal agencies access to the Grok 4 and Grok 4 Fast advanced reasoning models. The 18-month contract is the longest OneGov AI procurement agreement to date. xAI <a data-i13n="cpos:3;pos:1" href="https://x.ai/news/government"><ins>announced</ins></a> its Grok for Government strategy earlier in the summer, which signalled its intention to provide the government with a suite of AI products, including custom models for national security, science and healthcare purposes.</p>
+<span id="end-legacy-contents"></span><p>As well as opening its models for government use, xAI is also providing dedicated engineers to speed up the implementation of its AI tools for participating agencies, and will offer an &quot;upgrade path&quot; for expanded features and higher rate limits. Such access is a crucial part of Trump’s <a data-i13n="cpos:4;pos:1" href="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"><ins>AI Action Plan</ins></a>, designed to position the US as the global leader in AI. And his administration doesn’t appear to have been put off by Grok’s bizarre behavior in recent months, such as its <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/grok-gave-x-users-its-opinion-on-white-genocide-in-south-africa-whether-they-liked-it-or-not-151803191.html"><ins>preoccupation</ins></a> with far-right conspiracy theories regarding &quot;white genocide&quot; in South Africa, or its <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/social-media/grok-sure-seems-antisemitic-after-its-recent-update-000642015.html"><ins>brief but enthusiastic turn</ins></a> towards antisemitism.</p>
+<p>xAI is the latest in a line of AI companies to strike deals with the GSA. Back in August, <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/ai/anthropic-offers-its-claude-ai-model-to-the-federal-government-for-1-154217798.html"><ins>Anthropic</ins></a> began offering its Claude AI model to three branches of the US government for $1, following Gemini and xAI’s arch rival OpenAI joining a list of approved vendors.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/elon-musks-grok-is-cleared-for-federal-government-use-162407911.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/elon-musks-grok-is-cleared-for-federal-government-use-162407911.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a0773cae-4239-45f2-bff2-d45aafb1789b</guid>
+                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 25 Sep 2025 16:24:07 +0000</pubDate>
+                    <ingested>1758817453</ingested>
+                    <modified>2025-09-25T16:24:17+00:00</modified>
+                                            <category>
+                            <![CDATA[Politics & Government]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Matt Tate]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Fd03fd2f0-ecee-11ef-9ffd-23441c61ddab&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=dddd398cc5c10b9904914b89124dab94fda88ec2" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-02%2Fd03fd2f0-ecee-11ef-9ffd-23441c61ddab&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=097b0a20135541413ff16fd84a7f72478bb616fd" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Robert Way via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Shanghai,China-Jan.12th 2025: xAI Grok, Gemini and OpenAI ChatGPT. Assorted AI mobile models]]></media:description>
+                                <media:title><![CDATA[xAI Grok, Gemini and OpenAI ChatGPT. Assorted AI mobile models]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Amazon is paying $2.5 billion to settle FTC claims it duped customers into signing up for Prime]]></title>
                                         <description type="html"><![CDATA[<p>Amazon will pay a record civil penalty to settle a case with the Federal Trade Commission. The agency accused Amazon of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ftc-sues-amazon-for-allegedly-tricking-customers-into-prime-subscriptions-151528914.html"><ins>tricking consumers into signing up for a Prime membership</ins></a> without their consent (and making it hard for customers to cancel) in a lawsuit filed in 2023.</p>
 <p>To settle the charges, Amazon has agreed to pay a $1 billion civil penalty and $1.5 billion to refund customers. The company also agreed to &quot;ease unlawful enrollment and cancellation practices for Prime,&quot; <a data-i13n="cpos:2;pos:1" href="https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"><ins>per the FTC</ins></a>.</p>
@@ -4162,214 +4378,6 @@
                                 <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
                                 <media:description><![CDATA[Un letrero de Google en un edificio de su campus, el 24 de septiembre de 2019, en Mountain View, California. (AP Foto/Jeff Chiu, Archivo)]]></media:description>
                                 <media:title><![CDATA[GOOGLE-MONOPOLIO]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple TV+ indefinitely delays its domestic extremism thriller 'The Savant']]></title>
-                                        <description type="html"><![CDATA[<div id="d1698dade413460498ee779de09a1080"><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/UYQiGBupM8I?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="www.youtube.com"></iframe></div></div>
-<p>Apple has delayed the release of its new series <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.apple.com/tv-pr/news/2025/07/apple-tv-unveils-first-look-at-limited-series-the-savant-starring-and-executive-produced-by-academy-award-winner-jessica-chastain/"><em>The Savant</em></a> just three days before it was supposed to premiere on September 26, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/"><em>Deadline </em>reports</a>. The series follows an investigator, played by Jessica Chastain, who infiltrates a domestic extremist group in the US. Apple hasn&#39;t provided a new release date for the show.</p>
-<p>&quot;After careful consideration, we have made the decision to postpone <em>The Savant</em>,&quot; the company shared in a statement to <em>Deadline</em>. &quot;We appreciate your understanding and look forward to releasing the series at a future date.&quot; The timing of the sudden delay, and the lack of explanation for why the company is delaying the show, could be telling. Disney made a similar knee-jerk reaction in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://apnews.com/article/jimmy-kimmel-show-suspended-charlie-kirk-a2bfa904429c318fe52e7d3493c6883d">placing Jimmy Kimmel Live! on indefinite hiatus</a> following a joke Kimmel made about the reaction to the killing of right-wing activist Charlie Kirk.</p>
-<span id="end-legacy-contents"></span><p>Given that <em>The Savant</em> likely focuses on preventing acts of political violence, it might make you wonder who Apple is worried its show will offend. But it&#39;s also entirely possible that the company is trying to avoid people making <em>any</em> kind of association between its TV show and a very public assassination.</p>
-<p>Apple generally avoids rocking the boat whenever possible, particularly when it could hurt its business interests. <em>The Problem With Jon Stewart</em> was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/jon-stewarts-apple-tv-show-reportedly-ends-following-clash-over-ai-and-china-080117666.html">reportedly cancelled</a> when Jon Stewart wanted to cover topics Apple deemed controversial, like China and artificial intelligence. Apple does business in China, so it seems likely the company was skittish about airing anything that could be viewed as criticism, even if having difficult conversations was the premise of Stewart&#39;s show. The decision to pull <em>The Savant</em>, even if despite reading like the company is worried about offending right-wing extremists, was likely made from a similar place of caution.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/apple-tv-indefinitely-delays-its-domestic-extremism-thriller-the-savant-223044979.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/apple-tv-indefinitely-delays-its-domestic-extremism-thriller-the-savant-223044979.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">56799636-42cd-44a4-bb59-3be6fe668b97</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 23 Sep 2025 22:30:44 +0000</pubDate>
-                    <ingested>1758666649</ingested>
-                    <modified>2025-09-23T22:30:56+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Celebrities]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F641d4160-98ca-11f0-bfff-6b1f54c155c5&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c2922c78fa31a8be73c4dcb270c706c844f8f144" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F641d4160-98ca-11f0-bfff-6b1f54c155c5&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=31bfc404bfd1e58a427bc2746de20d55de9063a7" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Apple]]></media:credit>
-                                <media:description><![CDATA[Jessica Chastain wearing glasses and sitting in front of a computer, from Apple TV+ show, The Savant.]]></media:description>
-                                <media:title><![CDATA[The-Savant-jessica-chaistain]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Amazon is closing all Fresh grocery stores in the UK]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Amazon is pivoting its grocery operations in the UK, </span><a target="_blank" class="link" href="https://www.aboutamazon.co.uk/news/retail/amazon-uk-online-grocery-delivery-amazon-fresh"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">announcing</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> that it will close 14 of its Amazon Fresh stores in the country. The remaining five Amazon Fresh locations in the UK will be converted to the Whole Foods Market brand. Rather than the brick and mortar shops, Amazon said it will focus on online grocery deliveries within the region. In 2026, the company said it expects to add perishables to its Same-Day Delivery orders for UK customers, which was just </span><a target="_blank" class="link" href="https://www.engadget.com/big-tech/amazon-adds-perishable-food-to-same-day-delivery-162144510.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">introduced</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> in the US last month.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The move echoes a similar contraction </span><a target="_blank" rel="" class="link rapid-with-clickid rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=c68306e4-4c22-418f-82ca-b5144c5a4fb7&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=in+2023&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDIzLzAyLzAyL2FtYXpvbi1pcy1zaHV0dGluZy1zb21lLWZyZXNoLWFuZC1nby1zdG9yZXMtYXMtdGhlLWNvbXBhbnktY3V0cy1jb3N0cy5odG1sIiwiY29udGVudFV1aWQiOiJjNjgzMDZlNC00YzIyLTQxOGYtODJjYS1iNTE0NGM1YTRmYjciLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMDIvYW1hem9uLWlzLXNodXR0aW5nLXNvbWUtZnJlc2gtYW5kLWdvLXN0b3Jlcy1hcy10aGUtY29tcGFueS1jdXRzLWNvc3RzLmh0bWwifQ&amp;signature=AQAAASpUrW1TLP6LnwBhKhAH7rJc15F32UiYilFwBwfM2x6_&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2023%2F02%2F02%2Famazon-is-shutting-some-fresh-and-go-stores-as-the-company-cuts-costs.html" data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:">in 2023</a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">, where Amazon said it would shutter both some Fresh supermarkets and some Go convenience stores. Many of these shops highlighted the Just Walk Out tech from Amazon, which it introduced in the US in 2018 and </span><a target="_blank" class="link" href="https://www.engadget.com/amazon-go-store-uk-084721065.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">in the UK in 2021</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">. Just Walk Out eliminated cashiers in those stores and instead charged customers by using a network of cameras, sensors and human observers checking video feeds to calculate the tab for a person's purchase and then charge them afterwards. However, the approach yielded concerns around cost, accuracy and privacy. Amazon </span><a target="_blank" class="link" href="https://www.engadget.com/amazon-just-walked-out-on-its-self-checkout-technology-191703603.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">stopped using</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> Just Walk Out in its US Fresh stores last year.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"><strong>Update, September 23, 2025,&nbsp;5:55PM ET: </strong>Revised to correct a misstatement about Amazon's current use of Just Walk Out in the US. </span></p>This article originally appeared on Engadget at https://www.engadget.com/amazon-is-closing-all-fresh-grocery-stores-in-the-uk-195200222.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/amazon-is-closing-all-fresh-grocery-stores-in-the-uk-195200222.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">c68306e4-4c22-418f-82ca-b5144c5a4fb7</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Tue, 23 Sep 2025 21:55:43 +0000</pubDate>
-                    <ingested>1758664975</ingested>
-                    <modified>2025-09-23T22:02:57+00:00</modified>
-                                            <category>
-                            <![CDATA[Business]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2Fc4be4c7c-7d49-447f-b10c-fac4405298ca&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=2ea64297d5c061781298c62e8105f1dc3e2aecaa" width="1400" height="1050" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2Fc4be4c7c-7d49-447f-b10c-fac4405298ca&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=2ea64297d5c061781298c62e8105f1dc3e2aecaa" width="1400" height="1050" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[UCG via Getty Images]]></media:credit>
-                                <media:description><![CDATA[Amazon Fresh supermarket sign, UK. (Photo by: Alex Segre/UCG/Universal Images Group via Getty Images)]]></media:description>
-                                <media:title><![CDATA[Amazon Fresh]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Major League Baseball will adopt an automated challenge system in 2026]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Next year, baseball reasons will have one less reason to rage at the umpire. Major League Baseball </span><a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=4b5774f7-b9f2-4bbb-b1dc-195558aba230&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=eb190fe5-463b-404f-b607-7cbc4dc121b6&amp;featureId=text-link&amp;merchantName=MLBshop.com&amp;linkText=announced&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5tbGIuY29tL3ByZXNzLXJlbGVhc2UvcHJlc3MtcmVsZWFzZS1tbGItYW5ub3VuY2VzLWFicy1jaGFsbGVuZ2Utc3lzdGVtLWNvbWluZy10by10aGUtbWFqb3ItbGVhZ3Vlcy1iZWdpbm5pbmctaW4tdGhlLTIwMjYtc2Vhc29uIiwiY29udGVudFV1aWQiOiJlYjE5MGZlNS00NjNiLTQwNGYtYjYwNy03Y2JjNGRjMTIxYjYiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm1sYi5jb20vcHJlc3MtcmVsZWFzZS9wcmVzcy1yZWxlYXNlLW1sYi1hbm5vdW5jZXMtYWJzLWNoYWxsZW5nZS1zeXN0ZW0tY29taW5nLXRvLXRoZS1tYWpvci1sZWFndWVzLWJlZ2lubmluZy1pbi10aGUtMjAyNi1zZWFzb24ifQ&amp;signature=AQAAAXQP3_llJgjVwZ475XW35IvMF4cMgCxn0vEgN5I8QFWd&amp;gcReferrer=https%3A%2F%2Fwww.mlb.com%2Fpress-release%2Fpress-release-mlb-announces-abs-challenge-system-coming-to-the-major-leagues-beginning-in-the-2026-season" data-i13n="elm:affiliate_link;sellerN:MLBshop.com;elmt:" data-original-link="https://www.mlb.com/press-release/press-release-mlb-announces-abs-challenge-system-coming-to-the-major-leagues-beginning-in-the-2026-season"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">announced</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> today that it will introduce the Automated Ball Strike challenge system in the 2026 season for all spring training, championship season and postseason games. In other words, next year there will be a way for the players to attempt to overturn an umpire&#39;s call about whether a pitch counts as a strike or a ball if they disagree with the initial decision.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">ABS uses a network of a dozen camera to record every pitch thrown. The umpire will still call the pitch a ball or strike as usual, but under the new system, the pitcher, catcher or batter can immediately challenge that decision. Coaching staff and other players cannot offer input on whether or not a challenge is initiated. If the cameras show any part of the ball touching the batter&#39;s strike zone, the pitch will be counted as a strike. All teams will begin a game with two challenge opportunities, and only lose them if they challenge unsuccessfully. For games that go into extra innings, a team will get an additional challenge if it has none remaining at the start of the additional gameplay.&nbsp;&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Baseball has taken a gradual path to introducing this tech. ABS has been tested at the Triple-A level since 2022, and it finally got a chance in the majors during spring training and in the All-Star Game this year. Other sports have also been leveraging electronics to ensure that gameplay rules and scoring are consistent. Football/soccer has implemented a video assistant referee (VAR) system in several leagues, including </span><a target="_blank" class="link" href="https://www.engadget.com/fifa-approves-semi-automatic-offside-technology-word-cup-qatar-2022-213057911.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">FIFA</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> and the UK&#39;s </span><a target="_blank" class="link" href="https://www.engadget.com/entertainment/the-premier-league-will-speed-up-offside-calls-with-optical-tracking-tech-starting-next-week-163327195.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Premier league</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">. Tennis is also adopting electronic line calls at </span><a target="_blank" class="link" href="https://www.wimbledon.com/en_GB/news/articles/2025-07-03/the_precision_operation_introducing_electronic_line_calling.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Wimbledon</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> and other tournaments. Even the electronic systems are </span><a target="_blank" class="link" href="https://www.nytimes.com/athletic/6320584/2025/04/30/tennis-electronic-line-calling-clay-ball-marks-umpires/"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">not infallible</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">, but considering how much any high-level athletic endeavor can be won or lost by millimeters, having a backup for the human eye seems like a net positive.</span></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/major-league-baseball-will-adopt-an-automated-challenge-system-in-2026-205023531.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/major-league-baseball-will-adopt-an-automated-challenge-system-in-2026-205023531.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">eb190fe5-463b-404f-b607-7cbc4dc121b6</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Tue, 23 Sep 2025 20:50:23 +0000</pubDate>
-                    <ingested>1758660634</ingested>
-                    <modified>2025-09-23T20:50:36+00:00</modified>
-                                            <category>
-                            <![CDATA[Baseball]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Major League Baseball]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Sports & Recreation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2F18254322-996b-4571-9778-398a3e38a895&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=a5c2a075c55b7560e1661d55f0e2f834a784cf75" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2F18254322-996b-4571-9778-398a3e38a895&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=a5c2a075c55b7560e1661d55f0e2f834a784cf75" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
-                                <media:description><![CDATA[Home plate umpire John Bacon looks on during the ninth inning of a baseball game between the Texas Rangers and the Miami Marlins Friday, Sept. 19, 2025, in Arlington, Texas. (AP Photo/Julio Cortez)]]></media:description>
-                                <media:title><![CDATA[Marlins Rangers Baseball]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[How to watch Xbox’s Tokyo Game Show livestream]]></title>
-                                        <description type="html"><![CDATA[<p>Curious to see if those <em>Forza Horizon 6</em> rumors are true? You may not have long to wait. Xbox&#39;s presentation at the Tokyo Game Show 2025 is fast approaching. You can watch the event live right here on September 25 at 6AM ET.</p>
-<p><em>Forza Horizon 6</em> is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.reddit.com/r/xbox/comments/1mwaks7/forza_horizon_6_is_finally_going_to_japan_as_car/">rumored</a> to have a Japan setting, making this week&#39;s event a logical venue for its announcement. That&#39;s not the only thing to go on. <em>Windows Central</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.windowscentral.com/gaming/forza/report-forza-horizon-6-may-be-announced-this-year-in-the-same-place-the-game-is-set">reported</a> last month that it had seen official documentation suggesting the game would be announced at the Tokyo Game Show. An Xbox executive producer even posted earlier this month that it would be an event &quot;you don&#39;t want to miss.&quot; (Am I sadistic for hoping he was hyping up something like a new <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/gaming/xbox/xbox-will-let-you-pin-up-to-three-favorite-games-to-your-homescreen-200051956.html">Xbox dashboard</a> feature?)</p>
-<span id="end-legacy-contents"></span><p>The Xbox brand could use some positive mojo. Last week, Microsoft announced that it would <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/xbox/microsoft-is-making-xbox-consoles-even-more-expensive-in-the-us-192443699.html">raise console prices for the second time</a> in less than five months. The increase, which begins on October 3, was &quot;due to changes in the macroeconomic environment.&quot; (That sounds like a copywriter&#39;s answer to &quot;How do you say &#39;tariffs&#39; without actually saying &#39;tariffs?&#39;&quot;) It&#39;s all the more reason the company would love to shift your focus to something fun.</p>
-<p>You can stream Microsoft&#39;s event below on September 25 at 6AM ET.</p>
-<div id="d4fe73ad074c444eb69960d58f2c9e73"><iframe width="560" height="315" src="https://www.youtube.com/embed/SUkv0NDVa5k?si=7MLM91HIu8_mZWt1" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/how-to-watch-xboxs-tokyo-game-show-livestream-204657743.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/xbox/how-to-watch-xboxs-tokyo-game-show-livestream-204657743.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">b56f40aa-f09f-4012-803f-2c2c15949e29</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 23 Sep 2025 20:46:57 +0000</pubDate>
-                    <ingested>1758660429</ingested>
-                    <modified>2025-09-23T20:47:11+00:00</modified>
-                                            <category>
-                            <![CDATA[Game Consoles]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F5a324450-98bd-11f0-a9eb-d09ffac1e8a4&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c36466a4d622f91210aa6e5ec5a2094e4ad942b4" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F5a324450-98bd-11f0-a9eb-d09ffac1e8a4&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a7c01b960e6370aa6e31578b070dcad245ba0393" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Xbox]]></media:credit>
-                                <media:description><![CDATA[Marketing graphic for the Xbox at Tokyo Game Show 2025. An illustrated alleyway with a cat peering up at an Xbox logo.]]></media:description>
-                                <media:title><![CDATA[Xbox at Tokyo Game Show 2025]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
