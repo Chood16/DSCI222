@@ -6,9 +6,102 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Sat, 27 Sep 2025 14:30:53 +0000</pubDate>
+            <pubDate>Sun, 28 Sep 2025 12:00:58 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[How to record a phone call on an iPhone]]></title>
+                                        <description type="html"><![CDATA[<p>With <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/mobile/ios-26-is-finally-here-everything-to-know-about-the-free-iphone-software-update-135749206.html">iOS 26</a>, Apple has expanded its native call recording feature with transcripts, <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/big-tech/apple-introduces-ai-powered-live-translation-tools-at-wwdc-2025-173605234.html">Live Translation</a>, summaries and tighter integration with Notes. It’s a more polished and useful tool than before, especially if you rely on your iPhone for interviews, meetings or important conversations.</p>
+<p>Call recording itself first arrived with iOS 18.1 in October 2024. The feature has always been region- and language-dependent, and that hasn’t changed. If it’s available where you live, you can capture calls directly from the Phone app without third-party apps or hardware. If it’s not, there are still alternative methods worth knowing about. Here’s how it works, plus what to do if the option isn’t available in your country.</p>
+<span id="end-legacy-contents"></span><h2 id="jump-link-how-to-check-if-call-recording-is-available">How to check if call recording is available</h2>
+<p>First, confirm that the feature is supported in your region. Apple maintains a<a data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f0ba3799-565f-4284-ad3c-1640785c37c4&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=feature+availability+page&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vaW9zL2ZlYXR1cmUtYXZhaWxhYmlsaXR5LyIsImNvbnRlbnRVdWlkIjoiZjBiYTM3OTktNTY1Zi00Mjg0LWFkM2MtMTY0MDc4NWMzN2M0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vaW9zL2ZlYXR1cmUtYXZhaWxhYmlsaXR5LyJ9&amp;signature=AQAAAUx7GGYUCenKPoeNj3BqmHuz-p1EIUgnaIqkxN9BHdne&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fios%2Ffeature-availability%2F" class="rapid-with-clickid" data-original-link="https://www.apple.com/ios/feature-availability/"> feature availability page</a> that lists countries where call recording isn’t offered, including the European Union, Saudi Arabia and South Africa. If your country is on that list, you won’t see the option in the Phone app.</p>
+<p>Before recording your phone call, you’ll need the consent of the person on the other end of the line. When you start recording, both parties hear an audio notice stating that the call is being recorded.</p>
+<h2 id="jump-link-how-to-record-a-call-on-iphone">How to record a call on iPhone</h2>
+<p>Recording a call is straightforward:</p>
+<ol>
+<li><p>Open the <strong>Phone</strong> app.</p></li>
+<li><p>Start or answer a call.</p></li>
+<li><p>During the call, tap the <strong>More</strong> button.</p></li>
+<li><p>Select <strong>Call Recording</strong>.</p></li>
+</ol>
+<p>The call continues as normal, but the iPhone automatically saves the audio once you hang up or tap <strong>Stop</strong>. You’ll find all recordings in iOS’ native Notes app, inside a folder called Call Recordings.</p>
+<h2 id="jump-link-how-to-play-back-manage-and-delete-recordings">How to play back, manage and delete recordings</h2>
+<p>To listen back, open Notes, go to the Call Recordings folder, and tap the file you want. Tap <strong>Play</strong> to hear it.</p>
+<p>From here, you can:</p>
+<ul>
+<li><p><strong>Search:</strong> Tap the <strong>More</strong> button and select <strong>Find in Transcript.</strong></p></li>
+<li><p><strong>Copy:</strong> Tap the <strong>More </strong>button and select <strong>Add Transcript to Note</strong> or <strong>Copy Transcript.</strong></p></li>
+<li><p><strong>Save:</strong> Tap the <strong>More</strong> button and select <strong>Save Audio Files</strong>, then select where you want to save recording (another folder or app).</p></li>
+<li><p><strong>Share</strong>: Tap the <strong>More</strong> button and select <strong>Share Audio</strong>, then select how you want to share the recording</p></li>
+<li><p><strong>Delete: </strong>Tap the <strong>More</strong> button and select <strong>Delete</strong>. This deletes the recording and any related transcript.</p></li>
+</ul>
+<h2 id="jump-link-how-to-transcribe-your-calls">How to transcribe your calls</h2>
+<p>If your region and language are supported, iOS 26 also transcribes calls. Open a recording in Notes, then tap <strong>Show Transcript and Summary</strong>. Processing might take a few moments, but once it’s ready, you’ll see the conversation broken down by speaker. From there, you can search the text, copy it into another note or tap a line to jump to that part of the audio. Apple warns transcripts may not be flawless, so double check to make sure important details are correct.</p>
+<h2 id="jump-link-apple-intelligence-summaries">Apple Intelligence summaries</h2>
+<p>With Apple Intelligence switched on, you’ll also get a generated summary of the call. This is handy if you only need the highlights — for example, the action items from a meeting or the main points of an interview. Summaries appear alongside the transcript in Notes.</p>
+<h2 id="jump-link-how-to-turn-off-call-recording">How to turn off call recording</h2>
+<p>By default, call recording is enabled on supported devices. If you don’t want the option at all, navigate to <strong>Settings</strong>, select <strong>Apps</strong>, then <strong>Phone</strong>, tap <strong>Call Recording</strong> and toggle it off.</p>
+<h2 id="jump-link-alternatives-if-call-recording-isnt-available">Alternatives if call recording isn’t available</h2>
+<p>If you’re in a region where the built-in feature doesn’t appear, or you’re running a previous version of iOS, there are still other ways to record calls.</p>
+<p>In the US, federal law dictates one-party consent. This means you can record a phone call as long as you are actively participating in the conversation. However, it is important that you check state laws (in the US) or relevant laws in your country before recording a phone call. Note that these options don’t integrate with Apple Notes or Apple Intelligence, but they give you a backup if the official method isn’t supported where you live.</p>
+<ul>
+<li><p><a data-i13n="elm:affiliate_link;sellerN:Rev;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=ae62facd-d690-42c1-b53b-f23d585f2272&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f0ba3799-565f-4284-ad3c-1640785c37c4&amp;featureId=text-link&amp;merchantName=Rev&amp;linkText=Rev+Call+Recorder&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5yZXYuY29tL2FwcHMtYW5kLXRvb2xzL2NhbGwtcmVjb3JkZXItYXBwIiwiY29udGVudFV1aWQiOiJmMGJhMzc5OS01NjVmLTQyODQtYWQzYy0xNjQwNzg1YzM3YzQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnJldi5jb20vYXBwcy1hbmQtdG9vbHMvY2FsbC1yZWNvcmRlci1hcHAifQ&amp;signature=AQAAATBG5xm_zaeUOV8urec56oO0l1UN5W6P6jptq2C49WuV&amp;gcReferrer=https%3A%2F%2Fwww.rev.com%2Fapps-and-tools%2Fcall-recorder-app" class="rapid-with-clickid" data-original-link="https://www.rev.com/apps-and-tools/call-recorder-app"><strong>Rev Call Recorder</strong></a> (US only) is free to use on your iPhone. There are no in-app ads or time constraints, allowing you to record high-quality audio via the app.</p></li>
+<li><p><a data-i13n="cpos:5;pos:1" href="https://voice.google.com/"><strong>Google Voice</strong></a> (US only) lets you record incoming calls via the app by pressing “4” on the keypad. The audio file appears in your Google Voice inbox afterward. The function is restricted to incoming calls, and features will depend on the account you have.</p></li>
+<li><p><strong>External recorders</strong>: You can connect a small recorder to your iPhone through USB-C or Lightning, or place a digital recorder next to your phone on speaker mode. This keeps everything offline, but audio quality can vary.</p></li>
+<li><p><strong>Speakerphone:</strong> If you have access to multiple devices, you can place your call on speakerphone and simultaneously use a separate device with the Voice Memos app open to record your call. While the sound quality is unlikely to be on par with other alternatives, it is a feasible option.</p></li>
+</ul>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/how-to-record-a-phone-call-on-an-iphone-120058707.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/mobile/smartphones/how-to-record-a-phone-call-on-an-iphone-120058707.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f0ba3799-565f-4284-ad3c-1640785c37c4</guid>
+                                                                                        <dc:creator><![CDATA[Georgie Peru]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Sun, 28 Sep 2025 12:00:58 +0000</pubDate>
+                    <ingested>1758647422</ingested>
+                    <modified>2025-09-23T17:10:26+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Georgie Peru]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F8520d650-9876-11f0-af79-4c50d4b68302&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=2ab1fb9090d708d0f436a33f745d8c588cf4c537" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F8520d650-9876-11f0-af79-4c50d4b68302&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=59f4d0d12a90750ca5d5d2ac1f757aa3b1c35388" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Billy Steele for Engadget]]></media:credit>
+                                <media:description><![CDATA[Apple iPhone 17]]></media:description>
+                                <media:title><![CDATA[Apple iPhone 17]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[US labor board drops allegation that Apple's CEO violated employees' rights]]></title>
                                         <description type="html"><![CDATA[<p>The National Labor Relations Board has withdrawn "many of the claims" it made against Apple in relation to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/us-labor-board-accuses-apple-of-violating-employees-rights-164643503.html">cases brought in 2021</a> by former employees, according to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-09-26/us-labor-board-withdraws-claims-that-apple-ceo-violated-workers-rights"><em>Bloomberg</em></a>. In particular, it dismissed an allegation that Apple CEO Tim Cook violated workers' rights when he sent an all-staff email that year, which said "people who leak confidential information do not belong" in the company. Cook also said in the email that Apple was "doing everything in [its] power to identify those who leaked" information from an internal meeting the previous week, wherein management answered workers' questions about pay equity and Texas’ anti-abortion law.</p>
 <p>Apple didn't “tolerate disclosures of confidential information, whether it’s product IP or the details of a confidential meeting," Cook wrote at the time. The NLRB has now withdrawn some of the claims made in complaints by former employee Ashley Gjøvik, including that Apple told employees not to disclose company communications, and that it had suspended Gjøvik in retaliation and fired her unlawfully. But, not all of the allegations have been withdrawn. Apple <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.theregister.com/2025/04/10/apple_agrees_to_settle_unfair/">settled a separate case with Gjøvik back in April</a>, which <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.ashleygjovik.com/blog/04082025-nlrb-win-apple-compelled-to-rescind-unlawful-policies-nationwide">she announced</a> as a win for workers, as the settlement required Apple to revise rules around employee agreements and discussions of company information to clarify "that employees can talk about their pay, working conditions, and union organizing without retaliation," and speak to the press, among other things.</p>
@@ -3908,64 +4001,6 @@
                                 <media:credit><![CDATA[Robert Way via Getty Images]]></media:credit>
                                 <media:description><![CDATA[Shanghai,China-Jan.12th 2025: xAI Grok, Gemini and OpenAI ChatGPT. Assorted AI mobile models]]></media:description>
                                 <media:title><![CDATA[xAI Grok, Gemini and OpenAI ChatGPT. Assorted AI mobile models]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Nothing is spinning off its budget CMF brand]]></title>
-                                        <description type="html"><![CDATA[<p>Nothing is spinning off its budget brand CMF into an independent subsidiary, <a data-i13n="cpos:1;pos:1" href="https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/"><ins>according to a report by </ins><em><ins>TechCrunch</ins></em></a>. India will serve as the newly-formed company&#39;s headquarters for manufacturing and R&amp;D, thanks to a partnership with one of the country&#39;s telecom operators. Nothing says this venture will create over 1,800 jobs in the country.</p>
-<p>India is actually a good choice for the HQ. The country is Nothing&#39;s strongest market overall, with over a <a data-i13n="elm:affiliate_link;sellerN:LinkedIn;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6deefbf2-941b-4156-9f41-a61ebb50d13d&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1409f99d-f7ad-4b99-a399-c66d79a4bad8&amp;featureId=text-link&amp;merchantName=LinkedIn&amp;linkText=2+percent+market+share+in+smartphones&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcG9zdHMvYWpheXNoYXJtYTE5NThfbm90aGluZy1vbmVwbHVzLXJlYWxtZS1hY3Rpdml0eS03MzYzOTMwMjU2NDEzNTE5ODc0LTRGZnQjOn46dGV4dD1JdHMlMjBhc2NlbnQlMjBpc24ndCUyMGFjY2lkZW50YWwsd2l0aG91dCUyMHRyYWRpdGlvbmFsJTIwYmlnJTIwYnVkZ2V0JTIwbWFya2V0aW5nLiIsImNvbnRlbnRVdWlkIjoiMTQwOWY5OWQtZjdhZC00Yjk5LWEzOTktYzY2ZDc5YTRiYWQ4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcG9zdHMvYWpheXNoYXJtYTE5NThfbm90aGluZy1vbmVwbHVzLXJlYWxtZS1hY3Rpdml0eS03MzYzOTMwMjU2NDEzNTE5ODc0LTRGZnQjOn46dGV4dD1JdHMlMjBhc2NlbnQlMjBpc24ndCUyMGFjY2lkZW50YWwsd2l0aG91dCUyMHRyYWRpdGlvbmFsJTIwYmlnJTIwYnVkZ2V0JTIwbWFya2V0aW5nLiJ9&amp;signature=AQAAAXhc-EWXsTq-GQBPqJv76XFWp5rvt69SR3XROsr_p5nA&amp;gcReferrer=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fajaysharma1958_nothing-oneplus-realme-activity-7363930256413519874-4Fft%23%3A%7E%3Atext%3DIts%2520ascent%2520isn%27t%2520accidental%2Cwithout%2520traditional%2520big%2520budget%2520marketing." class="rapid-with-clickid" data-original-link="https://www.linkedin.com/posts/ajaysharma1958_nothing-oneplus-realme-activity-7363930256413519874-4Fft#:~:text=Its%20ascent%20isn&#39;t%20accidental,without%20traditional%20big%20budget%20marketing."><ins>2 percent market share in smartphones</ins></a>. It&#39;s the fastest-growing brand in the region, with an 85 percent growth in shipments year over year. CMF also specializes in budget-friendly handsets under $200 and this is the dominant category in India, <a data-i13n="cpos:3;pos:1" href="https://my.idc.com/getdoc.jsp?containerId=prAP53737525"><ins>according to the IDC</ins></a>.</p>
-<span id="end-legacy-contents"></span><div id="2afcfaec11f54627bfeba5b0508c6cd8"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Making tech fun again. Making it in India. 🇮🇳 <a href="https://t.co/17tkpNGRyB">https://t.co/17tkpNGRyB</a></p>— Nothing India (@nothingindia) <a href="https://twitter.com/nothingindia/status/1971092813812301913?ref_src=twsrc%5Etfw">September 25, 2025</a></blockquote>
- 
-
-</div>
-<p>“India will play a key role in shaping the future of the global smartphone industry. CMF has been well-received by the market since we launched it two years ago,&quot; Nothing CEO Carl Pei said in a statement. &quot;With our end-to-end capabilities, we are uniquely positioned to now build it into India’s first truly global smartphone brand.&quot;</p>
-<p>Nothing hasn&#39;t said how much money it would take to set up this new subsidiary, but the company did just <a data-i13n="cpos:4;pos:1" href="https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/"><ins>raise $200 million in a funding round</ins></a>. Maybe some of that cash will be funneled to this project.</p>
-<div id="1ea60ba8d5954e7b80c7ee2cd62c5783"><iframe width="560" height="315" src="https://www.youtube.com/embed/FA4N4hoJTZ4?si=-z46_uSL3bxJEmoJ" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>The company first launched CMF back in 2023. It started with the release of a pair of earbuds and a smartwatch but has since <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/nothings-budget-friendly-brand-cmf-announced-three-new-products-including-a-200-smartphone-100417261.html"><ins>moved on to smartphones</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/nothing-is-spinning-off-its-budget-cmf-brand-152505010.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/mobile/smartphones/nothing-is-spinning-off-its-budget-cmf-brand-152505010.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">1409f99d-f7ad-4b99-a399-c66d79a4bad8</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 25 Sep 2025 15:25:05 +0000</pubDate>
-                    <ingested>1758813913</ingested>
-                    <modified>2025-09-25T15:25:16+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fd27c1c40-9a22-11f0-bfdf-7597bc0ac0ef&amp;resize=1400%2C1113&amp;client=19f2b5e49a271b2bde77&amp;signature=4b085fab8574a2f127f794effd0b9edf0b947ff0" width="1400" height="1113" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2Fd27c1c40-9a22-11f0-bfdf-7597bc0ac0ef&amp;resize=1400%2C1113&amp;client=19f2b5e49a271b2bde77&amp;signature=aafba637fd50c8b46992a6d618de8936847daed6" width="1400" height="1113" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Nothing]]></media:credit>
-                                <media:description><![CDATA[A logo.]]></media:description>
-                                <media:title><![CDATA[CMF by Nothing]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
