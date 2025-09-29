@@ -6,9 +6,216 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Mon, 29 Sep 2025 15:45:51 +0000</pubDate>
+            <pubDate>Mon, 29 Sep 2025 17:00:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Claude Sonnet 4.5 is Anthropic's safest AI model yet]]></title>
+                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">In May, Anthropic announced two new AI systems, </span><a target="_blank" class="link" href="https://www.engadget.com/ai/anthropics-claude-opus-4-model-can-work-autonomously-for-nearly-a-full-workday-164526696.html"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">Opus 4 and Sonnet 4</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">. Now, less than six months later, the company is introducing Sonnet 4.5, and calling it the best coding model in the world to date. Anthropic&#39;s basis for that claim is a selection of benchmarks where the new AI outperforms not only its predecessor but also the more expensive Opus 4.1 and competing systems, including Google&#39;s </span><a target="_blank" class="link" href="https://www.engadget.com/big-tech/google-rolls-out-its-most-powerful-gemini-model-yet-151205875.html"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">Gemini 2.5 Pro</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;"> and </span><a target="_blank" class="link" href="https://www.engadget.com/ai/gpt-5-is-here-and-its-free-for-everyone-170001066.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACezLmWoxPMsxtV37FLypbESuxMgkZjaQK8vhYio-WDTgQI1K8lJKvj21T05s-piYZew5foyQ4Pxwe9PzxaIIFevvuj-Zc6QBdlt9AEeZgILLcbbHacXmXLVWxrY8S3svOH8V8ApZlhx_BmiAh605-Btyqw2zZ6vIRN3U4lY19fm"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">GPT-5 from OpenAI</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">. For instance, in OSWorld, a suite that tests AI models on real-world computer tasks, Sonnet 4.5 set a record score of 61.4 percent, putting it 17 percentage points above Opus 4.1.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">At the same time, the new model is capable of autonomously working on multi-step projects for more than 30 hours, a significant improvement from the seven or so hours Opus 4 could maintain at launch. That&#39;s an important milestone for the type of agentic systems Anthropic wants to build.&nbsp;</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sonnet-benchmarks.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sonnet-benchmarks.jpg" style="height:1920px;width:1920px;" alt="Sonnet 4.5 outperforms Anthropic&#39;s older models in coding and agentic tasks. " data-uuid="fda9baf3-4328-4854-a0aa-61ccde94baf6"><figcaption>Sonnet 4.5 outperforms Anthropic&#39;s older models in coding and agentic tasks. </figcaption><div class="photo-credit">Anthropic</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">Perhaps more importantly, the company claims Sonnet 4.5 is its safest AI system to date, with the model having undergone &quot;extensive&quot; safety training. That training translates to a chatbot Anthropic says is &quot;substantially&quot; less prone to &quot;sycophancy, deception, power-seeking and the tendency to encourage delusional thinking&quot; — all potential model traits that have </span><a target="_blank" class="link" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">landed OpenAI in hot water in recent months</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">. At the same time, Anthropic has strengthened Sonnet 4.5&#39;s protections against prompt injection attacks. Due to the sophistication of the new model, Anthropic is releasing Sonnet 4.5 under its AI Safety Level 3 framework, meaning it comes with filters designed to prevent potentially dangerous outputs related to prompts around chemical, biological and nuclear weapons.&nbsp;&nbsp;</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sonnet-4-5-behavior.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sonnet-4-5-behavior.jpg" style="height:1080px;width:1920px;" alt="A chart showing how Sonnet 4.5 compares against other frontier models in safety testing. " data-uuid="a23a9134-cb29-42b9-873c-151f4fa405d4"><figcaption>A chart showing how Sonnet 4.5 compares against other frontier models in safety testing. </figcaption><div class="photo-credit">Anthropic</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">With today&#39;s announcement, Anthropic is also rolling out quality of life improvements across the Claude product stack. To start, Claude Code, the company&#39;s popular coding agent, has a refreshed terminal interface, with a new feature called checkpoints included. As you can probably guess from the name, they allow you to save your progress and roll back to a previous state if Claude writes some funky code that isn&#39;t quite working like you imagined it would. File creation, which Anthropic </span><a target="_blank" class="link" href="https://www.engadget.com/ai/claude-can-now-edit-and-create-files-including-excel-spreadsheets-143043937.html"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">began rolling out at the start of the month</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">, is now available directly in conversations with the chatbot, and if you joined the waitlist Claude for Chrome, you can start using the extension today.&nbsp;&nbsp;&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">API pricing for Sonnet 4.5 remains at $3 per one million input tokens and $15 for the same amount of output tokens. The release of Sonnet 4.5 caps off a strong September for Anthropic. Just one day after Microsoft </span><a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-adds-claude-models-to-copilot-365-185032970.html"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">added Claude models to Copilot 365</span></a><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;"> </span><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;">last week, OpenAI </span><a target="_blank" class="link" href="https://openai.com/index/gdpval/"><span style="color:rgb(17, 85, 204);font-family:Verdana, sans-serif;">admitted</span></a><span style="color:rgb(0, 0, 0);font-family:Verdana, sans-serif;"> its rival offers the best AI for work-related tasks.</span></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/claude-sonnet-45-is-anthropics-safest-ai-model-yet-170000161.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/claude-sonnet-45-is-anthropics-safest-ai-model-yet-170000161.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">c30b7ecd-01ce-43d4-a6cf-4e23ae97041c</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Mon, 29 Sep 2025 17:00:00 +0000</pubDate>
+                    <ingested>1759165257</ingested>
+                    <modified>2025-09-29T17:01:00+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsonnet-4-5.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=877df4eeb99187e6c03f4b44a50e6e7127f0a004" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsonnet-4-5.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=877df4eeb99187e6c03f4b44a50e6e7127f0a004" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Anthropic]]></media:credit>
+                                <media:description><![CDATA[Anthropic calls Sonnet 4.5 the world&#39;s best coding model yet.]]></media:description>
+                                <media:title><![CDATA[Sonnet 4.5]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[This Roomba robot vacuum is on sale for only $150 ahead of Prime Day]]></title>
+                                        <description type="html"><![CDATA[<p>The iRobot Roomba 104 robot vacuum <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0F468NMZH&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=c5319afd-97e7-465b-aa89-2fdb24bca878&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+on+sale+for+%24150&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRjQ2OE5NWkg_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiYzUzMTlhZmQtOTdlNy00NjViLWFhODktMmZkYjI0YmNhODc4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRjQ2OE5NWkgiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAYxrO0zn4J21pV3nc9wpOHIcI9yNnyM2yiF3mA-lAjZe&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0F468NMZH" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0F468NMZH"><ins>is on sale for $150</ins></a> just ahead of <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/deals/the-best-october-prime-day-deals-you-can-get-right-now-early-sales-on-tech-from-apple-amazon-samsung-anker-and-more-050801285.html"><ins>October's Prime Day</ins></a>. That's a nice little discount of 40 percent, which represents a savings of $100.</p> 
+<p>This is a newer version of the unit that topped our list of the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/home/smart-home/best-budget-robot-vacuums-133030847.html"><ins>best budget robot vacuums</ins></a>. It's an entry-level robovac that gets the job done. The cleaning motor is fairly powerful and it ships with a multi-surface brush and an edge-sweeping brush. The vacuum uses LiDAR to map a home and to help it avoid obstacles when cleaning.</p> <span id="end-legacy-contents"></span> 
+<p> <core-commerce id="8078687939044455b659cae421eb3bfd" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0F468NMZH"></core-commerce></p> 
+<p>It's also been equipped with specialized sensors to prevent falling down stairs. Steps are the natural enemy of all robot vacuums, <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/home/smart-home/eufys-marswalker-allows-its-robot-vacuums-to-climb-stairs-083020319.html"><ins>except maybe this one</ins></a>. The Roomba 104 integrates with the company's proprietary app, which allows for custom cleaning schedules and the like. The robot can also be controlled via voice assistant and boasts compatibility with Siri, Alexa and Google Assistant.</p> 
+<p>The vacuum will automatically head to the charger for some juice when running low, which is nice. The battery lasts around 200 minutes per charge, which is a decent enough metric for a budget-friendly robovac. The only downside here? This is just a vacuum. It doesn't mop and it doesn't come with a dedicated debris canister.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/this-roomba-robot-vacuum-is-on-sale-for-only-150-ahead-of-prime-day-164953406.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/this-roomba-robot-vacuum-is-on-sale-for-only-150-ahead-of-prime-day-164953406.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">c5319afd-97e7-465b-aa89-2fdb24bca878</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 29 Sep 2025 16:49:54 +0000</pubDate>
+                    <ingested>1759164610</ingested>
+                    <modified>2025-09-29T16:50:13+00:00</modified>
+                                            <category>
+                            <![CDATA[Robots]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F668c2350-9d50-11f0-9fea-4b9769d479d0&amp;resize=1400%2C911&amp;client=19f2b5e49a271b2bde77&amp;signature=e6b309360c061035fc321c6f8d1fd4c1f58be40c" width="1400" height="911" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F668c2350-9d50-11f0-9fea-4b9769d479d0&amp;resize=1400%2C911&amp;client=19f2b5e49a271b2bde77&amp;signature=7fd819054699e530e9ded788393e340189a86c09" width="1400" height="911" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[iRobot ]]></media:credit>
+                                <media:description><![CDATA[A robot vacuum.]]></media:description>
+                                <media:title><![CDATA[Roomba 104]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[A PlayStation photography book featuring never-before-seen design concepts is on the way]]></title>
+                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Sony has been marking the 30th anniversary of PlayStation by selling you stuff, like </span><a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/playstations-30th-anniversary-ps5-and-ps5-pro-consoles-are-so-very-pretty-170713396.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">PS5 consoles and accessories</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> styled after the PS1. The company has </span><a target="_blank" class="link" href="https://blog.playstation.com/2025/09/29/celebrating-the-first-30-years-of-playstation/"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">something else</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> lined up to mark the occasion: a photography book showcasing &quot;never-before-seen prototypes, concept sketches and design models that shaped hardware development&quot; from the early days through to the current PS5 era.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"><em>PlayStation: The First 30 Years </em>is a 400-page hardback book printed on heavyweight matt art stock. You better hope your coffee table is sturdy, since this book is a chonkster. It weighs in at 5kg (11lbs).&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Sony worked with publisher Read-Only Memory on <em>PlayStation: The First 30 Years</em>. The collaborators have offered a peek at what&#39;s inside the book. It&#39;s shaping up to be a fascinating glimpse at some of the designs Sony tried for its hardware over the last few decades.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">For instance, the original PlayStation could have looked much different, more directly exemplifying designer Teiyu Goto&#39;s &quot;vision of simple squares and circles coming to life.&quot; (For what it&#39;s worth, Engadget deputy editor Nathan Ingraham said this design looked like a proton pack):</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps1_console.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps1_console.jpg" style="height:1707px;width:2560px;" alt="An early concept for the original PlayStation, featuring a more compact look based on squares and circles." data-uuid="ac2b4c7e-544e-4214-bbf9-fd889f64cbcf"><figcaption>An early concept design for the original PlayStation.</figcaption><div class="photo-credit">Sony/Read-Only Memory</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Some of the controller concepts are pretty out there too. Some don&#39;t look all that comfortable to hold or use for extended gaming sessions. This one — which appears to be for the PS3 at the earliest, given the inclusion of the PS button — is truly bonkers. Thank goodness Goto landed on the SNES-style design with grips that has proven so successful (and comfortable) over the years:</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps_controller_2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps_controller_2.jpg" style="height:738px;width:1182px;" alt="A PlayStation controller concept." data-uuid="1bcb1a2b-1222-468a-a64d-f732988f9ded"><figcaption>A PlayStation controller concept.</figcaption><div class="photo-credit">Sony/Read-Only Memory</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The book isn&#39;t entirely limited to hardware concepts, as it features photos of Sony&#39;s design labs. The tome seems like a very cool item for PlayStation fans and those who love gaming history to have, but there might be an element of sticker shock.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The book is available via </span><a target="_blank" class="link" href="https://readonlymemory.com/pages/playstation-the-first-30-years"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Read-Only Memory&#39;s website</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> for $182. A deluxe edition with exposed binding, a foil-stamped clamshell presentation box and a photographic print signed by Goto and photographer Benedict Redgrove will run you $467. The fancier edition has a limited run of 1994 copies. Coincidentally, that&#39;s the year the PS1 debuted in Japan. Both editions of the book will ship in spring 2026.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Meanwhile, Sony has teamed up with Reebok for a collection of 30th anniversary sneakers styled after — you guessed it — the PS1. The kicks will be available in October and the three designs are linked to the PS1&#39;s launch regions. They include the InstaPump Fury 94 for Japan, Pump Omni Zone II for the US and Workout Plus for the UK.&nbsp;</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps1_sneakers.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ps1_sneakers.jpg" style="height:1080px;width:1920px;" alt="An assortment of Reebok sneakers based on the design of the original PlayStation." data-uuid="fda3ac80-b386-40e5-a89f-3c82894bdfaa"><figcaption>Sony x Reebox sneakers are on the way</figcaption><div class="photo-credit">Sony/Reebok</div></figure><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/a-playstation-photography-book-featuring-never-before-seen-design-concepts-is-on-the-way-164859020.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/playstation/a-playstation-photography-book-featuring-never-before-seen-design-concepts-is-on-the-way-164859020.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">491a9626-b080-4bfd-af41-faf499320ec9</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Mon, 29 Sep 2025 16:48:59 +0000</pubDate>
+                    <ingested>1759164545</ingested>
+                    <modified>2025-09-29T16:49:08+00:00</modified>
+                                            <category>
+                            <![CDATA[Books & Publishing]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Game Consoles]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fps1_controllers.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=177526f81211b9e90c88825d4884e1bac530e260" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fps1_controllers.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=177526f81211b9e90c88825d4884e1bac530e260" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Sony/Read-Only Memory]]></media:credit>
+                                <media:description><![CDATA[Several PlayStation controller concepts]]></media:description>
+                                <media:title><![CDATA[Several PlayStation controller concepts]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Microsoft is trying to make 'vibe working' a thing]]></title>
+                                        <description type="html"><![CDATA[<p>Microsoft is taking inspiration from the AI-driven workflows of &quot;vibe coding&quot; and has now set out to make &quot;vibe working&quot; a thing (yes, those are the words the company chose.) Does AI in the workplace <a data-i13n="cpos:1;pos:1" href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity"><ins>even lead to worthwhile outputs</ins></a>? Does it <a data-i13n="cpos:2;pos:1" href="https://arxiv.org/pdf/2506.08872v1"><ins>mortgage our brains&#39; ability to learn</ins></a>? There are many seemingly critical question unanswered. But in the meantime, sure: vibe working it is.</p>
+<p>Using Office Agent within Office apps or Copilot chat, users can begin a document with a single prompt and then work iteratively alongside Copilot to develop a finished product. Microsoft says this is the &quot;new pattern of work for human-agent collaboration.&quot; The Agent Mode tool supports Excel and Word workflows, and Microsoft says PowerPoint support is coming soon; Office Agent works with PowerPoint and Word, with Excel coming soon.</p>
+<span id="end-legacy-contents"></span><p>The company waxes poetic about the &quot;full power of Excel&quot; being available only to expert users and promises that an Agent Mode that can &quot;speak Excel&quot; will change all that. In data shared as part of the announcement, Microsoft said that Copilot Agent Mode in Excel achieved 57.2 percent accuracy on the <a data-i13n="cpos:3;pos:1" href="https://spreadsheetbench.github.io/"><ins>SpreadsheetBench</ins></a> benchmark. This is compared to a 71.3 percent human score, though it&#39;s not clear if that&#39;s for average users, Excel power users or how many human users that score is derived from. Still — not great numbers!</p>
+<p>Agent Mode also works in Word to summarize, edit and of course help to create entire drafts (though its unclear what those relative accuracy rates are.) Both the Excel and Word Agent Modes are powered by OpenAI&#39;s latest models. Office Agent in Copilot chat is powered by Anthropic models and can create PowerPoint presentations and Word documents in what Microsoft calls a &quot;chat-first experience.&quot;</p>
+<p>Agent Mode for Excel and Word, as well as Office Agent, are available today through the <a data-i13n="cpos:4;pos:1" href="https://adoption.microsoft.com/en-us/copilot/frontier-program/"><ins>Frontier program</ins></a>. Agent Mode is currently limited to the web-based versions of Word and Excel and is coming to desktop soon.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/microsoft-is-trying-to-make-vibe-working-a-thing-163334367.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/microsoft-is-trying-to-make-vibe-working-a-thing-163334367.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">47f610a2-fd8f-4869-8085-e2fac4ee8237</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 29 Sep 2025 16:33:34 +0000</pubDate>
+                    <ingested>1759163621</ingested>
+                    <modified>2025-09-29T16:33:43+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-01%2Fbbc74e90-d36a-11ef-8f56-36631efba1f3&amp;resize=1400%2C887&amp;client=19f2b5e49a271b2bde77&amp;signature=20dfe9b5387958a8c0159aad93de13f6d7d5f9b6" width="1400" height="887" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-01%2Fbbc74e90-d36a-11ef-8f56-36631efba1f3&amp;resize=1400%2C887&amp;client=19f2b5e49a271b2bde77&amp;signature=e9f066931ce912ffd6ff0558e23067e9afadf4cf" width="1400" height="887" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[REUTERS / Reuters]]></media:credit>
+                                <media:description><![CDATA[Copilot logo is seen in this illustration taken May 20, 2024. REUTERS/Dado Ruvic/Illustration]]></media:description>
+                                <media:title><![CDATA[Illustration shows Copilot logo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[FCC accidentally leaked iPhone schematics, potentially giving rivals a peek at company secrets]]></title>
                                         <description type="html"><![CDATA[<p>The Federal Communications Commission (FCC) <a data-i13n="cpos:1;pos:1" href="https://fccid.io/BCG-E8726A/Schematics/A3212-A3408-A3409-A3410-System-Electrical-Schematics-V1-0-8024509"><ins>recently published a 163-page PDF</ins></a> showing the electrical schematics for the iPhone 16e, despite Apple specifically requesting them to be confidential. This was most likely a mistake on the part of the FCC, <a data-i13n="cpos:2;pos:1" href="https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=feedly"><ins>according to a report by </ins><em><ins>AppleInsider</ins></em></a>.</p>
 <p>The agency also distributed a cover letter from Apple alongside the schematics, which is dated September 16, 2024. This letter verifies the company&#39;s request for privacy, indicating that the documents contain &quot;confidential and proprietary trade secrets.&quot; The cover letter asks for the documents to be withheld from public view &quot;indefinitely.&quot; Apple even suggested that a release of the files could give competitors an &quot;unfair advantage.&quot;</p>
@@ -3576,202 +3783,6 @@
                                 <media:credit><![CDATA[Engadget]]></media:credit>
                                 <media:description><![CDATA[The best eco-friendly phone cases]]></media:description>
                                 <media:title><![CDATA[The best eco-friendly phone cases]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[IXI's autofocus glasses are one step closer to reality]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;">Forget smart glasses, autofocus lenses have the potential to help far more people by offering a high-tech alternative to clunky bifocal and varifocal eyewear. Those traditional solutions involve looking at specific portions of glasses for near and far objects. While that&#39;s more convenient than swapping frames constantly, it requires retraining your eyes a bit and can also lead to eye strain.</p><p style="text-align:left;"><a target="_blank" class="link" href="https://ixieyewear.com/">Finnish startup IXI&#39;s</a> autofocus glasses aim to go one step further: It has developed eyewear with built-in eye tracking and LCDs that can automatically focus on whatever you&#39;re looking at, just like fixed frame glasses. Even better, they look just like regular eyewear, even more-so than Meta&#39;s thick-framed Ray-Ban smart glasses. While IXI isn&#39;t yet ready to start shipping its hardware yet, the company announced today that it&#39;s one step closer to production by acquiring the <a target="_blank" class="link" href="https://finnsusp.fi/?lang=en">lens manufacturing unit of Finnsusp</a> and entering into a &quot;long-term strategic partnership&quot; with <a target="_blank" class="link" href="https://www.optiswiss.com/en/home/index.php">OptiSwiss</a>.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IXI-dynamic-eyewear_(1).jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IXI-dynamic-eyewear_(1).jpg" style="height:1080px;width:1920px;" alt="IXI&#39;s autofocus frames with built-in LCD" data-uuid="e4a8792d-41d6-4814-ab49-ea19f817ee29"><figcaption>IXI&#39;s autofocus frames with built-in LCD</figcaption><div class="photo-credit">IXI</div></figure><p style="text-align:left;">While IXI isn&#39;t the only company working on autofocus frames -- we covered <a target="_blank" class="link" href="https://www.engadget.com/vixion01-glasses-reduce-eyestrain-by-doing-the-focusing-for-you-205106281.html">ViXion01&#39;s Star Trek-esque glasses</a> at CES last year -- it&#39;s the closest to bringing the technology to normal-looking spectacles. Sure, they&#39;re not as flashy as Meta&#39;s Ray-Ban lineup, and they don&#39;t exactly scream high-tech, but IXI&#39;s reserved approach could make its glasses more compelling to older audiences. Not everyone wants to look like a trendy supergeek, after all, but the idea of having glasses that could make your eyes feel decades younger practically is a huge draw.</p><p style="text-align:left;">IXI has developed &quot;the world&#39;s lowest power eye-tracking&quot; to make its glasses possible, CEO and co-founder Niko Eiden told Engadget in an interview. The company stuffed tiny batteries into the thin frames of its glasses, which Eiden claims can last for a day of usage. The assumption is that you&#39;ll charge them overnight by connecting a cable to their temple area (unfortunately, that also makes them too unwieldy to power up while you&#39;re wearing them). If they do completely lose power, they&#39;ll function purely as far-sighted spectacles.</p><p style="text-align:left;">With the Finnsusp acquisition, IXI will be able to begin low-volume production of its glasses for in-house testing, while the OptiSwiss partnership will eventually help it to scale for the mass market. Eiden says the company isn’t announcing pricing or availability yet, but he expects it to be in the “high end of existing glasses.” More so than Meta’s hyped-up smart glasses, IXI’s products are targeted at people who are already wearing glasses and who could quickly see the value of in autofocus lenses. Eye degradation comes for us all eventually.</p><p style="text-align:left;"></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/wearables/ixis-autofocus-glasses-are-one-step-closer-to-reality-060000152.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/ixis-autofocus-glasses-are-one-step-closer-to-reality-060000152.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ef113b4b-ef1f-4aa1-8fc9-3835b5f5f5e7</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
-                    <ingested>1758977940</ingested>
-                    <modified>2025-09-27T12:59:03+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FIXI_glasses.jpg&amp;resize=1400%2C869&amp;client=19f2b5e49a271b2bde77&amp;signature=6d04aeff80cee431ea535ff5033720da501828a2" width="1400" height="869" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FIXI_glasses.jpg&amp;resize=1400%2C869&amp;client=19f2b5e49a271b2bde77&amp;signature=6d04aeff80cee431ea535ff5033720da501828a2" width="1400" height="869" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[IXI]]></media:credit>
-                                <media:description><![CDATA[IXI autofocus glasses]]></media:description>
-                                <media:title><![CDATA[IXI autofocus glasses]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Call-recording app Neon goes offline after security flaw uncovered]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Neon is an call-recording app that pays users for access to the audio, which the app in turn sells to AI companies for training their models. Since its launch last week, it quickly rose in popularity, but the service was taken offline today. </span><a target="_blank" class="link" href="https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;"><em>TechCrunch</em></span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> reported that it found a security flaw that allowed any logged-in user to access other accounts&#39; phone numbers, the phone numbers called, call recordings and transcripts.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"><em>TechCrunch</em> said that it contacted Neon founder Alex Kiam about the issue. &quot;Kiam told <em>TechCrunch</em> later Thursday that he took down the app’s servers and began notifying users about pausing the app, but fell short of informing his users about the security lapse,&quot; the publication reported. The app went dark “soon after” <em>TC</em> contacted Kiam. Neon does not appear to have a timeline about if or when the service will resume or what additional security protections it may add. </span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The full report from <em>TechCrunch</em> is </span><a target="_blank" class="link" href="https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">here</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> and certainly worth reading if you&#39;ve used Neon. </span></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/call-recording-app-neon-goes-offline-after-security-flaw-uncovered-223425297.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/call-recording-app-neon-goes-offline-after-security-flaw-uncovered-223425297.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">8865214d-4fa9-40a3-b95f-051f9818f696</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Thu, 25 Sep 2025 22:34:25 +0000</pubDate>
-                    <ingested>1758839671</ingested>
-                    <modified>2025-09-25T22:34:33+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2F1a54716e-6ceb-48a7-9bb4-db30944581b0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=bd5d484292bcfb9a7b1b793c5178df505980d1ac" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-09%2F1a54716e-6ceb-48a7-9bb4-db30944581b0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=bd5d484292bcfb9a7b1b793c5178df505980d1ac" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Sanja Baljkas via Getty Images]]></media:credit>
-                                <media:description><![CDATA[Old white Antique Phone in retro vintage style. Old telephone.]]></media:description>
-                                <media:title><![CDATA[White Antique Phone]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Bowser is leaving Nintendo of America]]></title>
-                                        <description type="html"><![CDATA[<p>Doug Bowser, Nintendo of America&#39;s President and Chief Operating Officer, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.businesswire.com/news/home/20250925384737/en/Doug-Bowser-Bids-Farewell-to-the-Mushroom-Kingdom">is stepping down</a> on December 31, 2025, according to Nintendo. Bowser&#39;s leadership responsibilities will now be split between two executives: Devon Pritchard, NoA&#39;s Executive Vice President of Revenue, Marketing and Consumer Experience, will take over as President, and Satoru Shibata, the current Corporate Director and Managing Executive Director, will act as the company&#39;s CEO.</p>
-<p>Bowser first joined Nintendo in 2015 as <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2015-05-20-nintendo-hired-bowser-vp-of-sales.html">Vice President of Sales and Marketing</a>, before <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2019-02-21-nintendo-president-reggie-fils-aime-retiring.html">replacing long-time President Reggie Fils-Aimé</a> in 2019. In comparison to some of the company&#39;s other leaders, Bowser was much less of a public-facing presence, but he still guided Nintendo of America through a transformative portion of the company&#39;s history. Nintendo not only opened <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/super-nintendo-world-universal-studios-hollywood-opening-2023-175710087.html">a theme park</a> while Bowser was in charge, but also had a major Hollywood release in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/super-mario-bros-movie-review-fun-safe-romp-135146207.html"><em>The Super Mario Bros. Movie</em></a> and a successful console launch with the release of the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/nintendo/nintendo-switch-2-has-officially-launched-heres-everything-you-need-to-know-143310136.html">Switch 2</a> earlier this year. Bowser also weathered his fair share of controversies, including reports that Nintendo of America was failing to address <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/nintendo-game-testers-sexual-harassment-gender-discrimination-040607823.html">issues of gender discrimination</a> among its employees.</p>
-<span id="end-legacy-contents"></span><p>&quot;Leading Nintendo of America has been the honor of a lifetime, and I am proud of what our team has accomplished in both business results and the experiences we’ve created for consumers,&quot; Bowser said in a statement. &quot;Now, it’s time for the next generation of leadership and Devon’s track record speaks for itself,” Bowser continued. “She is an exceptional leader, and her promotion is a testament to her strong performance and strategic contributions to the company’s growth.&quot;</p>
-<p>According to Nintendo, &quot;Pritchard plans to build on the many experiences that allow consumers to connect with Nintendo&#39;s characters and worlds, from video games to entertainment to retail experiences.&quot; The company might be too big and successful now to feature someone with as much personality as Fils-Aimé, but if Pritchard plans to stick with business-as-usual, maybe Shibata could become <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.youtube.com/watch?v=NnJHF-Pt7_0">the public face</a> Nintendo has been missing.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/bowser-is-leaving-nintendo-of-america-221650389.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/bowser-is-leaving-nintendo-of-america-221650389.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">2b3bff58-0956-409c-ab6d-cfeec3c8487a</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 25 Sep 2025 22:16:50 +0000</pubDate>
-                    <ingested>1758838616</ingested>
-                    <modified>2025-09-25T22:16:59+00:00</modified>
-                                            <category>
-                            <![CDATA[Investment & Company Information]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Finance]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F73f36dc0-9a5b-11f0-887f-90e12b633a40&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=22b110a519f1694df5f6f828c6be849c9afe4ca4" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F73f36dc0-9a5b-11f0-887f-90e12b633a40&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7d31e01d1046c56b8c31c31d56eee881bf422584" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[CNBC]]></media:credit>
-                                <media:description><![CDATA[Doug Bowser answering a question during a CNBC interview about the Switch 2.]]></media:description>
-                                <media:title><![CDATA[Doug-Bowser]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Meta now has a feed for AI slop]]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The Meta AI app — you know, the one where people </span><a target="_blank" class="link" href="https://www.engadget.com/social-media/meta-warns-users-to-avoid-sharing-personal-or-sensitive-information-in-its-ai-app-233900625.html"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">publicly shared their private conversations</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> with the chatbot by accident — now has a dedicated feed for AI slop. The </span><a target="_blank" class="link" href="https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/">Vibes</a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> feed is a home for AI-generated short-form videos in the Meta AI app and website. Users can scroll the creations of other people, or can make their own clips, either by building from scratch or adapting other videos from the feed. The videos people make can also be shared via DM or cross-posted to Instagram or Facebook.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The company said it plans to add more features for AI-generated creation in the future. According to a Threads </span><a target="_blank" class="link" href="https://www.threads.com/@zuck/post/DPCXhCwkqEe?xmt=AQF0XI-d6bZ4tD2QCneMvJDkRL3Dwtggs2u6kcjlhF4eYQ"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">post</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> by CEO Mark Zuckerberg, Vibes is &quot;an early look at some of the new product directions we&#39;re exploring.&quot; He added that Meta Superintelligence Labs will work with Midjourney and Black Forest Labs on upcoming AI projects. </span></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/meta-now-has-a-feed-for-ai-slop-205751808.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/meta-now-has-a-feed-for-ai-slop-205751808.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6c4dfbdb-f9c2-477a-ba4d-fae5da52b42d</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Thu, 25 Sep 2025 20:57:51 +0000</pubDate>
-                    <ingested>1758833880</ingested>
-                    <modified>2025-09-25T20:58:02+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMeta_AI_Vibes.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e5f04c5ac6ff55c66cdad5218ac754e6e32e5446" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMeta_AI_Vibes.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e5f04c5ac6ff55c66cdad5218ac754e6e32e5446" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Meta]]></media:credit>
-                                <media:description><![CDATA[Meta AI Vibes]]></media:description>
-                                <media:title><![CDATA[Meta AI Vibes]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
