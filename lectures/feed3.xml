@@ -6,9 +6,63 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 09 Oct 2025 20:51:05 +0000</pubDate>
+            <pubDate>Thu, 09 Oct 2025 22:08:57 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Someone programmed a 65-year old computer to play Boards of Canada's 'Olson']]></title>
+                                        <description type="html"><![CDATA[<div id="8d212b96c124432888898352349a73a4"><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/wubkrBd3-gg?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="www.youtube.com"></iframe></div></div>
+<p>The Programmed Data Processor-1 (PDP-1) is perhaps most recognizable as the home of <em>Spacewar!, </em>one of the world&#39;s first video games, but as <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.youtube.com/watch?v=wubkrBd3-gg">the video</a> above proves, it also works as an enormous and very slow iPod, too.</p>
+<p>In the video, Boards of Canada&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.youtube.com/watch?v=6_lzNFjqGiw&amp;list=RD6_lzNFjqGiw&amp;start_radio=1">&quot;Olson&quot;</a> is playing off of paper tape that&#39;s carefully fed and programmed into the PDP-1 by engineer and Computer History Museum docent Peter Samson. It&#39;s the final product of Joe Lynch&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://pdp1.music">PDP-1.music</a> project, an attempt to translate the short and atmospheric song into something the PDP-1 can reproduce.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>As Lynch <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://github.com/joeblynch/pdp-1-boc">writes on GitHub</a>, the &quot;Harmony Compiler&quot; used to translate &quot;Olson&quot; to paper tape was actually created by Samson to play audio through four of computer&#39;s lightbulbs while he was a student at MIT in the 1960s. He used it to recreate classical music, but it&#39;ll work with &#39;90s electronic music in a pinch, too.</p>
+<p>&quot;While these bulbs were originally intended to provide program status information to the computer operator,&quot; Lynch writes, &quot;Peter repurposed four of these light bulbs into four square wave generators (or four 1-bit DACs, put another way), by turning the bulbs on and off at audio frequencies.&quot; The signal from each bulb is then downmixed into stereo audio channels, transcribed via an emulator and merged into a single file that has to be manually punched into the paper tape that&#39;s fed into the PDP-1.</p>
+<p>It&#39;s a laborious process for playing even the simplest of songs, but it&#39;s worth it to hear Boards of Canada&#39;s already nostalgic music from an even older classic computer.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/someone-programmed-a-65-year-old-computer-to-play-boards-of-canadas-olson-220857441.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/audio/someone-programmed-a-65-year-old-computer-to-play-boards-of-canadas-olson-220857441.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">7e6e8248-9ca0-4456-8ad3-b58e8fe7fde3</guid>
+                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 09 Oct 2025 22:08:57 +0000</pubDate>
+                    <ingested>1760047742</ingested>
+                    <modified>2025-10-09T22:09:05+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Ian Carlos Campbell]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F84ff7820-a55a-11f0-bf0d-aa0fe70a22e7&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=db6aef9955dfd5c958b3c0d13a1eb98a58be2a77" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F84ff7820-a55a-11f0-bf0d-aa0fe70a22e7&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=d2e2caab3863cc0d6547cfc4c178c3c47820e361" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Joe Lynch]]></media:credit>
+                                <media:description><![CDATA[Peter Samson loading a song into the PDP-1.]]></media:description>
+                                <media:title><![CDATA[PDP-1-loading-tape]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The ESA's Power of Play report paints a portrait of the the world's gamers]]></title>
                                         <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The Entertainment Software Association has released its </span><a target="_blank" class="link" href="https://www.theesa.com/resources/the-global-power-of-play-report/" data-i13n="cpos:1;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Power of Play</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> report, which presents a snapshot of who is playing video games, and why, all around the world. There are a lot of interesting data points here from more than 24,000 respondents, all of whom are older than 16 and play at least weekly. The doubters who think gaming is just for kids may be surprised to learn that the average age of the respondents is 41 years old, and the gender split is nearly even between men and women.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">One of the most intriguing aspects to the report were the benefits people said they received from playing games. The top answer was that games offered mental stimulation, which 81 percent of the respondents said. Eighty percent said games provided stress relief, 73 percent said games made them feel happier and 64 percent said games connected them with other people which helped them feel less isolated or lonely.&nbsp;</span></p><figure><img src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/ESA_Power_of_Play_2025_skills.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/ESA_Power_of_Play_2025_skills.jpg" style="height:655px;width:1208px;" alt="ESA Power of Play 2025" data-uuid="9a1f9be8-9a9e-4baf-acd8-8f390b55dd01"><figcaption>ESA Power of Play 2025</figcaption><div class="photo-credit">ESA</div></figure><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">And although having fun was the top reason respondents gave for playing (66 percent), they also said gaming could improve their skills. Seventy-seven percent said gaming increased creativity, 76 percent said it improved problem-solving and 74 percent said gaming upped both cognitive skills and teamwork or collaboration.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The report also points to how popular mobile gaming still is. Overall, 55 percent of the respondents said mobile was their favorite gaming platform. Half of the respondents under age 35 play on mobile, and an impressive 61 percent of the over 50 gamers also play on mobile.</span></p>This article originally appeared on Engadget at https://www.engadget.com/the-esas-power-of-play-report-paints-a-portrait-of-the-the-worlds-gamers-205105064.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/the-esas-power-of-play-report-paints-a-portrait-of-the-the-worlds-gamers-205105064.html?src=rss]]></link>
@@ -3146,66 +3200,6 @@
                                 <media:credit><![CDATA[Sackbird Studios]]></media:credit>
                                 <media:description><![CDATA[Sackbird Studios]]></media:description>
                                 <media:title><![CDATA[Sackbird Studios]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple removed an app that archives videos of ICE arrests]]></title>
-                                        <description type="html"><![CDATA[<p>Apple has removed Eyes Up, an app that collects and archives videos of Immigration Customs and Enforcement arrests, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/"><em>404 Media </em>reports</a>. The app&#39;s removal follows similar action <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/apps/apple-removes-iceblock-from-the-app-store-after-trump-administrations-demand-031659651.html">taken against ICEBlock</a> last week, an app that tracks ICE activity in an attempt to offer real-time alerts of when and where arrests are happening. Unlike ICEBlock, though, Eyes Up&#39;s main purpose is to serve as an archive, not a tool for eluding government agents.</p>
-<p>The app, which is still available via <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://eyesupapp.com/">the web</a> and the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://play.google.com/store/apps/details?id=com.anonymous.vemosiceapp&amp;hl=en_US">Google Play Store</a>, archives videos of ICE arrests from a variety of different sources, and plots them on an interactive map. Users can submit their own videos for inclusion, and tap or click on individual map pins to view videos and download them for later use. &quot;Our goal is government accountability, we aren’t even doing real-time tracking,&quot; an Eyes Up administrator told <em>404 Media</em>. Ultimately, saved videos could prove useful in court, especially in response to possible ICE misconduct.</p>
-<span id="end-legacy-contents"></span><p>Apple says it removed Eyes Up because it violated the company&#39;s policy around <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://developer.apple.com/app-store/review/guidelines/#safety">&quot;objectionable content,&quot;</a> according to the report, and because it received information from law enforcement that the app is used &quot;to provide location information about law enforcement officers that can be used to harm such officers individually or as a group.&quot;</p>
-<p>Engadget has contacted Apple for more information on Eyes Up&#39;s removal from the App Store. We&#39;ll update this article if we hear back.</p>
-<p>Apple reportedly received similar information to spur the removal of ICEBlock from the App Store, including a direct request from Attorney General Pam Bondi, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi"><em>Fox Business </em>reports</a>. The fact that Eyes Up was also removed suggests that Apple is casting a wider net than just banning apps that help pinpoint the location of ICE activity.</p>
-<p>Google has been removing similar apps on the Play Store, too. The company <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/apps/google-is-also-removing-apps-used-to-report-sightings-of-ice-agents-192940612.html">pulled an app called Red Dot</a> that also plotted ICE activity on a map, one of several apps that were removed because they shared the location of a &quot;vulnerable group.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/apps/apple-removed-an-app-that-archives-videos-of-ice-arrests-212946540.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/apps/apple-removed-an-app-that-archives-videos-of-ice-arrests-212946540.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">f5aad38b-393b-4eba-9c02-be64c35f4006</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 08 Oct 2025 21:29:46 +0000</pubDate>
-                    <ingested>1759958990</ingested>
-                    <modified>2025-10-08T21:29:53+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Mobile Apps]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F086d9700-a489-11f0-bfef-1cc059e4816a&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=761c06be1a51a4ab979bf8ad716b95d51d4460a3" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F086d9700-a489-11f0-bfef-1cc059e4816a&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e45fe39992618cc498d3e1bfd2bb42db0d35655c" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Kreisau Group / Engadget]]></media:credit>
-                                <media:description><![CDATA[Three screenshots of the eyes Up app, showing off the Home Screen, the map screen, and a video of ICE officers.]]></media:description>
-                                <media:title><![CDATA[eyes-up-app]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
