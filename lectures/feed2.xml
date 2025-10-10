@@ -6,9 +6,60 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 23 Aug 2023 17:50:05 +0000</pubDate>
+            <pubDate>Fri, 10 Oct 2025 10:28:44 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Apple doubles its biggest bug bounty reward to $2 million]]></title>
+                                        <description type="html"><![CDATA[<p>Apple is <a data-i13n="cpos:1;pos:1" href="https://security.apple.com/blog/apple-security-bounty-evolved/">updating</a> its <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/2019-12-20-apple-expanded-bug-bounty-program-live.html">Security Bounty program</a> this November to offer some of the highest rewards in the industry. It has doubled its top award from $1 million to $2 million for the discovery of &quot;exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks&quot; and which requires no user interaction. But the maximum possible payout can exceed $5 million dollars for the discovery of more critical vulnerabilities, such as bugs in beta software and Lockdown Mode bypasses. Lockdown Mode is an upgraded security architecture in the Safari browser.&nbsp;</p>
+<p>In addition, the company is rewarding the discovery of exploit chains with one-click user interaction with up to $1 million instead of just $250,000. The reward for attacks requiring physical proximity to devices can now also go up to $1 million, up from $250,000, while the maximum reward for attacks requiring physical access to locked devices has been doubled to $500,000. Finally, researchers &quot;who demonstrate chaining WebContent code execution with a sandbox escape can receive up to $300,000.&quot; Apple&#39;s VP for security engineering and architecture Ivan Krstić told <a data-i13n="cpos:3;pos:1" href="https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/?utm_brand=wired&amp;utm_social-type=owned&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=aud-dev"><em>Wired</em></a> that the company has awarded over $35 million to more than 800 security researchers since it introduced and <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/2019-08-08-apple-bug-bounty-program-macos-watchos-tvos-icloud.html">expanded</a> the program over the past few years. Apparently, top-dollar payouts are very rare, but Apple has made multiple $500,000 payouts.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>The company said in its announcement that the only  system-level iOS attacks it has observed in the wild came from mercenary spyware, which are historically associated with state actors and typically used to target specific individuals. It said its new security features like Lockdown Mode and Memory Integrity Enforcement, which combats memory corruption vulnerabilities, can make mercenary attacks more difficult to pull off. However, bad actors will continue evolving their techniques, and Apple is hoping that updating its bounty program with bigger payouts can &quot;encourage highly advanced research on [its] most critical attack surfaces despite the increased difficulty.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3069cbaa-a236-4422-981e-61e08782de9b</guid>
+                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Fri, 10 Oct 2025 10:28:44 +0000</pubDate>
+                    <ingested>1760092569</ingested>
+                    <modified>2025-10-10T10:36:11+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Mariella Moon]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F5d4e6240-a5bf-11f0-b7bd-8151cc7d1b26&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c1d402cadaa0c2d192f11e14c53c9d2dc78aef44" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F5d4e6240-a5bf-11f0-b7bd-8151cc7d1b26&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=1e1f58e494d630309123cc261496ab074b01f374" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Anadolu via Getty Images]]></media:credit>
+                                <media:description><![CDATA[TOKYO, JAPAN - SEPTEMBRE 27 : General view of the new Apple Ginza building in Tokyo's Ginza district on September 27, 2025. Originally opened in 2003 as Apple's first store outside the United States, the flagship has reopened in a completely redesigned four-story format, blending modern design, technological innovation, and materials inspired by Japan. (Photo by David Mareuil/Anadolu via Getty Images)]]></media:description>
+                                <media:title><![CDATA[Apple reopens its flagship Ginza store in Tokyo with a redesign]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best gaming accessories on a budget for 2025]]></title>
                                         <description type="html"><![CDATA[<p>You don’t need to spend a fortune to level up your gaming setup. The right budget-friendly gear can still deliver the comfort, performance and style you need whether you’re on Xbox, PlayStation, a gaming PC or a Nintendo handheld. Affordable doesn’t have to mean low quality — today’s peripherals often bring the same features as pricier gear, like RGB lighting, noise cancellation and even USB-C connectivity.<br><br>From headsets that double as work headphones to keyboards and mice built for fast reactions, there’s plenty of gaming gear that offers high-quality performance without emptying your wallet. The best picks make sense for students, casual players or any PC gamer who wants to save money for actual games instead of accessories.</p> 
 <h2 id="jump-link-table-of-contents">Table of contents</h2> 
@@ -3281,55 +3332,6 @@
                                 <media:credit><![CDATA[]]></media:credit>
                                 <media:description><![CDATA[]]></media:description>
                                 <media:title><![CDATA[Discord&#39;s CEO and co-founder is stepping down]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[New York City is suing Meta, Snap, TikTok and YouTube over 'youth mental health crisis']]></title>
-                                        <description type="html"><![CDATA[<p style="text-align:left;"></p><p style="text-align:left;"></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">New York City, its school district and healthcare system have filed a lawsuit against Meta, Snap TikTok and YouTube for allegedly contributing to a &quot;youth mental health crisis&quot; with intentionally addictive platforms. The lawsuit is the latest in a long string of legal actions against social media platforms over their handling of safety and other issues facing teens.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The city of New York was joined in the lawsuit by the city&#39;s school district and NYC&nbsp;Health + Hospitals, the city&#39;s largest public hospital system. The lawsuit alleges that the social media companies have intentionally designed their platforms to be addictive to children and that they have failed to implement effective safeguards.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The companies, the suit claims &quot;have created, caused and contributed to the youth mental health crisis in New York City, causing damage to the public’s health and safety, interfering with the use of public places, including schools, and endangering or injuring the health, safety, comfort or welfare of a considerable number of persons, including youth.&quot; It says the city, school district and hospitals have been forced &quot;to devote significant resources—in terms of funding, employees, and time&quot; to address the &quot;youth mental health crisis&quot; caused by the companies.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The lawsuit also specifically calls out the rise of viral posts about &quot;subway surfing&quot; in New York, noting that several teenagers have died attempting the stunt and more than 100 have been arrested. &quot;Significantly, NYPD investigations have determined that the primary motivation of subway surfers is to imitate the subway surfing videos they see on social media, and to collect social media &#39;likes,&#39;&quot; the lawsuit says. It also claims that teachers and other school staff &quot;experience secondary trauma and burnout associated with responding to students in crisis&quot; due to social media.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Meta, Snap and TikTok didn&#39;t immediately respond to a request for comment on the lawsuit. In a statement, Google spokesperson José Castañeda said that &quot;the allegations are simply not true&quot; and &quot;fundamentally misunderstand&quot; YouTube. &quot;YouTube is a streaming service where people come to watch everything from live sports, to podcasts to their favorite creators, primarily on TV screens, not a social network where people go to catch up with friends,&quot; he said. &quot;We&#39;ve also developed dedicated tools like Supervised Experiences for young people, guided by child safety experts, that give families control.&quot;</span></p><p style="text-align:left;"> </p><p style="text-align:left;"></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/new-york-city-is-suing-meta-snap-tiktok-and-youtube-over-youth-mental-health-crisis-223916712.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/new-york-city-is-suing-meta-snap-tiktok-and-youtube-over-youth-mental-health-crisis-223916712.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">a0189a92-9993-43a0-b2b8-5eb9ac186976</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Wed, 08 Oct 2025 22:39:16 +0000</pubDate>
-                    <ingested>1759963164</ingested>
-                    <modified>2025-10-08T22:39:26+00:00</modified>
-                                            <category>
-                            <![CDATA[Health]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Business]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2F7effd589-cc6b-443c-a5c8-d65f93197b15&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=ce06c706c761b4b2da274a916f745e3995ceb3d4" width="1400" height="839" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2F7effd589-cc6b-443c-a5c8-d65f93197b15&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=ce06c706c761b4b2da274a916f745e3995ceb3d4" width="1400" height="839" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Anadolu via Getty Images]]></media:credit>
-                                <media:description><![CDATA[NEW YORK CITY, UNITED STATES - JULY 10: A subway surfer is seen on the roof of a 7 train car on July 10, 2025, in Queens, New York City, United States. Despite a joint campaign between MTA, NYC Public Schools, and Pro BMX Athlete Partner to combat subway surfing, which announced in June by New York Governor Kathy Hochul, it persists among some young people who cannot see the deadly side of surfing because of the viral trends on social media and surfers&#39; social media obsessions. (Photo by Selcuk Acar/Anadolu via Getty Images)]]></media:description>
-                                <media:title><![CDATA[Subway surfing persists in New York City despite many fatalities]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
