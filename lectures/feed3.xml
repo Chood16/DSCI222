@@ -6,9 +6,161 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 14 Oct 2025 18:24:17 +0000</pubDate>
+            <pubDate>Tue, 14 Oct 2025 17:55:36 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[The company Discord blamed for its recent breach says it wasn't hacked]]></title>
+                                        <description type="html"><![CDATA[<p>Customer service support company 5CA has released a <a data-i13n="cpos:1;pos:1" href="https://5ca.com/blog/holding-statement-security-incident/">statement</a> contradicting <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/discord-now-says-70000-government-ids-may-have-leaked-in-provider-hack-225753321.html">claims by Discord</a> that it was the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html">victim of a hack</a> last month. On October 3, Discord <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html">disclosed</a> a data breach that the company says included a “small number” of government IDs like driver’s licenses and passports, which some users had submitted to verify their ages. Days later the company updated <a data-i13n="cpos:5;pos:1" href="https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service">its statement</a> to name 5CA as the target of the hack, which Discord contracts as part of its customer service efforts. It also disclosed that the &quot;small number&quot; of government IDs encompasses roughly 70,000 users.</p>
+<p>&quot;We are aware of media reports naming 5CA as the cause of a data breach involving one of our clients. Contrary to these reports, we can confirm that none of 5CA’s systems were involved, and 5CA has not handled any government-issued IDs for this client. All our platforms and systems remain secure, and client data continues to be protected under strict data protection and security controls,&quot; the company’s statement reads in part. The company goes on to explicitly state &quot;the incident occurred outside of our systems and that 5CA was not hacked.&quot;</p>
+<span id="end-legacy-contents"></span><p>5CA says that a preliminary investigation showed that the incident may have been the result of &quot;human error,&quot; though it offers no details as to what exactly that implies. In a recent interview with <a data-i13n="cpos:6;pos:1" href="https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/"><em>BleepingComputer</em></a>, the hackers who claimed responsibility for the breach said they had access to Discord&#39;s Zendesk account for 58 hours on September 20. The group claims they gained entry through compromised login credentials belonging to a support agent employed by a third-party company.  Discord has not yet responded to the company’s claims.</p>
+<p><strong>Update 2:58 PM ET</strong>: Added more context about the breach.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a964ac6b-1f7d-4b48-b940-f3e00dc71047</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 14 Oct 2025 18:59:39 +0000</pubDate>
+                    <ingested>1760468385</ingested>
+                    <modified>2025-10-14T18:59:47+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8634db0-a11b-11f0-b6ad-eb951e9cbfb5&amp;resize=1400%2C874&amp;client=19f2b5e49a271b2bde77&amp;signature=a9867bc167fbbd8d4b3edf92140d43bc0250850d" width="1400" height="874" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8634db0-a11b-11f0-b6ad-eb951e9cbfb5&amp;resize=1400%2C874&amp;client=19f2b5e49a271b2bde77&amp;signature=32edb5e63ee7aecc3f5df5ec9fe5836f6ef86a80" width="1400" height="874" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
+                                <media:description><![CDATA[EDMONTON, CANADA - APRIL 28:
+An image of a woman holding a cell phone in front of the Discord logo displayed on a computer screen, on April 29, 2024, in Edmonton, Canada. (Photo by Artur Widak/NurPhoto via Getty Images)]]></media:description>
+                                <media:title><![CDATA[Photo Illustrations - Stock Pictures]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Kobo made a remote control for its ereaders]]></title>
+                                        <description type="html"><![CDATA[<p>Kobo is making a remote control for its line of ereaders. The appropriately-named Kobo Remote costs $30 and will be <a data-i13n="elm:affiliate_link;sellerN:Kobo;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=10b363e1-6abb-4fc0-b019-cb4ff191d49a&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=406e2ba9-8b67-4678-98f3-d7adbc26fcdf&amp;featureId=text-link&amp;merchantName=Kobo&amp;linkText=available+to+purchase+on+November+4&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwOi8vd3d3LmtvYm8uY29tL2FjY2Vzc29yaWVzIiwiY29udGVudFV1aWQiOiI0MDZlMmJhOS04YjY3LTQ2NzgtOThmMy1kN2FkYmMyNmZjZGYiLCJvcmlnaW5hbFVybCI6Imh0dHA6Ly93d3cua29iby5jb20vYWNjZXNzb3JpZXMifQ&amp;signature=AQAAAbggVNeJu1xcypDiKIMca-r7sswpstpDHpiJfrDJBfGM&amp;gcReferrer=http%3A%2F%2Fwww.kobo.com%2Faccessories" class="rapid-with-clickid" data-original-link="http://www.kobo.com/accessories">available to purchase on November 4</a>.</p>
+<p>A remote control for an ereader may seem silly to some, but avid readers will likely appreciate this accessory. It&#39;s basically a wireless page turner, so users can lay in bed and read all day without having to physically hold the device or prop a hand up to push a button every 30 seconds. Kobo is calling it &quot;the ideal reading companion.&quot;</p>
+<span id="end-legacy-contents"></span><p>It has been custom-built for Kobo products and will be available in both black and white, which matches the company&#39;s other products. It can integrate with any Kobo ereader with Bluetooth functionality, which includes the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/kobo-libra-2-irl-153009550.html">Libra 2</a> and the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/kobo-clara-colour-review-judging-books-by-their-covers-is-now-more-fun-130013382.html">well-reviewed Clara Colour</a>.</p>
+<p>“In a Canadian winter, we know that sometimes maximum reading comfort means burrowing down in the blankets, tucking yourself in and not emerging until spring,” said Rakuten Kobo CEO Michael Tamblyn. “The Kobo Remote is the perfect accessory for peak immersive reading; it’s an invitation to lounge deeper, multitask smarter and simply enjoy reading without limits, no matter whether your environment is beach or blankets.&quot;</p>
+<p>The remote will be available in multiple regions, including the US, Canada, Europe, Australia, Singapore, Japan and many others. The company says it&#39;ll be sharing more details about the remote soon, but we aren&#39;t sure what details could be left to share. It&#39;s a remote control for an ereader. Maybe it can do one or two unexpected things.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/kobo-made-a-remote-control-for-its-ereaders-185010955.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/mobile/tablets/kobo-made-a-remote-control-for-its-ereaders-185010955.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">406e2ba9-8b67-4678-98f3-d7adbc26fcdf</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 14 Oct 2025 18:50:10 +0000</pubDate>
+                    <ingested>1760467284</ingested>
+                    <modified>2025-10-14T18:41:25+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fe125fd20-a926-11f0-95a6-5426a1afb543&amp;resize=1400%2C770&amp;client=19f2b5e49a271b2bde77&amp;signature=6419a4209c52f391251b6074a0693da90987695a" width="1400" height="770" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fe125fd20-a926-11f0-95a6-5426a1afb543&amp;resize=1400%2C770&amp;client=19f2b5e49a271b2bde77&amp;signature=63ed491f77867bba451ab5703c91602af12f4e62" width="1400" height="770" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Kobo]]></media:credit>
+                                <media:description><![CDATA[Two remotes.]]></media:description>
+                                <media:title><![CDATA[Kobo Remotes]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[OpenAI forms advisory council on wellbeing and AI]]></title>
+                                        <description type="html"><![CDATA[<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">OpenAI </span><a target="_blank" class="link" href="https://openai.com/index/expert-council-on-well-being-and-ai/" data-i13n="cpos:1;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">announced</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> today that it is creating an advisory council centered on its users&#39; mental and emotional wellness. The Expert Council on Well-being and AI comprises eight researchers and experts on the intersection of technology and mental health. Some of the members were experts that OpenAI consulted as it developed </span><a target="_blank" class="link" href="https://www.engadget.com/ai/openai-is-adding-parental-controls-to-chatgpt-144128085.html" data-i13n="cpos:2;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">parental controls</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">. Topics of safety and protecting younger users have become more of a talking point for all artificial intelligence companies, including OpenAI, after lawsuits questioned their complicity in </span><a target="_blank" class="link" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html" data-i13n="cpos:3;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">multiple</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> </span><a target="_blank" class="link" href="https://www.engadget.com/ai/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide-184529475.html" data-i13n="cpos:4;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">cases</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> where teenagers committed suicide after sharing their plans with AI chatbots.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">This move sounds like a wise addition, but the effectiveness of any advisor hinges on listening to their insights. We&#39;ve seen other tech companies establish and then utterly ignore their advisory councils; </span><a target="_blank" class="link" href="https://www.engadget.com/social-media/meta-safety-advisory-council-says-the-companys-moderation-changes-prioritize-politics-over-safety-140026965.html" data-i13n="cpos:5;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Meta</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> is one of the notable recent examples. And the announcement from OpenAI even acknowledges that its new council has no real power to guide its operations: &quot;We remain responsible for the decisions we make, but we’ll continue learning from this council, the Global Physician Network, policymakers, and more, as we build advanced AI systems in ways that support people’s well-being.&quot; It may become clearer how seriously OpenAI is taking this effort when it starts to disagree with the council, whether the company is genuinely committed to mitigating the serious risks of AI or whether this is a smoke and mirrors attempt to paper over its issues.</span></p>This article originally appeared on Engadget at https://www.engadget.com/openai-forms-advisory-council-on-wellbeing-and-ai-183815365.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/openai-forms-advisory-council-on-wellbeing-and-ai-183815365.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">b8906375-2022-4143-b148-09843b0305cd</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 14 Oct 2025 18:38:15 +0000</pubDate>
+                    <ingested>1760467104</ingested>
+                    <modified>2025-10-14T18:38:25+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fcccf0290-c345-44e1-8cea-d54e35a4e925&amp;resize=1400%2C939&amp;client=19f2b5e49a271b2bde77&amp;signature=bda6f15a5d1bb57fb2e5f0d7adcfef46b0e6f2f1" width="1400" height="939" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fcccf0290-c345-44e1-8cea-d54e35a4e925&amp;resize=1400%2C939&amp;client=19f2b5e49a271b2bde77&amp;signature=bda6f15a5d1bb57fb2e5f0d7adcfef46b0e6f2f1" width="1400" height="939" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Reuters / REUTERS]]></media:credit>
+                                <media:description><![CDATA[Il logo di OpenAI in un&#39;illustrazione del 3 febbraio 2023. REUTERS/Dado Ruvic/Illustrazione]]></media:description>
+                                <media:title><![CDATA[Il logo di OpenAI]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[OpenAI will let adults use ChatGPT for erotica starting in December]]></title>
                                         <description type="html"><![CDATA[<p>OpenAI plans to open the floodgates to more adult uses of ChatGPT starting in December, according to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://x.com/sama/status/1978129344598827128">a new post from CEO Sam Altman</a>. The company announced that it would add <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/following-teen-suicide-openai-explores-automatic-underage-user-restrictions-151948711.html">parental controls and automatic age detection features</a> in September, and it seems like a benefit of sorting out children from adults is an ability to offer more freedom in what ChatGPT can show users.</p>
 <p>&quot;In December, as we roll out age-gating more fully and as part of our &#39;treat adult users like adults&#39; principle, we will allow even more, like erotica for verified adults,&quot; Altman says. Some avid ChatGPT users already regularly manipulate the chatbot to engage in NSFW conversations, but Altman&#39;s announcement sounds more like tacit approval from OpenAI that those use-cases are okay.</p>
@@ -108,58 +260,6 @@
                                 <media:credit><![CDATA[The Ringer]]></media:credit>
                                 <media:description><![CDATA[Bill Simmons and his podcast are coming to Netflix]]></media:description>
                                 <media:title><![CDATA[Bill Simmons]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The company Discord blamed for its recent breach says it wasn't hacked]]></title>
-                                        <description type="html"><![CDATA[<p>Customer service support company 5CA has released a <a data-i13n="cpos:1;pos:1" href="https://5ca.com/blog/holding-statement-security-incident/"><ins>statement</ins></a> contradicting <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/discord-now-says-70000-government-ids-may-have-leaked-in-provider-hack-225753321.html"><ins>claims by Discord</ins></a> that it was the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html"><ins>victim of a hack</ins></a> last month. On October 3, Discord <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html"><ins>disclosed</ins></a> a data breach that the company says included a “small number” of government IDs like driver’s licenses and passports, which some users had submitted to verify their ages. Days later the company updated <a data-i13n="cpos:5;pos:1" href="https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service"><ins>its statement</ins></a> to name 5CA as the target of the hack, which Discord contracts as part of its customer service efforts. It also disclosed that the &quot;small number&quot; of government IDs encompasses roughly 70,000 users.</p>
-<p>&quot;We are aware of media reports naming 5CA as the cause of a data breach involving one of our clients. Contrary to these reports, we can confirm that none of 5CA’s systems were involved, and 5CA has not handled any government-issued IDs for this client. All our platforms and systems remain secure, and client data continues to be protected under strict data protection and security controls,&quot; the company’s statement reads in part. The company goes on to explicitly state &quot;the incident occurred outside of our systems and that 5CA was not hacked.&quot;</p>
-<span id="end-legacy-contents"></span><p>5CA says that a preliminary investigation showed that the incident may have been the result of &quot;human error,&quot; though it offers no details as to what exactly that implies. Discord has not yet responded to the company’s claims.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">a964ac6b-1f7d-4b48-b940-f3e00dc71047</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 14 Oct 2025 17:55:36 +0000</pubDate>
-                    <ingested>1760464311</ingested>
-                    <modified>2025-10-14T17:51:52+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8634db0-a11b-11f0-b6ad-eb951e9cbfb5&amp;resize=1400%2C874&amp;client=19f2b5e49a271b2bde77&amp;signature=a9867bc167fbbd8d4b3edf92140d43bc0250850d" width="1400" height="874" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8634db0-a11b-11f0-b6ad-eb951e9cbfb5&amp;resize=1400%2C874&amp;client=19f2b5e49a271b2bde77&amp;signature=32edb5e63ee7aecc3f5df5ec9fe5836f6ef86a80" width="1400" height="874" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
-                                <media:description><![CDATA[EDMONTON, CANADA - APRIL 28:
-An image of a woman holding a cell phone in front of the Discord logo displayed on a computer screen, on April 29, 2024, in Edmonton, Canada. (Photo by Artur Widak/NurPhoto via Getty Images)]]></media:description>
-                                <media:title><![CDATA[Photo Illustrations - Stock Pictures]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -2934,122 +3034,6 @@ An image of a woman holding a cell phone in front of the Discord logo displayed 
                                 <media:credit><![CDATA[]]></media:credit>
                                 <media:description><![CDATA[]]></media:description>
                                 <media:title><![CDATA[Chrome will now display AI reviews of online stores]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The FCC is trying to make it easier for internet providers to charge hidden fees]]></title>
-                                        <description type="html"><![CDATA[<p>The FCC <a data-i13n="cpos:1;pos:1" href="https://docs.fcc.gov/public/attachments/DOC-415057A1.pdf"><ins>has submitted a proposal</ins></a> that would make it harder for consumers to receive itemized bills with accurate information from their ISPs, <a data-i13n="cpos:2;pos:1" href="https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules"><ins>as spotted by </ins><em><ins>The Verge</ins></em></a>. The draft would revise previous &quot;unnecessary&quot; requirements on the grounds that a fact-based list of charges &quot;may confuse customers.&quot;</p>
-<p>This comes as a response to <a data-i13n="cpos:3;pos:1" href="https://www.fcc.gov/ecfs/document/104110173015781/1"><ins>complaints by ISPs</ins></a> over a <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/isps-roll-out-mandatory-broadband-nutrition-labels-that-show-speeds-fees-and-data-allowances-103832369.html"><ins>Biden-era transparency rule</ins></a> that <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/fcc-orders-isp-display-broadband-label-054900626.html"><ins>went into effect back in 2024</ins></a>. Compliance with this rule mandates that ISPs make it easier for consumers to compare prices and avoid hidden fees. This typically comes in the form or something called a &quot;nutrition label&quot;, which shows speeds, fees and data allowances for internet plans.</p>
-<span id="end-legacy-contents"></span><p>The FCC is planning on examining ways to eliminate &quot;any other label requirements that are unduly burdensome and provide minimal benefit to consumers.&quot; Getting an actual list of what we are paying $100 for each month doesn&#39;t seem like a minimal benefit to me.</p>
-<p>The regulatory agency isn&#39;t looking to ditch these nutrition labels entirely, at least not yet, but is seeking to eliminate the requirements to itemize location-based fees. &quot;We propose to eliminate the requirement that providers itemize discretionary, recurring monthly fees that represent costs they choose to pass through to consumers and which vary by consumer location,&quot; the draft proposal said.</p>
-<p>It also targets requirements to make this data readily available to all consumers. The proposal has language that would stop forcing ISPs to make this information multi-lingual and to make it available both online and to customers on the phone. It also seeks to decouple these labels from customer account portals. We aren&#39;t sure where these nutrition labels would continue to live.</p>
-<div id="44cc27b3e1e84f5b900efd0fcd1ad343"><iframe width="560" height="315" src="https://www.youtube.com/embed/M4B3-bZzOP0?si=dRFg_8qOAkScGaBy" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>FCC head Brendan Carr <a data-i13n="cpos:6;pos:1" href="https://www.fcc.gov/news-events/blog/2025/10/06/spice-month-plus"><ins>wrote a cheeky blog about the proposal</ins></a> that seemed more interested in discussing pumpkin spice lattes over ISP regulation. He said that the proposal seeks to &quot;separate the wheat from the chaff&quot; so that consumers can &quot;get quick and easy access to the information they want and need to compare broadband plans.&quot; The language of the proposal seems to indicate the exact opposite of that sentiment, but that&#39;s politics for ya.</p>
-<p>A vote on the proposal is scheduled for October 28. This is all part of Carr&#39;s <a data-i13n="cpos:7;pos:1" href="https://www.theverge.com/news/628288/fcc-chair-brendan-carr-deregulate-delete"><ins>&quot;Delete, Delete, Delete&quot; initiative</ins></a>, which seeks to appease President Trump by removing as many government regulations as possible.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/the-fcc-is-trying-to-make-it-easier-for-internet-providers-to-charge-hidden-fees-155305720.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/the-fcc-is-trying-to-make-it-easier-for-internet-providers-to-charge-hidden-fees-155305720.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">647cbfdb-8c3b-4ac5-8ce0-542129553e8b</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 10 Oct 2025 15:53:05 +0000</pubDate>
-                    <ingested>1760111591</ingested>
-                    <modified>2025-10-10T15:53:13+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2Fc03bd6f0-0031-11f0-affe-dece75b4b161&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=f7045b40f20fdd88dbc6144ed8c24583657058c3" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-03%2Fc03bd6f0-0031-11f0-affe-dece75b4b161&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=4c6615337c84b30352c1635673afbfe185fcaab8" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Brandon Bell via Getty Images]]></media:credit>
-                                <media:description><![CDATA[BROWNSVILLE, TEXAS - NOVEMBER 19: U.S. President-elect Donald Trump speaks to Brendan Carr, his intended pick for Chairman of the Federal Communications Commission, as he attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket on November 19, 2024 in Brownsville, Texas. SpaceX’s billionaire owner, Elon Musk, a Trump confidante, has been tapped to lead the new Department of Government Efficiency alongside former presidential candidate Vivek Ramaswamy. (Photo by Brandon Bell/Getty Images)]]></media:description>
-                                <media:title><![CDATA[Donald Trump Watches SpaceX Launch Its Sixth Test Flight Of Starship Spacecraft]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Ford is cutting the price of the 2026 F-150 Lightning by up to $4,000]]></title>
-                                        <description type="html"><![CDATA[<p>Ford is cutting the price of the 2026 F-150 Lightning by up to $4,000, as confirmed by the automaker to <a data-i13n="cpos:1;pos:1" href="https://www.carsdirect.com/automotive-news/2026-ford-f-150-lightning-prices-cut-by-4-000"><em>CarsDirect</em></a>. The price cuts vary by trim, however, and will only apply to more expensive packages for the electric pickup truck. This comes as the $7,500 EV tax credit expired at the end of September.</p>
-<p>The 2026 model has a starting price of $63,345 for the STX trim, which is the same price as the previous year&#39;s entry-level XLT. The STX replaces the XLT and delivers 536 horsepower, up from the XLT&#39;s 452, and 290 miles of range, up from 240.</p>
-<span id="end-legacy-contents"></span><p>The Flash edition will receive the full $4,000 price cut, giving it a new price of $65,995. The Lariat, originally priced at $76,995, will get just a $2,000 haircut and will sell for $74,995. The Platinum edition will be priced at $84,995 and will not cost less.</p>
-<p>This summer, Ford <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/transportation/evs/ford-is-developing-a-30000-midsized-ev-pickup-143030877.html">announced</a> that it would release an affordable midsize all-electric pickup with a starting price of around $30,000 in 2027. The truck would be built on the company&#39;s upcoming Ford Universal EV Platform that will be shared by a new family of products. These models would use Ford&#39;s upcoming <a data-i13n="cpos:3;pos:1" href="https://www.fromtheroad.ford.com/us/en/articles/2025/ford-owned-american-battery-plant-future-electric-vehicles">prismatic LFP batteries</a>.</p>
-<p>As EV-related tax incentives continue to expire, manufacturers will need to reach into their own pockets to deliver value to consumers. This week <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/teslas-stripped-back-standard-models-bring-the-model-3-and-y-back-under-40k-205012564.html">Tesla announced</a> the Model 3 and Model Y &#39;Standard&#39; editions, which give up some luxury touches in exchange for price, with both starting at under $40,000. Inflation has also played a large role in car pricing over the last five years, as $40,000 has roughly the<a data-i13n="cpos:5;pos:1" href="https://www.bls.gov/data/inflation_calculator.htm"> same purchasing power</a> as $32,000 in 2020.</p>
-<p>Ford recently walked back a program that would have enabled dealers to offer a $7,500 tax credit on EV leases even after the expiration of federal subsidies on September 30, as first reported by <a data-i13n="cpos:6;pos:1" href="https://www.reuters.com/business/autos-transportation/ford-reverses-plan-claim-ev-tax-credits-following-gm-2025-10-09/"><em><ins>Reuters</ins></em></a>. The plan involved having the company’s lending arm purchase new EVs out of the brand’s dealers’ inventory, after which Ford would apply for the tax credit on the vehicles. That credit would then have been considered in the EV lease terms for customers, passing on the savings.</p>
-<p>GM was set to have a similar program before<a data-i13n="cpos:7;pos:1" href="https://www.reuters.com/business/autos-transportation/gm-backtracks-plan-claim-last-minute-ev-tax-credits-2025-10-08/"> <ins>canceling it</ins></a> earlier this week. According to <em>Reuters</em> sources, GM killed the program after Republican Senator Bernie Moreno of Ohio raised concerns about it. It is unclear why Ford followed suit.</p>
-<p><strong>Update 11:23 EST: Added more context.</strong></p>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/ford-is-cutting-the-price-of-the-2026-f-150-lightning-by-up-to-4000-144241504.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/evs/ford-is-cutting-the-price-of-the-2026-f-150-lightning-by-up-to-4000-144241504.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3d9089e0-d86b-4626-8212-fb96c0daf692</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 10 Oct 2025 15:27:33 +0000</pubDate>
-                    <ingested>1760110060</ingested>
-                    <modified>2025-10-10T15:27:43+00:00</modified>
-                                            <category>
-                            <![CDATA[Autos]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F7b0fba90-8cab-11f0-b386-e94e2378c6c6&amp;resize=1400%2C969&amp;client=19f2b5e49a271b2bde77&amp;signature=31a5771b1156df807744714704e4b73ff79afa46" width="1400" height="969" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F7b0fba90-8cab-11f0-b386-e94e2378c6c6&amp;resize=1400%2C969&amp;client=19f2b5e49a271b2bde77&amp;signature=92af698c50f1a0bd73d5d8b74ac06de7fc784586" width="1400" height="969" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Ford]]></media:credit>
-                                <media:description><![CDATA[Ford's F-150 Lightning STX replaces the XLT and adds more range and torque]]></media:description>
-                                <media:title><![CDATA[Ford's F-150 Lightning STX replaces the XLT and adds more range and torque]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
