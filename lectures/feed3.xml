@@ -6,13 +6,199 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Mon, 20 Oct 2025 14:29:35 +0000</pubDate>
+            <pubDate>Mon, 20 Oct 2025 18:00:23 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Anthropic brings Claude Code to iOS and the web]]></title>
+                                        <description type="html"><![CDATA[<p>At the end of February, Anthropic <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/anthropics-new-claude-model-can-think-both-fast-and-slow-203307140.html">announced Claude Code</a>. In the eight months since then, the coding agent has arguably become the company&#39;s most important product, helping it carve out a niche for itself in the highly competitive AI market. Now, Anthropic is making it easier for developers to use Claude Code in more places with a <a data-i13n="cpos:2;pos:1" href="https://urldefense.com/v3/__http://anthropic.com/news/claude-code-on-the-web__;!!Op6eflyXZCqGR5I!FY8Yx9u0w-2ZTY5kVXnLhRUnDV9G4vi8qwlBBVss1ry8HTqJfks973x-8W-9QYYY0KeSAhrb35mDlHweRlsr$">new web interface</a> for accessing the agent.&nbsp;</p>
+<p>To get started, you&#39;ll need connect Claude to your GitHub repositories. From there, the process of using the agent is the same as if it had direct terminal access. Describe what you need from it, and the agent will take it from there. Claude will provide progress updates while it works, and you can even steer it in real-time with additional prompts. Through the web interface, it&#39;s also possible to assign Claude multiple coding tasks to run in parallel.&nbsp;&nbsp;&nbsp;</p>
+<span id="end-legacy-contents"></span><p>&quot;Every Claude Code task runs in an isolated sandbox environment with network and filesystem restrictions. Git interactions are handled through a secure proxy service that ensures Claude can only access authorized repositories — helping keep your code and credentials protected throughout the entire workflow,&quot; said Anthropic.</p>
+<p>In addition to making Claude Code available on the web, Anthropic is releasing a preview of the agent inside of its iOS app. The company warns the integration is early, and that it hopes &quot;to quickly refine the mobile experience based on your feedback.&quot;</p>
+<p><a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/anthropics-max-plan-offers-nearly-unlimited-claude-usage-for-200-per-month-170032710.html">Pro and Max</a> users can start using Claude Code on the web today. Anthropic notes any cloud sessions share the same rate limits with all other Claude Code usage.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-brings-claude-code-to-ios-and-the-web-180023611.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/anthropic-brings-claude-code-to-ios-and-the-web-180023611.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">60114d2b-4f55-4188-a2e9-45825edf53b6</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 20 Oct 2025 18:00:23 +0000</pubDate>
+                    <ingested>1760983823</ingested>
+                    <modified>2025-10-20T18:10:25+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Ff61ccc00-addf-11f0-afff-7db1310622db&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=1f5d1286b500e5af81313a28d8d7962d6d21abee" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Ff61ccc00-addf-11f0-afff-7db1310622db&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e7b51278b052afc62d3fd099538ba9fc0e221dfb" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Anthropic]]></media:credit>
+                                <media:description><![CDATA[A screenshot of Claude Code working in Anthropic iOS app.]]></media:description>
+                                <media:title><![CDATA[Claude Code iOS]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[EA will shut down The Sims Mobile in January]]></title>
+                                        <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/2017-05-10-the-sims-find-a-new-home-on-ios-and-android.html"><em><ins>The Sims Mobile</ins></em></a><em>&nbsp;</em>is going away as EA will shut it down on January 20, nearly eight years after its debut in March 2018. An update that went live on Monday is the final one and the company is delisting the game on October 21. Since the game requires online servers (game progress is stored there), it&#39;ll no longer be possible to play <em>The Sims Mobile </em>in three months&#39; time.</p>
+<p>&quot;<em>The Sims Mobile </em>and The Sims community as a whole are full of creativity, kindness, and imagination,&quot; EA said <a data-i13n="cpos:2;pos:1" href="https://www.ea.com/games/the-sims/the-sims-mobile/news/final-update"><ins>in a blog post</ins></a>. &quot;You’ve amazed us with your stories, builds, and Sims. We’re proud to have shared this journey with you, and as a token of our appreciation, we’ve prepared a few surprises as we head into <em>TSM</em>’s final chapter.&quot;</p>
+<span id="end-legacy-contents"></span><p>EA will run 14 events, including limited-time quests and treasure hunts, in <em>The Sims Mobile</em> over the next few months. It&#39;s no longer possible to spend any real money in the game, though players can use their existing in-game currency. As of today, players also have unlimited energy, which &quot;should make it easier to complete projects and enjoy the last few months of play,&quot; EA said. On January 6, EA will unlock all of the Build Mode and Create A Sim items so players can fully customize their homes and sims&#39; looks for a couple of weeks before the grim reaper shows up for <em>The Sims Mobile.</em></p>
+<p>Back in 2022, EA and Sims studio Maxis <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/the-sims-5-cross-platform-project-rene-ea-maxis-mobile-freeplay-185822870.html"><ins>announced Project Rene</ins></a>, a game that will run across multiple platforms, including mobile. So it&#39;s maybe not too surprising that the company wants to focus its Sims mobile efforts there.</p>
+<p>In any case, the shutdown stinks, especially for those who have spent money on <em>The Sims Mobile</em> as well as for the sake of <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/the-stop-killing-games-movement-is-nearing-an-official-meeting-with-eu-lawmakers-191535413.html"><ins>game preservation</ins></a>. The decision to scuttle the game won&#39;t exactly <a data-i13n="cpos:5;pos:1" href="https://slate.com/technology/2025/10/the-sims-electronic-arts-games-jared-kushner-saudi-arabia.html"><ins>allay concerns</ins></a> that fans of the series, which has a significant LGBTQ+ fanbase, have about the future of The Sims if and when the <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/the-sims-5-cross-platform-project-rene-ea-maxis-mobile-freeplay-185822870.html"><ins>planned sale of EA</ins></a> to a group that includes Saudi Arabia&#39;s Public Investment Fund goes through.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/ea-will-shut-down-the-sims-mobile-in-january-173958279.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/ea-will-shut-down-the-sims-mobile-in-january-173958279.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">6a7fafca-53d9-485f-ac36-b91f33b8d2e0</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 20 Oct 2025 17:39:58 +0000</pubDate>
+                    <ingested>1760982006</ingested>
+                    <modified>2025-10-20T17:40:10+00:00</modified>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fa80bf5f0-add9-11f0-bffe-b6b80450a9b5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8cecc0bbae2a761001a2e488e5604aee31f2ac2d" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fa80bf5f0-add9-11f0-bffe-b6b80450a9b5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=d86da5ad88310c8a9f26f47a262709ea999375be" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[EA/Maxis]]></media:credit>
+                                <media:description><![CDATA[The Sims Mobile]]></media:description>
+                                <media:title><![CDATA[The Sims Mobile]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[How to cancel NordVPN and get your money back]]></title>
+                                        <description type="html"><![CDATA[<p>There&#39;s a lot to like about NordVPN, as I covered in my full <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html">NordVPN review</a>. It&#39;s one of the fastest among the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">best VPNs</a>, and it&#39;s got a bunch of cool, specialized servers for various VPN tasks. But the apps can be frustrating, and beyond that, no VPN is perfect for everyone. If you&#39;ve decided NordVPN isn&#39;t for you, here&#39;s how to cancel your subscription and get your money back.</p>
+<h2 id="jump-link-how-to-turn-off-auto-renewal-on-nordvpn"><strong>How to turn off auto-renewal on NordVPN</strong></h2>
+<p>Even though you&#39;ve decided to part ways with NordVPN, you may want to keep your subscription active while you pick out a replacement service. If that&#39;s the case, you can simply cancel automatic renewal and let your subscription expire at the end of the billing period. If you change your mind before then, you can turn auto-renew back on. Here&#39;s how to do it.</p>
+<span id="end-legacy-contents"></span><ol>
+<li><p>Go to my.nordaccount.com. Click <strong>Log in to Nord Account </strong>and enter your email address and password.</p></li>
+<li><p>You&#39;ll arrive at the account overview page. In the left-hand column, click on <strong>Billing</strong>.</p></li>
+<li><p>On the list of subscriptions that appears, find NordVPN. Find the line that says &quot;Auto-renewal: ON,&quot; and click the <strong>Cancel </strong>link next to it.</p></li>
+<li><p>A warning message will appear. Click <strong>Cancel auto-renewal </strong>at the bottom-right.</p></li>
+</ol>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/813933f0-ab92-11f0-befe-8b86b84e993e" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/813933f0-ab92-11f0-befe-8b86b84e993e" style="height:1744px;width:3407px;" alt="Cancel NordVPN auto-renew" data-uuid="142e328a-5046-366a-b48a-1877bcf2f4d5"><figcaption></figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure>
+<p>This will turn auto-renewal off. If you decide to turn it back on, just go back to the billing tab of your Nord account overview, find your NordVPN subscription and click <strong>Enable auto-renewal</strong>.</p>
+<h3 id="jump-link-how-to-cancel-if-you-subscribed-through-an-app-store"><strong>How to cancel if you subscribed through an app store</strong></h3>
+<p>If you paid for NordVPN on a mobile device through Google Play or the Apple app store, you&#39;ll need to go to the relevant app store to cancel the subscription. On Android, sign in to Google Play, touch your profile picture, tap <strong>Payments &amp; subscriptions </strong>and tap <strong>Subscriptions.</strong> Scroll until you find NordVPN, tap it and hit <strong>Cancel subscription.</strong> If you want a refund, follow the instructions in &quot;How to get a refund from NordVPN&quot; below.</p>
+<p>On iOS, open the settings app, touch your profile picture, then tap <strong>Subscription.</strong> Scroll down to NordVPN, tap it and hit <strong>Cancel subscription</strong>. To get a refund for an Apple purchase, contact the Apple support team instead of the NordVPN team.</p>
+<h2 id="jump-link-how-to-delete-your-nordvpn-account"><strong>How to delete your NordVPN account</strong></h2>
+<p>On the other hand, if you&#39;re sick of NordVPN and already have another VPN lined up, you can cancel immediately by deleting your Nord account altogether. This will also cut you off from any other Nord Security products you might be using, including NordPass and NordLocker.</p>
+<ol>
+<li><p>Go to my.nordaccount.com, click <strong>Log in to Nord Account</strong> and enter your credentials.</p></li>
+<li><p>At the top-right of the account overview page, click your email address. In the dropdown menu, click <strong>Account settings</strong>.</p></li>
+<li><p>Look at the bottom of the page to find the account deletion controls. Click <strong>Delete account.</strong></p></li>
+<li><p>Nord will send an authentication code to your account&#39;s email address. Enter it.</p></li>
+<li><p>Follow the onscreen prompts to confirm deletion.</p></li>
+</ol>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/2b33df00-ab92-11f0-bfdb-9ec78cc1d669" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/2b33df00-ab92-11f0-bfdb-9ec78cc1d669" style="height:1697px;width:2452px;" alt="Delete Nord account" data-uuid="c68e0dbc-51fb-3fa9-b9c9-4723c0b57371"><figcaption></figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure>
+<h2 id="jump-link-how-to-get-a-refund-from-nordvpn"><strong>How to get a refund from NordVPN</strong></h2>
+<p>NordVPN has a standard 30-day money-back guarantee. As long as you bought your subscription in the last 30 days, you can get a full refund. To do so, you&#39;ll need to first cancel auto-renewal on your plan as described above, then contact support to ask for the refund.</p>
+<p>You can reach NordVPN support by going to the help center at support.nordvpn.com. To reach the live chat and email ticket options, you&#39;ll need to work your way down to a bottom-level help center article, then scroll down until you reach the section titled &quot;Still having issues?&quot; It&#39;s frustrating, but you can get there by just clicking the first link on every page (or just <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f1ddb3ee-c532-422e-ab51-bd46ab294248&amp;featureId=text-link&amp;linkText=follow+this+link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cHBvcnQubm9yZHZwbi5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMjAxNjQwOTY5Nzg0NDktSS1jYW4tdC1jb25uZWN0LXRvLWEtTm9yZFZQTi1zZXJ2ZXIiLCJjb250ZW50VXVpZCI6ImYxZGRiM2VlLWM1MzItNDIyZS1hYjUxLWJkNDZhYjI5NDI0OCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly9zdXBwb3J0Lm5vcmR2cG4uY29tL2hjL2VuLXVzL2FydGljbGVzLzIwMTY0MDk2OTc4NDQ5LUktY2FuLXQtY29ubmVjdC10by1hLU5vcmRWUE4tc2VydmVyIn0&amp;signature=AQAAAQN3YqZSQHtryrjeV1LjDaSWOo-zVTenL1v_t1Mu5LTq&amp;gcReferrer=https%3A%2F%2Fsupport.nordvpn.com%2Fhc%2Fen-us%2Farticles%2F20164096978449-I-can-t-connect-to-a-NordVPN-server" class="rapid-with-clickid" data-original-link="https://support.nordvpn.com/hc/en-us/articles/20164096978449-I-can-t-connect-to-a-NordVPN-server">follow this link</a> and scroll down).</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d897d750-ab92-11f0-bfdd-fb757b581884" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d897d750-ab92-11f0-bfdd-fb757b581884" style="height:1716px;width:2306px;" alt="NordVPN support buttons" data-uuid="2e08fa45-c360-3ae4-933f-00e7decc4345"><figcaption></figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure>
+<p>Once you&#39;ve found the buttons, either start a live chat or open the email form. Whichever you choose, explain that you&#39;ve cancelled your subscription and would like a refund. Make sure not to end the interaction until you&#39;ve received confirmation that your refund will be processed. Afterwards, it&#39;ll take up to 10 business days for your reimbursement to go through.</p>
+<h2 id="jump-link-nordvpn-alternatives"><strong>NordVPN alternatives</strong></h2>
+<p>With NordVPN cancelled, you may be in the market for another VPN. I&#39;ve collected several on my best VPN list (linked at the start of the article), but here&#39;s a few specific recommendations: <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/cybersecurity/vpn/proton-vpn-review-2025-a-nonprofit-service-with-premium-performance-153046073.html">Proton VPN</a> is the best overall, <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/cybersecurity/vpn/surfshark-vpn-review-a-fast-vpn-for-casual-users-170022675.html">Surfshark</a> is the fastest and <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/vpn-review-expressvpn-2023-gaming-streaming-160052492.html">ExpressVPN</a> is good for beginners and great at streaming. Good luck in your quest for a VPN that meets your needs.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/how-to-cancel-nordvpn-and-get-your-money-back-173008588.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/vpn/how-to-cancel-nordvpn-and-get-your-money-back-173008588.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f1ddb3ee-c532-422e-ab51-bd46ab294248</guid>
+                                                                                        <dc:creator><![CDATA[Sam Chapman]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 20 Oct 2025 17:30:08 +0000</pubDate>
+                    <ingested>1760980584</ingested>
+                    <modified>2025-10-20T17:16:28+00:00</modified>
+                                            <category>
+                            <![CDATA[Sports & Recreation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sam Chapman]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fbbe79c10-487f-11f0-9fed-51cbb087000c&amp;resize=1400%2C1301&amp;client=19f2b5e49a271b2bde77&amp;signature=cef45a3a9e88677f5c2a7a2f47b8831b1f085246" width="1400" height="1301" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Fbbe79c10-487f-11f0-9fed-51cbb087000c&amp;resize=1400%2C1301&amp;client=19f2b5e49a271b2bde77&amp;signature=4c5ad16c1c969e689fac3d5d59ab8047e14a28f7" width="1400" height="1301" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NordVPN]]></media:credit>
+                                <media:description><![CDATA[NordVPN secondary logo]]></media:description>
+                                <media:title><![CDATA[NordVPN secondary logo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline]]></title>
                                         <description type="html"><![CDATA[<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon&#39;s own assistant Alexa has been stuttering, and if you&#39;re wondering why the internet seems to be against you today — you&#39;re not imagining it.</p>
-<p>According to the <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a>, Amazon was looking into &quot;increased error rates and latencies for multiple AWS services&quot; in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:2;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
+<p>As of 1:15PM ET today (October 20), it appears the outage has not been resolved. Multiple services remain unavailable, including asking Alexa for the weather or to turn off lights in your home. Venmo also seems to be down still, though their apps have all displayed alerts saying they are aware of issues plaguing their services. The Lyft app is also slower to respond than usual.</p>
+<span id="end-legacy-contents"></span><p>According to the <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a>, Amazon was looking into &quot;increased error rates and latencies for multiple AWS services&quot; in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
+<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:2;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
 <p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that &quot;most AWS Service operations are succeeding normally now.&quot; However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>
 <p>At 8:48AM, AWS said it was &quot;making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.&quot; It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) &quot;so that EC2 has flexibility&quot; in picking a zone that may be a better option.</p>
 <p>At 9:42AM, Amazon noted on the status page that although it had applied &quot;multiple mitigations&quot; across several Availability Zones in US-EAST-1, it was &quot;still experiencing elevated errors for new EC2 instance launches.&quot; As such, AWS was &quot;rate limiting new instance launches to aid recovery.&quot; The company added at 10:14AM that it was seeing &quot;significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.&quot; Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it&#39;ll take some time for everything to recover.</p>
@@ -20,7 +206,8 @@
 <p>Sites like Reddit have posted their <a data-i13n="cpos:3;pos:1" href="https://www.redditstatus.com/">own status updates</a>, and though they don&#39;t explicitly mention AWS, it&#39;s possible that the services&#39; paths may cross somewhere in the pipelines.</p>
 <p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">estimated</a> that AWS&#39; share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>
 <p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>
-<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit&#39;s own status update website.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
+<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit&#39;s own status update website.</p>
+<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors&#39; personal experiences as of this time.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">9ef75be1-5a0d-486e-80c2-07b29082a646</guid>
@@ -28,9 +215,9 @@
                                                                 <source><![CDATA[Engadget]]></source>
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 20 Oct 2025 15:21:59 +0000</pubDate>
-                    <ingested>1760973869</ingested>
-                    <modified>2025-10-20T15:24:33+00:00</modified>
+                                                                <pubDate>Mon, 20 Oct 2025 17:17:08 +0000</pubDate>
+                    <ingested>1760980639</ingested>
+                    <modified>2025-10-20T17:17:22+00:00</modified>
                                             <category>
                             <![CDATA[Technology & Electronics]]>
                         </category>
@@ -2906,147 +3093,6 @@
                                 <media:credit><![CDATA[Sam Rutherford for Engadget]]></media:credit>
                                 <media:description><![CDATA[Google Pixel 10 Pro]]></media:description>
                                 <media:title><![CDATA[Google Pixel 10 Pro]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Moderators call for AI controls after Reddit Answers suggests heroin for pain relief]]></title>
-                                        <description type="html"><![CDATA[<p>We&#39;ve seen artificial intelligence give some pretty <a target="_blank" class="link" href="https://www.engadget.com/google-is-putting-more-restrictions-on-ai-overviews-after-it-told-people-to-put-glue-on-pizza-011316780.html" data-i13n="cpos:1;pos:1">bizarre</a> responses to queries as chatbots become more common. Today, Reddit Answers is in the spotlight after a moderator <a target="_blank" class="link" href="https://www.reddit.com/r/ModSupport/comments/1o4bwx6/safety_concern_reddit_answers_is_recommending/?ref=404media.co" data-i13n="cpos:2;pos:1">flagged</a> the AI tool for providing dangerous medical advice that they were unable to disable or hide from view.&nbsp;</p><p>The mod saw Reddit Answers suggest that people experiencing chronic pain stop taking their current prescriptions and take high-dose kratom, which is an unregulated substance that is illegal in some states. The user said they then asked Reddit Answers about other medical questions. They received potentially dangerous advice for treating neo-natal fever alongside some accurate actions as well as suggestions that heroin could be used for chronic pain relief. Several other mods, particularly from health-focused subreddits, replied to the original post adding their concerns that they have no way to turn off or flag a problem when Reddit Answers has provided inaccurate or dangerous information in their communities.</p><p>A representative from Reddit told <a target="_blank" class="link" href="https://www.404media.co/reddit-answers-ai-suggests-users-try-heroin/" data-i13n="cpos:3;pos:1"><em>404 Media</em></a> that Reddit Answers had been updated to address some of the mods&#39; concerns. &quot;This update ensures that ‘Related Answers’ to sensitive topics, which may have been previously visible on the post detail page (also known as the conversation page), will no longer be displayed,&quot; the spokesperson told the publication. &quot;This change has been implemented to enhance user experience and maintain appropriate content visibility within the platform.&quot; We&#39;ve reached out to Reddit for additional comment about what topics are being excluded but have not received a reply at this time.&nbsp;</p><p>While the rep told <em>404 Media</em> that Reddit Answers &quot;excludes content from private, quarantined and NSFW communities, as well as some mature topics,&quot; the AI tool clearly doesn&#39;t seem equipped to properly deliver medical information, much less to handle the snark, sarcasm or potential bad advice that may be given by other Redditors. Aside from the latest move to not appear on “sensitive topics,” it doesn&#39;t seem like Reddit plans to provide any tools to control how or when AI is being shown in subreddits, which could make the already-challenging task of moderation nearly impossible. </p>This article originally appeared on Engadget at https://www.engadget.com/moderators-call-for-ai-controls-after-reddit-answers-suggests-heroin-for-pain-relief-230749515.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/moderators-call-for-ai-controls-after-reddit-answers-suggests-heroin-for-pain-relief-230749515.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">fa66df8b-2fc2-400b-81a9-8308eb25ed69</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Thu, 16 Oct 2025 23:07:49 +0000</pubDate>
-                    <ingested>1760656077</ingested>
-                    <modified>2025-10-16T23:07:59+00:00</modified>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fd8112640-b26f-4663-8cf1-262c4972b8ca&amp;resize=1400%2C959&amp;client=19f2b5e49a271b2bde77&amp;signature=aaf75d140053db315857b5894094b92af36e7993" width="1400" height="959" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fd8112640-b26f-4663-8cf1-262c4972b8ca&amp;resize=1400%2C959&amp;client=19f2b5e49a271b2bde77&amp;signature=aaf75d140053db315857b5894094b92af36e7993" width="1400" height="959" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[REUTERS / REUTERS]]></media:credit>
-                                <media:description><![CDATA[Reddit logo is seen in this illustration taken November 7, 2022. REUTERS/Dado Ruvic/Illustration]]></media:description>
-                                <media:title><![CDATA[Illustration shows Reddit logo]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Waymo will also drive for DoorDash in Phoenix]]></title>
-                                        <description type="html"><![CDATA[<p>Waymo <a target="_blank" class="link" href="https://waymo.com/blog/2025/10/your-doordash-order-delivered-by-waymo" data-i13n="cpos:1;pos:1">has announced</a> a new partnership with DoorDash that will make the company&#39;s self-driving cars a delivery option for users in Phoenix, Arizona. You can already <a target="_blank" class="link" href="https://www.engadget.com/waymo-phoenix-public-193945960.html" data-i13n="cpos:2;pos:1">hail a ride</a> in Waymo’s Arizona service area, but this new partnership will give the company&#39;s cars something to do when they&#39;re not transporting human cargo.</p><p>To start, Waymo says that deliveries will be limited to things you can order through DashMart, DoorDash&#39;s storefront for convenience and grocery stores. Eventually, though, deliveries will &quot;include more local Phoenix merchants and a wider variety of offerings.&quot;&nbsp;</p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Phoenix, your next delivery just took a step into the future! We’re partnering with <a href="https://twitter.com/DoorDash?ref_src=twsrc%5Etfw">@DoorDash</a> to bring the safety and convenience of the Waymo Driver to grocery runs and meal orders. More at <a href="https://t.co/qDKGER0wsR">https://t.co/qDKGER0wsR</a> <a href="https://t.co/y7nIo6pnNB">pic.twitter.com/y7nIo6pnNB</a></p>— Waymo (@Waymo) <a href="https://twitter.com/Waymo/status/1978808538081173780?ref_src=twsrc%5Etfw">October 16, 2025</a></blockquote>
- 
-
-</div><p>In order to try out a Waymo delivery, you&#39;ll have to place your order through DoorDash and &quot;opt in to autonomous delivery&quot; during checkout. Once Waymo&#39;s car arrives, much like DoorDash&#39;s <a target="_blank" class="link" href="https://www.engadget.com/apps/doordash-introduces-a-cute-delivery-robot-named-dot-130036016.html" data-i13n="cpos:3;pos:1">Dot robot</a>, you&#39;ll then have to physically leave your home and collect your order from the car&#39;s trunk to complete the delivery. Part of the convenience (and complication) of DoorDash is getting what you ordered brought to your door. A Waymo delivery might turn some people off, since it makes that option impossible.</p><p>Of course, this isn&#39;t the first time Waymo has delivered food in Phoenix. In 2024 the company <a target="_blank" class="link" href="https://www.engadget.com/waymos-self-driving-vehicles-are-now-doing-uber-eats-deliveries-in-phoenix-130052864.html" data-i13n="cpos:4;pos:1">partnered with Uber Eats</a> for a similar program, with similar limitations around how deliveries were completed and where food could be ordered from. Waymo runs its own robotaxi service in Arizona, Waymo One, but depending on the region, it&#39;s also offered rides through third-party partners like Uber.&nbsp;Its partnerships with Uber Eats and DoorDash seem like variations on the same idea.</p><p>In 2020, Waymo was exploring using <a target="_blank" class="link" href="https://www.engadget.com/waymo-daimler-self-driving-truck-partnership-142519288.html" data-i13n="cpos:5;pos:1">self-driving long-haul trucks</a> for deliveries. The company <a target="_blank" class="link" href="https://waymo.com/blog/2023/07/doubling-down-on-waymo-one/" data-i13n="cpos:6;pos:1">abandoned those plans</a> in 2023 to prioritize robotaxis and the Waymo Driver software, but these tests with DoorDash and Uber Eats could be a signal that Waymo is interested in pursuing deliveries on a smaller scale.</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/transportation/waymo-will-also-drive-for-doordash-in-phoenix-213535127.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/waymo-will-also-drive-for-doordash-in-phoenix-213535127.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">74f1f068-ff68-4a37-8fb8-372e3f1bf0e7</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Thu, 16 Oct 2025 21:35:35 +0000</pubDate>
-                    <ingested>1760650550</ingested>
-                    <modified>2025-10-16T21:35:53+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F4ad51979f8e4149b204d11f51ba738ea&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8ab45c5b3f23ba7c166ea94dfc755ec91ff6088c" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F4ad51979f8e4149b204d11f51ba738ea&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8ab45c5b3f23ba7c166ea94dfc755ec91ff6088c" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[Waymo dips its wheels back into delivery, this time with DoorDash]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The Crew 2 is now playable offline]]></title>
-                                        <description type="html"><![CDATA[<p><em>The Crew 2</em>  was updated today to include <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=cca828bc-bcd7-4319-b5fa-8cb88f52eae1&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=69a5a23b-7d39-4853-a9cd-5707075a3723&amp;featureId=text-link&amp;merchantName=Ubisoft&amp;linkText=Hybrid+Mode&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy51Ymlzb2Z0LmNvbS9lbi11cy9nYW1lL3RoZS1jcmV3L3RoZS1jcmV3LTIvbmV3cy11cGRhdGVzL3pzNlpGeUxFUXZLYkZza0VKWm9sUiIsImNvbnRlbnRVdWlkIjoiNjlhNWEyM2ItN2QzOS00ODUzLWE5Y2QtNTcwNzA3NWEzNzIzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy51Ymlzb2Z0LmNvbS9lbi11cy9nYW1lL3RoZS1jcmV3L3RoZS1jcmV3LTIvbmV3cy11cGRhdGVzL3pzNlpGeUxFUXZLYkZza0VKWm9sUiJ9&amp;signature=AQAAAQIUy5mnNRqI71kTJbE7FlGMvnApYkYAnurcoC6S3dQ8&amp;gcReferrer=https%3A%2F%2Fwww.ubisoft.com%2Fen-us%2Fgame%2Fthe-crew%2Fthe-crew-2%2Fnews-updates%2Fzs6ZFyLEQvKbFskEJZolR" data-i13n="elm:affiliate_link;sellerN:Ubisoft;elmt:;cpos:1;pos:1" data-original-link="https://www.ubisoft.com/en-us/game/the-crew/the-crew-2/news-updates/zs6ZFyLEQvKbFskEJZolR">Hybrid Mode</a>, adding an offline mode to the driving game. Online and offline modes are separate saves, so if you snag a sweet ride while playing offline, it won&#39;t be available the next time you join an online session. Players will have the option to re-export their online save to the offline one, but it will overwrite and erase all offline-only progress. Multiplayer content, user-generated content, LIVE Summits and Crew Credits purchases will not be available in the offline mode.&nbsp;</p><p>It&#39;s a bare-bones option, but the addition of offline mode is a welcome move from Ubisoft. The company&#39;s decision to <a target="_blank" class="link" href="https://www.engadget.com/ubisoft-is-deleting-the-crew-from-players-libraries-reminding-us-we-own-nothing-165328083.html" data-i13n="cpos:2;pos:1">delete <em>The Crew</em></a> from players&#39; libraries after servers for the online game shut down sparked some big debates about ownership and preservation. One of the notable voices emerging from that conversation was the <a target="_blank" class="link" href="https://www.engadget.com/gaming/the-stop-killing-games-movement-is-nearing-an-official-meeting-with-eu-lawmakers-191535413.html" data-i13n="cpos:3;pos:1">Stop Killing Games</a> movement, which is pushing for EU legislation to ensure access to games even after their devs stop supporting a project.</p><p>Having a way to continue accessing <em>The Crew 2</em> even if (or more likely when) the game loses online support was something the developer had promised, so it&#39;s nice to have Ubisoft follow through. &quot;Whether you&#39;re looking to preserve your progression for the future or simply enjoy the freedom of playing without a connection, Hybrid Mode ensures <em>The Crew 2</em> remains accessible for years to come,&quot; the company said in the blog post.</p>This article originally appeared on Engadget at https://www.engadget.com/the-crew-2-is-now-playable-offline-211629508.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/the-crew-2-is-now-playable-offline-211629508.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">69a5a23b-7d39-4853-a9cd-5707075a3723</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Thu, 16 Oct 2025 21:16:29 +0000</pubDate>
-                    <ingested>1760649393</ingested>
-                    <modified>2025-10-16T21:16:35+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FThe_Crew_2_hybrid_mode.jpg&amp;resize=1400%2C730&amp;client=19f2b5e49a271b2bde77&amp;signature=0512bfd4b6ee57959682caab54386c676f8dea27" width="1400" height="730" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FThe_Crew_2_hybrid_mode.jpg&amp;resize=1400%2C730&amp;client=19f2b5e49a271b2bde77&amp;signature=0512bfd4b6ee57959682caab54386c676f8dea27" width="1400" height="730" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Ubisoft]]></media:credit>
-                                <media:description><![CDATA[Logo for The Crew 2 over a still from the game showing a red car driving in the desert.]]></media:description>
-                                <media:title><![CDATA[The Crew 2 hybrid mode]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
