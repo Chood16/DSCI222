@@ -6,9 +6,100 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 21 Oct 2025 15:03:44 +0000</pubDate>
+            <pubDate>Mon, 20 Oct 2025 14:29:35 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Amazon's AWS outage on October 20 knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline for hours]]></title>
+                                        <description type="html"><![CDATA[<p>It felt like half of the internet was dealing with a severe hangover on October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">announced</a> by 6:53PM ET on October 20 that it resolved the "increased error rates and latencies for AWS Services."</p>
+<p>The company said it "identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints." It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. "By 3:01 PM [PT], all AWS services returned to normal operations," it said.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly.&nbsp;</p>
+<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>
+<p>According to the <a data-i13n="cpos:2;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a> at the time, Amazon was looking into "increased error rates and latencies for multiple AWS services" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
+<p>At about 12:08PM ET, the company <a data-i13n="cpos:3;pos:1" href="https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update">posted a small statement</a> that reiterated the above and added that the "underlying DNS issue was fully mitigated at 2:24 AM PDT." According to the notice, some Amazon "customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances." Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>
+<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:4;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
+<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that "most AWS Service operations are succeeding normally now." However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>
+<p>At 8:48AM, AWS said it was "making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region." It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) "so that EC2 has flexibility" in picking a zone that may be a better option.</p>
+<p>At 9:42AM, Amazon noted on the status page that although it had applied "multiple mitigations" across several Availability Zones in US-EAST-1, it was "still experiencing elevated errors for new EC2 instance launches." As such, AWS was "rate limiting new instance launches to aid recovery." The company added at 10:14AM that it was seeing "significant API errors and connectivity issues across multiple services in the US-EAST-1 Region." Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>
+<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>
+<p>Sites like Reddit have posted their <a data-i13n="cpos:5;pos:1" href="https://www.redditstatus.com/">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>
+<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>
+<h2 id="jump-link-websites-affected-by-amazon-web-services-outage"><strong>Websites affected by Amazon Web Services outage</strong></h2>
+<p>Sites and services that were affected by the AWS outage include:</p>
+<ul>
+<li><p>Amazon</p></li>
+<li><p>Amazon Alexa</p></li>
+<li><p>Bank of America</p></li>
+<li><p>Snapchat</p></li>
+<li><p>Reddit</p></li>
+<li><p>Lyft</p></li>
+<li><p>Apple Music</p></li>
+<li><p>Apple TV</p></li>
+<li><p>Pinterest</p></li>
+<li><p><em>Fortnite</em></p></li>
+<li><p><em>Roblox</em></p></li>
+<li><p><em>The New York Times</em></p></li>
+<li><p>Disney+</p></li>
+<li><p>Venmo</p></li>
+<li><p>Doordash</p></li>
+<li><p>Hulu</p></li>
+<li><p>Grubhub</p></li>
+<li><p>PlayStation</p></li>
+<li><p>Zoom</p></li>
+</ul>
+<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>
+<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>
+<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>
+<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>
+<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>
+<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>
+<p><strong>Update, Oct 21, 2025, 11:18AM ET: </strong>Added a list of sites and services confirmed to have been affected by the AWS outage.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9ef75be1-5a0d-486e-80c2-07b29082a646</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 15:18:46 +0000</pubDate>
+                    <ingested>1761059927</ingested>
+                    <modified>2025-10-21T15:18:52+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=28457fe8aaaf912ff9bdb8ab5c85ffad265fdc4a" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c81ecc795cce950b6ba88f3a01c2a2fe1dc25dbd" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
+                                <media:description><![CDATA[INDONESIA - 2025/10/14: In this photo illustration, an Amazon logo is displayed on a smartphone screen with an Amazon Web Services logo in the background. (Photo Illustration by Algi Febri Sugita/SOPA Images/LightRocket via Getty Images)]]></media:description>
+                                <media:title><![CDATA[In this photo illustration, an Amazon logo is displayed on a...]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[There's another Kirby Air Riders Direct livestream on October 23 at 9AM ET]]></title>
                                         <description type="html"><![CDATA[<p>Nintendo has another livestream planned for the upcoming Switch 2 exclusive <em>Kirby Air Riders</em>. This one takes place on <a data-i13n="cpos:1;pos:1" href="https://x.com/nintendoamerica/status/1980620454323740736"><ins>October 23 at 9AM ET</ins></a>. That&#39;s less than a month <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/nintendo/kirby-air-riders-launches-november-20-exclusively-on-switch-2-171054821.html"><ins>before the game will be available for purchase</ins></a>.</p>
 <p>The company also says the stream will be a full hour, which is a heck of a long time to spend on just one game a few weeks before launch. It&#39;s worth noting, however, that <em>Kirby Air Riders</em> is a Masahiro Sakurai title.</p>
@@ -728,73 +819,6 @@
                                 <media:credit><![CDATA[Mat Smith for Engadget]]></media:credit>
                                 <media:description><![CDATA[The best action cameras]]></media:description>
                                 <media:title><![CDATA[The best action cameras]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline]]></title>
-                                        <description type="html"><![CDATA[<p>It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">announced</a> by 6:53PM Eastern time on October 20 that it resolved the "increased error rates and latencies for AWS Services."</p>
-<p>The company said it "identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints." It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. "By 3:01 PM, all AWS services returned to normal operations," it said.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly.&nbsp;</p>
-<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>
-<p>According to the <a data-i13n="cpos:2;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a> at the time, Amazon was looking into "increased error rates and latencies for multiple AWS services" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
-<p>At about 12:08PM ET, the company <a data-i13n="cpos:3;pos:1" href="https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update">posted a small statement</a> that reiterated the above and added that the "underlying DNS issue was fully mitigated at 2:24 AM PDT." According to the notice, some Amazon "customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances." Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>
-<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:4;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
-<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that "most AWS Service operations are succeeding normally now." However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>
-<p>At 8:48AM, AWS said it was "making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region." It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) "so that EC2 has flexibility" in picking a zone that may be a better option.</p>
-<p>At 9:42AM, Amazon noted on the status page that although it had applied "multiple mitigations" across several Availability Zones in US-EAST-1, it was "still experiencing elevated errors for new EC2 instance launches." As such, AWS was "rate limiting new instance launches to aid recovery." The company added at 10:14AM that it was seeing "significant API errors and connectivity issues across multiple services in the US-EAST-1 Region." Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>
-<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>
-<p>Sites like Reddit have posted their <a data-i13n="cpos:5;pos:1" href="https://www.redditstatus.com/">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>
-<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>
-<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>
-<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>
-<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>
-<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>
-<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>
-<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">9ef75be1-5a0d-486e-80c2-07b29082a646</guid>
-                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 21 Oct 2025 01:21:01 +0000</pubDate>
-                    <ingested>1761009661</ingested>
-                    <modified>2025-10-21T01:21:06+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Kris Holt]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=28457fe8aaaf912ff9bdb8ab5c85ffad265fdc4a" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c81ecc795cce950b6ba88f3a01c2a2fe1dc25dbd" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
-                                <media:description><![CDATA[INDONESIA - 2025/10/14: In this photo illustration, an Amazon logo is displayed on a smartphone screen with an Amazon Web Services logo in the background. (Photo Illustration by Algi Febri Sugita/SOPA Images/LightRocket via Getty Images)]]></media:description>
-                                <media:title><![CDATA[In this photo illustration, an Amazon logo is displayed on a...]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
