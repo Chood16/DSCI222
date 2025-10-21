@@ -6,9 +6,343 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 21 Oct 2025 13:00:46 +0000</pubDate>
+            <pubDate>Mon, 20 Oct 2025 14:29:35 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline]]></title>
+                                        <description type="html"><![CDATA[<p>It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">announced</a> by 6:53PM Eastern time on October 20 that it resolved the "increased error rates and latencies for AWS Services."</p>
+<p>The company said it "identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints." It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. "By 3:01 PM, all AWS services returned to normal operations," it said.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly.&nbsp;</p>
+<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>
+<p>According to the <a data-i13n="cpos:2;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a> at the time, Amazon was looking into "increased error rates and latencies for multiple AWS services" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
+<p>At about 12:08PM ET, the company <a data-i13n="cpos:3;pos:1" href="https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update">posted a small statement</a> that reiterated the above and added that the "underlying DNS issue was fully mitigated at 2:24 AM PDT." According to the notice, some Amazon "customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances." Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>
+<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:4;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
+<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that "most AWS Service operations are succeeding normally now." However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>
+<p>At 8:48AM, AWS said it was "making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region." It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) "so that EC2 has flexibility" in picking a zone that may be a better option.</p>
+<p>At 9:42AM, Amazon noted on the status page that although it had applied "multiple mitigations" across several Availability Zones in US-EAST-1, it was "still experiencing elevated errors for new EC2 instance launches." As such, AWS was "rate limiting new instance launches to aid recovery." The company added at 10:14AM that it was seeing "significant API errors and connectivity issues across multiple services in the US-EAST-1 Region." Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>
+<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>
+<p>Sites like Reddit have posted their <a data-i13n="cpos:5;pos:1" href="https://www.redditstatus.com/">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>
+<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>
+<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>
+<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>
+<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>
+<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>
+<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>
+<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9ef75be1-5a0d-486e-80c2-07b29082a646</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 01:21:01 +0000</pubDate>
+                    <ingested>1761009661</ingested>
+                    <modified>2025-10-21T01:21:06+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=28457fe8aaaf912ff9bdb8ab5c85ffad265fdc4a" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c81ecc795cce950b6ba88f3a01c2a2fe1dc25dbd" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
+                                <media:description><![CDATA[INDONESIA - 2025/10/14: In this photo illustration, an Amazon logo is displayed on a smartphone screen with an Amazon Web Services logo in the background. (Photo Illustration by Algi Febri Sugita/SOPA Images/LightRocket via Getty Images)]]></media:description>
+                                <media:title><![CDATA[In this photo illustration, an Amazon logo is displayed on a...]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[There's another Kirby Air Riders Direct livestream on October 23 at 9AM ET]]></title>
+                                        <description type="html"><![CDATA[<p>Nintendo has another livestream planned for the upcoming Switch 2 exclusive <em>Kirby Air Riders</em>. This one takes place on <a data-i13n="cpos:1;pos:1" href="https://x.com/nintendoamerica/status/1980620454323740736"><ins>October 23 at 9AM ET</ins></a>. That&#39;s less than a month <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/nintendo/kirby-air-riders-launches-november-20-exclusively-on-switch-2-171054821.html"><ins>before the game will be available for purchase</ins></a>.</p>
+<p>The company also says the stream will be a full hour, which is a heck of a long time to spend on just one game a few weeks before launch. It&#39;s worth noting, however, that <em>Kirby Air Riders</em> is a Masahiro Sakurai title.</p>
+<span id="end-legacy-contents"></span><div id="781ed87ba3874f9fa2563e22c60017a3"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join us on Oct. 23 at 6 a.m. PT for a second <a href="https://twitter.com/hashtag/KirbyAirRiders?src=hash&amp;ref_src=twsrc%5Etfw">#KirbyAirRiders</a> Direct with director Mr. Sakurai. The livestreamed presentation will last roughly 60 minutes and feature more info on the upcoming <a href="https://twitter.com/hashtag/NintendoSwitch2?src=hash&amp;ref_src=twsrc%5Etfw">#NintendoSwitch2</a> game. <br><br>Watch here: <a href="https://t.co/MS7fAYcd3R">https://t.co/MS7fAYcd3R</a> <a href="https://t.co/nkPcQDYQd5">pic.twitter.com/nkPcQDYQd5</a></p>— Nintendo of America (@NintendoAmerica) <a href="https://twitter.com/NintendoAmerica/status/1980620454323740736?ref_src=twsrc%5Etfw">October 21, 2025</a></blockquote>
+ 
+
+</div>
+<p>This is the guy that made the Super Smash Bros. franchise. He loves making long videos about minutiae in his games. Just about every character on the <em>Super Smash Bros. Ultimate</em> roster got a fairly substantial reveal video and he has made <a data-i13n="cpos:3;pos:1" href="https://www.youtube.com/@sora_sakurai_en/search?query=smash"><ins>all kinds of content</ins></a> about the various mechanics on that game.</p>
+<p>To that end, the previous <em>Kirby Air Riders</em> <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/nintendo/a-nintendo-direct-focused-on-kirby-air-riders-is-set-for-august-19-134353712.html"><ins>livestream from August</ins></a> was 45 minutes long and included a fairly deep dive into game mechanics. We don&#39;t know what this stream will spotlight but we can&#39;t wait to find out.</p>
+<div id="af5b59a0678e4c65b2f3abb9d6d6220e"><iframe width="560" height="315" src="https://www.youtube.com/embed/oJVsNMp_nAU?si=KZrizfiGY4xV29rR" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>For the uninitiated, <em>Kirby Air Riders</em> is a Switch 2 exclusive that stars the lovable and eternally-hungry puffball Kirby. It&#39;s a racing game and a follow-up to the Gamecube original, <em>Kirby Air Ride</em>. It&#39;ll be available on November 20.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/theres-another-kirby-air-riders-direct-livestream-on-october-23-at-9am-et-150344862.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/theres-another-kirby-air-riders-direct-livestream-on-october-23-at-9am-et-150344862.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">b2457c04-1418-4fba-9145-6629813c46a8</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 15:03:44 +0000</pubDate>
+                    <ingested>1761059155</ingested>
+                    <modified>2025-10-21T15:05:56+00:00</modified>
+                                            <category>
+                            <![CDATA[Video Games]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F81f7dfe0-ae8e-11f0-bedf-83753580f88d&amp;resize=1400%2C827&amp;client=19f2b5e49a271b2bde77&amp;signature=c4784c876c67899662d89360b3e99c4a32be32fc" width="1400" height="827" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F81f7dfe0-ae8e-11f0-bedf-83753580f88d&amp;resize=1400%2C827&amp;client=19f2b5e49a271b2bde77&amp;signature=22ef96d971aa3b6644d0c23f4034c8c71c1a662d" width="1400" height="827" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Nintendo]]></media:credit>
+                                <media:description><![CDATA[A Kirby on a thing.]]></media:description>
+                                <media:title><![CDATA[Kirby Air Riders]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[One of our favorite Anker 5K power banks is on sale for less than $20]]></title>
+                                        <description type="html"><![CDATA[<p>Portable chargers are great and all but, between a hefty weight and a tangle of cords, many are more of an annoyance than anything else. <a data-i13n="elm:affiliate_link;sellerN:Amazon Canada;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=63045c63-8df1-46e8-bdd0-1716edf6ace5&amp;itemId=amazon_B0C6XK77HJ&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b69ef8fd-c929-449d-8064-4d8fb2e0824b&amp;featureId=text-link&amp;merchantName=Amazon+Canada&amp;linkText=Anker%27s+Nano+Power+Bank&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Fua2VyLUZvbGRhYmxlLUNvbm5lY3Rvci1Qb3J0YWJsZS1DaGFyZ2VyL2RwL0IwQzZYSzc3SEo_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiYjY5ZWY4ZmQtYzkyOS00NDlkLTgwNjQtNGQ4ZmIyZTA4MjRiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Fua2VyLUZvbGRhYmxlLUNvbm5lY3Rvci1Qb3J0YWJsZS1DaGFyZ2VyL2RwL0IwQzZYSzc3SEoiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAXDtl8mSis7Innah_ZPcmHZs9W-jBEv3gAHKHeTbniuR&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FAnker-Foldable-Connector-Portable-Charger%2Fdp%2FB0C6XK77HJ" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Anker-Foldable-Connector-Portable-Charger/dp/B0C6XK77HJ?th=1">Anker's Nano Power Bank</a> has served as the solution to all that for me, with a charger built-in to a device that's barely bigger than a lipstick.&nbsp;</p> 
+<p>Now our choice for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-power-bank-143048526.html">best portable charger for Android</a> is even more tempting, thanks to a 36 percent markdown. The Anker Nano Power Bank is down to $19 from $30 in the USB-C model. The discount is available in the classic Black or White and the more fun colors Ice Lake Blue, Lilac Purple and Sprout Green.&nbsp;</p> <span id="end-legacy-contents"></span> 
+<p> <core-commerce id="c12460524e0a4cf98d1c29c6edbe49de" data-type="product-list" data-original-url="https://www.amazon.com/Anker-Foldable-Connector-Portable-Charger/dp/B0C6XK77HJ?th=1"></core-commerce></p> 
+<p>You can use Anker's Nano Power Bank with devices such as the iPhone 15 and newer, Samsung S22 and S23 series, <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/audio/headphones/best-airpods-100041810.html">AirPods</a> and the iPad Pro or Air. It's good for a quick boost: we found that its 5,000mAh battery can charge a depleted Galaxy S23 Ultra to 65 percent in about an hour. It also has four indcator lights on it that show how much it's charged.&nbsp;</p> 
+<p><em>Follow </em><a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/one-of-our-favorite-anker-5k-power-banks-is-on-sale-for-less-than-20-145408130.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/one-of-our-favorite-anker-5k-power-banks-is-on-sale-for-less-than-20-145408130.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">b69ef8fd-c929-449d-8064-4d8fb2e0824b</guid>
+                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 14:54:08 +0000</pubDate>
+                    <ingested>1761058455</ingested>
+                    <modified>2025-10-21T14:54:17+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sarah Fielding]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F2cef4930-ae88-11f0-95fe-f3347201da33&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=6bbc9c08fe3188d2ff512c673c8a75d463c0fdfa" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F2cef4930-ae88-11f0-95fe-f3347201da33&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c280cb26529ef7901302cb3975f2fea87ccfab1b" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Amy Skorheim for Engadget]]></media:credit>
+                                <media:description><![CDATA[Anker Nano Power Bank USB-C.]]></media:description>
+                                <media:title><![CDATA[Anker Nano Power Bank USB-C]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[New report leaks Amazon's proposed mass-automation plans]]></title>
+                                        <description type="html"><![CDATA[<p>Amazon is reportedly moving towards an era of unprecedented automation that would put half a million jobs in the US at risk. According to a series of interviews and internal documents referenced in an extensive report from <a data-i13n="cpos:1;pos:1" href="https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html"><em>The New York Times</em></a>, Amazon executives expect to sell twice as many products by 2033. But by scaling up its robotics operations believe it could avoid the 600,000 hires it would otherwise have to make to keep up with the demand.</p>
+<p>According to the report, documents show that the ultimate aim of Amazon’s in-house robotics department is to automate 75 percent of all operations, and if it is successful in making 160,000 fewer hires by 2027, the company would reportedly save 30 cents on each item it packs and delivers to customers in the US. Amazon recently <a data-i13n="cpos:2;pos:1" href="https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model"><ins>celebrated deploying</ins></a> its 1 millionth robot, a fleet it has been adding to since unveiling its <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/proteus-amazon-first-fully-autonomous-warehouse-robot-074341277.html"><ins>first</ins></a> fully autonomous mobile robot in 2022.</p>
+<span id="end-legacy-contents"></span><p>Despite already pushing ahead with building warehouses that employ few humans, the<em> NYT </em>report claims that Amazon is planning for the eventual impact on affected communities and the potential backlash by participating in local events to establish a reputation as a &quot;good corporate citizen.&quot; The internal documents also discuss the avoidance of terms such as &quot;automation&quot; and &quot;AI&quot; in relation to robotics, suggesting instead that executives use terms like “advanced technology” instead. They even consider replacing using &quot;cobot&quot; instead of &quot;robot&quot; as the former implies a collaborative relationship with humans.</p>
+<p>In a statement to the<em> NYT</em>, Amazon called the plans it cited incomplete and not reflective of its overall hiring strategy. It denied that its community efforts were related to its automation plans and said it’s not insisting that its executives refrain from using certain terms. The company added that it planned to hire 250,000 people for the imminent holiday season, but wouldn’t say how many of these would be permanent hires.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">015695a8-4ae2-4036-acf9-3330e6995c03</guid>
+                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 14:48:22 +0000</pubDate>
+                    <ingested>1761058110</ingested>
+                    <modified>2025-10-21T14:48:31+00:00</modified>
+                                            <category>
+                            <![CDATA[Robots]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Matt Tate]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Facea3e30-43a6-11f0-abfb-08c1824d8d04&amp;resize=1400%2C918&amp;client=19f2b5e49a271b2bde77&amp;signature=507ee264ab7c716b51bb77582eec3230fc8d6567" width="1400" height="918" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Facea3e30-43a6-11f0-abfb-08c1824d8d04&amp;resize=1400%2C918&amp;client=19f2b5e49a271b2bde77&amp;signature=ea8953dfcf999684ca5057c038a98eeb681d7f25" width="1400" height="918" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[picture alliance via Getty Images]]></media:credit>
+                                <media:description><![CDATA[07 May 2025, North Rhine-Westphalia, Dortmund: A gripper arm of the Vulcan robot picks up a product from an Amazon mobile warehouse shelf. This robot, equipped with special cameras and sensors, is to be used more and more frequently in Amazon locations in the future. It is intended to relieve employees of work and make their jobs easier, as they will then have to stretch and bend less. Photo: Wolf von Dewitz/dpa (Photo by Wolf von Dewitz/picture alliance via Getty Images)]]></media:description>
+                                <media:title><![CDATA[Amazon Innovation Center]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[HBO Max is getting even more expensive starting today]]></title>
+                                        <description type="html"><![CDATA[<p>Yet another streaming platform is asking people to dig deeper into their wallets and pay more to keep using the service. Warner Bros. Discovery (WBD) has <a target="_blank" class="link" href="https://variety.com/2025/tv/news/hbo-max-prices-increases-plans-2025-1236557671/" data-i13n="cpos:1;pos:1">jacked up the prices</a> of all HBO Max plans, 16 months after the <a target="_blank" class="link" href="https://www.engadget.com/max-just-raised-subscription-prices-again-160849334.html" data-i13n="cpos:2;pos:1">last increase to the ad-free offerings</a>.&nbsp;</p><p>The entry-level, ad-supported plan is now $11 per month (an extra $1) or $110 per year ($10 more). HBO Max Standard will run you an extra $1.50 per month at $18.49 or $15 per year at $185 for the annual plan. As for the HBO Max Premium option, subscribers will now have to pay $23 per month (up by $2) or $230 for an annual plan (an increase of $20).</p><p>The new prices kick in immediately for newcomers. Existing monthly subscribers will start paying more as of November 20 (whenever their next billing cycle starts on or after that date). Yearly subscribers will be notified about the price changes 30 days before their plan renews.</p><p>WBD CEO David Zaslav <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/hbo-max-is-going-to-get-a-lot-more-expensive-ceo-promises-221656560.html" data-i13n="cpos:3;pos:1">suggested in September</a> that price increases were on the way, along with a stricter <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/max-implements-8-extra-member-charges-on-all-subscription-plans-195228707.html" data-i13n="cpos:4;pos:1">crackdown on password sharing</a>. &quot;The fact that this is quality — and that’s true across our company, motion picture, TV production and streaming quality — we all think that gives us a chance to raise prices,&quot; Zaslav said. &quot;We think we’re way underpriced.&quot;</p><p>The company announced the price increases on the same day that Disney is <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/disney-prices-are-increasing-in-october-yes-again-171830091.html" data-i13n="cpos:5;pos:1">making several Disney+ plans more expensive</a>. As it happens, some of the Disney+ bundles that are going up in price include HBO Max.&nbsp;</p><p>News of the price hikes comes just as WBD sticks a For Sale sign out on its lawn. It was <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2025-10-12/warner-bros-is-said-to-rebuff-paramount-takeover-approach" data-i13n="cpos:6;pos:1">reported this month</a> that the company turned down an acquisition offer from Paramount Skydance for being too low. WBD has now confirmed that &quot;multiple parties&quot; have expressed interest in buying some or all of the company, and that it&#39;s now conducting &quot;a review of strategic alternatives to maximize shareholder value.&quot;</p><p>In June, WBD <a target="_blank" class="link" href="https://www.engadget.com/entertainment/warner-bros-discovery-will-split-into-two-media-giants-144553585.html" data-i13n="cpos:7;pos:1">announced plans</a> to split into two companies. As things stand, <a target="_blank" class="link" href="https://www.engadget.com/entertainment/the-new-warner-bros-and-discovery-global-would-like-you-to-forget-warner-bros-discovery-183951865.html" data-i13n="cpos:8;pos:1">Warner Bros.</a> will retain the namesake film, TV and game studios, as well as New Line Cinema, DC Studios, HBO and HBO Max. Discovery Global will have all of the other live cable channels, such as CNN, HGTV, Cartoon Network, Discovery and TLC (it will also be saddled with the lion&#39;s share of WBD&#39;s debt). That split is slated to take place by mid-2026, but WBD said on Tuesday it would consider other options.&nbsp;</p><p>&quot;The Warner Bros. Discovery Board will evaluate a broad range of strategic options, which will include continuing to advance the company&#39;s planned separation to completion by mid-2026, a transaction for the entire company or separate transactions for its Warner Bros. and/or Discovery Global businesses,&quot; WBD said <a target="_blank" class="link" href="https://www.prnewswire.com/news-releases/warner-bros-discovery-initiates-review-of-potential-alternatives-to-maximize-shareholder-value-302590176.html" data-i13n="cpos:9;pos:1">in a press release</a>. &quot;As part of the review, the company will also consider an alternative separation structure that would enable a merger of Warner Bros. and spin-off of Discovery Global to our shareholders.&quot; </p><p>WBD hasn&#39;t set a deadline or timetable for completing this review. But given the whole <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/hbo-max-is-back-hbo-max-says-121537812.html" data-i13n="cpos:10;pos:1">HBO Max naming debacle</a>, it might take the board quite a while to make its mind up.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/hbo-max-is-getting-even-more-expensive-starting-today-143939446.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/hbo-max-is-getting-even-more-expensive-starting-today-143939446.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">77ada9e3-8586-402e-bedb-6c7ce4fbf78d</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 21 Oct 2025 14:39:39 +0000</pubDate>
+                    <ingested>1761057595</ingested>
+                    <modified>2025-10-21T14:39:58+00:00</modified>
+                                            <category>
+                            <![CDATA[Investment & Company Information]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Finance]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Fhbo_max.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=b5d58c84643131edb1e9b350321b7c968f64e8d2" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Fhbo_max.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=b5d58c84643131edb1e9b350321b7c968f64e8d2" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Warner Bros. Discovery]]></media:credit>
+                                <media:description><![CDATA[HBO Max logo]]></media:description>
+                                <media:title><![CDATA[HBO Max]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Perplexity made a TV app and it’s coming to Samsung sets]]></title>
+                                        <description type="html"><![CDATA[<p>Samsung is partnering with Perplexity to bring the startup’s AI Search engine to its smart TVs. If you own a 2025 Samsung TV, you can start using the app today. The company will bring the software to older 2024 and 2023 sets later this year via an OTA update. As part of today’s announcement, Perplexity is also offering free 12-month subscriptions to its <a target="_blank" class="link" href="https://www.perplexity.ai/help-center/en/articles/10352901-what-is-perplexity-pro" data-i13n="cpos:1;pos:1">Pro plan</a>. To redeem the offer, you’ll need to scan the QR code that appears within the new app. </p><p>As mentioned, Perplexity is an AI search engine. Before <a target="_blank" class="link" href="https://www.engadget.com/ai/chatgpt-search-will-do-the-legwork-for-you-171912610.html" data-i13n="slk:OpenAI;cpos:2;pos:1">OpenAI</a>, <a target="_blank" class="link" href="https://www.engadget.com/ai/anthropics-claude-chatbot-can-now-search-the-web-too-183501166.html" data-i13n="slk:Anthropic;cpos:3;pos:1">Anthropic</a> and others added similar capabilities to their chatbots, Perplexity’s offering was novel, giving users a way to search the web more deeply than even Google allowed at the time. Things have gotten even more competitive in recent months, with Google <a target="_blank" class="link" href="https://www.engadget.com/ai/ai-mode-adds-a-dedicated-search-chatbot-to-google-170016310.html" data-i13n="slk:recently going all in on AI Mode in Search;cpos:4;pos:1">going all in on AI Mode in Search</a>. Still, if you want to try different, it’s worth seeing what Perplexity has to offer. The company’s Samsung TV app allows users to both type and use their voice to ask questions. </p><p>No matter how you slice it, this is a curious partnership. Perplexity doesn’t have a great reputation, even when you consider the broader AI industry.  In August, Cloudflare accused the company of <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexity-is-allegedly-scraping-websites-its-not-supposed-to-again-211110756.html" data-i13n="cpos:5;pos:1">scraping websites it wasn’t supposed to be</a>. Later that same month, two of Japan’s largest media companies <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexity-sued-by-japanese-media-giants-for-stealing-information-and-presenting-false-information-133048116.html" data-i13n="cpos:6;pos:1">sued the company for copyright infringement</a>, alleging it not only stole information from them but also attributed falsehoods to them. And just last month, Merriam-Webster sued Perplexity as well, <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexitys-definition-of-copyright-gets-it-sued-by-the-dictionary-213408625.html" data-i13n="cpos:7;pos:1">again alleging copyright infringement</a>. </p><p> </p>This article originally appeared on Engadget at https://www.engadget.com/ai/perplexity-made-a-tv-app-and-its-coming-to-samsung-sets-143000479.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/perplexity-made-a-tv-app-and-its-coming-to-samsung-sets-143000479.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">50cbb394-1d6d-4704-b788-01244c6cb0f6</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 21 Oct 2025 14:30:00 +0000</pubDate>
+                    <ingested>1761057050</ingested>
+                    <modified>2025-10-21T14:30:52+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Fperplexity-tv-app.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5cf80be9fe2ea3c13e6957a47d49a4d3ddd4192d" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Fperplexity-tv-app.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5cf80be9fe2ea3c13e6957a47d49a4d3ddd4192d" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Perplexity]]></media:credit>
+                                <media:description><![CDATA[A screenshot of the Perplexity TV App, as  seen on Samsung TVs.]]></media:description>
+                                <media:title><![CDATA[Perplexity TV app]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[iPad Pro M5 review: Speed boost]]></title>
                                         <description type="html"><![CDATA[<p>Apple is back with the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/mobile/tablets/apples-latest-ipad-pro-get-a-power-boost-with-the-new-m5-chip-131036435.html">latest version of the iPad Pro</a>, and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/tablets/ipad-air-m3-review-a-modest-update-thats-still-easy-to-recommend-130045196.html">like the iPad Air</a> earlier this year the surface-level changes are minimal. Like that iPad Air, there’s a new chip on board here. It’s the M5, which was also added to the 14-inch MacBook Pro and Vision Pro. There are new Apple-designed networking chips: the N1 handles Wi-Fi 7, Bluetooth 6 and Thread, while the C1X handles 5G connectivity. Both of those chips debuted <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-air-review-thinness-with-purpose-120037520.html">in the iPhone Air</a> last month, so this is the first time they’re in an iPad. Finally, the iPad Pro supports fast charging for the first time; you can get to a 50 percent charge in about 30 minutes using a 60W power adaptor.</p> 
 <p>Compared to the redesign Apple introduced with the M4 iPad Pro in 2024, this is very much a minor spec bump. It makes sense for Apple to ensure the iPad Pro has its most performant chips as soon as they are released. If you’re charging customers upwards of $1,000 for an iPad Pro, it had better be on the bleeding edge. (The 13-inch iPad Pro I'm testing with 1TB of storage and 5G connectivity costs $2,099, plus the $349 Magic Keyboard.)</p> <span id="end-legacy-contents"></span> 
@@ -461,73 +795,6 @@
                                 <media:credit><![CDATA[Mat Smith for Engadget]]></media:credit>
                                 <media:description><![CDATA[The best action cameras]]></media:description>
                                 <media:title><![CDATA[The best action cameras]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline]]></title>
-                                        <description type="html"><![CDATA[<p>It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n="cpos:1;pos:1" href="https://health.aws.amazon.com/health/status">announced</a> by 6:53PM Eastern time on October 20 that it resolved the "increased error rates and latencies for AWS Services."</p>
-<p>The company said it "identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints." It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. "By 3:01 PM, all AWS services returned to normal operations," it said.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly.&nbsp;</p>
-<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>
-<p>According to the <a data-i13n="cpos:2;pos:1" href="https://health.aws.amazon.com/health/status">AWS service health page</a> at the time, Amazon was looking into "increased error rates and latencies for multiple AWS services" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients.&nbsp;</p>
-<p>At about 12:08PM ET, the company <a data-i13n="cpos:3;pos:1" href="https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update">posted a small statement</a> that reiterated the above and added that the "underlying DNS issue was fully mitigated at 2:24 AM PDT." According to the notice, some Amazon "customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances." Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>
-<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n="cpos:4;pos:1" href="https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>
-<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that "most AWS Service operations are succeeding normally now." However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>
-<p>At 8:48AM, AWS said it was "making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region." It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) "so that EC2 has flexibility" in picking a zone that may be a better option.</p>
-<p>At 9:42AM, Amazon noted on the status page that although it had applied "multiple mitigations" across several Availability Zones in US-EAST-1, it was "still experiencing elevated errors for new EC2 instance launches." As such, AWS was "rate limiting new instance launches to aid recovery." The company added at 10:14AM that it was seeing "significant API errors and connectivity issues across multiple services in the US-EAST-1 Region." Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>
-<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>
-<p>Sites like Reddit have posted their <a data-i13n="cpos:5;pos:1" href="https://www.redditstatus.com/">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>
-<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>
-<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>
-<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>
-<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>
-<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>
-<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>
-<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">9ef75be1-5a0d-486e-80c2-07b29082a646</guid>
-                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 21 Oct 2025 01:21:01 +0000</pubDate>
-                    <ingested>1761009661</ingested>
-                    <modified>2025-10-21T01:21:06+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Kris Holt]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=28457fe8aaaf912ff9bdb8ab5c85ffad265fdc4a" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fb8fbe490-ad9a-11f0-8dfd-f6af2bebdd6d&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c81ecc795cce950b6ba88f3a01c2a2fe1dc25dbd" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
-                                <media:description><![CDATA[INDONESIA - 2025/10/14: In this photo illustration, an Amazon logo is displayed on a smartphone screen with an Amazon Web Services logo in the background. (Photo Illustration by Algi Febri Sugita/SOPA Images/LightRocket via Getty Images)]]></media:description>
-                                <media:title><![CDATA[In this photo illustration, an Amazon logo is displayed on a...]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -1651,8 +1918,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
                                                                 <pubDate>Mon, 20 Oct 2025 11:57:23 +0000</pubDate>
-                    <ingested>1760961444</ingested>
-                    <modified>2025-10-20T11:57:26+00:00</modified>
+                    <ingested>1761056972</ingested>
+                    <modified>2025-10-21T14:29:34+00:00</modified>
                                             <category>
                             <![CDATA[Media]]>
                         </category>
@@ -2955,275 +3222,6 @@
                                 <media:credit><![CDATA[ Caspar Camille Rubin / Unsplash]]></media:credit>
                                 <media:description><![CDATA[A phone lying on a desk with the Twitch app open.]]></media:description>
                                 <media:title><![CDATA[Twitch]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Blizzard teams working on Hearthstone and Warcraft Rumble unionize]]></title>
-                                        <description type="html"><![CDATA[<p>Blizzard developers working on <em>Hearthstone</em> and <em>Warcraft Rumble</em> have <a target="_blank" class="link" href="https://cwa-union.org/news/releases/hearthstone-and-warcraft-rumble-developers-form-union-communications-workers-america" data-i13n="cpos:1;pos:1">formed a new union</a>, the latest in a series of labor wins at the Microsoft-owned studio. The over 100-person unit is represented by the Communication Workers of America (CWA), and counts &quot;software engineers, designers, artists, quality assurance testers and producers&quot; among its members.</p><p>Inspiration to form the new union came from the successful organizing efforts of Blizzard&#39;s <a target="_blank" class="link" href="https://www.engadget.com/world-of-warcraft-workers-unlock-form-a-union-achievement-220148151.html" data-i13n="cpos:2;pos:1"><em>World of Warcraft</em> workers</a> last year. The staff behind the classic MMO formed the Warcraft Gamemakers Guild last year, and were followed by similar unions representing developers working on <a target="_blank" class="link" href="https://www.engadget.com/gaming/over-450-diablo-developers-at-blizzard-have-unionized-180544383.html" data-i13n="cpos:3;pos:1"><em>Diablo</em></a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/the-developers-behind-overwatch-have-unionized-154021756.html" data-i13n="cpos:4;pos:1"><em>Overwatch</em></a> earlier in 2025. According to the CWA, over 1,900 workers at Blizzard are now represented by the organization.</p><p>The new union is arriving at a critical time. Blizzard&#39;s parent company Microsoft made major cuts <a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/microsoft-gaming-division-suffers-further-layoffs-142430386.html" data-i13n="cpos:5;pos:1">across its gaming division</a> this summer, including layoffs that reportedly led to Blizzard <a target="_blank" class="link" href="https://www.engadget.com/gaming/blizzard-is-giving-up-on-its-warcraft-mobile-game-amid-layoffs-215021940.html" data-i13n="cpos:6;pos:1">winding down development</a> on <em>Warcraft Rumble</em>. Union membership has flourished across Microsoft&#39;s studios because of neutrality agreements the company signed with CWA respecting its workers&#39; right to organize at <a target="_blank" class="link" href="https://www.engadget.com/microsoft-activision-blizzard-unionization-agreement-cwa-163550095.html" data-i13n="cpos:7;pos:1">Activision Blizzard in 2022</a> and <a target="_blank" class="link" href="https://www.engadget.com/microsoft-and-cwa-forge-labor-neutrality-agreement-covering-all-zenimax-workers-212643324.html" data-i13n="cpos:8;pos:1">ZeniMax in 2024</a>, but the environment is on the brink of possible change.&nbsp;</p><p><a target="_blank" class="link" href="https://aftermath.site/battle-net-workers-unionize-blizzard-entertainment-cwa" data-i13n="cpos:9;pos:1"><em>Aftermath </em>reports</a> that the neutrality agreement covering Activision Blizzard workers expires in October 2025, which could make forming future unions more difficult. Microsoft signed its first neutrality agreement to reassure regulators about its <a target="_blank" class="link" href="https://www.engadget.com/microsoft-activision-blizzard-acquisition-133637845.html" data-i13n="cpos:10;pos:1">$68.7 billion acquisition of Activision Blizzard</a>, but now that the deal is done and dusted, the company has less of a reason to play nice.</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/blizzard-teams-working-on-hearthstone-and-warcraft-rumble-unionize-182104024.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/blizzard-teams-working-on-hearthstone-and-warcraft-rumble-unionize-182104024.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">68eb95c0-fea5-4eb5-8abd-f95147e45dd0</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Fri, 17 Oct 2025 18:21:04 +0000</pubDate>
-                    <ingested>1760725270</ingested>
-                    <modified>2025-10-17T18:21:13+00:00</modified>
-                                            <category>
-                            <![CDATA[Unions]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Labor Issues]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Society & Culture]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FHearthstone-illustration.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bb0919ae10f5c008b6771bc6d013bd96af5ac9f9" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FHearthstone-illustration.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bb0919ae10f5c008b6771bc6d013bd96af5ac9f9" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Blizzard Entertainment]]></media:credit>
-                                <media:description><![CDATA[An illustration of a dwarf and orc playing an in-universe game of Hearthstone.]]></media:description>
-                                <media:title><![CDATA[Hearthstone-illustration]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[WhatsApp will test a monthly cap on messages ignored by recipients]]></title>
-                                        <description type="html"><![CDATA[<p>WhatsApp is taking a new anti-spam feature for a spin. On Friday, <em>TechCrunch</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/">reported</a> that the trial limits the number of messages accounts can send without a reply from the recipient. The company is currently experimenting with different limits. But it&#39;s aiming for a number that only targets high-volume senders and spammers.</p>
-<p>All messages from individuals and businesses are said to count toward this cap. That includes multiple unread ones sent to the same recipient. But if the person replies, those messages are removed from the monthly tally. WhatsApp will show a warning to accounts nearing the limit.</p>
-<span id="end-legacy-contents"></span><p>The company told <em>TechCrunch</em> that average users won&#39;t likely reach the limit. It&#39;s generally good form for individuals not to keep messaging people who don&#39;t reply anyway. So, the test indeed sounds tailor-made for businesses and spammers. The test will roll out in multiple countries over the coming weeks.</p>
-<p>The trial is the Meta-owned company&#39;s latest attempt to fend off its festering spam and scam problem. Last year, it <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://techcrunch.com/2024/11/20/whatsapp-will-finally-let-you-unsubscribe-from-business-marketing-spam/">added</a> the ability to unsubscribe from businesses&#39; marketing messages. This August, it <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/social-media/whatsapp-adds-new-warning-about-potential-group-chat-messaging-scams-160013367.html">began notifying users</a> when someone not in their contacts adds them to a group. Alongside that announcement, WhatsApp said it banned over 6.8 million accounts linked to scam centers in the first half of 2025.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/whatsapp-will-test-a-monthly-cap-on-messages-ignored-by-recipients-164024928.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/social-media/whatsapp-will-test-a-monthly-cap-on-messages-ignored-by-recipients-164024928.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6d778240-87a3-435c-82b3-9ac21ba5331f</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 17 Oct 2025 16:40:24 +0000</pubDate>
-                    <ingested>1760718938</ingested>
-                    <modified>2025-10-17T16:35:40+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F36dbcaf0-ab76-11f0-bbb7-78245a54c1da&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5e228b9a99b45293d272af2f3ea80870dc8a68e9" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F36dbcaf0-ab76-11f0-bbb7-78245a54c1da&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=be0e8b95e80c2c49610607a9434cdc0e34404a3f" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Deeksha Pahariya / Unsplash]]></media:credit>
-                                <media:description><![CDATA[A WhatsApp logo (phone in a chat bubble) against a green background.]]></media:description>
-                                <media:title><![CDATA[WhatsApp logo]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Atari just announced the Intellivision Spirit, a revamp of the iconic 1980s gaming console]]></title>
-                                        <description type="html"><![CDATA[<p>Atari <a data-i13n="cpos:1;pos:1" href="https://atari.com/products/intellivision-sprint"><ins>just revealed the Intellivision Spirit</ins></a>, a modern refresh of the classic Intellivision gaming console from 1980. The new console certainly looks like the original. You can practically smell the cigarette-soaked carpeting from here.</p>
-<p>Beyond aesthetics, this console includes plenty of newfangled bells and whistles. The controllers are wireless, which is a technology that didn&#39;t quite exist in the 1980s, and it connects to TVs via HDMI.</p>
-<span id="end-legacy-contents"></span><div id="1890a39038904099b2eeee909fc28f91"><iframe width="560" height="315" src="https://www.youtube.com/embed/srqUdmzcQbc?si=efN4SMJpr0mJwK2E" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>It also includes 45 built-in games, reminding me of stuff like the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/2016-11-11-nes-classic-edition-review.html"><ins>NES Classic</ins></a> and the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ataris-2600-is-a-miniature-console-that-plays-2600-and-7800-game-carts-171014464.html"><ins>Atari 2600+</ins></a>. The library includes plenty of sports and strategy titles, because those genres were considered the console&#39;s biggest strength way back when. Other games include the puzzler <em>Boulder Dash</em> and a riff on <em>Space Invaders</em> called<em> Space Armada</em>. Each title comes with a unique overlay that gets placed on the gamepad, showing off the controls.</p>
-<p>This is an interesting bit of tech because Intellivision was once Atari&#39;s greatest rival, which was sort of like a proto-version of the classic Nintendo/Sega rivalry. Atari <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/atari-just-bought-intellivision-putting-an-end-to-the-very-first-console-war-172320606.html"><ins>actually bought Intellivision last year</ins></a>, officially putting the decades-long struggle to bed.</p>
-<p>The Intellivision Spirit costs $150. Preorders are available right now and shipments start going out on December 5. It&#39;s good to know that this thing isn&#39;t vaporware, like Intellivision&#39;s <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/intellivision-cant-afford-to-make-its-long-delayed-amico-retro-console-160952928.html"><ins>long-gestating Amico console</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/atari-just-announced-the-intellivision-spirit-a-revamp-of-the-iconic-1980s-gaming-console-163210832.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/atari-just-announced-the-intellivision-spirit-a-revamp-of-the-iconic-1980s-gaming-console-163210832.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">97379070-e2ae-450e-84eb-96f6f0b768cd</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 17 Oct 2025 16:32:10 +0000</pubDate>
-                    <ingested>1760718740</ingested>
-                    <modified>2025-10-17T16:32:22+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F8f2862b0-ab74-11f0-bf47-f1f5d53dd4f2&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=295f0c7ab6b9dc3d7e22e923ac19dd35c0bf7364" width="1400" height="789" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F8f2862b0-ab74-11f0-bf47-f1f5d53dd4f2&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=16f88d8a9a1c6c65b8ab8ae14c5ea3397e1abb5f" width="1400" height="789" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Atari]]></media:credit>
-                                <media:description><![CDATA[A gaming cosole.]]></media:description>
-                                <media:title><![CDATA[Intellivision Spirit]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Samsung's 2025 Frame Pro QLED TV is on sale for a record low price]]></title>
-                                        <description type="html"><![CDATA[<p>Samsung's 2025 <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0DXNB3QB2&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=6d7b2f50-1477-49cc-b5c4-61eefc96f838&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=The+Frame+Pro+QLED+Mini+LED+Smart+TV&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRFhOQjNRQjI_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNmQ3YjJmNTAtMTQ3Ny00OWNjLWI1YzQtNjFlZWZjOTZmODM4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRFhOQjNRQjIiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAfZLtwdef4ZxeN20eEJBAoJH3t9FvzSwu9Mn91YURFOd&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DXNB3QB2" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0DXNB3QB2?th=1"><ins>The Frame Pro QLED Mini LED Smart TV</ins></a> is on sale for a record-low price. The 65-inch model that normally retails for $2,200 is on sale for $1,760, which is the lowest we've ever seen it.</p> 
-<p> <core-commerce id="edfb432996854f01bed956a287f801fa" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0DXNB3QB2?th=1"></core-commerce></p> 
-<p>The 1-inch-thick "art" TV uses Samsung's impressive <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/home/home-theater/samsungs-frame-pro-tv-features-the-companys-high-end-neo-qled-panel-030042346.html">4K Neo QLED panel</a>, which is a quantum dot LCD panel with a Mini LED backlight array. The Frame Pro can display lifelike art pieces when the TV isn't in use, while its sleek design means it also looks great when turned off.</p> <span id="end-legacy-contents"></span> 
-<p>The Frame Pro comes with Samsung's new Wireless One Connect Box, which is supposed to help with cable management by putting the TV's inputs in a separate box that then wirelessly transmits the feed from your external device to the TV. It does require its own power supply, though, so that's one more plug needed if you are connecting a console or a streaming device.</p> 
-<p>The TV also carries the NQ4 AI Gen3 Processor, which imbues the Frame Pro with AI-enhanced picture and sound. This model also comes with Samsung Vision AI, which works to upscale the image on screen, create personalized experiences and more.</p> 
-<p>This 2025 model was <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/home/home-theater/samsung-is-not-selling-the-frame-pro-for-cheap-185607096.html"><ins>just made available</ins></a> to order earlier this year, and the current sale price is surprisingly lower than it was during last week's Prime Day event, proving sometimes good things come to those who wait.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/samsungs-2025-frame-pro-qled-tv-is-on-sale-for-a-record-low-price-155913911.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/samsungs-2025-frame-pro-qled-tv-is-on-sale-for-a-record-low-price-155913911.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6d7b2f50-1477-49cc-b5c4-61eefc96f838</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 17 Oct 2025 15:59:13 +0000</pubDate>
-                    <ingested>1760716761</ingested>
-                    <modified>2025-10-17T15:59:24+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-01%2F438cbf60-cba3-11ef-bfa6-bbcd4b0af014&amp;resize=1400%2C1006&amp;client=19f2b5e49a271b2bde77&amp;signature=df57cd62e3810089a4a46af91b4fb27efc6e9388" width="1400" height="1006" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-01%2F438cbf60-cba3-11ef-bfa6-bbcd4b0af014&amp;resize=1400%2C1006&amp;client=19f2b5e49a271b2bde77&amp;signature=259e07826b5715f9d15f0b772be1acfb23143d7b" width="1400" height="1006" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Samsung]]></media:credit>
-                                <media:description><![CDATA[Samsung The Frame Pro]]></media:description>
-                                <media:title><![CDATA[Samsung The Frame Pro (2025)]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Get three months of Xbox Game Pass Ultimate for only $52 right now]]></title>
-                                        <description type="html"><![CDATA[<p>Newegg is selling <a data-i13n="elm:affiliate_link;sellerN:Newegg;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6ce976db-26d7-4094-a1be-4d1496b213f0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=7fad9246-f223-4fea-a6ca-8568f5116bf8&amp;featureId=text-link&amp;merchantName=Newegg&amp;linkText=three+months+of+Xbox+Game+Pass+Ultimate&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uZXdlZ2cuY29tL21pY3Jvc29mdC0zLW1vbnRocy9wL044MkUxNjgzMjM1MDM5OT8iLCJjb250ZW50VXVpZCI6IjdmYWQ5MjQ2LWYyMjMtNGZlYS1hNmNhLTg1NjhmNTExNmJmOCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubmV3ZWdnLmNvbS9taWNyb3NvZnQtMy1tb250aHMvcC9OODJFMTY4MzIzNTAzOTk_In0&amp;signature=AQAAAZjWn4qMdn9StGOltelwiTXP8fQGcwOxe3jfa1OuPKkf&amp;gcReferrer=https%3A%2F%2Fwww.newegg.com%2Fmicrosoft-3-months%2Fp%2FN82E16832350399%3F" class="rapid-with-clickid" data-original-link="https://www.newegg.com/microsoft-3-months/p/N82E16832350399?"><ins>three months of Xbox Game Pass Ultimate</ins></a> for $52, which is a fantastic deal. The list price is $60, but drops down to $52 by entering the code <strong>SSE2589</strong> at checkout. The sale ends soon, so don't dilly-dally.</p> 
-<p>This is a discount of $38, thanks to <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/microsoft-jacks-the-price-of-game-pass-ultimate-up-to-30-a-month-142441307.html"><ins>Microsoft mandating a price hike</ins></a> that brought a single month of Game Pass Ultimate up to $30. That controversial move has <a data-i13n="cpos:3;pos:1" href="https://www.gamesradar.com/games/greed-over-gaming-game-pass-price-hike-slammed-by-xbox-co-founder-as-a-betrayal-to-fans-says-the-company-threw-away-one-of-their-last-advantages/"><ins>irked fans of the subscription service</ins></a>. In other words, make sure to cancel at the end of the three months to avoid getting slammed in the bank account.</p> <span id="end-legacy-contents"></span> 
-<p> <core-commerce id="541faf0c62b34704936099177fc31853" data-type="product-list" data-original-url="https://www.newegg.com/microsoft-3-months/p/N82E16832350399?"></core-commerce></p> 
-<p>Despite the absolutely bonkers move to raise the price by 50 percent in one fell swoop, Game Pass Ultimate is still a fantastic service with over 400 games to choose from. It's home to plenty of standout titles, including recent hits like <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/clair-obscur-expedition-33-review-an-original-hit-rpg-090012488.html"><em><ins>Clair Obscur Expedition 33</ins></em></a> and the indie darling that's currently wrecking productivity across the world, <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/gaming/ball-x-pits-deeply-satisfying-grind-keeps-me-coming-back-for-more-171000754.html"><em><ins>Ball x Pit</ins></em></a>.</p> 
-<p>The platform recently integrated with Ubisoft+, which offers access to dozens more games in franchises like Far Cry and Assassin's Creed. A subscription also signs up users with Fortnite Crew, which gives access to the game's battle pass, 1,000 V-Bucks each month and other perks.</p> 
-<p><em>Follow </em><a data-i13n="cpos:6;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/get-three-months-of-xbox-game-pass-ultimate-for-only-52-right-now-152331537.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/get-three-months-of-xbox-game-pass-ultimate-for-only-52-right-now-152331537.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">7fad9246-f223-4fea-a6ca-8568f5116bf8</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 17 Oct 2025 15:23:31 +0000</pubDate>
-                    <ingested>1760714622</ingested>
-                    <modified>2025-10-17T15:23:44+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F870afce0-ab6b-11f0-9a7b-93cb73ac178c&amp;resize=1400%2C801&amp;client=19f2b5e49a271b2bde77&amp;signature=47d4595a9cc02e31e69db09f56cf0278a8ec9795" width="1400" height="801" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F870afce0-ab6b-11f0-9a7b-93cb73ac178c&amp;resize=1400%2C801&amp;client=19f2b5e49a271b2bde77&amp;signature=73c37477d2fc42da1bbe8c96b7bf79023e9d09fd" width="1400" height="801" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Microsoft]]></media:credit>
-                                <media:description><![CDATA[An ad.]]></media:description>
-                                <media:title><![CDATA[Game Pass Ultimate]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
