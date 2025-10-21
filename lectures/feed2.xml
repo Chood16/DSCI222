@@ -6,9 +6,141 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 21 Oct 2025 12:00:48 +0000</pubDate>
+            <pubDate>Tue, 21 Oct 2025 13:00:46 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[iPad Pro M5 review: Speed boost]]></title>
+                                        <description type="html"><![CDATA[<p>Apple is back with the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/mobile/tablets/apples-latest-ipad-pro-get-a-power-boost-with-the-new-m5-chip-131036435.html">latest version of the iPad Pro</a>, and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/tablets/ipad-air-m3-review-a-modest-update-thats-still-easy-to-recommend-130045196.html">like the iPad Air</a> earlier this year the surface-level changes are minimal. Like that iPad Air, there’s a new chip on board here. It’s the M5, which was also added to the 14-inch MacBook Pro and Vision Pro. There are new Apple-designed networking chips: the N1 handles Wi-Fi 7, Bluetooth 6 and Thread, while the C1X handles 5G connectivity. Both of those chips debuted <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-air-review-thinness-with-purpose-120037520.html">in the iPhone Air</a> last month, so this is the first time they’re in an iPad. Finally, the iPad Pro supports fast charging for the first time; you can get to a 50 percent charge in about 30 minutes using a 60W power adaptor.</p> 
+<p>Compared to the redesign Apple introduced with the M4 iPad Pro in 2024, this is very much a minor spec bump. It makes sense for Apple to ensure the iPad Pro has its most performant chips as soon as they are released. If you’re charging customers upwards of $1,000 for an iPad Pro, it had better be on the bleeding edge. (The 13-inch iPad Pro I'm testing with 1TB of storage and 5G connectivity costs $2,099, plus the $349 Magic Keyboard.)</p> <span id="end-legacy-contents"></span> 
+<p>As such, the iPad Pro M5 is fairly easy to understand. Want a new iPad Pro? You’re now getting exactly what Apple offered a week ago, plus some impressive performance gains for specific tasks. Almost no one who bought an M4 iPad Pro should upgrade to this one, but anyone using an older model will find a ton to appreciate here.</p> 
+<p>And while the hardware hasn’t radically changed, iPadOS has. The recent iPadOS 26 release introduced an entirely new multitasking system, a significantly improved Files app and more support for background processes, to name just a few of the highlights. Those things are best appreciated on a powerful device with a large screen like the 13-inch iPad Pro M5 I’m reviewing here. For years, the question that has dogged the iPad Pro is when its software would match up to its undeniably impressive hardware. I think the combo of iPadOS 26 paired with this hardware is a winner, but as always the price is going to be a sticking point.</p> 
+<p> <core-commerce id="98b8cfaf57b54b8095c96293b044832f" data-type="product-list" data-original-url="https://www.amazon.com/Apple-iPad-Pro-13-inch-Landscape/dp/B0FWD1MS82/?th=1"></core-commerce></p> 
+<h2 id="jump-link-m5">M5</h2> 
+<p>As mentioned, <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/computing/apples-m5-chip-pushes-ai-performance-with-new-neural-accelerators-193745702.html">the M5 chip</a> is the big change for the iPad Pro, and if you’re coming from a device older than last year’s M4 model you can expect a big performance increase when you start pushing the envelope of what you can do.</p> 
+<p>Before getting into the nitty gritty, here’s a rundown of what’s different from last year. Probably the most significant change is that the M5’s GPU now includes a “neural accelerator” on each of its 10 cores, an architectural tweak that’ll unsurprisingly give the chip more muscle when using the GPU for AI-related tasks. Beyond the neural accelerators, the GPU is also up to 30 percent faster in graphics performance, and the third-generation ray-tracing engine here is up to 45 percent faster in apps using ray tracing.</p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d911-ae0f-11f0-adf6-237a61d04241" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d911-ae0f-11f0-adf6-237a61d04241" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="398232d9-1c18-38d4-9307-ff54b7198b54"> 
+ <figcaption></figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<p>The standard CPU cores (four performance, six efficiency) are also faster than last year’s model, though less dramatically so. That’s not a surprise, as each successive M-series chip has gotten similar modest performance gains over the years. (Note that the iPad Pros with 256GB or 512GB of storage only get three performance cores. They also come with 12GB of RAM compared to the 16GB in configurations with more storage, but that’s more than the 8GB of RAM in the last generation’s equivalent options.) The Neural Engine has been upgraded, as well. Apple is also promising big gains in memory bandwidth, which now hits 153GB/s (nearly 30 percent higher than on the M4). Finally, read/write speeds to storage are up to two times faster than in last year’s model.&nbsp;</p> 
+<p>Doing some benchmarking with the Geekbench 6 and Geekbench AI apps show the expected major gains for GPU and AI performance. Single-core and multi-core CPU tests with Geekbench 6 come in at about 15 percent and 10 percent better than the iPad Pro M4, but GPU performance has increased more than 32 percent.</p> 
+<p>Things are more dramatic when you look specifically at the Geekbench AI results. The app offers three scores (single precision, half precision and quantized) and can be run on three different chip backends (CPU, GPU and Neural Engine). When running the CPU- and Neural Engine-based benchmarks, the M5 only bested the M4 by single-digit percentages. But when using the GPU, the M5’s single-precision score was 22.4 percent better than the M4. Half precision and quantized performance was even more impressive — the M5 scored 85 percent and 101 percent better than the M4, respectively.&nbsp;</p> 
+<p>The story this tells is that unless you’re hitting your GPU hard with AI tasks, the M5 isn’t massively better than the M4. Not a huge surprise, and most people who shelled out for an iPad Pro in the last 18 months should still be plenty happy with their purchases. But those GPU scores show off exactly where the M5 can stretch its wings compared to its predecessor.&nbsp;</p> 
+<p>As I’ve only had the iPad Pro M5 for less than a week, I’m still comparing the M4 to M5 iPad Pro on specific AI-focused tasks and in certain apps and will update this review with more details later this week.</p> 
+<p>The caveat with all of this is that while the M5 is incredibly powerful, it’s also overkill for most things that people are going to use an iPad for. An iPad Pro with the M2 chip from 2022 still feels plenty responsive for most standard tasks that don’t require exceptional speed or power. Yes, there are definitely people buying an iPad Pro and maxing out its impressive capabilities, and those who do so will appreciate the performance here. But for everyone else, the M5 alone isn’t going to change how you use the iPad Pro on a day-to-day basis.</p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d910-ae0f-11f0-92d7-2da4dca5ede1" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d910-ae0f-11f0-92d7-2da4dca5ede1" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="b15306b6-63ca-34cd-b891-ebbbef82ff06"> 
+ <figcaption>
+   Apple's 13-inch iPad Pro M5 is on the left; the 11-inch iPad Pro M4 is on the right. 
+ </figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<h2 id="jump-link-hardware-and-display-are-still-stunning">Hardware and display are still stunning</h2> 
+<p>Anyone upgrading from an iPad Pro older than last year’s M4 model is in for a treat far beyond sheer performance. The iPad Pro M5 is physically identical to the prior one, but that doesn’t matter because I think this is still the single most impressive device Apple makes. I went deep into the many changes Apple made last year <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html">in my review of the iPad Pro M4</a>, and everything I said there still applies.</p> 
+<p>But to recap, the iPad Pro is extremely portable despite its performance chops. Apple made it about 20 percent thinner and about a quarter-pound lighter than the iPad Pro models Apple sold from 2018 through 2023. This radically improves the experience of using it. If you’re holding it like a tablet, the 13-inch model is now light and thin enough to be comfortable for extended use without having to put it down. Doing anything with the on-screen keyboard while holding it is still pretty awkward and the 11-inch option still feels like the best size for hand-held tasks. But the 13-inch iPad Pro I’m reviewing is noticeably easier to hold than the iPad Air because of its reduced weight and slimmer profile.</p> 
+<p>The only complaint I might have about that thinness is it prevents Apple from shoving a bigger battery in here. The iPad Pro M5 gets the same 10-hour battery life rating (for surfing the web or watching videos) that every iPad has gotten since the tablet was released in 2010. But in recent years, Apple has, to some degree, stopped focusing on making every device as thin as possible at the potential expense of things like performance or battery life. Clearly, performance isn’t an issue here. But the same people who value extended battery life in a thicker device when using things like the MacBook Pro might feel the same here.</p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c2c370-ae0f-11f0-bfef-6cb70312cc7a" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c2c370-ae0f-11f0-bfef-6cb70312cc7a" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="655e5d5e-f203-3110-a674-a4b81b923653"> 
+ <figcaption></figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<p>That’s a valid opinion, but a tablet is meant to be held in your hands and carried around with you even more so than a laptop, so I understand why Apple values portability over extending the iPad Pro’s battery life. Plus, the iPad Pro M5’s fast-charging capabilities make it pretty easy to extend its life. Using Apple's <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/mobile/smartphones/apples-new-iphone-charger-dynamically-switches-between-40-and-60w-123053563.html">new 40W Dynamic Charger</a> that can automatically step up to 60W, I got from 23 percent to 70 percent in 35 minutes. That’s a tad slower than the 50 percent charge in 30 minutes Apple claims, but we’re well within the “close enough” range.</p> 
+<p>One thing I didn’t get to test last year with the iPad Pro M4 was its durability. The tablet’s extremely thin design reminded people of past Apple devices that had had some issues with flexing. After over a year with the previous iPad Pro, I’m not at all worried about this one. I’ve taken an iPad Pro M4 all around the US and internationally with no issues. Granted, it’s usually in its keyboard case, but I’ve also traveled with it in the basic Smart Folio Apple sells and have seen no evidence of bending. I also don’t remember seeing any reports about durability issues from owners over the last 18 months, so I wouldn’t worry about its long-term durability.</p> 
+<p>I don’t have a great read on how long the iPad Pro M5 lasts away from its charger just yet — in the first few days with a new device it’s often downloading a lot of data from backups and doing some optimizing, thus not giving you a great feel for how long it’ll usually last. But so far, performance seems similar to the iPad Air M3 and iPad Pro M4 I’ve reviewed recently. I was getting between seven and eight hours while using the Magic Keyboard, and I’m guessing that I’ll blow past the 10-hour estimate when watching locally-stored video. More details on that to come.</p> 
+<p></p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cef870-ae0f-11f0-a7d3-ef3a4d02f9e8" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cef870-ae0f-11f0-a7d3-ef3a4d02f9e8" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="e4c23e76-4d70-31a1-8cf7-2caeb00041c1"> 
+ <figcaption></figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<p>Performance, check. Design, check. The third thing that continues to impress me about the iPad Pro is its screen. It quite simply has the nicest display I have ever seen on a portable device, be it a laptop, phone or tablet. Apple’s tandem OLED display (two OLED panels layered on top of each other) is the same in all respects as it was last year. That means the 13-inch screen has a 2,752 x 2,064 resolution (264 ppi) and standard brightness that can hit 1,000 nits, or up to 1,600 nits peak for HDR content. Aside from the OLED display, the only display improvements the iPad Pro has that the iPad Air doesn’t is ProMotion support for 120Hz refresh rates as well as a nano-texture glass option for the 1TB and 2TB models.</p> 
+<p>To be clear, though, the iPad Pro’s screen is in a completely different ballpark than the one on the iPad Air. Between the much faster refresh rate, high brightness levels, completely dark blacks and wonderful contrast, there’s no question this screen far surpasses what you’ll find on any other iPad. Professionals who do detailed work in video, photography, drawing with the Apple Pencil Pro or graphic design will appreciate all of these features. But it also makes something like kicking back on a plane to watch a movie more enjoyable.</p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cb27e0-ae0f-11f0-a0ff-785c5d29c659" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cb27e0-ae0f-11f0-a0ff-785c5d29c659" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="702f9db9-82ac-39ad-a245-ed06f7912da0"> 
+ <figcaption></figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<h2 id="jump-link-ipados-26">iPadOS 26</h2> 
+<p>In last year’s iPad Pro M4 review, I wrote: “Apple has shown no indication it’s going to make iPadOS more like a Mac.” As such, I recommended people not buy an iPad Pro unless they were happy with the limitations that have been inherent to iPadOS for a long time. It took Apple until this summer, but its latest updates rendered my earlier words invalid. With iPadOS 26, Apple pretty much said “screw it” and addressed nearly every big software complaint users have had.</p> 
+<p>As a quick refresher: apps still open in full screen by default, but you can now grab the corner and resize it to any shape you see fit; you can then stack up as many windows as you want in that view. Apps are also much better at remembering their size and position on your screen than ever before. If you swipe up and dismiss all the apps you’re working with and then re-open one, it’s right in the same place you left it. If you want to throw something back in full-screen, the familiar “stoplight” controls from the Mac are available for easy window management.</p> 
+<p>You can swipe up and hold for a second from the bottom of the screen to enter Expose, which shows every open window in your view. Swiping right shows all the full-screen apps you have open. If you have an app in full screen, you can switch back to a windowed app that’ll just float on top of what you’re working in. There’s also a menu bar at the top of the screen that makes it easy to access advanced controls for whatever you’re using.</p> 
+<p>As I said when I first started testing out iPadOS 26 in the summer, the end result of all these changes is that your iPad (no matter which kind) will feel significantly more capable with this software update. And there are other features that power users will appreciate, like a significantly improved Files app. Since it’s easier to have multiple windows, moving things around or dragging and dropping things into apps is a lot simpler. And there are improved sorting options as well, while PDFs finally open in the new Preview app rather than within Files .</p> 
+<p>Background task capabilities have also been significantly expanded. For example, Final Cut Pro can now render video in the background, whereas before, switching to a different app would put the lengthy and intensive process on pause. And developers can tap into this API to use it for their own apps, too.</p> 
+<p>I can’t say for sure that this will answer all the complaints of various iPad Pro owners out there, but I think Apple has gotten about as close as it can without just putting macOS on the device and calling it a day. Even with the big updates to iPadOS, an iPad Pro isn’t for everyone. Plenty of people will still choose a traditional laptop. But the iPad has always offered a pretty unique blend of power and portability, and with better software it’s a more viable option than ever.</p> 
+<figure> 
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c27550-ae0f-11f0-897d-d08d0f3ba0b0" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c27550-ae0f-11f0-897d-d08d0f3ba0b0" style="height:1353px;width:2400px;" alt="Review photos of Apple's iPad Pro M5, released in October 2025." data-uuid="d2250cec-2c69-350e-874f-5be5a0d29188"> 
+ <figcaption></figcaption> 
+ <div class="photo-credit">
+   Nathan Ingraham for Engadget 
+ </div> 
+</figure> 
+<h2 id="jump-link-wrap-up">Wrap-up</h2> 
+<p>My viewpoint on the iPad Pro hasn’t changed since last year. I still find it a wildly impressive device that is unlike much else you can buy. Just like the last model, it has Apple’s newest chip, the best display Apple has made (aside from its $5,000 Pro XDR monitor) and a physical design that feels almost impossible given how much technology is crammed inside. It’s truly delightful, and it’s even more capable than before thanks to the combination of iPadOS 26 and the M5 chip.</p> 
+<p>However, I still can’t stomach that price. $1,299 for a 13-inch iPad with 256GB of storage, no 5G connectivity and no Magic Keyboard is a <em>lot</em> of money, even if it is as capable as a similarly-priced laptop. Given the incredible technology inside of the iPad Pro, I can understand why it’s so expensive. And it's powerful enough that some buyers will be able to use it for three, four, even five years before they feel the need to update, which makes the up-front investment a little less burdensome. It's not the kind of device you need to replace annually, that's for sure. But unless you are going to use it as your main computer —&nbsp;all day, every day —&nbsp;and know exactly what benefits you’ll get from the iPad over a more traditional laptop, you’re probably better off buying an iPad Air and saving yourself a lot of money.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/ipad-pro-m5-review-speed-boost-130046249.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/mobile/tablets/ipad-pro-m5-review-speed-boost-130046249.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f4705aaa-a917-4fb6-ac0f-77d2c41743df</guid>
+                                                                                        <dc:creator><![CDATA[Nathan Ingraham]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 21 Oct 2025 13:00:46 +0000</pubDate>
+                    <ingested>1761049887</ingested>
+                    <modified>2025-10-21T12:31:37+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Nathan Ingraham]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fd1c29c60-ae0f-11f0-b3df-7087a897014e&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=4fa2863d7c3780c5f51f88e53bbe6d47d0272315" width="1400" height="789" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fd1c29c60-ae0f-11f0-b3df-7087a897014e&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=7d0a5b69e35e38c4b31cce4c57f95c8de0128ed8" width="1400" height="789" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Nathan Ingraham for Engadget]]></media:credit>
+                                <media:description><![CDATA[Review photos of Apple's iPad Pro M5, released in October 2025.]]></media:description>
+                                <media:title><![CDATA[Apple's iPad Pro M5 ]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Meta will warn WhatsApp and Messenger users against scams]]></title>
                                         <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/meta-is-shutting-down-its-desktop-messenger-app-202539375.html">Meta</a> is launching new tools aimed at trying to protect Messenger and WhatsApp users from potential scams. The company says its teams have &quot;detected and disrupted&quot; nearly 8 million accounts associated with scam centers in Myanmar, Laos, Cambodia, the United Arab Emirates and the Philippines since the beginning of 2025. It has also taken action on over 21,000 Pages on Facebook pretending to be customer support services of legitimate companies. But much still needs to be done to squash scams, specifically those <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/us-attorneys-general-band-robocalls-055620761.html">targeting the elderly</a> who may not be as tech-savvy or may not be aware of the scammers&#39; latest schemes.&nbsp;</p>
 <p>On WhatsApp, the company will start showing users warning notices if they attempt to share their screen with someone not on their contacts list during a video call. Scammers sometimes get their targets to share their screens in order to steal sensitive information. In the warning window pictured below, Meta tells users outright to only share their screens with people they trust, since they will be able to see anything displayed on their phones, including their banking info.&nbsp;</p>
@@ -3092,94 +3224,6 @@
                                 <media:credit><![CDATA[Microsoft]]></media:credit>
                                 <media:description><![CDATA[An ad.]]></media:description>
                                 <media:title><![CDATA[Game Pass Ultimate]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Bose QuietComfort Ultra Headphones (2nd gen) review: Impactful upgrades to a familiar formula]]></title>
-                                        <description type="html"><![CDATA[<p>Bose took a different approach with its new products in 2025. Instead of entirely redesigning&nbsp; its <a target="_blank" class="link" href="https://www.engadget.com/bose-quietcomfort-ultra-headphones-review-a-new-spin-on-a-reliable-formula-160009025.html" data-i13n="cpos:1;pos:1">QuietComfort Ultra</a> lineup, the company unveiled upgraded second-generation models of the flagship-level <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/boses-second-gen-quietcomfort-ultra-earbuds-have-ai-enhanced-adaptive-anc-130057912.html" data-i13n="cpos:2;pos:1">earbuds</a> and <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/bose-overhauls-the-quietcomfort-ultra-headphones-with-lossless-audio-and-longer-battery-life-130018894.html" data-i13n="cpos:3;pos:1">headphones</a>. Like the <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-earbuds-2nd-gen-review-still-a-noise-canceling-powerhouse-153017601.html" data-i13n="cpos:4;pos:1">QuietComfort Ultra Earbuds</a> that debuted earlier this year, the new <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FDKR293G&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3d41a5af-352a-4bc5-ba97-fe90dc78f118&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Quiet+Comfort+Ultra+headphones+%28%24449%29&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Jvc2UtUXVpZXRDb21mb3J0LUJsdWV0b290aC1IZWFkcGhvbmVzLUNhbmNlbGxpbmcvZHAvQjBGREtSMjkzRz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiIzZDQxYTVhZi0zNTJhLTRiYzUtYmE5Ny1mZTkwZGM3OGYxMTgiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQm9zZS1RdWlldENvbWZvcnQtQmx1ZXRvb3RoLUhlYWRwaG9uZXMtQ2FuY2VsbGluZy9kcC9CMEZES1IyOTNHIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAATee02Q0Xpy3pxiqy5z_sEV3XhmFMfk0itlmGskNWvWv&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Bluetooth-Headphones-Cancelling%2Fdp%2FB0FDKR293G" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1" data-original-link="https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G">Quiet Comfort Ultra headphones ($449)</a> don’t offer a comprehensive overhaul. However, the changes provide enough performance improvements to further cement these as <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html" data-i13n="cpos:6;pos:1">the best noise-canceling headphones</a> that you can buy right now. Trust me, we’re much better off with this revamped version than we would be with a year (or longer) wait for something brand new with the 2023 model.</p> 
-<p> <core-commerce data-type="product-list" id="d2ebe4bc-52bf-44b6-8ca1-001b947575e0" data-original-url="https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G"></core-commerce></p> 
-<h2 id="161f62c5-8aae-44bc-8e81-5f836e2071ea">What’s new on the QuietComfort Ultra Headphones?</h2> 
-<p>Bose debuted a few new features on the <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-earbuds-2nd-gen-review-still-a-noise-canceling-powerhouse-153017601.html" data-i13n="cpos:7;pos:1">second-gen QuietComfort Ultra Earbuds</a> in August that it carried over to these new headphones. First, the company improved its already stellar active noise cancelation (ANC) with tweaks to its ActiveSense technology. Specifically, the system can respond to sudden spikes in environmental noise by adapting more precisely. It’s not something you’ll notice all the time, but when you need it, you’ll be glad it's there. Otherwise, the excellent ANC performance here is just as effective as it was on the previous model. More on that in a bit.</p> 
-<p>The immersive Cinema Mode that Bose added to the QC Ultra Earbuds is also available on these headphones. It’s a sound profile that enhances dialogue clarity while keeping the rest of the soundstage as wide and enveloping as possible. I like it best for movies and TV, as the name suggests, but per Bose’s suggestion I also tried it with podcasts and audiobooks. Cinema Mode is probably overkill for those types of content, unless you’re listening to shows or titles with lots of background effects.&nbsp;</p> 
-<p>One of the biggest changes on the second-gen QC Ultra Headphones is how Bose decided to handle power management. Most importantly, the company extended battery life in all use cases. With ANC on (and Immersive Audio off), you’ll get up to 30 hours of listening time. Turn off ANC and that jumps to 45 hours. When you decide to enable both ANC and Bose’s spatial Immersive Audio, you can expect up to 23 hours on a charge. Compared to those on the first-generation model, all of these numbers are up by at least five hours, which is a significant boost.&nbsp;</p> 
-<figure> 
- <img src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5360.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5360.jpg" style="height:1707px;width:2560px;" alt="These headphones rotate flat and fold in for compact transport. " data-uuid="c36d63a2-8ba2-46cc-8548-e372eabb4e0a"> 
- <figcaption>
-   These headphones rotate flat and fold in for compact transport. 
- </figcaption> 
- <div class="photo-credit">
-   Billy Steele for Engadget 
- </div> 
-</figure> 
-<p>Like the previous QC Ultra Headphones, this model has an automatic disconnection feature after 10 minutes of standby . But the company went a step further on this version by adding a low-power mode that the headphones enter after 30 minutes of idle time. And if you want to disconnect them quickly, you can rotate the earcups and lay them on a flat surface. That’ll make them go into a deeper standby mode that Bose says can run “for months.” All of this means you can effectively turn the new QuietComfort Ultra Headphones on and off by putting them on and taking them off. If you’re using them regularly, you’ll never have to press the power button.&nbsp;</p> 
-<p>Sound-wise, the big upgrade on these headphones is the addition of lossless audio over USB-C. Like <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/how-to-use-lossless-audio-on-the-airpods-max-180026218.html" data-i13n="cpos:8;pos:1">the AirPods Max</a>, this model can be connected with a cable to your phone, tablet, laptop or desktop to stream or play higher-quality tunes from compatible services or your library. Bose says you can expect 16-bit 44.1kHz or 48kHz audio depending on your source. It’s yet another nice-to-have feature that’s becoming standard fare on premium wireless headphones.&nbsp;</p> 
-<h2 id="6ec6f9ce-6704-4ff3-a2e7-48ad98a0220b">What else is good about the QuietComfort Ultra Headphones?</h2> 
-<p>Like most Bose over-ear headphones, the second-gen QuietComfort Ultra Headphones are supremely comfortable. Even for long periods of time, they never become a burden, and that’s thanks in large part to the soft, pillowy ear pads. I could easily wear these for an entire trans-Atlantic flight with minimal discomfort and I’ve been wearing them for entire workdays at home.&nbsp;</p> 
-<p>As I already mentioned, the ANC performance here is still top-tier. In fact, these QC Ultra Headphones will soon replace the first-gen model on our <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html" data-i13n="cpos:9;pos:1">best noise-canceling headphones</a> list. Both the Immersion (ANC + spatial audio) and Quiet (just ANC) modes provide robust noise blocking that surpasses those by Sony, Sennheiser and others. If you’re making your buying decision based solely on ANC performance, this is the best option. You’ll enjoy relief from constant ambient noise sources like fans and sound machines, plus the QC Ultra Headphones do a respectable job with human voices. Heck, I couldn’t even hear my dog barking at the imminent threat from falling leaves outside.&nbsp;</p> 
-<p>Lastly, Bose’s take on spatial audio is still quite good. The company calls it Immersive Audio and the feature doesn’t rely on specialized content like other headphones. Music sounds obviously fuller and slightly louder when the sound profile is active thanks to Bose’s method for upscaling stereo content. There’s also enhanced vocal clarity and elements like percussion and synths are less compressed than usual. The headphones lend a particularly airy feel to the tracks of Ruston Kelly’s <em>Pale, Through the Window, </em>an acoustic-driven collection of soulful, country-tinged tunes. His vocals float atop enveloping acoustic guitars and tight, punchy drums.</p> 
-<h2 id="eae1f835-e87b-4af6-b7a2-2798e292ea92">What’s not so good about the QC Ultra Headphones?</h2> 
-<figure> 
- <img src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5440.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5440.jpg" style="height:1707px;width:2560px;" alt="The Bose app gives you access to controls and customization. " data-uuid="07a401fa-403f-4bcd-9882-a63a86445296"> 
- <figcaption>
-   The Bose app gives you access to controls and customization. 
- </figcaption> 
- <div class="photo-credit">
-   Billy Steele for Engadget 
- </div> 
-</figure> 
-<p>The biggest issue with the second-gen QuietComfort Ultra Headphones is the price. To be clear, the likes of Sony, Apple and others charge around the same amount for their top-of-the-line models, but $449 is still a significant investment. If that’s too steep for you, Bose has the highly capable <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0D4Z9C562&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3d41a5af-352a-4bc5-ba97-fe90dc78f118&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=QuietComfort+Headphones&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL2F3L2QvQjBENFo5QzU2Mi8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiM2Q0MWE1YWYtMzUyYS00YmM1LWJhOTctZmU5MGRjNzhmMTE4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL2F3L2QvQjBENFo5QzU2Mi8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAXVICQZ9BTRe97zgQ7boTMH05Q_Q2HOFIO8CZDVVchdt&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0D4Z9C562%2F" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:10;pos:1" data-original-link="https://www.amazon.com/gp/aw/d/B0D4Z9C562/?th=1">QuietComfort Headphones</a> in its arsenal for a <em>slightly </em>more palatable $359.</p> 
-<p>My other gripe is that the only real design change Bose made for the updated QC Ultra Headphones is that the metal headband yokes now have a gloss finish. Depending on your personal preference, this might be a dealbreaker for you. It’s least noticeable on the black and violet colorways, since these have a tone-on-tone look. After a few weeks with the bronze and tan Driftwood Sand hue, I’m not a fan of the more stylized aesthetic. It’s flashy, for sure, but it’s a tweak I could’ve done without.&nbsp;</p> 
-<h2 id="ae6bcab8-6a1e-4aaa-821a-abc1395d4039">Wrap-up</h2> 
-<p>Similar to the second-gen QC Ultra Earbuds over the summer, Bose didn’t make huge upgrades for the updated version of the QC Ultra Headphones. But what you do get here is a decent improvement over its predecessor. The company devised an intuitive setup for power management and even addressed one of my main gripes with the original by adding support for lossless audio over USB-C. Plus, the extended battery life is significant in all sound modes, and not just by an hour or two here or there. To top it all off, the QuietComfort Ultra Headphones remain the best option for pure noise-blocking ability, and that’s not likely to change any time soon.</p><core-slideshow data-slideshowid="270ce75f-b558-4456-ad98-7f2c485d6739" /> 
-<p><br></p> 
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-headphones-2nd-gen-review-impactful-upgrades-to-a-familiar-formula-150000709.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-headphones-2nd-gen-review-impactful-upgrades-to-a-familiar-formula-150000709.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3d41a5af-352a-4bc5-ba97-fe90dc78f118</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Fri, 17 Oct 2025 15:00:00 +0000</pubDate>
-                    <ingested>1760713222</ingested>
-                    <modified>2025-10-17T15:00:28+00:00</modified>
-                                            <category>
-                            <![CDATA[Speakers & Headphones]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Audio Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FDSC_5326.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=203d1f2dfd333925a01e5034ba468e29224082d2" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2FDSC_5326.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=203d1f2dfd333925a01e5034ba468e29224082d2" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Billy Steele for Engadget]]></media:credit>
-                                <media:description><![CDATA[The new QC Ultra Headphones look almost exactly like the original version, except for some added shine.]]></media:description>
-                                <media:title><![CDATA[Bose QuietComfort Ultra Headphones (2nd gen)]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
