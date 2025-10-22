@@ -6,9 +6,58 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 22 Oct 2025 19:13:05 +0000</pubDate>
+            <pubDate>Wed, 22 Oct 2025 20:51:36 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Reddit sues Perplexity and three other companies for allegedly using its content without paying]]></title>
+                                        <description type="html"><![CDATA[<p>Reddit is suing companies SerApi, OxyLabs, AWMProxy and Perplexity for allegedly scraping its data from search results and using it without a license, <a target="_blank" class="link" href="https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html" data-i13n="cpos:1;pos:1"><em>The New York Times</em> reports</a>. The new lawsuit follows <a target="_blank" class="link" href="https://www.engadget.com/ai/reddit-is-suing-anthropic-for-allegedly-scraping-its-data-without-permission-185833267.html" data-i13n="cpos:2;pos:1">legal action</a> against AI startup Anthropic, who allegedly used Reddit content to train its Claude chatbot.</p><p>&nbsp;As of 2023, Reddit <a target="_blank" class="link" href="https://www.engadget.com/reddit-will-charge-companies-for-api-access-citing-ai-training-concerns-184935783.html?_fsig=Y44909PbzSzYJhRrRAHUdQ--~A" data-i13n="cpos:3;pos:1">charges companies</a> looking access to posts and other content in the hopes of making money on data that could be used for AI training. The company has also signed licensing deals with companies like <a target="_blank" class="link" href="https://www.engadget.com/reddit-is-licensing-its-content-to-google-to-help-train-its-ai-models-200013007.html" data-i13n="cpos:4;pos:1">Google</a> and <a target="_blank" class="link" href="https://www.engadget.com/openai-strikes-deal-to-put-reddit-posts-in-chatgpt-224133045.html" data-i13n="cpos:5;pos:1">OpenAI</a>, and even built an <a target="_blank" class="link" href="https://www.engadget.com/social-media/reddit-introduces-ai-powered-reddit-answers-search-feature-140028655.html" data-i13n="cpos:6;pos:1">AI answer machine of its own</a> to leverage the knowledge in users&#39; posts. Scraping search results for Reddit content avoids those payments, which is why the company is seeking financial damages and a permanent injunction that prevents companies from selling previously scraped Reddit material.</p><p>Some of the companies Reddit is focused on, like SerApi, OxyLabs and AWMProxy, are not exactly household names, but they&#39;ve all made collecting data from search results and selling it a key part of their business. Perplexity&#39;s inclusion in the lawsuit might be more obvious. The AI company needs data to train its models, and has already <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexitys-definition-of-copyright-gets-it-sued-by-the-dictionary-213408625.html" data-i13n="cpos:7;pos:1">been caught</a> seemingly copying and regurgitating material it hasn&#39;t paid to license. That also includes <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexity-is-allegedly-scraping-websites-its-not-supposed-to-again-211110756.html" data-i13n="cpos:8;pos:1">reportedly ignoring the robots.txt protocol</a>, a way for websites to communicate that they don&#39;t want their material scraped.</p><p>Per a copy of <a target="_blank" class="link" href="https://redditinc.com/hubfs/Reddit%20Inc/Content/Reddit%20v.%20SerpApi.pdf" data-i13n="cpos:9;pos:1">the lawsuit</a> provided to Engadget, Reddit had already sent a cease-and-desist to Perplexity asking it to stop scraping posts without a license. The company claimed it didn&#39;t use Reddit data, but it also continued to cite the platform in answers from its chatbot. Reddit says it was able to prove Perplexity was using scraped Reddit content by creating a &quot;test post&quot; that &quot;could only be crawled by Google’s search engine and was not otherwise accessible anywhere on the internet.&quot; Within a few hours, queries made to Perplexity&#39;s answer engine were able to reproduce the content of the post. </p><p>&quot;The only way that Perplexity could have obtained that Reddit content and then used it in its &#39;answer engine&#39; is if it and/or its co-defendants scraped Google [search results] for that Reddit content and Perplexity then quickly incorporated that data into its answer engine,&quot; the lawsuit claims. </p><p>When asked to comment, Perplexity provided the following statement: </p><blockquote><p>Perplexity has not yet received the lawsuit, but we will always fight vigorously for users’ rights to freely and fairly access public knowledge. Our approach remains principled and responsible as we provide factual answers with accurate AI, and we will not tolerate threats against openness and the public interest.</p></blockquote><p>This new lawsuit fits with the aggressive stance Reddit has taken towards protecting its data, including <a target="_blank" class="link" href="https://www.engadget.com/reddit-puts-ai-scrapers-on-notice-205734539.html" data-i13n="cpos:10;pos:1">rate-limiting</a> unknown bots and web crawlers in 2024, and <a target="_blank" class="link" href="https://www.engadget.com/social-media/reddit-is-restricting-its-availability-to-the-internet-archives-wayback-machine-170035482.html" data-i13n="cpos:11;pos:1">even limiting</a> what access the Internet Archive&#39;s Wayback Machine has to its site in August 2025. The company has also sought to define new terms around how websites are crawled by adopting the <a target="_blank" class="link" href="https://www.engadget.com/ai/reddit-yahoo-medium-and-more-are-adopting-a-new-licensing-standard-to-get-compensated-for-ai-scraping-180946671.html" data-i13n="cpos:12;pos:1">Really Simple Licensing standard</a>, which adds licensing terms to robots.txt.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/reddit-sues-perplexity-and-three-other-companies-for-allegedly-using-its-content-without-paying-205136436.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/social-media/reddit-sues-perplexity-and-three-other-companies-for-allegedly-using-its-content-without-paying-205136436.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f34730bd-6093-47b2-bfbb-2a9406771bbd</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 22 Oct 2025 20:51:36 +0000</pubDate>
+                    <ingested>1761166304</ingested>
+                    <modified>2025-10-22T20:51:47+00:00</modified>
+                                            <category>
+                            <![CDATA[Business]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Freddit-wordmark-header.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=142e8feeaaed1ed5778972231f6ef998a110d9b5" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Freddit-wordmark-header.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=142e8feeaaed1ed5778972231f6ef998a110d9b5" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Reddit]]></media:credit>
+                                <media:description><![CDATA[The Reddit logo, complete with robot head, on a black background.]]></media:description>
+                                <media:title><![CDATA[reddit-wordmark-header]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Apple dumps dating apps Tea and TeaOnHer from the App Store over privacy and moderation issues]]></title>
                                         <description type="html"><![CDATA[<p>Apple has removed dating apps Tea and TeaOnHer from the App Store for violating rules related to content moderation and user privacy. The company told <a target="_blank" class="link" href="https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/" data-i13n="cpos:1;pos:1"><em>TechCrunch</em></a><em> </em>that it pulled the apps as they broke several of its <a target="_blank" class="link" href="https://developer.apple.com/app-store/review/guidelines/" data-i13n="cpos:2;pos:1">rules</a>, including one mandating that apps can&#39;t share or otherwise use an individual&#39;s personal info without getting their permission first.&nbsp;</p><p>Apple said they also violated a rule concerning user-generated content, which stipulates that apps need to allow for reporting offensive or concerning material, an option to block abusive users and the ability to filter &quot;objectionable material from being posted.&quot;  In addition, Apple claimed the apps broke rules related to user reviews. It told <em>TechCrunch</em> they had an &quot;excessive&quot; volume of negative reviews and complaints from users, including ones related to minors’ personal details being shared. The company noted that it raised these issues&#39; with the apps&#39; developers, but they were not resolved.</p><p>As it stands, both apps are still available on Android through the Google Play Store. Tea (which is formally called Tea Dating Advice) enables women to post details about men they&#39;ve met or dated. It allows them to post and comment on photos, look up public records on individuals, carry out reverse image searches, share their experiences and rate or review men. Users can, for instance, say whether they&#39;d give a man a &quot;green flag&quot; or a &quot;red flag.&quot;</p><p>TeaOnHer flips that format on its head, with men sharing info about women. Both are pitched as dating safety apps, with Tea telling users they can &quot;ask our anonymous community of women to make sure your date is safe, not a catfish and not in a relationship.&quot;</p><p>Tea first emerged in 2023 and it went viral this year. In July, hackers <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/data-breach-at-tea-reportedly-contains-images-and-dms-from-last-week-224823984.html" data-i13n="cpos:3;pos:1">breached the app</a> and leaked tens of thousands of images, including around 3,000 selfies and photo IDs that users submitted to verify their accounts. The other images included posts, comments and private messages. A second hack exposed more than a million private messages.</p><p>Days after TeaOnHer went live in August (ripping off text from Tea’s App Store description in the process), it emerged that app <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/theres-a-tea-app-for-men-and-it-also-has-security-problems-224435459.html" data-i13n="cpos:4;pos:1">had its own security issues</a>. It was possible to view photo IDs and selfies that users had submitted for account verification, as well as their email addresses.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/apps/apple-dumps-dating-apps-tea-and-teaonher-from-the-app-store-over-privacy-and-moderation-issues-191305457.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/apps/apple-dumps-dating-apps-tea-and-teaonher-from-the-app-store-over-privacy-and-moderation-issues-191305457.html?src=rss]]></link>
@@ -3730,61 +3779,6 @@
                                 <media:credit><![CDATA[Amy Skorheim for Engadget]]></media:credit>
                                 <media:description><![CDATA[Anker Nano Power Bank USB-C.]]></media:description>
                                 <media:title><![CDATA[Anker Nano Power Bank USB-C]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[New report leaks Amazon's proposed mass-automation plans]]></title>
-                                        <description type="html"><![CDATA[<p>Amazon is reportedly moving towards an era of unprecedented automation that would put half a million jobs in the US at risk. According to a series of interviews and internal documents referenced in an extensive report from <a data-i13n="cpos:1;pos:1" href="https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html"><em>The New York Times</em></a>, Amazon executives expect to sell twice as many products by 2033. But by scaling up its robotics operations believe it could avoid the 600,000 hires it would otherwise have to make to keep up with the demand.</p>
-<p>According to the report, documents show that the ultimate aim of Amazon’s in-house robotics department is to automate 75 percent of all operations, and if it is successful in making 160,000 fewer hires by 2027, the company would reportedly save 30 cents on each item it packs and delivers to customers in the US. Amazon recently <a data-i13n="cpos:2;pos:1" href="https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model"><ins>celebrated deploying</ins></a> its 1 millionth robot, a fleet it has been adding to since unveiling its <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/proteus-amazon-first-fully-autonomous-warehouse-robot-074341277.html"><ins>first</ins></a> fully autonomous mobile robot in 2022.</p>
-<span id="end-legacy-contents"></span><p>Despite already pushing ahead with building warehouses that employ few humans, the<em> NYT </em>report claims that Amazon is planning for the eventual impact on affected communities and the potential backlash by participating in local events to establish a reputation as a &quot;good corporate citizen.&quot; The internal documents also discuss the avoidance of terms such as &quot;automation&quot; and &quot;AI&quot; in relation to robotics, suggesting instead that executives use terms like “advanced technology” instead. They even consider replacing using &quot;cobot&quot; instead of &quot;robot&quot; as the former implies a collaborative relationship with humans.</p>
-<p>In a statement to the<em> NYT</em>, Amazon called the plans it cited incomplete and not reflective of its overall hiring strategy. It denied that its community efforts were related to its automation plans and said it’s not insisting that its executives refrain from using certain terms. The company added that it planned to hire 250,000 people for the imminent holiday season, but wouldn’t say how many of these would be permanent hires.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">015695a8-4ae2-4036-acf9-3330e6995c03</guid>
-                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 21 Oct 2025 14:48:22 +0000</pubDate>
-                    <ingested>1761058110</ingested>
-                    <modified>2025-10-21T14:48:31+00:00</modified>
-                                            <category>
-                            <![CDATA[Robots]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Matt Tate]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Facea3e30-43a6-11f0-abfb-08c1824d8d04&amp;resize=1400%2C918&amp;client=19f2b5e49a271b2bde77&amp;signature=507ee264ab7c716b51bb77582eec3230fc8d6567" width="1400" height="918" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Facea3e30-43a6-11f0-abfb-08c1824d8d04&amp;resize=1400%2C918&amp;client=19f2b5e49a271b2bde77&amp;signature=ea8953dfcf999684ca5057c038a98eeb681d7f25" width="1400" height="918" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[picture alliance via Getty Images]]></media:credit>
-                                <media:description><![CDATA[07 May 2025, North Rhine-Westphalia, Dortmund: A gripper arm of the Vulcan robot picks up a product from an Amazon mobile warehouse shelf. This robot, equipped with special cameras and sensors, is to be used more and more frequently in Amazon locations in the future. It is intended to relieve employees of work and make their jobs easier, as they will then have to stretch and bend less. Photo: Wolf von Dewitz/dpa (Photo by Wolf von Dewitz/picture alliance via Getty Images)]]></media:description>
-                                <media:title><![CDATA[Amazon Innovation Center]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
