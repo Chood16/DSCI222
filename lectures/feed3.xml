@@ -6,11 +6,118 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 28 Oct 2025 13:31:09 +0000</pubDate>
+            <pubDate>Tue, 28 Oct 2025 15:06:20 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[PSA: X users have until November 10 to re-enroll their security keys]]></title>
+                                        <description type="html"><![CDATA[<p>If you’re a former Twitter user still using <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/x-is-testing-a-new-way-of-opening-links-in-posts-to-improve-engagement-211210520.html"><ins>X</ins></a> and rely on a hardware security key for your two-factor authentication (2FA) method, you need to re-enroll it before November 10. As spotted by <a data-i13n="cpos:2;pos:1" href="https://www.theverge.com/news/807011/twitter-com-x-com-login-security-key-passkey-domain"><em><ins>The Verge</ins></em></a>, X’s <a data-i13n="cpos:3;pos:1" href="https://x.com/Safety"><ins>Safety</ins></a> account notified users of the deadline in a post last week. The Elon Musk-owned company eventually intends to retire the twitter.com domain, which hardware keys such as YubiKeys remain tied to until they’re re-enrolled.</p>
+<p>&quot;By November 10, we’re asking all accounts that use a security key as their two factor authentication (2FA) method to re-enroll their key to continue accessing X. You can re-enroll your existing security key, or enroll a new one. A reminder: if you enroll a new security key, any other security keys will stop working (unless also re-enrolled),&quot; the account said.</p>
+<span id="end-legacy-contents"></span><p>X later clarified that the change only applies to YubiKeys and passkeys, and not 2FA authenticator apps such as Microsoft Authenticator or Authy. Users who fail to re-enroll their affected keys before November 10 will have their accounts locked until they either complete the re-enrollment process, choose a different 2FA method or decide to not use 2FA altogether (which X says it advises against).</p>
+<p>To re-enroll your hardware key or add a new one, head to Settings in the X app, then click &quot;Security and account access&quot; and &quot;Manage Passkeys&quot; within the Security section.</p>
+<p>Elon Musk <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/elon-musk-is-rebranding-twitter-to-x-and-killing-the-bird-logo-165944573.html"><ins>rebranded</ins></a> Twitter to X in 2023, and last year fully <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/twitter-has-officially-moved-to-xcom-120028269.html"><ins>transitioned</ins></a> the social network&#39;s core systems to X.com, leaving no trace of the blue bird logo that was once synonymous with the platform.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/psa-x-users-have-until-november-10-to-re-enroll-their-security-keys-150620766.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/psa-x-users-have-until-november-10-to-re-enroll-their-security-keys-150620766.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9e399465-cbd8-4ed6-a638-46aa4192f208</guid>
+                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 28 Oct 2025 15:06:21 +0000</pubDate>
+                    <ingested>1761663989</ingested>
+                    <modified>2025-10-28T15:06:31+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Matt Tate]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Ff48a6b10-5c70-11f0-bb6d-a75b29dab2f3&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=5430228eadc3b76f31dd1d2195f8748c54840988" width="1400" height="934" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-07%2Ff48a6b10-5c70-11f0-bb6d-a75b29dab2f3&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=455da475882343c3602831e921d634466346468b" width="1400" height="934" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Kenneth Cheung via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Toronto, Canada - August 22, 2024:    Popular social media apps on an Apple iPhone: Facebook, Instagram, TikTok, Threads, X (formerly Twitter), and Reddit.]]></media:description>
+                                <media:title><![CDATA[Social Media Platforms - Facebook, Instagram, TikTok, Threads, X, Reddit]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Amazon cuts its workforce by 14,000 in further embrace of AI]]></title>
+                                        <description type="html"><![CDATA[<p>Amazon has announced an approximately <a data-i13n="cpos:1;pos:1" href="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction">14,000 person reduction</a> in its corporate workforce. The news follows an earlier <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.reuters.com/business/world-at-work/amazon-targets-many-30000-corporate-job-cuts-sources-say-2025-10-27/">report from <em>Reuters</em></a> that up to 30,000 people could be let go. Amazon has confirmed to <em>Engadget</em> that the 14,000 roles were eliminated today.&nbsp;</p>
+<p>Amazon declined to comment on which departments are impacted, but <a data-i13n="cpos:3;pos:1" href="https://www.bloomberg.com/news/articles/2025-10-28/amzn-amazon-to-cut-14-000-jobs-across-corporate-workforce?embedded-checkout=true"><em>Bloomberg</em> reports</a> that layoffs occurred within teams such as video games, logistics, payments and cloud-computing.</p>
+<span id="end-legacy-contents"></span><p>The impetus for this reduction is, of course, AI. In the <a data-i13n="cpos:4;pos:1" href="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction">announcement</a>, Beth Galetti, Amazon&#39;s senior vice president of people experience and technology, states that Amazon is &quot;performing well&quot; but &quot;that the world is changing quickly.&quot;</p>
+<p>Galetti continues: &quot;This generation of AI is the most transformative technology we’ve seen since the Internet, and it&#39;s enabling companies to innovate much faster than ever before (in existing market segments and altogether new ones). We’re convicted that we need to be organized more leanly, with fewer layers and more ownership, to move as quickly as possible for our customers and business.&quot;&nbsp;</p>
+<p>Amazon has executed a series of smaller scale layoffs regularly over the past few years. These layoffs have hit a range of departments, including <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/amazon-is-laying-off-several-hundred-employees-at-prime-video-and-mgm-studios-161307199.html">Prime Video</a>, <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/big-tech-layoffs-183005386.html">Amazon Web Services</a> and <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/big-tech/amazon-to-close-quebec-facilities-but-says-its-not-because-of-that-new-union-185744378.html">newly unionized warehouse workers</a>.</p>
+<p><strong>Update, October 28 2025, 10:31AM ET: </strong>This article has been updated to include Amazon&#39;s confirmation that the 14,000 layoffs occurred today.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazon-cuts-its-workforce-by-14000-in-further-embrace-of-ai-125548323.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazon-cuts-its-workforce-by-14000-in-further-embrace-of-ai-125548323.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">c7061cb4-2ba6-465e-9a65-9704040ac0c6</guid>
+                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 28 Oct 2025 14:31:47 +0000</pubDate>
+                    <ingested>1761661922</ingested>
+                    <modified>2025-10-28T14:32:04+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sarah Fielding]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-03%2Fae61c1f0-c740-11ed-afbf-7073debeb38d&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=ee38d6bea806265d0002af32aaddf731ae4c143a" width="1400" height="1050" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2023-03%2Fae61c1f0-c740-11ed-afbf-7073debeb38d&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=c4ce400a62bf49d080d708d2ad814d49b6a8a64f" width="1400" height="1050" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[FinkAvenue via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Munich, Bavaria Germany - December 11 2022: Amazon Deutschland Services GmbH e-commerce german headquarters office building with glass green trademark logo. Ultra HD]]></media:description>
+                                <media:title><![CDATA[Amazon Germany Services GmbH]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[OpenAI completes corporate reorganization with support from Microsoft]]></title>
-                                        <description type="html"><![CDATA[<p>OpenAI has completed its long, drawn-out reorganization into a public benefit corporation, the company announced today in a <a target="_blank" class="link" href="https://openai.com/index/built-to-benefit-everyone/" data-i13n="slk:blog post;cpos:1;pos:1">blog post</a> attributed to board of directors chair Bret Taylor. As part of the reorg, OpenAI's nonprofit, now called the OpenAI Foundation, will retain control of OpenAI's for-profit division and hold an equity stake in the company valued at approximately $130 billion. According to Taylor, the Foundation will gain additional control over the for-profit once it reaches an unspecified "valuation milestone." &nbsp; &nbsp; &nbsp;</p><p>Today's announcement wouldn't have been possible without acquiescence from Microsoft, which before OpenAI recently raised more startup capital, held a 32 percent stake in the company's for-profit unit. In <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f5a3dfe4-91bc-401b-8aab-44d5d891fb84&amp;featureId=text-link&amp;linkText=blog+post&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2Jsb2dzLm1pY3Jvc29mdC5jb20vYmxvZy8yMDI1LzEwLzI4L3RoZS1uZXh0LWNoYXB0ZXItb2YtdGhlLW1pY3Jvc29mdC1vcGVuYWktcGFydG5lcnNoaXAvIiwiY29udGVudFV1aWQiOiJmNWEzZGZlNC05MWJjLTQwMWItOGFhYi00NGQ1ZDg5MWZiODQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYmxvZ3MubWljcm9zb2Z0LmNvbS9ibG9nLzIwMjUvMTAvMjgvdGhlLW5leHQtY2hhcHRlci1vZi10aGUtbWljcm9zb2Z0LW9wZW5haS1wYXJ0bmVyc2hpcC8ifQ&amp;signature=AQAAAYBpdmkBOj24tOLO2cKrKG_1sXqXBS4Yq-thdz8NYykg&amp;gcReferrer=https%3A%2F%2Fblogs.microsoft.com%2Fblog%2F2025%2F10%2F28%2Fthe-next-chapter-of-the-microsoft-openai-partnership%2F" data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:2;pos:1" data-original-link="https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/">blog post</a> it published alongside OpenAI, the tech giant said it would have a 27 percent stake in the new PBC, valued at approximately $135 billion.&nbsp;&nbsp;</p><p>Before OpenAI and Microsoft <a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-and-openai-announce-the-next-phase-of-their-partnership-035247037.html" data-i13n="cpos:3;pos:1">signed a memorandum of understanding in September</a>, negotiations between the two organizations were <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f5a3dfe4-91bc-401b-8aab-44d5d891fb84&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=reported+to+be+tense&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvbWljcm9zb2Z0LWFuZC1vcGVuYWktd3JhbmdsZS1vdmVyLXRlcm1zLW9mLXRoZWlyLWJsb2NrYnVzdGVyLXBhcnRuZXJzaGlwIiwiY29udGVudFV1aWQiOiJmNWEzZGZlNC05MWJjLTQwMWItOGFhYi00NGQ1ZDg5MWZiODQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnRoZWluZm9ybWF0aW9uLmNvbS9hcnRpY2xlcy9taWNyb3NvZnQtYW5kLW9wZW5haS13cmFuZ2xlLW92ZXItdGVybXMtb2YtdGhlaXItYmxvY2tidXN0ZXItcGFydG5lcnNoaXAifQ&amp;signature=AQAAAd1MoDnSjVelbPYabML25-e77_LDpNoy0Ko9mPZuVqAh&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fmicrosoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership" data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:4;pos:1" data-original-link="https://www.theinformation.com/articles/microsoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership">reported to be tense</a>, with Microsoft showing signs it was drifting away from OpenAI by working more closely with Anthropic to integrate its <a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-adds-claude-models-to-copilot-365-185032970.html" data-i13n="cpos:5;pos:1">Claude models into Copilot 365</a>. Now that there's an agreement in place, it appears both sides made some notable compromises. </p><p>Microsoft, for instance, will continue to hold IP rights to OpenAI's models and products through 2032, with those rights covering systems the company develops after declaring artificial general intelligence. On the subject of AGI, the two companies will hire an independent panel of experts to verify any claim OpenAI makes there, when and if it reaches that milestone.</p><p>However, Microsoft has agreed to waive any IP rights as they relate to OpenAI's upcoming consumer hardware — that is, the devices the company is <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-buys-jony-ives-design-startup-for-65-billion-173356962.html" data-i13n="cpos:6;pos:1">working on with former Apple designer Jony Ive</a>. In exchange, OpenAI has pledged to spend&nbsp; $250 billion on Azure cloud computing services — though Microsoft also agreed it would no longer have a "right of first refusal" to be OpenAI's cloud provider. Notably, Microsoft's blog post makes no mention of the revenue-sharing agreement that was at the center of their investment deal.&nbsp; &nbsp;</p><p>In the end, the most important part of today’s announcement is that it clears the way for OpenAI to become a publicly traded company. Much of the company’s financial future depended on it successfully completing this transition, and now at least it doesn’t have that burden resting on its shoulders.   </p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-completes-corporate-reorganization-with-support-from-microsoft-133109385.html?src=rss]]></description>
+                                        <description type="html"><![CDATA[<p>OpenAI has completed its long, drawn-out reorganization into a public benefit corporation, the company announced today in a <a target="_blank" class="link" href="https://openai.com/index/built-to-benefit-everyone/" data-i13n="slk:blog post;cpos:1;pos:1">blog post</a> attributed to board of directors chair Bret Taylor. As part of the reorg, OpenAI's nonprofit, now called the OpenAI Foundation, will retain control of OpenAI's for-profit division and hold an equity stake in the company valued at approximately $130 billion. According to Taylor, the Foundation will gain additional control over the for-profit once it reaches an unspecified "valuation milestone." &nbsp; &nbsp; &nbsp;</p><p>Today's announcement wouldn't have been possible without acquiescence from Microsoft, which before OpenAI recently raised more startup capital, held a 32 percent stake in the company's for-profit unit. In <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f5a3dfe4-91bc-401b-8aab-44d5d891fb84&amp;featureId=text-link&amp;linkText=blog+post&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2Jsb2dzLm1pY3Jvc29mdC5jb20vYmxvZy8yMDI1LzEwLzI4L3RoZS1uZXh0LWNoYXB0ZXItb2YtdGhlLW1pY3Jvc29mdC1vcGVuYWktcGFydG5lcnNoaXAvIiwiY29udGVudFV1aWQiOiJmNWEzZGZlNC05MWJjLTQwMWItOGFhYi00NGQ1ZDg5MWZiODQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYmxvZ3MubWljcm9zb2Z0LmNvbS9ibG9nLzIwMjUvMTAvMjgvdGhlLW5leHQtY2hhcHRlci1vZi10aGUtbWljcm9zb2Z0LW9wZW5haS1wYXJ0bmVyc2hpcC8ifQ&amp;signature=AQAAAYBpdmkBOj24tOLO2cKrKG_1sXqXBS4Yq-thdz8NYykg&amp;gcReferrer=https%3A%2F%2Fblogs.microsoft.com%2Fblog%2F2025%2F10%2F28%2Fthe-next-chapter-of-the-microsoft-openai-partnership%2F" data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:2;pos:1" data-original-link="https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/">blog post</a> it published alongside OpenAI, the tech giant said it would have a 27 percent stake in the new PBC, valued at approximately $135 billion.&nbsp;That puts the total valuation of OpenAI’s for-profit at $500 billion. </p><p>Before OpenAI and Microsoft <a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-and-openai-announce-the-next-phase-of-their-partnership-035247037.html" data-i13n="cpos:3;pos:1">signed a memorandum of understanding in September</a>, negotiations between the two organizations were <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f5a3dfe4-91bc-401b-8aab-44d5d891fb84&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=reported+to+be+tense&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvbWljcm9zb2Z0LWFuZC1vcGVuYWktd3JhbmdsZS1vdmVyLXRlcm1zLW9mLXRoZWlyLWJsb2NrYnVzdGVyLXBhcnRuZXJzaGlwIiwiY29udGVudFV1aWQiOiJmNWEzZGZlNC05MWJjLTQwMWItOGFhYi00NGQ1ZDg5MWZiODQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnRoZWluZm9ybWF0aW9uLmNvbS9hcnRpY2xlcy9taWNyb3NvZnQtYW5kLW9wZW5haS13cmFuZ2xlLW92ZXItdGVybXMtb2YtdGhlaXItYmxvY2tidXN0ZXItcGFydG5lcnNoaXAifQ&amp;signature=AQAAAd1MoDnSjVelbPYabML25-e77_LDpNoy0Ko9mPZuVqAh&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fmicrosoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership" data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:4;pos:1" data-original-link="https://www.theinformation.com/articles/microsoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership">reported to be tense</a>, with Microsoft showing signs it was drifting away from OpenAI by working more closely with Anthropic to integrate its <a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-adds-claude-models-to-copilot-365-185032970.html" data-i13n="cpos:5;pos:1">Claude models into Copilot 365</a>. Now that there's an agreement in place, it appears both sides made some tough compromises. </p><p>Microsoft, for instance, will continue to hold IP rights to OpenAI's models and products through 2032, with those rights covering systems the company develops after declaring artificial general intelligence. On the subject of AGI, the two companies will hire an independent panel of experts to verify any claim OpenAI makes there, when and if it reaches that milestone.</p><p>However, Microsoft has agreed to waive any IP rights as they relate to OpenAI's upcoming consumer hardware — that is, the devices the company is <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-buys-jony-ives-design-startup-for-65-billion-173356962.html" data-i13n="cpos:6;pos:1">working on with former Apple designer Jony Ive</a>. In exchange, OpenAI has pledged to spend $250 billion on Azure cloud computing services — though Microsoft also agreed it would no longer have a "right of first refusal" to be OpenAI's cloud provider. Notably, Microsoft's blog post makes no mention of the revenue-sharing agreement that was at the center of their investment deal.&nbsp; &nbsp;</p><p>In the end, the most important part of today’s announcement is that it clears the way for OpenAI to become a publicly traded company. Much of the company’s financial future depended on it successfully completing this transition, and now at least it doesn’t have that burden resting on its shoulders.   </p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-completes-corporate-reorganization-with-support-from-microsoft-133109385.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/openai-completes-corporate-reorganization-with-support-from-microsoft-133109385.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">f5a3dfe4-91bc-401b-8aab-44d5d891fb84</guid>
@@ -19,8 +126,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder/>
                                                                 <pubDate>Tue, 28 Oct 2025 14:13:18 +0000</pubDate>
-                    <ingested>1761660799</ingested>
-                    <modified>2025-10-28T14:13:22+00:00</modified>
+                    <ingested>1761661200</ingested>
+                    <modified>2025-10-28T14:20:02+00:00</modified>
                                             <category>
                             <![CDATA[Investment & Company Information]]>
                         </category>
@@ -107,59 +214,6 @@
                                 <media:credit><![CDATA[Reuters / Reuters]]></media:credit>
                                 <media:description><![CDATA[FILE PHOTO: An AMD logo and a computer motherboard appear in this illustration taken August 25, 2025. REUTERS/Dado Ruvic/Illustration/File Photo]]></media:description>
                                 <media:title><![CDATA[FILE PHOTO: Illustration shows AMD logo and computer motherboard]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Amazon cuts its workforce by 14,000 in further embrace of AI]]></title>
-                                        <description type="html"><![CDATA[<p>Amazon has announced an approximately <a data-i13n="cpos:1;pos:1" href="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction">14,000 person reduction</a> in its corporate workforce. The news follows an earlier <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.reuters.com/business/world-at-work/amazon-targets-many-30000-corporate-job-cuts-sources-say-2025-10-27/">report from <em>Reuters</em></a> that up to 30,000 people could be let go. However, the exact number of layoffs is unclear, with the 14,000 figure being cushioned by planned hirings.&nbsp;</p>
-<p><em>Engadget</em> has reached out to Amazon for exact layoff numbers, but <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-10-28/amzn-amazon-to-cut-14-000-jobs-across-corporate-workforce?embedded-checkout=true"><em>Bloomberg</em> reports</a> that impacted jobs are within teams such as video games, logistics, payments and cloud-computing.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>The impetus for this reduction is, of course, AI. In the <a data-i13n="cpos:4;pos:1" href="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction">announcement</a>, Beth Galetti, Amazon&#39;s senior vice president of people experience and technology, states that Amazon is &quot;performing well&quot; but &quot;that the world is changing quickly.&quot;</p>
-<p>Galetti continues: &quot;This generation of AI is the most transformative technology we’ve seen since the Internet, and it&#39;s enabling companies to innovate much faster than ever before (in existing market segments and altogether new ones). We’re convicted that we need to be organized more leanly, with fewer layers and more ownership, to move as quickly as possible for our customers and business.&quot;&nbsp;</p>
-<p>Amazon has executed a series of smaller scale layoffs regularly over the past few years. These layoffs have hit a range of departments, including <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/amazon-is-laying-off-several-hundred-employees-at-prime-video-and-mgm-studios-161307199.html">Prime Video</a>, <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/big-tech-layoffs-183005386.html">Amazon Web Services</a> and <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/big-tech/amazon-to-close-quebec-facilities-but-says-its-not-because-of-that-new-union-185744378.html">newly unionized warehouse workers</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazon-cuts-its-workforce-by-14000-in-further-embrace-of-ai-125548323.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/amazon-cuts-its-workforce-by-14000-in-further-embrace-of-ai-125548323.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">c7061cb4-2ba6-465e-9a65-9704040ac0c6</guid>
-                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 28 Oct 2025 12:55:48 +0000</pubDate>
-                    <ingested>1761656156</ingested>
-                    <modified>2025-10-28T12:55:58+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sarah Fielding]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-03%2Fae61c1f0-c740-11ed-afbf-7073debeb38d&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=ee38d6bea806265d0002af32aaddf731ae4c143a" width="1400" height="1050" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2023-03%2Fae61c1f0-c740-11ed-afbf-7073debeb38d&amp;resize=1400%2C1050&amp;client=19f2b5e49a271b2bde77&amp;signature=c4ce400a62bf49d080d708d2ad814d49b6a8a64f" width="1400" height="1050" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[FinkAvenue via Getty Images]]></media:credit>
-                                <media:description><![CDATA[Munich, Bavaria Germany - December 11 2022: Amazon Deutschland Services GmbH e-commerce german headquarters office building with glass green trademark logo. Ultra HD]]></media:description>
-                                <media:title><![CDATA[Amazon Germany Services GmbH]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -3179,57 +3233,6 @@
                                 <media:credit><![CDATA[Unsplash / Sanket Mishra]]></media:credit>
                                 <media:description><![CDATA[The tool in action.]]></media:description>
                                 <media:title><![CDATA[ChatGPT]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Instagram adds a watch history for Reels]]></title>
-                                        <description type="html"><![CDATA[<p>Instagram&#39;s latest feature should make it easier to resurface videos you&#39;ve viewed. On Friday, Adam Mosseri <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.threads.com/@mosseri/post/DQMcanmgCvL">revealed</a> a new watch history for Reels. &quot;Hopefully, now you can find that thing that you were trying to find that you couldn&#39;t find before,&quot; the Instagram CEO said.</p>
-<p>We could see the feature coming in handy. For example, when you see something interesting but lose it due to an accidental tap or app refresh.</p>
-<span id="end-legacy-contents"></span><p>You can find it on Instagram under <strong>Settings &gt; Your activity &gt; Watch history</strong>. The feature lets you sort by newest to oldest or vice versa. You can also jump to a specific date or date range, and filter by the account that posted it.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/instagram-adds-a-watch-history-for-reels-175555668.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/social-media/instagram-adds-a-watch-history-for-reels-175555668.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">36991fb7-6c97-4ac8-9674-ad54b98b77c9</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 24 Oct 2025 17:55:56 +0000</pubDate>
-                    <ingested>1761328562</ingested>
-                    <modified>2025-10-24T17:56:04+00:00</modified>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F8e6283f0-b101-11f0-967f-8b5ca1afcf43&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=899b44ec07537cedadb3259a0ef02493f8be8c77" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F8e6283f0-b101-11f0-967f-8b5ca1afcf43&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=8800a701c34ebda3c14b713ae02d41fc229090d7" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Meta]]></media:credit>
-                                <media:description><![CDATA[Two Instagram screenshots. Left: activity settings, highlighting the new watch history section. Right: the watch history, showing a grid of videos.]]></media:description>
-                                <media:title><![CDATA[Instagram watch history]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
