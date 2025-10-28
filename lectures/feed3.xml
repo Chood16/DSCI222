@@ -6,11 +6,172 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 28 Oct 2025 16:00:56 +0000</pubDate>
+            <pubDate>Tue, 28 Oct 2025 17:00:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google Chrome will finally default to secure HTTPS connections starting in April]]></title>
+                                        <description type="html"><![CDATA[<p>The transition to the more-secure HTTPS web protocol has plateaued, according to Google. As of 2020, 95 to 99 percent of navigations in Chrome use HTTPS. To help make it safer for users to click on links, Chrome will enable a setting called Always Use Secure Connections for public sites for all users by default. This will happen in October 2026 with the release of Chrome 154.&nbsp;</p><p>The change will happen earlier for those who have switched on Enhanced Safe Browsing protections in Chrome. Google will enable Always Use Secure Connections by default in April when Chrome 147 drops. When this setting is on, Chrome will ask for your permission before it first accesses a public website that doesn&#39;t use HTTPS.&nbsp;</p><p>Google has been moving in this direction for some time. Chrome started <a target="_blank" class="link" href="https://www.engadget.com/2018-07-24-chrome-now-alerts-you-to-unsecure-http-sites.html" data-i13n="cpos:1;pos:1">alerting users</a> to unsecure HTTP websites in 2018 and it began <a target="_blank" class="link" href="https://www.engadget.com/google-chrome-https-first-mode-170051682.html" data-i13n="cpos:2;pos:1">defaulting to HTTPS</a> in April 2021. The following year, it <a target="_blank" class="link" href="https://www.engadget.com/google-chrome-https-first-mode-170051682.html" data-i13n="cpos:3;pos:1">started offering</a> Always Use Secure Connections on an opt-in basis.&nbsp;</p><p>When HTTPS isn&#39;t used, an attacker can reroute the connection with relative ease and target a user with malware, social engineering attacks or other exploits. &quot;Attacks like this are not hypothetical — software to hijack navigations is readily available and attackers have previously used insecure HTTP to compromise user devices in a targeted attack,&quot; the Chrome team wrote in a blog post. &quot;Since attackers only need a single insecure navigation, they don&#39;t need to worry that many sites have adopted HTTPS — any single HTTP navigation may offer a foothold. What&#39;s worse, many plaintext HTTP connections today are entirely invisible to users, as HTTP sites may immediately redirect to HTTPS sites.&quot; Always Use Secure Connections is one of the Chrome team&#39;s attempts to mitigate such risks.</p><p>HTTP connections still persist in navigations to private sites, such as local IP addresses and company intranets. It&#39;s complicated for a private site to obtain an HTTPS certificate (something Engadget has <a target="_blank" class="link" href="https://www.engadget.com/2016-06-10-engadget-moved-to-https-because-we-love-you.html" data-i13n="cpos:4;pos:1">had since 2016</a>, fact fans), because the same private name can point to different hosts on multiple networks. For instance, many router manufacturers use &quot;192.168.0.1&quot; as a local IP address for accessing the hardware&#39;s admin panel. Still, HTTP navigations to private sites are inherently less risky than on the public web. They aren&#39;t entirely safe, but the only vector of attack for HTTP on private sites is from within the local network.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april-170000603.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april-170000603.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">d70547f6-1c30-4ddf-921a-6e028a9b47ce</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 28 Oct 2025 17:00:00 +0000</pubDate>
+                    <ingested>1761670852</ingested>
+                    <modified>2025-10-28T17:00:55+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-01%2F7c270db0-b51c-11ee-877c-ef5ff64e75da&amp;resize=1400%2C852&amp;client=19f2b5e49a271b2bde77&amp;signature=09640b1968b7297a472c0abd4e9d067dc66c4dc5" width="1400" height="852" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-01%2F7c270db0-b51c-11ee-877c-ef5ff64e75da&amp;resize=1400%2C852&amp;client=19f2b5e49a271b2bde77&amp;signature=09640b1968b7297a472c0abd4e9d067dc66c4dc5" width="1400" height="852" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[REUTERS / Reuters]]></media:credit>
+                                <media:description><![CDATA[Google Chrome logo is seen near cyber code and words &quot;spy&quot;  in this illustration picture taken June 18, 2020. REUTERS/Dado Ruvic/Illustration]]></media:description>
+                                <media:title><![CDATA[Google Chrome logo is seen near cyber code and words &quot;spy&quot;  in this illustration picture]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Battlefield 6's free battle royale mode is out now]]></title>
+                                        <description type="html"><![CDATA[<p><em>Battlefield 6&#39;s </em>free battle royale game <a data-i13n="cpos:1;pos:1" href="https://blog.playstation.com/2025/10/28/battlefield-redsec-the-new-free-to-play-battle-royale-launches-today/">is now available for download</a><em>. </em>This follows <a data-i13n="cpos:2;pos:1" href="https://www.pcgamer.com/games/fps/battlefield-6-dataminers-claim-mysterious-granite-files-related-to-this-weeks-patch-could-be-a-shadowdrop-for-its-battle-royale-mode/">numerous leaks</a> that have been popping up ever since the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/gaming/theres-finally-a-trailer-for-battlefield-6-but-no-multiplayer-details-just-yet-170144110.html">mainline game hit store shelves</a> on October 10.</p>
+<p>It&#39;s called <em>Battlefield: Redsec </em>and it&#39;s free for everyone.<em>&nbsp;</em>You don&#39;t need the full-priced game to play. This puts it in direct competition with Call of Duty&#39;s own free-to-play battle royale, <em>Warzone</em>.</p>
+<span id="end-legacy-contents"></span><div id="acfaac5d783a469ab2c98e9784e453f1"><iframe width="560" height="315" src="https://www.youtube.com/embed/rn8k1g3vMDU?si=GBzvyE1CBAUkFqBL" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe></div>
+<p><em>Redsec</em> has a few gameplay modes. There&#39;s the usual battle royale, with a big ole map that allows for up to 48 simultaneous players. This mode offers four gameplay classes, plenty of weapons to choose from and unique objectives that reward players with &quot;powerful items.&quot; The end goal, as always, is to be the last soldier standing.</p>
+<p>There&#39;s also a duo mode that lets two players jump into a battle royale at once. This version is intended for newcomers, so it gives access to a smaller map.</p>
+<p>The Gauntlet mode offers a twist on a traditional battle royale. Eight squads of four players compete &quot;in a series of special operations that push every squad to their limit.&quot; EA says this is perfect for those who like traditional multiplayer FPS games. Users create custom loadouts and completing various objectives awards the team with points.</p>
+<p>Finally, there&#39;s integration with the Battlefield Portal toolset. This lets players design their own experiences. EA gives examples of a battle royale match that just allows access to sledgehammers or one with only headshots. These tools are also free.</p>
+<div id="c966e8d7651a472a8de4b55b5b7d88f0"><iframe width="560" height="315" src="https://www.youtube.com/embed/Umw-SKuh0LY?si=U-mjztsJ7Kq9qWxS" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe></div>
+<p>We don&#39;t know how or if this battle royale will interact with the main game. <em>Warzone</em> typically includes a story that ties into whatever&#39;s going on with Call of Duty&#39;s seasonal content drops. To that end, Season 1 of <em>Battlefield 6</em> also releases on October 28. This update includes new maps, modes, vehicles, guns, attachments and cosmetic items.</p>
+<p><em>Battlefield: Redsec</em> is available on every platform that <em>Battlefield 6</em> is available on, including PS5, PC and Xbox Series X/S. This could end up being a pretty big hit for EA, as the main game managed to sell <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/battlefield-6-sold-over-7-million-copies-in-three-days-181826351.html">7 million copies in three days</a>.</p>
+<p><strong>Update, October 28 2025, 12:40PM ET</strong>: This story has been updated to include new gameplay details.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/battlefield-6s-free-battle-royale-mode-arrives-on-october-28-174419086.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/battlefield-6s-free-battle-royale-mode-arrives-on-october-28-174419086.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">4fa3c243-90ec-47e0-9544-8597c3560ec7</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 28 Oct 2025 16:42:31 +0000</pubDate>
+                    <ingested>1761669759</ingested>
+                    <modified>2025-10-28T16:42:42+00:00</modified>
+                                            <category>
+                            <![CDATA[Video Games]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Ff6b7ec90-b35b-11f0-bfff-1aef0b927f71&amp;resize=1400%2C876&amp;client=19f2b5e49a271b2bde77&amp;signature=69072d7829aeff36982b59551d2df483784b5f54" width="1400" height="876" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Ff6b7ec90-b35b-11f0-bfff-1aef0b927f71&amp;resize=1400%2C876&amp;client=19f2b5e49a271b2bde77&amp;signature=71f620004eb7ded70aa067bdc72d060deae51a3f" width="1400" height="876" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[EA]]></media:credit>
+                                <media:description><![CDATA[A promo image.]]></media:description>
+                                <media:title><![CDATA[Battlefield: RedSec]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Toyota brings Apple Maps EV routing to its newest models]]></title>
+                                        <description type="html"><![CDATA[<p>Toyota battery electric vehicles (BEV) owners can now have Apple Maps help them plan charging stops along their route via CarPlay. Alongside an <a data-i13n="cpos:1;pos:1" href="https://pressroom.toyota.com/2026-toyota-bz-goes-on-sale-with-upgraded-convenience-features-expanded-charging-network-options-for-all-toyota-bev-drivers/"><ins>announcement</ins></a> that the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/transportation/evs/toyota-hopes-for-a-smoother-start-with-its-redesigned-bz-all-electric-suv-182426253.html"><ins>Toyota bZ</ins></a> is now on sale, the automaker says all 2023 and newer battery-electric vehicles can now integrate real-time battery information to help drivers with iPhones find compatible chargers. In the US this would simply mean the bZ4X, which is being replaced by the bZ.&nbsp;</p>
+<p>Apple Maps will take into account factors like battery performance and elevation changes when estimating battery percentages on arrival and charging times.</p>
+<span id="end-legacy-contents"></span><p>CarPlay is Apple&#39;s in-car infotainment system offering maps, music, calendar tools, Siri and more. While it&#39;s currently compatible with <a data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=01c2463b-3d6e-4b62-b271-3c29c4071129&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=over+800&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vaW9zL2NhcnBsYXkvYXZhaWxhYmxlLW1vZGVscy8iLCJjb250ZW50VXVpZCI6IjAxYzI0NjNiLTNkNmUtNGI2Mi1iMjcxLTNjMjljNDA3MTEyOSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYXBwbGUuY29tL2lvcy9jYXJwbGF5L2F2YWlsYWJsZS1tb2RlbHMvIn0&amp;signature=AQAAAWbBDebOyrOFBV6i4jIC-HPHt73ZDVoqKEf04bd5OHdM&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fios%2Fcarplay%2Favailable-models%2F" class="rapid-with-clickid" data-original-link="https://www.apple.com/ios/carplay/available-models/"><ins>over 800</ins></a> car models, EV-charger routing requires access to the car&#39;s battery info, which means automakers must work with Apple to enable the feature.</p>
+<p>The integration&#39;s rollout remains pretty limited, and before today&#39;s announcement the only compatible vehicles were the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/apple-maps-ev-routing-is-now-available-for-the-ford-mustang-mach-e-202957037.html"><ins>Ford Mustang Mach-E</ins></a>, the F-150 Lightning and the <a data-i13n="cpos:5;pos:1" href="https://www.porsche.com/usa/apple-maps-ev-routing/"><ins>Porsche Taycan</ins></a>.</p>
+<p>Toyota also said the 2026 bZ will have access to the Tesla Supercharger network, opening up more than 25,000 charging locations for the new model. The bZ features the <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/tesla-has-won-the-ev-charging-wars-155726724.html"><ins>NACS charging standard</ins></a>, first created by Tesla before being open-sourced for the entire industry.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/toyota-brings-apple-maps-ev-routing-to-its-newest-models-164103063.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/transportation/evs/toyota-brings-apple-maps-ev-routing-to-its-newest-models-164103063.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">01c2463b-3d6e-4b62-b271-3c29c4071129</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 28 Oct 2025 16:41:03 +0000</pubDate>
+                    <ingested>1761669671</ingested>
+                    <modified>2025-10-28T16:41:13+00:00</modified>
+                                            <category>
+                            <![CDATA[Autos]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Transportation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2Fad797720-3024-11f0-adf7-e7cb9aace3cc&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=039c0db74435505f44c4cc3b158594d72ac082b4" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-05%2Fad797720-3024-11f0-adf7-e7cb9aace3cc&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=d5994b58ce559dc74c179cef456f6e2ddca8bd99" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Toyota]]></media:credit>
+                                <media:description><![CDATA[The new 2026 Toyota bZ]]></media:description>
+                                <media:title><![CDATA[Toyota bZ 2026]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Year Walk, Device 6 and other early Simogo games are coming to Steam and Nintendo consoles]]></title>
-                                        <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/9h3XuGRPwpU?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>Simogo is celebrating its 15th anniversary with some retrospective projects, which include bringing its games to more platforms. The studio has put together the <a target="_blank" class="link" href="https://simogo.com/work/simogolegacycollection/" data-i13n="cpos:1;pos:1"><em>Simogo Legacy Collection</em></a><em> </em>for <a target="_blank" class="link" href="https://store.steampowered.com/app/3817040/Simogo_Legacy_Collection/" data-i13n="cpos:2;pos:1">Steam</a>, Nintendo Switch and Switch 2. This includes all seven of the mobile games that the developer released between 2010 and 2015, including <a target="_blank" class="link" href="https://www.engadget.com/2014-02-14-year-walks-eerie-swedish-scares-creep-onto-steam-march-6.html" data-i13n="cpos:3;pos:1"><em>Year Walk</em></a><em> </em>and <a target="_blank" class="link" href="https://www.engadget.com/2014-01-02-joystiq-top-10-of-2013-device-6-2001.html" data-i13n="cpos:4;pos:1"><em>Device 6</em></a>. The collection will be available on December 2  — the 15th anniversary of the release of Simogo’s first game, <em>Kosmo Spin — </em>and it costs $15.</p><p>Co-founder Simon Flesser noted that the studio&#39;s mobile games were in &quot;constant danger of disappearing or ending up being unplayable.&quot; (<em>Year Walk </em>was <a target="_blank" class="link" href="https://www.engadget.com/2015-07-15-year-walk-wii-u-port.html" data-i13n="cpos:5;pos:1">ported to Wii U</a> but we all know what happened with that console.) The idea behind <em>Simogo Legacy Collection </em>is to preserve them and “keep the experience as close as possible to the original games,&quot; Flesser said. As such, the team has made as few changes as possible while still making sure the games work on PC and Nintendo’s consoles.</p><p>You can use touchscreen controls on Switch and Switch 2 to play the games as they were originally intended. Simogo has also added support for mice, controllers, motion controls and, on Switch 2, dual mouse controls. The bundle includes a bunch of extras too, such as <a target="_blank" class="link" href="https://www.engadget.com/2015-09-04-year-walk-free-scary-stories-ebook.html" data-i13n="cpos:6;pos:1">an ebook of <em>Year Walk </em>side stories</a>, a podcast for <em>The Sailor’s Dream</em>, additional music, playable prototypes of the games and more.</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/-3KAFjba92s?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>That’s not all, though. Simogo is working on Switch 2 versions of its two most recent games, <a target="_blank" class="link" href="https://www.engadget.com/lorelei-and-the-laser-eyes-preview-this-may-be-my-goty-140030011.html" data-i13n="cpos:7;pos:1"><em>Lorelei and the Laser Eyes</em></a><em> </em>and <a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/an-enhanced-version-of-sayonara-wild-hearts-for-ps5-is-out-now-174752837.html" data-i13n="cpos:8;pos:1">Sayonara Wild Hearts</a>. Expect those to arrive in early 2026. The studio is also bringing <em>Sayonara Wild Hearts </em>back to iOS as a paid app next year. That was a <a target="_blank" class="link" href="https://www.engadget.com/2019-09-11-sayonara-wild-hearts-switch-ps4-release-date-apple-arcade.html" data-i13n="cpos:9;pos:1">launch game for Apple Arcade</a> in 2019, but it left the service in 2024. I’m very much looking forward to having my favorite game available on a device I carry with me everywhere again, even though it’s available on PC and consoles as well.</p><p>As well as those projects, the studio has teamed up with Lost in Cult to create a coffee table book about the history of Simogo. <a target="_blank" class="link" href="https://www.lostincult.co.uk/simogo" data-i13n="cpos:10;pos:1"><em>Heartbeats, Dreams and Laser Eyes: 15 years of Simogo</em></a> is a softback book with around 250 pages. A deluxe edition with a semi-translucent wrap, a bookmark, commemorative stamp set and (for the first 300 units) a signed bookplate will be available too.  Pre-orders open today and the book is expected to ship in late 2026.</p><p></p><p></p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/year-walk-device-6-and-other-early-simogo-games-are-coming-to-steam-and-nintendo-consoles-160056076.html?src=rss]]></description>
+                                        <description type="html"><![CDATA[<div><iframe src="https://www.youtube.com/embed/9h3XuGRPwpU?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no"></iframe></div><p>Simogo is celebrating its 15th anniversary with some retrospective projects, which include bringing its games to more platforms. The studio has put together the <a target="_blank" class="link" href="https://simogo.com/work/simogolegacycollection/" data-i13n="slk:Simogo Legacy Collection;cpos:1;pos:1"><em>Simogo Legacy Collection</em></a><em> </em>for <a target="_blank" class="link" href="https://store.steampowered.com/app/3817040/Simogo_Legacy_Collection/" data-i13n="slk:Steam;cpos:2;pos:1">Steam</a>, Nintendo Switch and Switch 2. This includes all seven of the mobile games that the developer released between 2010 and 2015, including <a target="_blank" class="link" href="https://www.engadget.com/2014-02-14-year-walks-eerie-swedish-scares-creep-onto-steam-march-6.html" data-i13n="slk:Year Walk;cpos:3;pos:1"><em>Year Walk</em></a><em> </em>and <a target="_blank" class="link" href="https://www.engadget.com/2014-01-02-joystiq-top-10-of-2013-device-6-2001.html" data-i13n="slk:Device 6;cpos:4;pos:1"><em>Device 6</em></a>. The collection will be available on December 2 — the 15th anniversary of the release of Simogo’s first game, <em>Kosmo Spin — </em>and it costs $15.</p><p>Co-founder Simon Flesser noted that the studio&#39;s mobile games were in &quot;constant danger of disappearing or ending up being unplayable.&quot; (<em>Year Walk </em>was <a target="_blank" class="link" href="https://www.engadget.com/2015-07-15-year-walk-wii-u-port.html" data-i13n="slk:ported to Wii U;cpos:5;pos:1">ported to Wii U</a> but we all know what happened with that console.) The idea behind <em>Simogo Legacy Collection </em>is to preserve them and “keep the experience as close as possible to the original games,&quot; Flesser said. As such, the team has made as few changes as possible while still making sure the games work on PC and Nintendo’s consoles.</p><p>You can use touchscreen controls on Switch and Switch 2 to play the games as they were originally intended. Simogo has also added support for mice, controllers, motion controls and, on Switch 2, dual mouse controls. The bundle includes a bunch of extras too, such as <a target="_blank" class="link" href="https://www.engadget.com/2015-09-04-year-walk-free-scary-stories-ebook.html" data-i13n="slk:an ebook of Year Walk side stories;cpos:6;pos:1">an ebook of <em>Year Walk </em>side stories</a>, a podcast for <em>The Sailor’s Dream</em>, additional music, playable prototypes of the games and more.</p><div><iframe src="https://www.youtube.com/embed/-3KAFjba92s?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no"></iframe></div><p>That’s not all, though. Simogo is working on Switch 2 versions of its two most recent games, <a target="_blank" class="link" href="https://www.engadget.com/lorelei-and-the-laser-eyes-preview-this-may-be-my-goty-140030011.html" data-i13n="slk:Lorelei and the Laser Eyes;cpos:7;pos:1"><em>Lorelei and the Laser Eyes</em></a><em> </em>and<em> </em><a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/an-enhanced-version-of-sayonara-wild-hearts-for-ps5-is-out-now-174752837.html" data-i13n="slk:Sayonara Wild Hearts;cpos:8;pos:1"><em>Sayonara Wild Hearts</em></a>. Expect those to arrive in early 2026. The studio is also bringing <em>Sayonara Wild Hearts </em>back to iOS as a paid app next year. That was a <a target="_blank" class="link" href="https://www.engadget.com/2019-09-11-sayonara-wild-hearts-switch-ps4-release-date-apple-arcade.html" data-i13n="slk:launch game for Apple Arcade;cpos:9;pos:1">launch game for Apple Arcade</a> in 2019, but it left the service in 2024. I’m very much looking forward to having my favorite game available on a device I carry with me everywhere again, even though it’s available on PC and consoles as well.</p><p>As well as those projects, the studio has teamed up with Lost in Cult to create a coffee table book about the history of Simogo. <a target="_blank" class="link" href="https://www.lostincult.co.uk/simogo" data-i13n="slk:Heartbeats, Dreams and Laser Eyes: 15 years of Simogo;cpos:10;pos:1"><em>Heartbeats, Dreams and Laser Eyes: 15 years of Simogo</em></a> is a softback book with around 250 pages. A deluxe edition with a semi-translucent wrap, a bookmark, commemorative stamp set and (for the first 300 units) a signed bookplate will be available too. Pre-orders open today and the book is expected to ship in late 2026.</p><p></p><p></p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/year-walk-device-6-and-other-early-simogo-games-are-coming-to-steam-and-nintendo-consoles-160056076.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/year-walk-device-6-and-other-early-simogo-games-are-coming-to-steam-and-nintendo-consoles-160056076.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">345acbb0-f5c8-49aa-996f-2b5966949762</guid>
@@ -19,8 +180,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder/>
                                                                 <pubDate>Tue, 28 Oct 2025 16:00:56 +0000</pubDate>
-                    <ingested>1761667262</ingested>
-                    <modified>2025-10-28T16:01:07+00:00</modified>
+                    <ingested>1761670096</ingested>
+                    <modified>2025-10-28T16:48:18+00:00</modified>
                                             <category>
                             <![CDATA[Arts & Entertainment]]>
                         </category>
@@ -1498,64 +1659,6 @@
                                 <media:credit><![CDATA[HP]]></media:credit>
                                 <media:description><![CDATA[Google Beam teleconferencing system]]></media:description>
                                 <media:title><![CDATA[Google Beam teleconferencing system]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Battlefield 6's free battle royale mode arrives on October 28]]></title>
-                                        <description type="html"><![CDATA[<p><em>Battlefield 6 </em>is getting a <a data-i13n="cpos:1;pos:1" href="https://x.com/Battlefield/status/1982824837849760155?"><ins>free battle royale mode on October 28</ins></a>. This follows <a data-i13n="cpos:2;pos:1" href="https://www.pcgamer.com/games/fps/battlefield-6-dataminers-claim-mysterious-granite-files-related-to-this-weeks-patch-could-be-a-shadowdrop-for-its-battle-royale-mode/"><ins>numerous leaks</ins></a> that have been popping up ever since the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/gaming/theres-finally-a-trailer-for-battlefield-6-but-no-multiplayer-details-just-yet-170144110.html"><ins>mainline game hit store shelves</ins></a> on October 10.</p>
-<p>It&#39;s called <em>Battlefield: RedSec</em>, though we don&#39;t have too many gameplay details. It&#39;s free for everyone and you don&#39;t need the full-priced game to play. That much we do know. This puts it in direct competition with Call of Duty&#39;s own free-to-play battle royale, <em>Warzone</em>.</p>
-<span id="end-legacy-contents"></span><div id="492f35661f7c4133b82180e30ce7d91f"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eyes up.<br>Plates on.<a href="https://twitter.com/hashtag/REDSEC?src=hash&amp;ref_src=twsrc%5Etfw">#REDSEC</a> arrives tomorrow at 8:00 PT / 15:00 UTC 🔴<br><br>🔔 set reminder: <a href="https://t.co/xuRd1LETVr">https://t.co/xuRd1LETVr</a> <a href="https://t.co/Lpi7sufuay">pic.twitter.com/Lpi7sufuay</a></p>— Battlefield (@Battlefield) <a href="https://twitter.com/Battlefield/status/1982824837849760155?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote>
- 
-
-</div>
-<p>We can assume some gameplay elements, as it&#39;s a battle royale. It&#39;ll likely feature players heading to a large map and battling one another until the last person is left standing. You know the drill. EA dropped a short teaser that seems to show four different classes of soldier to choose from.</p>
-<p>We don&#39;t know how or if this battle royale will interact with the main game. <em>Warzone</em> typically includes a story that ties into whatever&#39;s going on with Call of Duty&#39;s seasonal content drops. To that end, Season 1 of <em>Battlefield 6</em> also releases on October 28. This update includes new maps, modes, vehicles, guns, attachments and cosmetic items.</p>
-<div id="c966e8d7651a472a8de4b55b5b7d88f0"><iframe width="560" height="315" src="https://www.youtube.com/embed/Umw-SKuh0LY?si=U-mjztsJ7Kq9qWxS" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p><em>Battlefield: RedSec</em> will be available for download on various gaming platforms at 11AM ET. This could end up being a pretty big hit for EA, as the main game managed to sell <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/battlefield-6-sold-over-7-million-copies-in-three-days-181826351.html"><ins>7 million copies in three days</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/battlefield-6s-free-battle-royale-mode-arrives-on-october-28-174419086.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/battlefield-6s-free-battle-royale-mode-arrives-on-october-28-174419086.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">4fa3c243-90ec-47e0-9544-8597c3560ec7</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 27 Oct 2025 17:44:19 +0000</pubDate>
-                    <ingested>1761587065</ingested>
-                    <modified>2025-10-27T17:44:26+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Ff6b7ec90-b35b-11f0-bfff-1aef0b927f71&amp;resize=1400%2C876&amp;client=19f2b5e49a271b2bde77&amp;signature=69072d7829aeff36982b59551d2df483784b5f54" width="1400" height="876" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Ff6b7ec90-b35b-11f0-bfff-1aef0b927f71&amp;resize=1400%2C876&amp;client=19f2b5e49a271b2bde77&amp;signature=71f620004eb7ded70aa067bdc72d060deae51a3f" width="1400" height="876" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[EA]]></media:credit>
-                                <media:description><![CDATA[A promo image.]]></media:description>
-                                <media:title><![CDATA[Battlefield: RedSec]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -3130,161 +3233,6 @@
                                 <media:credit><![CDATA[iFixit]]></media:credit>
                                 <media:description><![CDATA[Someone using a iFixit removal tool to lift up the M5 MacBook Pro's battery.]]></media:description>
                                 <media:title><![CDATA[iFixit M5 MBP battery removal]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[How to cancel your Spotify subscription]]></title>
-                                        <description type="html"><![CDATA[<p>Spotify recently <a data-i13n="cpos:1;pos:1" href="https://www.avclub.com/spotify-stands-by-ice-recruitment-ads">came under fire</a> for running recruitment ads for ICE, which ask users to &quot;join the mission to protect America&quot; and to &quot;fulfill [their] mission,&quot; in the US. Despite music labels calling on the streaming service to stop serving ICE recruitment ads, Spotify doubled down. A spokesperson for the company told <a data-i13n="elm:affiliate_link;sellerN:The Independent;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=9b10ec1f-8e62-4410-8957-c54f7db63bfc&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=ddc4d161-c193-4ff7-b214-cebb6c5121a0&amp;featureId=text-link&amp;merchantName=The+Independent&amp;linkText=The+Independent&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3dvcmxkL2FtZXJpY2FzL3VzLXBvbGl0aWNzL2ljZS1yZWNydWl0bWVudC1hZHMtc3BvdGlmeS1zdHJlYW1pbmctYjI4NDY2MzQuaHRtbCIsImNvbnRlbnRVdWlkIjoiZGRjNGQxNjEtYzE5My00ZmY3LWIyMTQtY2ViYjZjNTEyMWEwIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3dvcmxkL2FtZXJpY2FzL3VzLXBvbGl0aWNzL2ljZS1yZWNydWl0bWVudC1hZHMtc3BvdGlmeS1zdHJlYW1pbmctYjI4NDY2MzQuaHRtbCJ9&amp;signature=AQAAATqU-9ErkCyATqpLVa9x7ETZ3ozNJFxiVmg2MLnA2eeA&amp;gcReferrer=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fus-politics%2Fice-recruitment-ads-spotify-streaming-b2846634.html" class="rapid-with-clickid" data-original-link="https://www.independent.co.uk/news/world/americas/us-politics/ice-recruitment-ads-spotify-streaming-b2846634.html"><em>The Independent</em></a> that the ads are &quot;part of a broad campaign&quot; by the US government running across different channels and that they do not violate its policies. The spokesperson advised users to just mark ads with a thumbs up or down so that the app can learn their preferences.&nbsp;</p>
-<p>In addition, several artists have <a data-i13n="cpos:3;pos:1" href="https://www.rollingstone.com/music/music-features/artists-left-spotify-ceo-daniel-ek-military-tech-1235425098/">pulled their music</a> from Spotify recently over its CEO&#39;s, Daniel EK&#39;s, investments in European defense tech firm Helsing. The defense company builds drones, aircraft and submarines, and it also sells AI software that can analyze sensor and weapons data from battlefields. Spotify has been facing backlash for its <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/entertainment/music/spotify-tries-to-defend-its-artist-payout-rates-120021659.html">payout rates</a>, which artists argue are unfair and lower than what other services pay, over the past few years as well.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>So if you want to <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/apps/how-to-find-and-cancel-your-unused-subscriptions-130036314.html">cancel</a> Spotify, whether for any those reasons or another one altogether, you can follow the instructions below.&nbsp;</p>
-<h2 id="jump-link-how-to-cancel-via-web">How to cancel via web:</h2>
-<p></p>
-<p>1. Log into your Spotify account in your browser.&nbsp;</p>
-<p>2. Go to Account in the dropdown menu that shows up when you click on your Profile.&nbsp;</p>
-<p>3. Find Cancel Subscription under the Subscription section.&nbsp;</p>
-<p>4. Spotify will tell you that you&#39;ll hear ads every 15 minutes on a free account, along with the date when your premium access will end. Click &quot;Continue to cancel&quot; at the bottom of the screen.&nbsp;</p>
-<p>If you&#39;re on mobile, make sure to request the desktop site after you log into your account on your mobile browser. Take note that if you&#39;re part of a Spotify Family or Duo plan, only the plan manager will be able to cancel your subscription altogether. If you follow the same steps above as a member, you&#39;ll only remove your account from the plan, but the manager will continue paying for it.&nbsp;</p>
-<h2 id="jump-link-how-to-cancel-via-third-party-provider">How to cancel via third-party provider:</h2>
-<p>If you pay for your subscription through third-party providers, you can follow these instructions instead.</p>
-<h3 id="jump-link-cancel-via-google">Cancel via Google</h3>
-<p>1. Fire up the Google Play app and tap on the icon for the account you use.&nbsp;</p>
-<p>2. Go to Payments &amp; subscriptions.&nbsp;</p>
-<p>3. Tap on Subscriptions.&nbsp;</p>
-<p>4. Find Spotify among your subscriptions and tap on it.&nbsp;</p>
-<p>5. Tap on Cancel Subscription at the bottom of the screen, select a reason for cancellation and confirm it.&nbsp;</p>
-<h3 id="jump-link-cancel-via-apple">Cancel via Apple</h3>
-<p>1. Go to Settings in your iPhone or iPad.&nbsp;</p>
-<p>2. Tap on your name and go to Subscriptions.&nbsp;</p>
-<p>3. Find Spotify and go through the cancellation process.&nbsp;</p>
-<h3 id="jump-link-cancel-via-carrier">Cancel via carrier</h3>
-<p>Instructions for this may vary, depending on your carrier. Generally, however, you can follow these steps.&nbsp;</p>
-<p>1. Log into your carrier account on its website.&nbsp;</p>
-<p>2. Find the option to manage your subscriptions under your account.&nbsp;</p>
-<p>3. Find Spotify and go through the cancellation process.&nbsp;</p>
-<h2 id="jump-link-what-happens-after-you-cancel">What happens after you cancel</h2>
-<p>You&#39;ll still have access to Spotify&#39;s premium features until your next billing cycle begins. That means you still won&#39;t encounter ads and will have access to offline downloads, as well as unlimited skips and higher audio quality. You&#39;ll be able to access your Spotify library even with a free account, but if you want to find another streaming service to pay for, you can check Engadget&#39;s list of <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/entertainment/music/best-music-streaming-service-130046189.html">best music streaming services in 2025</a>.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/apps/how-to-cancel-your-spotify-subscription-133022215.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/apps/how-to-cancel-your-spotify-subscription-133022215.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ddc4d161-c193-4ff7-b214-cebb6c5121a0</guid>
-                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sat, 25 Oct 2025 13:30:22 +0000</pubDate>
-                    <ingested>1761397396</ingested>
-                    <modified>2025-10-25T13:03:27+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Mariella Moon]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F59b996a0-b18f-11f0-a9bf-8f5d1e90d2ca&amp;resize=1400%2C915&amp;client=19f2b5e49a271b2bde77&amp;signature=d30937a9d972ce40c15a80c5c4da22453771548a" width="1400" height="915" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F59b996a0-b18f-11f0-a9bf-8f5d1e90d2ca&amp;resize=1400%2C915&amp;client=19f2b5e49a271b2bde77&amp;signature=31cf9c4ad003c908e728a35eef44dbf36a0963a5" width="1400" height="915" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Anadolu via Getty Images]]></media:credit>
-                                <media:description><![CDATA[ANKARA, TURKIYE - OCTOBER 24: In this photo illustration the logo of Spotify is being displayed on a mobile phone screen in front of computer screen displaying the logos of Spotify in Ankara, Turkiye on October 24, 2025. (Photo by Muhammed Selim Korkutata/Anadolu via Getty Images)]]></media:description>
-                                <media:title><![CDATA[Spotify]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[How to unpair your Apple Watch from your iPhone]]></title>
-                                        <description type="html"><![CDATA[<p>If you’re moving on to a new <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/wearables/best-apple-watch-160005462.html">Apple Watch</a>, selling your current one or fixing some software hiccups, you’ll probably need to disconnect it from your iPhone. Apple calls this unpairing; it’s the step that wipes your watch, breaks the connection to your phone and removes Activation Lock so the next person can use it. The good news is that unpairing is straightforward whether you have your iPhone nearby or not. Here’s how it works, along with why you might want to disconnect your watch in the first place.</p>
-<h2 id="jump-link-how-to-disconnect-apple-watch-using-your-iphone">How to disconnect Apple Watch using your iPhone</h2>
-<p>The simplest way to unpair your Apple Watch is through your iPhone.</p>
-<span id="end-legacy-contents"></span><ol>
-<li><p>Keep your iPhone and Apple Watch close together.</p></li>
-<li><p>Open the Apple Watch app on your iPhone.</p></li>
-<li><p>Navigate to the <strong>My Watch</strong> tab, then <strong>All Watches</strong> at the top.</p></li>
-<li><p>Tap the info button next to the watch you want to disconnect.</p></li>
-<li><p>Select <strong>Unpair Apple Watch</strong>, then select <strong>Unpair</strong> [your Apple Watch name].</p></li>
-<li><p>If you have a cellular model, choose whether to keep or remove your cellular plan. Remove it if you’re selling or giving away the watch. Keep it if you plan to pair it again later</p></li>
-<li><p>Enter your Apple Account password when asked to turn off Activation Lock, then select <strong>Unpair</strong>.</p></li>
-</ol>
-<p>Your iPhone will create a backup before erasing the watch. When you set up a new Apple Watch, you can choose to restore from that backup and carry on with your data and settings intact.</p>
-<h2 id="jump-link-how-to-disconnect-apple-watch-without-your-iphone">How to disconnect Apple Watch without your iPhone</h2>
-<p>If you don’t have your paired iPhone with you, you can still reset your Apple Watch directly. This will wipe your data, but won’t create a backup and Activation Lock will remain, so keep that in mind if you want to save your information.</p>
-<ul>
-<li><p>On your Apple Watch, open <strong>Settings</strong>.</p></li>
-<li><p>Select General, then scroll down and select <strong>Reset</strong>.</p></li>
-<li><p>Select <strong>Erase All Content and Settings</strong>.</p></li>
-<li><p>Enter your passcode if prompted.</p></li>
-<li><p>For cellular models, choose whether to keep or remove your plan.</p></li>
-</ul>
-<p>Your watch will erase itself and restart as if it were brand new.</p>
-<h2 id="jump-link-why-you-should-disconnect-your-apple-watch">Why you should disconnect your Apple Watch</h2>
-<p>There are a few reasons you might want to unpair your Apple Watch. Maybe you’re upgrading to a new model and need to start fresh. Maybe you’re trading it in, selling it or handing it down to someone else. You might also need to disconnect your watch if you’re troubleshooting. Sometimes a clean reset is the easiest way to fix syncing issues, missed notifications or fitness data that isn’t updating.</p>
-<p>Whatever the reason, unpairing keeps your data safe, makes sure a backup is stored and disables Activation Lock. That last step is important because if you skip it, the next owner won’t be able to use the watch.</p>
-<h2 id="jump-link-what-happens-to-your-data-when-you-disconnect-your-apple-watch">What happens to your data when you disconnect your Apple Watch?</h2>
-<p>When you unpair your Apple Watch using your iPhone, the watch creates a backup that includes app data, settings and most health and fitness information. This backup is stored on your iPhone and will transfer to iCloud if you have backups turned on. That makes it easy to restore everything on a new watch.</p>
-<p>If you reset from the watch without your iPhone, a backup is not created. Your data will be erased and the watch will be wiped clean, but Activation Lock remains.</p>
-<p>Activation Lock is tied to your Apple Account and helps keep your watch secure if it’s lost or stolen. It turns on automatically when you pair your watch with your iPhone. That’s why unpairing isn’t the same as a simple reset. You need the Apple Account and password associated with the watch to turn off Activation Lock.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/how-to-unpair-your-apple-watch-from-your-iphone-120052222.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/how-to-unpair-your-apple-watch-from-your-iphone-120052222.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">123e0adf-050a-4194-a0d9-c68ca63104b2</guid>
-                                                                                        <dc:creator><![CDATA[Georgie Peru]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sat, 25 Oct 2025 12:00:52 +0000</pubDate>
-                    <ingested>1761317058</ingested>
-                    <modified>2025-10-24T14:44:21+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Georgie Peru]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fd9f62150-8da2-11f0-9eff-ea5a229f6050&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=036023e0e220e8b099ec165c6ed90754aa8d7aee" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2Fd9f62150-8da2-11f0-9eff-ea5a229f6050&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ceb1bb5f32188d10f5188b00dd32d3d317e2256c" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Apple]]></media:credit>
-                                <media:description><![CDATA[Apple Watch Series 11]]></media:description>
-                                <media:title><![CDATA[Apple Watch Series 11]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
