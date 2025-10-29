@@ -6,9 +6,66 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Fri, 29 Aug 2025 12:00:56 +0000</pubDate>
+            <pubDate>Wed, 29 Oct 2025 16:46:35 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google and Amazon's Israeli cloud contracts reportedly require them to sidestep legal orders]]></title>
+                                        <description type="html"><![CDATA[<p>Chalk this one up under &quot;The most clever (alleged) legal sidesteps this side of Tony Soprano.&quot; On Wednesday, <em>The Guardian</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code">published a report</a> about a so-called &quot;winking mechanism&quot; regarding Israeli cloud computing contracts with Amazon and Google. The stipulation from 2021&#39;s Project Nimbus is said to require the US companies to send coded messages to Israel. According to the report, whenever Google or Amazon secretly complies with an overseas legal request for Israeli data, they&#39;re required to send money to Israel. The dollar amount indicates which country issued the request.</p>
+<p>The coding system reportedly involves country dialing prefixes. For example, if Google or Amazon hand over Israeli data to the US (dialing code +1), they would send Israel 1,000 shekels. For Italy (code +39), they would send 3,900 shekels. (Out of morbid curiosity, I discovered that the highest dialing code is Uzbekistan&#39;s +998.) There&#39;s reportedly even a failsafe: If a gag order prevents the companies from using the standard signal, they can notify Israel by sending 100,000 shekels.</p>
+<span id="end-legacy-contents"></span><p><em>The Guardian</em> says Microsoft, which bid for the Nimbus contract, lost out in part because it refused to accept some of Israel&#39;s terms.</p>
+<p>In a statement to Engadget, an Amazon spokesperson highlighted customer privacy. &quot;We respect the privacy of our customers, and we do not discuss our relationship without their consent, or have visibility into their workloads,&quot; they wrote.</p>
+<p>The Amazon spokesperson denied that the company has any underhanded workarounds in place. &quot;We have a rigorous global process for responding to lawful and binding orders for requests related to customer data,&quot; they said. &quot;[Amazon Web Services] carefully reviews each request to assess any non-disclosure obligations, and we maintain confidentiality in accordance with applicable laws and regulations. While AWS does not disclose customer information in response to government demands unless we&#39;re absolutely required to do so, we recognize the legitimate needs of law enforcement agencies to investigate serious crimes. We do not have any processes in place to circumvent our confidentiality obligations on lawfully binding orders.&quot;</p>
+<p>Google also denied any wrongdoing. &quot;The accusations in this reporting are false, and imply that we somehow were involved in illegal activity, which is absurd,&quot; a company spokesperson said. &quot;As is common in public sector agreements, an RFP does not reflect a final contract. The idea that we would evade our legal obligations to the US government as a US company, or in any other country, is categorically wrong.&quot;</p>
+<p>&quot;We&#39;ve been very clear about the Nimbus contract, what it&#39;s directed to, and the Terms of Service and Acceptable Use Policy that govern it,&quot; the Google spokesperson continued. &quot;Nothing has changed. This appears to be yet another attempt to falsely imply otherwise.&quot;</p>
+<p>We also reached out to the Israeli government for a statement, and we&#39;ll update this story if we hear back. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"><em>The Guardian&#39;</em>s full report</a> has much more detail on the alleged leak.</p>
+<p><strong>Update, October 29, 2025, 6:29 PM ET:</strong> This story has been updated to add a statement from a Google spokesperson.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-and-amazons-israeli-cloud-contracts-reportedly-require-them-to-sidestep-legal-orders-164635805.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/google-and-amazons-israeli-cloud-contracts-reportedly-require-them-to-sidestep-legal-orders-164635805.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">0d3ea838-c4bc-4234-86b3-5e3eb61a1311</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 29 Oct 2025 22:29:31 +0000</pubDate>
+                    <ingested>1761776977</ingested>
+                    <modified>2025-10-29T22:29:40+00:00</modified>
+                                            <category>
+                            <![CDATA[Company Legal & Law Matters]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fcc0e11f0-b4e5-11f0-a7be-04fcaaa1f299&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=fba695ca883bcdca52ccb18275d248d4933d800f" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fcc0e11f0-b4e5-11f0-a7be-04fcaaa1f299&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=3c7eb4001ab8ac084b9b93c7869d92193bb65d7b" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Levi Meir Clancy / Unsplash]]></media:credit>
+                                <media:description><![CDATA[Flag of the State of Israel next to a mosque in Jerusalem.]]></media:description>
+                                <media:title><![CDATA[Israeli flag]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best VPN deals: 88 percent discounts on ProtonVPN, ExpressVPN, Surfshark and more]]></title>
                                         <description type="html"><![CDATA[<p>A <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">virtual private network (VPN)</a> is useful in several ways — a good one can stream foreign TV shows and events, save you from giving up information to hackers and keep you anonymous to protect against online tracking. Although we strongly recommend using a VPN, a bit of comparison shopping goes a long way in this market. VPN pricing can be opaque, and providers don't always portray their best deals accurately.</p>
 <p>Even so, there are genuinely great bargains on the table. VPN providers give out deep discounts to customers who sign up for a year or more at a time. This lets them boost their subscriber numbers, but it's a win for you as well — while you pay out more upfront, if you divide the cost by the months of service, it's significantly cheaper over time.</p>
@@ -716,63 +773,6 @@
                                 <media:credit><![CDATA[Magic Leap]]></media:credit>
                                 <media:description><![CDATA[Magic Leap&#39;s Android XR prototype]]></media:description>
                                 <media:title><![CDATA[Magic Leap&#39;s Android XR prototype]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Google and Amazon's Israeli cloud contracts reportedly require them to sidestep legal orders]]></title>
-                                        <description type="html"><![CDATA[<p>Chalk this one up under &quot;The most clever (alleged) legal sidesteps this side of Tony Soprano.&quot; On Wednesday, <em>The Guardian</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code">published a report</a> about a so-called &quot;winking mechanism&quot; regarding Israeli cloud computing contracts with Amazon and Google. The stipulation from 2021&#39;s Project Nimbus is said to require the US companies to send coded messages to Israel. According to the report, whenever Google or Amazon secretly complies with an overseas legal request for Israeli data, they&#39;re required to send money to Israel. The dollar amount indicates which country issued the request.</p>
-<p>The coding system reportedly involves country dialing prefixes. For example, if Google or Amazon hand over Israeli data to the US (dialing code +1), they would send Israel 1,000 shekels. For Italy (code +39), they would send 3,900 shekels. (Out of morbid curiosity, I discovered that the highest dialing code is Uzbekistan&#39;s +998.) There&#39;s reportedly even a failsafe: If a gag order prevents the companies from using the standard signal, they can notify Israel by sending 100,000 shekels.</p>
-<span id="end-legacy-contents"></span><p><em>The Guardian</em> says Microsoft, which bid for the Nimbus contract, lost out in part because it refused to accept some of Israel&#39;s terms.</p>
-<p>In a statement to Engadget, an Amazon spokesperson highlighted customer privacy. &quot;We respect the privacy of our customers, and we do not discuss our relationship without their consent, or have visibility into their workloads,&quot; they wrote.</p>
-<p>The Amazon spokesperson denied that the company has any underhanded workarounds in place. &quot;We have a rigorous global process for responding to lawful and binding orders for requests related to customer data,&quot; they said. &quot;[Amazon Web Services] carefully reviews each request to assess any non-disclosure obligations, and we maintain confidentiality in accordance with applicable laws and regulations. While AWS does not disclose customer information in response to government demands unless we&#39;re absolutely required to do so, we recognize the legitimate needs of law enforcement agencies to investigate serious crimes. We do not have any processes in place to circumvent our confidentiality obligations on lawfully binding orders.&quot;</p>
-<p>We also reached out to Google and the Israeli government for statements, and we&#39;ll update this story if we hear back. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"><em>The Guardian&#39;</em>s full report</a> has much more detail on the alleged leak.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-and-amazons-israeli-cloud-contracts-reportedly-require-them-to-sidestep-legal-orders-164635805.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/google-and-amazons-israeli-cloud-contracts-reportedly-require-them-to-sidestep-legal-orders-164635805.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">0d3ea838-c4bc-4234-86b3-5e3eb61a1311</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 29 Oct 2025 16:46:35 +0000</pubDate>
-                    <ingested>1761756449</ingested>
-                    <modified>2025-10-29T16:47:31+00:00</modified>
-                                            <category>
-                            <![CDATA[Politics & Government]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Company Legal & Law Matters]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fcc0e11f0-b4e5-11f0-a7be-04fcaaa1f299&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=fba695ca883bcdca52ccb18275d248d4933d800f" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Fcc0e11f0-b4e5-11f0-a7be-04fcaaa1f299&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=3c7eb4001ab8ac084b9b93c7869d92193bb65d7b" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Levi Meir Clancy / Unsplash]]></media:credit>
-                                <media:description><![CDATA[Flag of the State of Israel next to a mosque in Jerusalem.]]></media:description>
-                                <media:title><![CDATA[Israeli flag]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
