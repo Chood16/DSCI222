@@ -6,9 +6,156 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 04 Nov 2025 19:27:05 +0000</pubDate>
+            <pubDate>Tue, 04 Nov 2025 21:54:45 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Amazon and Perplexity are fighting over the future of AI shopping]]></title>
+                                        <description type="html"><![CDATA[<p>Amazon has sent a cease-and-desist letter to Perplexity that demands that the AI startup prevents its <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexitys-comet-ai-browser-is-now-free-for-everyone-170017509.html" data-i13n="cpos:1;pos:1">Comet browser</a> from making purchases on Amazon, <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases?embedded-checkout=true" data-i13n="cpos:2;pos:1"><em>Bloomberg</em> reports</a>. In <a target="_blank" class="link" href="https://www.perplexity.ai/hub/blog/bullying-is-not-innovation" data-i13n="cpos:3;pos:1">a blog post</a> responding to Amazon&#39;s letter, Perplexity claims Amazon is &quot;bullying&quot; the company and that its demands pose &quot;a threat to all internet users.&quot;</p><p>In Amazon&#39;s eyes, Comet&#39;s agent violates its terms of service, degrades the Amazon shopping experience and introduces privacy vulnerabilities, <em>Bloomberg</em> writes. Amazon&#39;s <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=582a48d8-5ef0-42ba-88c5-d99dfa6c3ad1&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=%22Conditions+of+Use%22&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL2hlbHAvY3VzdG9tZXIvZGlzcGxheS5odG1sLz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiI1ODJhNDhkOC01ZWYwLTQyYmEtODhjNS1kOTlkZmE2YzNhZDEiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vZ3AvaGVscC9jdXN0b21lci9kaXNwbGF5Lmh0bWwvIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAdXzR9LnoY6aCBqJ0rqaaIPtdp4SlYObK36aMkbVABr1&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2F" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1" data-original-link="https://www.amazon.com/gp/help/customer/display.html/?nodeId=GLSBYFE9MGKKQXXM">&quot;Conditions of Use&quot;</a> for <a target="_blank" class="link" href="http://Amazon.com" data-i13n="cpos:5;pos:1"></a><a target="_blank" class="link">Amazon.com</a> specifically prohibit &quot;any downloading, copying, or other use of account information for the benefit of any third party&quot; and &quot;any use of data mining, robots, or similar data gathering and extraction tools.&quot; Depending on your definition, the agentic capabilities Perplexity offers through Comet could violate both clauses. The browser securely stores log-in credentials for websites locally, and uses them to make purchases for customers on Amazon with a simple command.&nbsp;</p><p>Perplexity and Amazon agreed to pause agentic shopping on Amazon in November 2024, according to the report, but when Comet was released, Perplexity allowed it again. By representing the Comet agent as a Chrome browser user rather than a bot, the company allegedly tried to get around the agreement, until Amazon found out and sent its cease-and-desist letter.&nbsp;</p><p>Amazon posted <a target="_blank" class="link" href="https://www.aboutamazon.com/news/company-news/amazon-perplexity-comet-statement" data-i13n="cpos:6;pos:1">the statement</a> below on its blog, openly acknowledging the issues it has with Perplexity: </p><blockquote><p>We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions whether or not to participate. This helps ensure a positive customer experience and it is how others operate, including food delivery apps and the restaurants they take orders for, delivery service apps and the stores they shop from, and online travel agencies and the airlines they book tickets with for customers. Agentic third-party applications such as Perplexity’s Comet have the same obligations, and we’ve repeatedly requested that Perplexity remove Amazon from the Comet experience, particularly in light of the significantly degraded shopping and customer service experience it provides.</p></blockquote><p>Complicating Amazon’s claims, Perplexity might be a future shopping rival. Amazon demoed its own AI shopping agent called <a target="_blank" class="link" href="https://www.engadget.com/ai/amazons-buy-for-me-ai-will-purchase-stuff-from-third-party-websites-123036361.html" data-i13n="slk:&#x00201c;Buy for Me&#x00201d;;cpos:7;pos:1">“Buy for Me”</a> in April 2025. But Perplexity also disagrees with the fundamentals of Amazon&#39;s argument. &quot;User agents are exactly that: agents of the user,&quot; Perplexity says. &quot;They&#39;re distinct from crawlers, scrapers, or bots.&quot; Perplexity believes the Comet agent shouldn&#39;t run afoul of Amazon&#39;s terms and conditions then because it acts on the users&#39; behalf, with the users&#39; permission.&nbsp;</p><p>This isn&#39;t the first time Perplexity has been accused of misrepresenting its AI tools to access content. In August, <a target="_blank" class="link" href="https://www.engadget.com/ai/perplexity-is-allegedly-scraping-websites-its-not-supposed-to-again-211110756.html" data-i13n="cpos:8;pos:1">Cloudflare claimed</a> that the company&#39;s bots were accessing blocked websites by pretending to be a normal Chrome browser user on macOS. Reddit <a target="_blank" class="link" href="https://www.engadget.com/social-media/reddit-sues-perplexity-and-three-other-companies-for-allegedly-using-its-content-without-paying-205136436.html" data-i13n="cpos:9;pos:1">also sued Perplexity</a> and three other companies earlier this month for accessing Reddit posts without paying for a license.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/amazon-and-perplexity-are-fighting-over-the-future-of-ai-shopping-215445479.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/amazon-and-perplexity-are-fighting-over-the-future-of-ai-shopping-215445479.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">582a48d8-5ef0-42ba-88c5-d99dfa6c3ad1</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 04 Nov 2025 21:54:45 +0000</pubDate>
+                    <ingested>1762293297</ingested>
+                    <modified>2025-11-04T21:55:00+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F897ad630-b1d3-11f0-9bf3-6148019d4e33&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=70f6f7b579b8c4d858fb5f0d6aab9aecf5fd5e96" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F897ad630-b1d3-11f0-9bf3-6148019d4e33&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=70f6f7b579b8c4d858fb5f0d6aab9aecf5fd5e96" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[FILE - The Amazon logo is pictured at the Amazon Robotic Sorting Fulfillment Center in Madison County, Miss., Aug. 11, 2022. (AP Photo/Rogelio V. Solis, File)]]></media:description>
+                                <media:title><![CDATA[Amazon Web Outage]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Stellantis recalls more than 375,000 Jeep hybrid SUVs for fire risk]]></title>
+                                        <description type="html"><![CDATA[<p>In a case of deja vu, Stellantis is once again <a target="_blank" class="link" href="https://electrek.co/2025/11/04/jeep-recalling-375000-wrangler-grand-cherokee-4xe-phevs/" data-i13n="cpos:1;pos:1">recalling</a> two models of its Jeep brand plug-in hybrid SUVs. The company has recalled at least 320,000 of its Jeep Grand Cherokee 4xe and Jeep Wrangler 4xe cars in the US over concerns of fire risks while driving and while parked. Stellantis is also recalling 20,753 of the Jeep vehicles in Canada, 2,653 in Mexico, and 32,238 outside of North America. A <a target="_blank" class="link" href="https://media.stellantisnorthamerica.com/newsrelease.do?id=27207&amp;mid=" data-i13n="cpos:2;pos:1">statement</a> from Stellantis said an internal investigation discovered 19 fires. </p><p>Jeep also <a target="_blank" class="link" href="https://www.engadget.com/transportation/jeep-recalls-194000-plug-in-hybrids-due-to-fire-risks-150059282.html" data-i13n="cpos:3;pos:1">recalled</a> these same two 4xe models in October 2024. The issue then and now was with the EV batteries produced by Samsung SDI. Stellantis has been unable to address the fire risks with software updates and is expected to notify drivers when a remedy for the issue is ready. Until then, the owners of Grand Cherokee 4xe models from 2022 to 2026 and Wrangler 4xe models from 2020 to 2025 are being encouraged to park outside away from buildings and not to plug in their vehicles. So basically these cars are relegated to being very large sculptures until Stellanis can fix the battery problems. </p>This article originally appeared on Engadget at https://www.engadget.com/stellantis-recalls-more-than-375000-jeep-hybrid-suvs-for-fire-risk-215341226.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/stellantis-recalls-more-than-375000-jeep-hybrid-suvs-for-fire-risk-215341226.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">2ca6d8a0-40c1-4cac-8111-026795f7973d</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 04 Nov 2025 21:53:41 +0000</pubDate>
+                    <ingested>1762293227</ingested>
+                    <modified>2025-11-04T21:53:50+00:00</modified>
+                                            <category>
+                            <![CDATA[Autos]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Transportation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeep-grand-cherokee-4xe.jpg&amp;resize=1400%2C823&amp;client=19f2b5e49a271b2bde77&amp;signature=00df5747f9bbfe1c197126a656a9bf894739def7" width="1400" height="823" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeep-grand-cherokee-4xe.jpg&amp;resize=1400%2C823&amp;client=19f2b5e49a271b2bde77&amp;signature=00df5747f9bbfe1c197126a656a9bf894739def7" width="1400" height="823" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Jeep]]></media:credit>
+                                <media:description><![CDATA[Blue Jeep Grand Cherokee 4xe splashes through dirty water with green trees in the background.]]></media:description>
+                                <media:title><![CDATA[Jeep Grand Cherokee 4xe]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Reddit will be included in Australia's looming under-16 social media ban]]></title>
+                                        <description type="html"><![CDATA[<p>Reddit won&#39;t escape Australia&#39;s child social media ban. <em>The Guardian</em> <a target="_blank" class="link" href="https://www.theguardian.com/australia-news/2025/nov/04/reddit-included-australia-under-16-social-media-ban" data-i13n="cpos:1;pos:1">reports</a> that Communications Minister Anika Wells announced Reddit&#39;s addition on Wednesday. The nation&#39;s law, which <a target="_blank" class="link" href="https://www.engadget.com/big-tech/australia-is-one-step-away-from-banning-social-media-for-under-16s-160454882.html" data-i13n="cpos:2;pos:1">blocks children under 16 from major social media sites</a>, is scheduled to go into effect on December 10.</p><p>Alongside Reddit, Wells said Australian streaming site Kick would also be included. They join the previously announced Facebook, X, Snapchat, TikTok, YouTube and Instagram. Australia considers the list to be a starting point for the ban and won&#39;t rule out adding more. Other companies under consideration are Discord, Twitch, GitHub and Roblox.</p><p>YouTube was initially excluded because it was considered an educational tool. But after <a target="_blank" class="link" href="https://www.engadget.com/big-tech/meta-tiktok-argue-youtube-should-be-included-in-australias-under-16-social-media-ban-160220248.html" data-i13n="cpos:3;pos:1">protests from other companies</a> on the list, <a target="_blank" class="link" href="https://www.engadget.com/big-tech/meta-tiktok-argue-youtube-should-be-included-in-australias-under-16-social-media-ban-160220248.html" data-i13n="cpos:4;pos:1">Australia ultimately added it</a>.</p><p>The ban passed in late 2024. The legislation puts the onus on the platforms, rather than parents, to police underage use. Companies that don&#39;t take reasonable steps to prevent under-16 users from accessing their platforms can face penalties of up to AU$49.5 million (around $32 million).</p><p>&quot;There&#39;s a time and place for social media in Australia, but there&#39;s not a place for predatory algorithms, harmful content and toxic popularity [meters] manipulating Australian children,&quot; Wells said. &quot;Online platforms can target children with chilling control. We are mandating they use that sophisticated technology to protect them.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/reddit-will-be-included-in-australias-looming-under-16-social-media-ban-213052856.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/reddit-will-be-included-in-australias-looming-under-16-social-media-ban-213052856.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">66bd83d5-5382-48ac-8db4-d6cd7584f3df</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Tue, 04 Nov 2025 21:30:52 +0000</pubDate>
+                    <ingested>1762291872</ingested>
+                    <modified>2025-11-04T21:31:14+00:00</modified>
+                                            <category>
+                            <![CDATA[Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Social & Online Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Freddit.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=f569816d0d8526ec40858fae7e7ce90407963d3a" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Freddit.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=f569816d0d8526ec40858fae7e7ce90407963d3a" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Brett Jordan / Unsplash]]></media:credit>
+                                <media:description><![CDATA[Closeup of a Reddit mobile app icon.]]></media:description>
+                                <media:title><![CDATA[Reddit]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Google Maps is adding live lane guidance for the Polestar 4]]></title>
                                         <description type="html"><![CDATA[<p>Google <a data-i13n="cpos:1;pos:1" href="https://blog.google/products/maps/polestar-live-lane-guidance/">is bringing</a> live lane guidance to Google Maps in cars with the company’s <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/transportation/google-gemini-will-arrive-in-gm-cars-starting-next-year-181249237.html">built-in</a> infotainment system, starting with the<a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/polestar-4-first-look-when-no-rear-window-makes-for-a-better-car-150052884.html"> Polestar 4</a>. Using the vehicle&#39;s front-facing camera, Google Maps will be able to &quot;see&quot; the road just as the driver does. It will then create more detailed depictions of which lane a driver should be in and guide them using visual and audio cues.</p>
 <p>Google says the new feature uses AI to analyze lane markings and road signs, which it then integrates in real time with Google Maps&#39; navigation system. Google paints a picture of fewer missed exits, as its navigation system reminds drivers in the left lane that their exit is coming up on the right side of the highway.</p>
@@ -3152,299 +3299,6 @@
                                 <media:credit><![CDATA[Dyson]]></media:credit>
                                 <media:description><![CDATA[A vacuum.]]></media:description>
                                 <media:title><![CDATA[Dyson V8]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The best tech gifts and gadgets for 2025]]></title>
-                                        <description type="html"><![CDATA[<p>Engadget staffers spend the entire year poking, prodding and otherwise testing the latest tech gadgets. So we’ve got a pretty good handle on what’s unique and interesting right now. We put together this list for anyone looking for a good gift for that tech-obsessed person on their gift list. Some of these are devices we’ve tested for our reviews and guides, others are items we bought for ourselves (or wish someone would buy for us). We’ve got more than 35 picks here, from nearly every member of the Engadget team. Chances are, you’ll find a good gift or two for every tech nerd you know. Here are our favorite tech gifts and gadgets for 2025.</p> 
-<h2 id="jump-link-best-tech-gifts-and-gadgets">Best tech gifts and gadgets</h2> 
-<p>
- <core-commerce id="95fa7ffc61734de8a43f88bd339b5dd5" data-type="product-list" data-original-url="https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ/?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="820160ddf2ff46399f53fdb8272f6465" data-type="product-list" data-original-url="https://www.amazon.com/DJI-Three-Battery-QuickShots-Stabilized-Controller-Free/dp/B07FTPX71F/ref=sr_1_2?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="5ef4a575ff4a4876b1ef7c738c0b181c" data-type="product-list" data-original-url="https://www.amazon.com/Tamagotchi-43421-Paradise-Pink-Land/dp/B0F2QB96LL/"></core-commerce></p> 
-<p>
- <core-commerce id="2d992913378d480bbbc0b8f2e38fe3d4" data-type="product-list" data-original-url="https://www.amazon.com/Anker-Portable-Multi-Device-Charging-Retractable/dp/B0DCBB2YTR"></core-commerce></p> 
-<p>
- <core-commerce id="4eafe1901ed94325949469f7675fd6a7" data-type="product-list" data-original-url="https://www.amazon.com/LEGO-Transistors-Compartment-Integration-10334/dp/B0D738JLYR/"></core-commerce></p> 
-<p>
- <core-commerce id="f9630920c5b94d9fb23c07a2d5c9b690" data-type="product-list" data-original-url="https://www.amazon.com/CarlinKit-Wireless-CarPlay-Android-Adapter/dp/B0CYZQJ37J/"></core-commerce></p> 
-<p>
- <core-commerce id="467e9ba9c8c44fed8f2dc074365ec422" data-type="product-list" data-original-url="https://www.amazon.com/BONAOK-Microphone-Portable-Bluetooth-Smartphone/dp/B08LYL3MRY/"></core-commerce></p> 
-<p>
- <core-commerce id="5cb133fa2d914023b0357bb3c481e1d7" data-type="product-list" data-original-url="https://www.amazon.com/Hidrate-Spark-Smart-Straw-Bottle/dp/B0FJ8RQCS1/"></core-commerce></p> 
-<p>
- <core-commerce id="178118ed6adf4af5b9306c90328ff9cf" data-type="product-list" data-original-url="https://www.amazon.com/FUJIFILM-Half-Premium-Compact-Camera/dp/B0F8WWHLZM/"></core-commerce></p> 
-<p>
- <core-commerce id="b74900ffa77c4f8b86c3afe00c7bbb3c" data-type="product-list" data-original-url="https://www.amazon.com/Fujifilm-Instax-Link-Wide-Printer/dp/B09GXMRPV8"></core-commerce></p> 
-<p>
- <core-commerce id="d75c3ad3f04844fc878fabc512208366" data-type="product-list" data-original-url="https://www.amazon.com/medicube-Booster-Beauty-Massager-Looking/dp/B0CWK6YQ7V/?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="cb42008c1e184712b8afbe9b0884fc57" data-type="product-list" data-original-url="https://pura.com/products/device"></core-commerce></p> 
-<p>
- <core-commerce id="913d04c2f9a84a94b88b1d340b64af01" data-type="product-list" data-original-url="https://supernote.com/products/supernote-nomad?variant=44112947380460"></core-commerce></p> 
-<p>
- <core-commerce id="a78b26be3ba84fd493d1709521416c63" data-type="product-list" data-original-url="https://www.amazon.com/Sennheiser-HD-Over-Audiophile-Headphones/dp/B08J9MVB6W/"></core-commerce></p> 
-<p>
- <core-commerce id="7e490c4c24e042d3a71bfbd6fe391d05" data-type="product-list"></core-commerce></p> 
-<p>
- <core-commerce id="83d825b3632e40709e4e731b04ba8919" data-type="product-list" data-original-url="https://www.sonos.com/en-us/shop/era-300"></core-commerce></p> 
-<p>
- <core-commerce id="e3007512eb3742b1ac4bb63ef744dcd2" data-type="product-list" data-original-url="https://www.amazon.com/Keychron-Wireless-Mechanical-Programmable-Bluetooth/dp/B0CRDKPY6M?ref_=ast_sto_dp&amp;th=1&amp;psc=1"></core-commerce></p> 
-<p>
- <core-commerce id="560a6f8cf4d9416da6a725ad9a37709d" data-type="product-list" data-original-url="https://www.amazon.com/AKAI-Professional-Workstation-Synthesizer-Touchscreen/dp/B0CSYYJF3P?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="4d4e8475a10744919d9b5287655b5440" data-type="product-list" data-original-url="https://www.amazon.com/Keeley-Workstation-Analog-Multi-effects-Pedal/dp/B01LFD29EK"></core-commerce></p> 
-<p><em>Check out the rest of our </em><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gifts/"><em>gift ideas</em></a><em> here.</em></p> <span id="end-legacy-contents"></span>This article originally appeared on Engadget at https://www.engadget.com/computing/the-best-tech-gifts-and-gadgets-for-2025-140052015.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/the-best-tech-gifts-and-gadgets-for-2025-140052015.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">50def0bc-316b-465e-845b-9469941205a6</guid>
-                                                                                        <dc:creator><![CDATA[Engadget]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 03 Nov 2025 13:00:38 +0000</pubDate>
-                    <ingested>1762174849</ingested>
-                    <modified>2025-11-03T13:00:54+00:00</modified>
-                                            <category>
-                            <![CDATA[Shopping]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Hobbies & Personal Activities]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Personal Finance - Lifestyle]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Engadget]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F90e13610-adc0-11f0-9ffb-6c8745ea0ff9&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=4fd05b11a42c7420f034788078d35374dc74a9cc" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F90e13610-adc0-11f0-9ffb-6c8745ea0ff9&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=9cd080661dbba2b30e4fcb0249f3c26a9a64c64a" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[The best tech gifts and gadgets]]></media:description>
-                                <media:title><![CDATA[The best tech gifts and gadgets]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple Vision Pro M5 review: A better beta is still a beta]]></title>
-                                        <description type="html"><![CDATA[<p>Everything new about the revamped Apple Vision Pro can fit in a single sentence: It has a far faster and more efficient M5 chip, it comes with a more comfortable Dual Knit Band and its display looks slightly sharper and faster. Beyond that, the Vision Pro is still basically a $3,500 developer kit that really isn&#39;t meant for consumers.&nbsp;</p>
-<p>Still, the Vision Pro fascinates me. It&#39;s a bold swing from a company that&#39;s become increasingly risk-averse over the last decade. And now that we have its first refresh, it&#39;s clear that Apple isn&#39;t ready to give up on the concept of spatial computing yet. For the niche audience of mixed reality developers and hardcore Apple fanatics who haven&#39;t already picked up a Vision Pro, the new model is more compelling than the original with its aging M2 chip. If you&#39;ve already got one, though, you can just pick up the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=5ad9e4b1-65e8-4b11-a51e-6c3186acda70&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=Dual+Knit+Band+for+%2499&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vc2hvcC9wcm9kdWN0L2R1YWwta25pdC1iYW5kLXNhL2FwcGxlLXZpc2lvbi1wcm8tZHVhbC1rbml0LWJhbmQiLCJjb250ZW50VXVpZCI6IjVhZDllNGIxLTY1ZTgtNGIxMS1hNTFlLTZjMzE4NmFjZGE3MCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYXBwbGUuY29tL3Nob3AvcHJvZHVjdC9kdWFsLWtuaXQtYmFuZC1zYS9hcHBsZS12aXNpb24tcHJvLWR1YWwta25pdC1iYW5kIn0&amp;signature=AQAAAatXLhWkT1GK1bWHRGa5lltRpO1vTF9LdMS9aOaerVyv&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2Fdual-knit-band-sa%2Fapple-vision-pro-dual-knit-band" data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:1;pos:1" data-original-link="https://www.apple.com/shop/product/dual-knit-band-sa/apple-vision-pro-dual-knit-band">Dual Knit Band for $99</a> to get a more comfortable fit.</p>
-<p>
- <core-commerce data-type="product-list" id="222e35b8-14a4-479b-8dec-4a56478e0bf8" data-original-url="https://www.apple.com/shop/buy-vision/apple-vision-pro"></core-commerce></p>
-<h2 id="9a596f23-8acb-4f9a-a7e3-3f7c84694ddf">What&#39;s the point of the M5 Apple Vision Pro?</h2>
-<p>While the Vision Pro launched with a huge splash in 2023, it was released early last year with the 2022-era M2 chip. Now that we&#39;re three generations beyond that Apple silicon, it&#39;s high time it received an upgrade. With the M5 chip, the Vision Pro is up to 50 percent faster at rendering your Persona avatar and creating spatial scenes from photos, according to Apple. Both of those experiences were noticeably faster during my testing, but they also never felt too sluggish on the original Vision Pro.</p>
-<p>As I mentioned above, having new hardware is a sign that Apple hasn&#39;t completely forgotten about the Vision Pro. It&#39;s not being almost immediately ignored like the original HomePod. Instead, this new model aims to fix some of the biggest annoyances from the first. The Dual Knit Band alone makes the Vision Pro feel more comfortable, since it relies on a rear and top strap to balance the device on your head. The original Solo Knit Band only had a rear strap, which clamped the Vision Pro on your head and left much of its weight resting on your forehead and nose.&nbsp;</p><core-slideshow data-slideshowid="9161f2d1-792b-42c3-a500-a6068c8636d4"/>
-<p>While the original Vision Pro also included a Dual Loop Band in the box, that was rarely featured in the marketing for the Vision Pro, likely because it made the device appear to be more like a traditional VR headset. The new Dual Knit Band almost feels like an apology for Apple&#39;s previous bands — it&#39;s as if the company is admitting that it was more concerned with how the Vision Pro appeared in ads, instead of choosing a more comfortable default head strap.&nbsp;</p>
-<p>In addition to making the headset feel easier to wear, the Dual Knit Band is also ingeniously simple to adjust. Twisting its small tightening knob adjusts the horizontal straps, and then you just have to pop that knob out to customize the over-head straps. That&#39;s a major upgrade over most VR headsets, which typically rely on velcro to tighten straps over your head.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-3.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-3.jpg" style="height:2394px;width:4032px;" alt="Apple Vision Pro M5 adjustment knob." data-uuid="ff9a78af-d721-4d4c-bffa-b1e12457de3e" data-display-size="large">
- <figcaption>
-  Apple Vision Pro M5 adjustment knob.
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<p>Aside from the Dual Knit Band, the Vision Pro sports the exact same design as the original model, so I&#39;d <a target="_blank" class="link" href="https://www.engadget.com/apple-vision-pro-review-beta-testing-the-future-201430272.html" data-i13n="cpos:2;pos:1">recommend reading my initial review</a> for more hardware specifics. &quot;In typical Apple fashion, the Vision Pro looks far more handsome than any VR headset I&#39;ve seen,&quot; I wrote last year. &quot;That mostly comes down to materials: Whereas the competition is almost entirely made of plastic cases, Apple&#39;s device is built out of smooth glass, polished metal and designer fabrics.&quot;</p>
-<p>While the new Vision Pro is using the same micro OLED displays as before, the headset can render 10 percent more pixels thanks to the M5 chip. I couldn&#39;t really see a difference when I swapped between the two headsets, but that&#39;s to be expected with a small resolution bump. What&#39;s more important is that the M5 Vision Pro still has some of the most impressive screens I&#39;ve ever seen. It can scale up 4K video into enormous 300-inch windows while still looking sharp, and it&#39;s easy to read text in the browser, or while working on a virtual Mac display.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-6.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-6.jpg" style="height:1080px;width:1920px;" alt="MacBook Mirroring on Apple Vision Pro M5" data-uuid="f42265d3-6eed-4f0d-8e64-8071ac478102" data-display-size="xlarge">
- <figcaption>
-  MacBook Mirroring on Apple Vision Pro M5
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<p>The M5 chip also allows the Vision Pro to reach up to a 120Hz refresh rate, instead of being limited to refresh rates between 90Hz and 100Hz. Again, I didn&#39;t see a huge difference with the new model, but theoretically the higher refresh rate should allow for smoother performance while scrolling through windows and documents. It also means the Vision Pro can run games at up to 120 fps, which could be helpful if you&#39;re trying to play <em>Overwatch </em>over GeForce Now streaming.</p>
-<p>In addition to being more powerful than the M2, the M5 chip is also more efficient. I was able to use the new Vision Pro for more than two and a half hours while swapping between videos, visionOS apps and Macbook mirroring. The same workflow typically drained the original model&#39;s battery in around two hours.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-7.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-7.jpg" style="height:2017px;width:3088px;" alt="Apple Vision Pro M5" data-uuid="3b47062e-dac2-40fa-bba2-5c395d06c50f" data-display-size="large">
- <figcaption>
-  Apple Vision Pro M5
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<h2 id="8118a52c-a413-4345-b1f0-147cbd55cef8">How has the Vision Pro ecosystem changed over the last year?</h2>
-<p>It&#39;s not too often Apple has to build an entirely new operating system with fresh input mechanisms, but that&#39;s basically what we got with visionOS. Its interface hovers in front of you, like a holographic iPad home screen. And instead of a keyboard and mouse, you interact with it mainly using finger gestures and eye tracking. I found visionOS to be surprisingly easy to use on the original Vision Pro -- flicking through floating windows quickly made me feel like Tom Cruise in <em>Minority Report </em>-- and it&#39;s only gotten more refined over time.</p>
-<p>For one, Apple added <a target="_blank" class="link" href="https://www.engadget.com/apple-brings-spatial-persona-avatars-to-vision-pro-to-help-you-feel-less-alone-144824140.html" data-i13n="cpos:3;pos:1">Spatial Personas</a>, which are virtual avatars that can float around your space during FaceTime calls with other Vision Pro users. That feature <a target="_blank" class="link" href="https://www.engadget.com/apple-vision-pro-two-months-later-a-telepresence-dream-181550906.html" data-i13n="cpos:4;pos:1">made the headset feel like a &quot;telepresence dream&quot;</a> when I first tested it out, and it&#39;s only gotten better with visionOS 26, which has more realistic Spatial Personas. During several group FaceTime calls, I felt like I was sitting beside people in the real world, even though I was just looking at rendered faces, shoulders and hands floating in the air. The sense of true presence was uncanny: Spatial Personas can walk freely around your room, and with the flick of a button you can also collaborate together on documents, view 3D models or watch videos together in virtual space.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-2.jpg" style="height:2278px;width:3744px;" alt="Apple Vision Pro M5 viewed from the side." data-uuid="776f6c67-109e-4f34-956f-d7ecc70902d9" data-display-size="large">
- <figcaption>
-  Apple Vision Pro M5 viewed from the side.
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<p></p>
-<p>Apple&#39;s Immersive Videos — 8K 3D 180-degree footage shot using its custom cameras — were one of the highlights of the original Vision Pro, and they still look great on the new model. I was most impressed by &quot;Hill Climb,&quot; an episode of the <em>Adventure</em> series focused on Laura Hayes, a driver attempting to make a new record racing to the top of Pikes Peak. Expansive overhead shots (which feel incredibly life-like in 3D) did a fine job of showing the scale of her drive, and footage from beside and inside her car delivered a thrilling sense of speed.&nbsp;</p>
-<p>All of the Immersive Videos I&#39;ve seen are miles ahead of the blurry, low-res 360-degree VR footage we&#39;ve been seeing for years. Apple&#39;s 8K 3D content is more focused on trying to recreate reality right in front of you. Looking ahead, the company also plans to <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/apple-is-bringing-live-nba-games-to-the-vision-pro-in-2026-184941594.html" data-i13n="cpos:5;pos:1">broadcast live NBA games in Immersive Video</a> and <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/apple-is-bringing-live-nba-games-to-the-vision-pro-in-2026-184941594.html" data-i13n="cpos:6;pos:1">more Vision Pro content is coming from Red Bull, CNN, BBC and others</a>.</p>
-<p>Speaking of immersive content, Apple also <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/apples-visionos-26-brings-eye-scrolling-and-support-for-ps-vr2-controllers-180651833.html" data-i13n="cpos:7;pos:1">added support for the PS VR2 Sense controllers</a> in visionOS 26, which gives Vision Pro the ability to support true VR experiences. When I tried the <a target="_blank" class="link" href="https://www.engadget.com/marvels-what-if-for-apple-vision-pro-looks-incredible-but-plays-terribly-143028639.html" data-i13n="cpos:8;pos:1"><em>What If?... </em>Vision Pro experience last year</a>, it was clear that hand gestures weren’t precise enough to handle VR gaming. I’ve only been able to try the PS VR2 controllers in the <a target="_blank" class="link" href="https://www.resolutiongames.com/picklepro" data-i13n="cpos:9;pos:1">pickleball game <em>Pickle Pro</em></a>, but they were instantly impressive, allowing me to realistically angle and swing my paddle.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-4.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Vision_Pro_M5-4.jpg" style="height:2742px;width:4032px;" alt="Apple Vision Pro M5 lenses." data-uuid="a6e4d950-5832-4505-beb8-39bd8f2842c5" data-display-size="large">
- <figcaption>
-  Apple Vision Pro M5 lenses.
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<h2 id="a910f1c0-7258-45df-963f-32c6ffd76b6b">Wrap-up: Still very much a beta</h2>
-<p>I’m astounded by the Vision Pro every time I put it on. The displays look fantastic, and they’re versatile enough to handle everything from watching movies, immersing myself in 3D content and diving into productivity work by mirroring my MacBook Pro. But, when I take off the headset, reality sets in. It’s still wildly expensive at $3,499, and there isn’t nearly enough spatial computing content to make that price worth it.&nbsp;</p>
-<p>Once again, the Vision Pro feels like a proof of concept — a symbol of what Apple can do when it’s not constrained by traditional screens. But the company’s dream of spatial computing won’t go anywhere until it can deliver cheaper devices. As I’ve argued, <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/whats-next-for-vision-pro-apple-should-take-a-cue-from-xreals-smart-glasses-113000437.html" data-i13n="cpos:10;pos:1">Apple should just take a cue from Xreal</a> and shove visionOS into a pair of display glasses. That would allow the company to produce a much more accessible device, and it would also put Apple in a better position to compete with <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/samsungs-galaxy-xr-doesnt-give-me-much-hope-for-android-xr-110000129.html" data-i13n="cpos:11;pos:1">Android XR hardware like Samsung’s $1,800 Galaxy XR</a>.</p>
-<p>Until Apple can open up visionOS to more users, it will still be just beta testing the future.&nbsp;</p>
-<p>&nbsp;</p>
-<p><br><br></p>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/ar-vr/apple-vision-pro-m5-review-a-better-beta-is-still-a-beta-130000284.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ar-vr/apple-vision-pro-m5-review-a-better-beta-is-still-a-beta-130000284.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">5ad9e4b1-65e8-4b11-a51e-6c3186acda70</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Mon, 03 Nov 2025 13:00:00 +0000</pubDate>
-                    <ingested>1762174843</ingested>
-                    <modified>2025-11-03T13:00:49+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FVision_Pro_M5-1.jpg&amp;resize=1400%2C864&amp;client=19f2b5e49a271b2bde77&amp;signature=58a887742fdf405a03ec5200e38a8d6de2949d23" width="1400" height="864" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FVision_Pro_M5-1.jpg&amp;resize=1400%2C864&amp;client=19f2b5e49a271b2bde77&amp;signature=58a887742fdf405a03ec5200e38a8d6de2949d23" width="1400" height="864" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[Apple Vision Pro M5]]></media:description>
-                                <media:title><![CDATA[Apple Vision Pro M5]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Our favorite advent calendars for 2025: The top picks from Pokémon, Lego, Magna-Tiles, Funko Pop and more]]></title>
-                                        <description type="html"><![CDATA[<p>Advent calendars aren’t just about chocolate anymore. Recent years have shown that the countdown to Christmas Day can be packed with fun surprises. Whether you’re into building Lego sets, adding more minifigures to your collection or curiously intrigued by scientific experiments, advent calendars can fill that desire (and they make for great gifts, too). Each door hides a new surprise that brings a bit of joy, nostalgia or nerdy fun to the holiday season.</p> 
-<h2 id="jump-link-best-advent-calendars-for-2025">Best advent calendars for 2025</h2> 
-<p>
- <core-commerce id="8f1336c655c241bb98b7e5d7c136640e" data-type="product-list" data-original-url="https://www.amazon.com/Pok%C3%A9mon-10-10032-106-TCG-Holiday-Calendar/dp/B0FC6Z4LCC"></core-commerce></p> 
-<p>
- <core-commerce id="f6575be73a3e485ea44bafa39bf824a3" data-type="product-list" data-original-url="https://www.amazon.com/LEGO-TBD-Star-Wars-75418/dp/B0DRW5JT6L"></core-commerce></p> 
-<p>
- <core-commerce id="49ac5f90a9df4eca99d1d6f5851bc958" data-type="product-list" data-original-url="https://www.amazon.com/Clue-Advent-Calendar-Snowfall-Winter-Themed/dp/B0DN32L3BC"></core-commerce></p> 
-<p>
- <core-commerce id="52057a77c14649ef8f0f0bb4fd47160b" data-type="product-list" data-original-url="https://www.amazon.com/EXIT-Calendar-Intergalactic-Christmas-Traditon/dp/B0DSCM42VK"></core-commerce></p> 
-<p>
- <core-commerce id="e32c30e5912d4bb1b2233b5cf04e9c39" data-type="product-list" data-original-url="https://www.amazon.com/Advent-Calendar-Countdown-Pencils-Tabletop/dp/B0FCDDTXF1"></core-commerce></p> 
-<p>
- <core-commerce id="758a697c1b014deca5ee7548ebee62f9" data-type="product-list" data-original-url="https://www.amazon.com/Funko-Pop-Collectible-Toy-Figure/dp/B0DNRSTMN3"></core-commerce></p> 
-<p>
- <core-commerce id="0206a8299f204c5da07d89fadbf360bd" data-type="product-list" data-original-url="https://www.amazon.com/LEGO-TBD-City-Occasions-60475/dp/B0DRW4SDWB"></core-commerce></p> 
-<p>
- <core-commerce id="f6a1aa6e3d38484386e8a106e0c6b3c0" data-type="product-list" data-original-url="https://www.amazon.com/MAGNA-TILES-Calendar-34-Piece-Magnetic-Construction/dp/B0DW97H6ZR"></core-commerce></p> 
-<p>
- <core-commerce id="24f753d2e14244d68e6e2605f736026c" data-type="product-list" data-original-url="https://www.williams-sonoma.com/products/peanuts-24-day-advent-calendar/"></core-commerce></p> 
-<p>
- <core-commerce id="e984710b84824265af1e7ae8de87727f" data-type="product-list" data-original-url="https://www.amazon.com/CC-Countdown-Characters-Enterprise-Character/dp/B09Z6VV5DC"></core-commerce></p> 
-<p>
- <core-commerce id="2362467c90f84d738f08d55c7664df85" data-type="product-list" data-original-url="https://www.amazon.com/dp/B08DQVBNNK?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="2413fd109bbb47f0bb997aaefa1744cb" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0BSRBSG1R/"></core-commerce></p> 
-<p>
- <core-commerce id="099f01139a004161bdbaacafd64dbe8e" data-type="product-list" data-original-url="https://www.amazon.com/Eight-Innovation-Electronic-Advent-Calendar/dp/B09DL5LYK9"></core-commerce></p> 
-<p>
- <core-commerce id="d1ed507f050547169505cf7084a98e6b" data-type="product-list" data-original-url="https://sugoimart.com/products/30-days-of-japan-advent-calendar"></core-commerce></p> 
-<p>
- <core-commerce id="6b2bd4b7bfe34e0d8a1484a436c5585b" data-type="product-list" data-original-url="https://www.amazon.com/Advent-Calendar-Survival-Kits-Men/dp/B0DCVNKZ4C"></core-commerce></p> 
-<p><em>Check out the rest of our </em><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gifts/"><em>gift ideas</em></a><em> here.</em></p> <span id="end-legacy-contents"></span>This article originally appeared on Engadget at https://www.engadget.com/our-favorite-advent-calendars-for-2025-the-top-picks-from-pokemon-lego-magna-tiles-funko-pop-and-more-120042513.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/our-favorite-advent-calendars-for-2025-the-top-picks-from-pokemon-lego-magna-tiles-funko-pop-and-more-120042513.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">bc5894c6-b171-49d4-a67f-9c623d96e6fe</guid>
-                                                                                        <dc:creator><![CDATA[Georgie Peru]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 03 Nov 2025 12:48:00 +0000</pubDate>
-                    <ingested>1762174081</ingested>
-                    <modified>2025-11-03T12:48:04+00:00</modified>
-                                            <category>
-                            <![CDATA[Holidays & Celebrations]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Georgie Peru]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F63e2b280-9950-11f0-ae7e-b59331c0d9ca&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=95b30f250d3e626310a15fdd44a5052403c13d05" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F63e2b280-9950-11f0-ae7e-b59331c0d9ca&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f42686ce5f3c78de811702f5cb7c56f12b3e8124" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[The best advent calendars]]></media:description>
-                                <media:title><![CDATA[The best advent calendars]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
