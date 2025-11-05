@@ -6,9 +6,183 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 05 Nov 2025 11:00:57 +0000</pubDate>
+            <pubDate>Wed, 05 Nov 2025 12:30:25 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google contemplates putting giant AI installations in low-earth orbit]]></title>
+                                        <description type="html"><![CDATA[<p>Putting AI in space may sound like a <a data-i13n="cpos:1;pos:1" href="https://terminator.fandom.com/wiki/Skynet">sci-fi nightmare</a>, but Google is thinking about the idea with a research endeavor called <a data-i13n="cpos:2;pos:1" href="https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/">Project Suncatcher</a>. The idea is to put power-hungry data centers into orbit on solar-powered satellites, so they can be powered by unlimited, clean energy available 24 hours a day. That would mitigate the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/why-do-ai-data-centers-use-so-many-resources-171500010.html">nastiest</a> aspects of AI cloud computing, like the use of power plants that spew huge amounts of CO2 into the atmosphere.&nbsp;</p>
+<p>Project Suncatcher is a literal moonshot of the type that Google <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/alphabet-is-cutting-dozens-of-jobs-at-its-x-moonshot-lab-203505073.html">used to do</a> more often. The search giant wants to put its AI chips, called Tensor Processing Units (TPUs), into orbit aboard solar panel-equipped satellites. “In the future, space may be the best place to scale AI compute,” wrote Google senior director Travis Beals. &quot;In the right orbit, a solar panel can be up to 8 times more productive than on Earth, and produce power nearly continuously, reducing the need for batteries.&quot;</p>
+<span id="end-legacy-contents"></span><p>Suffice to say, the idea poses numerous challenges. That proximity to the sun would expose the TPUs to high levels of radiation that can rapidly degrade electronic components. However, Google has tested its current chips for radiation tolerance and said they&#39;d be able to survive a five year mission without suffering permanent failures.&nbsp;&nbsp;</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/a7415850-ba21-11f0-bffe-309490ec2bf4" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/a7415850-ba21-11f0-bffe-309490ec2bf4" style="height:1182px;width:2096px;" alt="Google Tensor Processing Unit" data-uuid="2280e6b2-f009-3d30-870d-787128b8612f"><figcaption>Google&#39;s Tensor Processing Unit</figcaption><div class="photo-credit">Google</div></figure>
+<p>Another challenge is the high-speed data links of &quot;tens of terabits per second&quot; and low latency required between satellites. Those speeds would be hard to achieve in space, as transmitting data at long distances requires exponentially more power than on Earth. To achieve that, Google said it may need to maneuver TPU-equipped satellites into tight formations, possibly within &quot;kilometers or less&quot; of each other. That would have the added benefit of reducing &quot;station keeping&quot; thrust maneuvers needed to keep the satellites in the right position.&nbsp;</p>
+<p>The determining factor, though, is money. Launching TPUs into space may not seem cost-efficient, but Google&#39;s analysis shows that doing so could be &quot;roughly comparable&quot; to data centers on Earth (in terms of power efficiency) by around the mid-2030s.&nbsp;</p>
+<p>While it&#39;s currently only a <a data-i13n="cpos:5;pos:1" href="https://services.google.com/fh/files/misc/suncatcher_paper.pdf">preliminary research paper</a>, Google is planning to put Project Suncatcher through some initial trials. It has teamed with a company called <a data-i13n="cpos:6;pos:1" href="https://www.planet.com/">Planet</a> on a &quot;learning mission&quot; to launch a pair of prototype satellites into orbit by 2027. &quot;This experiment will test how our models and TPU hardware operate in space and validate the use of optical inter-satellite links for distributed ML [machine learning] tasks,&quot; Google wrote.&nbsp;</p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-contemplates-putting-giant-ai-installations-in-low-earth-orbit-123025256.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/google-contemplates-putting-giant-ai-installations-in-low-earth-orbit-123025256.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">05328839-a823-4efc-9f2b-c16f1c28fb9d</guid>
+                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 12:30:25 +0000</pubDate>
+                    <ingested>1762332114</ingested>
+                    <modified>2025-11-05T08:42:14+00:00</modified>
+                                            <category>
+                            <![CDATA[Science]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Steve Dent]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F5bb34dd0-ba21-11f0-b7ec-de53bbed8476&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ac828a32be520f370df074ab78b25100a0f9cc20" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F5bb34dd0-ba21-11f0-b7ec-de53bbed8476&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=0ce01c3a2825922bbf4bf751a936c3c634b5f546" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Planet]]></media:credit>
+                                <media:description><![CDATA[Google contemplates putting giant AI installations in low-earth orbit]]></media:description>
+                                <media:title><![CDATA[Google contemplates putting giant AI installations in low-earth orbit]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[DJI's Osmo Mobile 8 gimbal adds pet tracking and Apple DockKit support]]></title>
+                                        <description type="html"><![CDATA[<p>After launching it in China earlier, DJI has unveiled its flagship smartphone gimbal, the <a data-i13n="elm:affiliate_link;sellerN:DJI;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=479372ad-6013-4434-bdb7-ebc5486af4cc&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9b626b32-f56c-4214-b882-8d5f9d130041&amp;featureId=text-link&amp;merchantName=DJI&amp;linkText=Osmo+Mobile+8&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5kamkuY29tL29zbW8tbW9iaWxlLTgiLCJjb250ZW50VXVpZCI6IjliNjI2YjMyLWY1NmMtNDIxNC1iODgyLThkNWY5ZDEzMDA0MSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuZGppLmNvbS9vc21vLW1vYmlsZS04In0&amp;signature=AQAAAQ2codZo2pbWsy5AQ_akQRKSJHJAYbLFARAa0YEx4mwE&amp;gcReferrer=https%3A%2F%2Fwww.dji.com%2Fosmo-mobile-8" class="rapid-with-clickid" data-original-link="https://www.dji.com/osmo-mobile-8">Osmo Mobile 8</a>. The new model looks much like the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cameras/djis-osmo-mobile-7p-gimbal-can-track-you-around-on-any-android-or-ios-camera-app-130037243.html">Osmo Mobile 7P</a> and has the same Multifunctional tracking module with a built-in light. However, it adds a bunch of useful new functionality including Apple DockKit support, 360-degree panning and pet tracking.&nbsp;</p>
+<p>The lack of Apple DockKit support was an issue with the Osmo Mobile 7P, as it made tracking yourself trickier with some apps. It also put DJI behind <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cameras/insta360s-flow-pro-2-gimbal-offers-a-sturdier-build-and-a-selfie-mirror-130016865.html">Insta360&#39;s Flow 2 Pro</a>, which does support DockKit. That&#39;s no longer an issue with the Osmo Mobile 8, though. You can now do subject tracking within the native iPhone camera app or any of the 200-plus iOS applications compatible with DockKit.</p>
+<span id="end-legacy-contents"></span><p>At the same time, full tracking is available via the Multifunctional Module. That attaches to the side of its updated, more secure magnetic phone mount, letting you track yourself or other subjects automatically with any camera app. It includes a surprisingly powerful LED fill light and works as a receiver for DJI&#39;s wireless microphones, including the Mic Mini, Mic 2 and Mic 3. On top of humans, the module now supports dog and cat tracking as well. As before, it also supports gesture control.&nbsp;</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/b99faec0-ba08-11f0-9abe-928835b3ae90" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/b99faec0-ba08-11f0-9abe-928835b3ae90" style="height:1564px;width:2800px;" alt="DJI&#39;s Osmo Mobile 8 gimbal adds pet tracking and Apple DockKit support" data-uuid="ca04396a-457a-3e4d-a1f1-6cbbae73e50a"><figcaption></figcaption><div class="photo-credit">DJI</div></figure>
+<p>Another key feature is a pan axis that supports 360 degree horizontal rotation that no longer hits a stop as before. That means when you lock onto moving subjects with intelligent tracking, it&#39;ll keep following them even if they go all the way around the camera. The updated, more comfortable grip (and 0.8 pound weight) also makes it easier to take low angle shots, something that that will be handy when trying to follow your cat around.&nbsp;</p>
+<p>When using DJI&#39;s Mimo app, you also get access to DJI&#39;s advanced ActiveTrack 7.0.1 tracking tech. It comes with a feature called Dual Lens Boost 2 that uses your phones wide-angle and telephoto lenses to make sure a subject isn&#39;t lost, even if they move quickly or within a crowded scene. Another feature, Smart Capture, makes it easy to switch between subjects, even in complex environments, according to DJI.&nbsp;</p>
+<p>The OM8 uses DJI&#39;s latest three-axis stabilization tech to smooth even jarring movements without hurting quality like a smartphone can do. Other features include an integrated tripod, easy switching between front and rear cameras (along with the ability to flip the camera 180 degrees for rear camera selfies), an integrated tripod and a built-in extension rod. DJI&#39;s Osmo Mobile 8 gimbal is now available in Europe for 159 euros, with US pricing and availability to be announced shortly.&nbsp;&nbsp;</p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/cameras/djis-osmo-mobile-8-gimbal-adds-pet-tracking-and-apple-dockkit-support-120032512.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cameras/djis-osmo-mobile-8-gimbal-adds-pet-tracking-and-apple-dockkit-support-120032512.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9b626b32-f56c-4214-b882-8d5f9d130041</guid>
+                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 12:00:32 +0000</pubDate>
+                    <ingested>1762325697</ingested>
+                    <modified>2025-11-05T06:54:59+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Steve Dent]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fb0f92db0-b9fd-11f0-ba5f-941f9ad5b42f&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=da6842aff45f73eaed4559414066d4efdd20cd1a" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fb0f92db0-b9fd-11f0-ba5f-941f9ad5b42f&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=0e3c52545b572beda18e669651116c3ba4d55c14" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[DJI]]></media:credit>
+                                <media:description><![CDATA[DJI's Osmo 8 Mobile gimbal can now track you via Apple's DockKit]]></media:description>
+                                <media:title><![CDATA[DJI's Osmo 8 Mobile gimbal can now track you via Apple's DockKit]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Google and Epic Games reach settlement for antitrust lawsuit]]></title>
+                                        <description type="html"><![CDATA[<p>Google and Epic Games have <a data-i13n="cpos:1;pos:1" href="https://www.reuters.com/sustainability/boards-policy-regulation/google-proposes-app-store-reforms-settlement-with-fortnite-maker-epic-games-2025-11-05/">reached a settlement</a> that would bring their <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/epic-match-google-antitrust-lawsuit-trial-date-223014942.html">years-long court battle</a> to a close. The companies have filed a proposal in the federal court of San Francisco, asking US District Judge James Donato to approve a modified version of the order he originally imposed on Google when it lost the case. &quot;Together with Epic Games we have filed a proposed set of changes to Android and Google Play that focus on expanding developer choice and flexibility, lowering fees, and encouraging more competition all while keeping users safe,&quot; said Sameer Samat, the President of Android Ecosystem at Google, <a data-i13n="cpos:3;pos:1" href="https://x.com/ssamat/status/1985920218602918343">on X</a>.&nbsp;</p>
+<p>Epic Games CEO Tim Sweeney <a data-i13n="cpos:4;pos:1" href="https://x.com/TimSweeneyEpic/status/1985920786545123613">praised</a> the proposal for &quot;genuinely [doubling] down on Android&#39;s original vision as an open platform to streamline competing store installs globally, reduce service fees for developers on Google Play and enable third-party in-app and web payments.&quot; Epic Games sued Google in 2020, accusing it of an illegal monopoly on app distribution and in-app billing services for Android devices.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>The court <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/jury-sides-with-epic-games-in-its-antitrust-lawsuit-against-google-032341810.html">sided with Epic Games</a> in late 2023, and Google <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/big-tech/google-lost-its-antitrust-case-with-epic-again-190633325.html">lost its appeal</a> in July this year. Google tried to <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/big-tech/google-asks-supreme-court-to-rescue-it-from-its-epic-lawsuit-195555490.html">ask the Supreme Court</a> to block the injunction Donato handed down, which required the company to make major changes to the Play Store, while it appealed the case again. But the Supreme Court <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/big-tech/supreme-court-denies-googles-request-to-pause-play-store-changes-while-it-appeals-epic-case-121502132.html">denied its request</a>. That means Google will be prohibited from paying manufacturers and app developers to exclusively install and distribute on the Play Store, respectively. It will also be prohibited from forcing developers to only use its payment system, and it will have to allow third-party app stores to be installed on Android devices.&nbsp;</p>
+<p>Google will still have to follow most of Donato&#39;s orders under the proposal, but the companies made some modifications. To start with, they&#39;ve worked out how to &quot;allow developers and users to seamlessly use alternative payment mechanisms,&quot; both in-app and via external links, while adhering to Google&#39;s security and safety standards. They&#39;ve also specified the maximum fees Google can charge for external payments, which are 9 percent or 20 percent, depending on the type of transaction. The companies have identified &quot;reasonable, neutral criteria&quot; that third-party stores would be required to meet, as well. Users will easily be able to download stores that meet those criteria so they can compete against the Play Store and each other around the world.&nbsp;</p>
+<p>Samat said that the companies are meeting with Judge Donato on Thursday, and if he approves of the proposal, it &quot;would resolve [the] litigations.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-and-epic-games-reach-settlement-for-antitrust-lawsuit-120019374.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/google-and-epic-games-reach-settlement-for-antitrust-lawsuit-120019374.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">43832e32-a3d6-4a82-997b-0dd3aa86c3d4</guid>
+                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 12:00:19 +0000</pubDate>
+                    <ingested>1762340346</ingested>
+                    <modified>2025-11-05T10:59:08+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Company Legal & Law Matters]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Business]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Mariella Moon]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-01%2F410c9090-b406-11ee-9f17-99ab916f6e2c&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=adcc8c6fe0b35b877d7e21cae751ce369dae3803" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-01%2F410c9090-b406-11ee-9f17-99ab916f6e2c&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=1b77108ea36e222102cb61588c70b481c23933c9" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[hapabapa via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Seattle, WA, USA - Dec 21, 2023: A Googler walks back to Google's South Lake Union office in Seattle, Washington.]]></media:description>
+                                <media:title><![CDATA[Google's Seattle Office]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best Nintendo gifts for the 2025 holiday season]]></title>
                                         <description type="html"><![CDATA[<p>If you&#39;re like us, Nintendo holds a special place in your heart thanks to iconic characters like Mario, Peach and Donkey Kong and multiple generations of best-selling consoles. But little did we know that outside of gaming hardware and accessories, there&#39;s an ever-growing assortment of Nintendo-themed toys, clothes and decor. And it&#39;s kind of a problem because we want all of it. So to help you figure out the best gifts for the Nintendo fan in your life, we&#39;ve put together a big list of our favorite products that will give anyone a power-up this holiday season. Of course, if none of these quite fit the bill, you can also head over to our full list of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-accessories-070011952.html">the best Nintendo Switch 2 accessories</a> for even more ideas.</p> 
 <h2 id="jump-link-best-nintendo-gifts">Best Nintendo gifts</h2> 
@@ -3157,184 +3331,6 @@
                                 <media:credit><![CDATA[TikTok]]></media:credit>
                                 <media:description><![CDATA[An ad for the show.]]></media:description>
                                 <media:title><![CDATA[TikTok Awards]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Waymo is launching in three new cities next year]]></title>
-                                        <description type="html"><![CDATA[<p>Waymo has <a data-i13n="cpos:1;pos:1" href="https://waymo.com/blog/"><ins>announced</ins></a> the launch of its robotaxi services in three new cities. San Diego, Las Vegas and Detroit will play home to the driverless cars as the company continues its <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/tag/waymo/"><ins>aggressive expansion</ins></a>.</p>
-<p>In a series of <a data-i13n="cpos:3;pos:1" href="https://waymo.com/blog/"><ins>blog posts</ins></a>, the Alphabet subsidiary said Detroit residents can expect to &quot;soon&quot; see Waymo vehicles on the streets, mapping out the service areas before launching to the public. Timing for San Diego was more vague, with &quot;plans to begin serving the city next year.&quot;</p>
-<span id="end-legacy-contents"></span><p>Waymo&#39;s service area in Las Vegas will include the Strip, with plans to expand to the airport &quot;eventually.&quot; The company currently operates in Los Angeles, Phoenix, San Francisco, Atlanta and Austin. It also recently announced expansion to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/transportation/waymo-announces-its-expanding-to-miami-204504533.html"><ins>Miami</ins></a> and <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/transportation/waymo-aims-to-offer-paid-robotaxi-rides-in-washington-dc-next-year-161523916.html"><ins>Washington, DC</ins></a>.</p>
-<p>Waymo also has its sights set on international expansion with a planned <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/transportation/evs/waymo-plans-to-launch-fully-autonomous-taxi-service-in-london-next-year-142453250.html"><ins>London launch</ins></a> next spring. This comes as the UK&#39;s <a data-i13n="cpos:7;pos:1" href="https://www.gov.uk/government/news/self-driving-vehicles-set-to-be-on-roads-by-2026-as-automated-vehicles-act-becomes-law"><ins>Automated Vehicles Act of 2024</ins></a> begins to take effect, allowing autonomous vehicles to operate in the country for the first time. The company also recently announced it would be partnering with <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/transportation/waymo-will-also-drive-for-doordash-in-phoenix-213535127.html"><ins>DoorDash</ins></a> to conduct food deliveries in Phoenix.</p>
-<p>The autonomous taxi market has been heating up lately with Tesla&#39;s Robotaxi <a data-i13n="cpos:9;pos:1" href="https://www.teslarati.com/tesla-ramp-500-robotaxis-austin-1000-bay-area-end-of-2025-musk/"><ins>expanding</ins></a> in Austin and San Francisco. Uber and Lucid will also be launching an autonomous taxi partnership in the Bay Area next year using the automaker&#39;s <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/transportation/evs/the-lucid-gravity-is-the-coolest-three-row-ev-on-the-market-120024089.html"><ins>Lucid Gravity SUV</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/waymo-is-launching-in-three-new-cities-next-year-182515034.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/waymo-is-launching-in-three-new-cities-next-year-182515034.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">270793c2-7826-49dc-b698-5ff36569ab60</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 03 Nov 2025 18:25:15 +0000</pubDate>
-                    <ingested>1762194321</ingested>
-                    <modified>2025-11-03T18:25:23+00:00</modified>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-10%2Fcc95e0d0-740f-11ee-9fde-c6503e6de91c&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=78171c898dfe94e438f82b4b64247ba2eff8350c" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2023-10%2Fcc95e0d0-740f-11ee-9fde-c6503e6de91c&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5df3ebf5d0f2a62534076c7eaef74e202cf580fa" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Waymo]]></media:credit>
-                                <media:description><![CDATA[Waymo's autonomous vehicle driving on a street.]]></media:description>
-                                <media:title><![CDATA[Waymo's autonomous vehicle driving on a street.]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Get 37 percent off one of our favorite MagSafe power banks ahead of Black Friday]]></title>
-                                        <description type="html"><![CDATA[<p>One of our favorite <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/computing/accessories/best-power-bank-143048526.html">power banks</a> is on sale for one of the best prices we've seen, period. The Anker MagGo Power Bank 10K has dropped to only $57, which is 37 percent off its usual price. To put it into perspective, the lowest we've tracked it is $54, and that only happened briefly at the end of 2024. Today's sale applies to multiple colorways.</p> 
-<p>This model topped our list of the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-power-bank-143048526.html">best power banks</a>, and with very good reason. It's a workhorse that gets the job done. It includes Qi2 tech for fast wireless charging and ships with a sturdy kickstand to prop up smartphones during use. The integrated LED display makes it easy to see the battery percentage, which is always nice.</p> <span id="end-legacy-contents"></span>
-<p>
- <core-commerce id="f1e42e3b365541f7ac8b06d2be76f53d" data-type="product-list" data-original-url="https://www.amazon.com/Anker-Certified-Ultra-Fast-MagSafe-Compatible-Portable/dp/B0CFDPQXN4/ref=ast_sto_dp_puis?th=1"></core-commerce></p> 
-<p>The 10,000mAh battery should charge a modern iPhone nearly two times before requiring a trip to the outlet. For those not keen on wireless charging, there's a USB-C port.</p> 
-<p>As for compatibility, this power bank has been <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/computing/accessories/best-magsafe-power-banks-120015338.html">optimized for Apple iPhones</a>. It'll work with Android handsets, but the wireless charging will be disabled. That's basically the only downside here.</p> 
-<p>That's not the only Anker product on sale right now. A two-pack of <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0DRCSZ618&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=8d066f19-6e3f-4a78-8060-db4e4a8e63ca&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Anker+Zolo+Qi2+wireless+chargers&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Fua2VyLU1hZ25ldGljLVdpcmVsZXNzLUNlcnRpZmllZC1NYWdTYWZlLUNvbXBhdGlibGUvZHAvQjBEUkNTWjYxOC9yZWY9YXN0X3N0b19kcF9wdWlzP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjhkMDY2ZjE5LTZlM2YtNGE3OC04MDYwLWRiNGU0YThlNjNjYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bbmtlci1NYWduZXRpYy1XaXJlbGVzcy1DZXJ0aWZpZWQtTWFnU2FmZS1Db21wYXRpYmxlL2RwL0IwRFJDU1o2MTgvcmVmPWFzdF9zdG9fZHBfcHVpcyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAbw5HBG68M2wkekdqnS3S7tSrl9uJpwmGKcnqOMw9UzP&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FAnker-Magnetic-Wireless-Certified-MagSafe-Compatible%2Fdp%2FB0DRCSZ618%2Fref%3Dast_sto_dp_puis" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Anker-Magnetic-Wireless-Certified-MagSafe-Compatible/dp/B0DRCSZ618/ref=ast_sto_dp_puis?th=1">Anker Zolo Qi2 wireless chargers</a> is down to only $26, and the tried-and-true <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B07DBXZZN3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=8d066f19-6e3f-4a78-8060-db4e4a8e63ca&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Anker+313+wireless+charging+stand&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Fua2VyLVFpLUNlcnRpZmllZC1Db21wYXRpYmxlLUZhc3QtQ2hhcmdpbmctUG93ZXJXYXZlL2RwL0IwN0RCWFpaTjMvcmVmPWFzdF9zdG9fZHBfcHVpcz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiI4ZDA2NmYxOS02ZTNmLTRhNzgtODA2MC1kYjRlNGE4ZTYzY2EiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQW5rZXItUWktQ2VydGlmaWVkLUNvbXBhdGlibGUtRmFzdC1DaGFyZ2luZy1Qb3dlcldhdmUvZHAvQjA3REJYWlpOMy9yZWY9YXN0X3N0b19kcF9wdWlzIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAARdTJb72GeuAE8HK7CoZszZGmnejo7-n79Pp_qL3sVbO&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FAnker-Qi-Certified-Compatible-Fast-Charging-PowerWave%2Fdp%2FB07DBXZZN3%2Fref%3Dast_sto_dp_puis" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3/ref=ast_sto_dp_puis?th=1">Anker 313 wireless charging stand</a> is on sale for only $14.</p> 
-<p>
- <core-commerce id="59648af690384c5fb6c28fbe6e867454" data-type="product-list" data-original-url="https://www.amazon.com/Anker-Magnetic-Wireless-Certified-MagSafe-Compatible/dp/B0DRCSZ618/ref=ast_sto_dp_puis?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="8d45fd77c50e4e23aebb1ef4e6c897be" data-type="product-list" data-original-url="https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3/ref=ast_sto_dp_puis?th=1"></core-commerce></p> 
-<p><em>Follow </em><a data-i13n="cpos:6;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/get-37-percent-off-one-of-our-favorite-magsafe-power-banks-ahead-of-black-friday-152128352.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/get-37-percent-off-one-of-our-favorite-magsafe-power-banks-ahead-of-black-friday-152128352.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">8d066f19-6e3f-4a78-8060-db4e4a8e63ca</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 03 Nov 2025 18:05:38 +0000</pubDate>
-                    <ingested>1762223026</ingested>
-                    <modified>2025-11-04T02:23:48+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Ff88807e0-af59-11f0-bffb-0e4981d6655d&amp;resize=1400%2C783&amp;client=19f2b5e49a271b2bde77&amp;signature=0216b2f8740e91cf40bcb2c207ce207e45e8bdaa" width="1400" height="783" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2Ff88807e0-af59-11f0-bffb-0e4981d6655d&amp;resize=1400%2C783&amp;client=19f2b5e49a271b2bde77&amp;signature=deea013d9af130b7dadbfc28b377309f72b885f9" width="1400" height="783" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Amy Skorheim for Engadget]]></media:credit>
-                                <media:description><![CDATA[A power bank on a table next to a robot.]]></media:description>
-                                <media:title><![CDATA[Anker Power Bank]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Google removes AI model after it allegedly accused a senator of sexual assault]]></title>
-                                        <description type="html"><![CDATA[<p>Google has pulled the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/google-introduces-a-lightweight-open-ai-model-called-gemma-130053289.html">AI model Gemma</a> from its Studio platform after a Republican senator said it &quot;fabricated serious criminal allegations&quot; against her, <a data-i13n="cpos:2;pos:1" href="https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination">as reported by <em>The Verge</em></a>. Senator Marsha Blackburn (R-TN) <a data-i13n="cpos:3;pos:1" href="https://www.blackburn.senate.gov/services/files/5651166C-7B30-4BA0-9E86-F3DD9521CA00">sent a letter to CEO Sundar Pichai</a> to accuse the company of defamation after the model allegedly created a story about her committing sexual assault.</p>
-<p>The model was reportedly asked if Blackburn had ever &quot;been accused of rape&quot; and it reportedly answered in the affirmative, going so far as to provide a list of fake news articles to support the accusation. The chatbot said the senator “was accused of having a sexual relationship with a state trooper” during a campaign for state senate. This officer reportedly said “she pressured him to obtain prescription drugs for her and that the relationship involved non-consensual acts.”</p>
-<span id="end-legacy-contents"></span><div id="f289b0e5c7254c59939fa2e75d605223"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gemma is available via an API and was also available via AI Studio, which is a developer tool (in fact to use it you need to attest you&#39;re a developer). We’ve now seen reports of non-developers trying to use Gemma in AI Studio and ask it factual questions. We never intended this…</p>— News from Google (@NewsFromGoogle) <a href="https://twitter.com/NewsFromGoogle/status/1984412632913494456?ref_src=twsrc%5Etfw">November 1, 2025</a></blockquote>
- 
-
-</div>
-<p>None of this happened, of course. The chatbot said this transgression occurred during Blackburn&#39;s 1987 campaign, but she didn&#39;t run for state senate until 1998. She has never been accused of anything like that.</p>
-<p>&quot;The links lead to error pages and unrelated news articles. There has never been such an accusation, there is no such individual and there are no such news stories. This is not a harmless &#39;hallucination.&#39; It is an act of defamation produced and distributed by a Google-owned AI model,&quot; she wrote to Pichai.</p>
-<p>There&#39;s one major caveat here. The chatbot in question, Gemma, is designed for developers and not for mass market queries. There are Gemma variants for medical use, coding and more. Google says it was never meant as a consumer tool or to be used to answer factual questions. It&#39;s still pulling the model from AI Studio to &quot;prevent this confusion.&quot; It&#39;ll still be available to developers through the API.</p>
-<div id="7045c922f1de4adf9a3e78be5522ba80"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google has reportedly removed Gemma from its AI studio after I demanded the company take it down for smearing conservatives with manufactured criminal allegations. <br><br>Google owes the American people answers, and I will be eagerly awaiting their response to my letter. <a href="https://t.co/n8ye5ZKBu1">pic.twitter.com/n8ye5ZKBu1</a></p>— Sen. Marsha Blackburn (@MarshaBlackburn) <a href="https://twitter.com/MarshaBlackburn/status/1985189610834612546?ref_src=twsrc%5Etfw">November 3, 2025</a></blockquote>
- 
-
-</div>
-<p>Blackburn went a step further, accusing Google&#39;s AI platform of engaging in a &quot;consistent pattern of bias against conservative figures.&quot; I encounter multiple hallucinations every day. Chatbots have lied about all kinds of stuff about my life and what I write about online. AI chatbots <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/fda-employees-say-the-agencys-elsa-generative-ai-hallucinates-entire-studies-203547157.html">are famous for making stuff up</a>, conservative or not. Not everything is a political witch hunt. <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/you-can-trick-googles-ai-overviews-into-explaining-made-up-idioms-162816472.html">Sometimes tech</a> <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/a-lawyer-faces-sanctions-after-he-used-chatgpt-to-write-a-brief-riddled-with-fake-citations-175720636.html">just does</a> <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/ai/openais-whisper-invents-parts-of-transcriptions--a-lot-120039028.html">what tech</a> <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/meta-explains-why-its-ai-claimed-trumps-assassination-attempt-didnt-happen-120002196.html">does</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-removes-ai-model-after-it-allegedly-accused-a-senator-of-sexual-assault-170235679.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/google-removes-ai-model-after-it-allegedly-accused-a-senator-of-sexual-assault-170235679.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e1394d0f-5031-4b85-bd4c-2d1641e49a99</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 03 Nov 2025 17:02:35 +0000</pubDate>
-                    <ingested>1762189364</ingested>
-                    <modified>2025-11-03T17:02:47+00:00</modified>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fab9ca930-b8ce-11f0-af75-be3a9ff5f278&amp;resize=1400%2C889&amp;client=19f2b5e49a271b2bde77&amp;signature=00148a3cfa0b6bea6f77dd2d2e5677504c15a66d" width="1400" height="889" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fab9ca930-b8ce-11f0-af75-be3a9ff5f278&amp;resize=1400%2C889&amp;client=19f2b5e49a271b2bde77&amp;signature=544e87dade36d5bc97cf6993fea538044a1220ba" width="1400" height="889" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Google]]></media:credit>
-                                <media:description><![CDATA[A logo.]]></media:description>
-                                <media:title><![CDATA[Google Gemma]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
