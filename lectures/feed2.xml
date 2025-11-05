@@ -6,9 +6,289 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Tue, 04 Nov 2025 21:30:52 +0000</pubDate>
+            <pubDate>Wed, 05 Nov 2025 16:00:45 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Sony has a new benchmark for ethical AI]]></title>
+                                        <description type="html"><![CDATA[<p>Sony AI released a dataset that tests the fairness and bias of AI models. It&#39;s called the Fair Human-Centric Image Benchmark (FHIBE, pronounced like &quot;Phoebe&quot;). The company describes it as the &quot;first publicly available, globally diverse, consent-based human image dataset for evaluating bias across a wide variety of computer vision tasks.&quot; In other words, it tests the degree to which today&#39;s AI models treat people fairly. Spoiler: Sony didn&#39;t find a single dataset from any company that fully met its benchmarks.</p>
+<p>Sony says FHIBE can address the AI industry&#39;s ethical and bias challenges. The dataset includes images of nearly 2,000 paid participants from over 80 countries. All of their likenesses were shared with consent — something that can&#39;t be said for the common practice of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-investigating-perplexity-ai-after-accusations-it-scrapes-websites-without-consent-133003374.html">scraping large volumes of web data</a>. Participants in FHIBE can remove their images at any time. Their photos include annotations noting demographic and physical characteristics, environmental factors and even camera settings.</p>
+<span id="end-legacy-contents"></span><p>The tool &quot;affirmed previously documented biases&quot; in today&#39;s AI models. But Sony says FHIBE can also provide granular diagnoses of factors that led to those biases. One example: Some models had lower accuracy for people using &quot;she/her/hers&quot; pronouns, and FHIBE highlighted greater hairstyle variability as a previously overlooked factor.</p>
+<p>FHIBE also determined that today&#39;s AI models reinforced stereotypes when prompted with neutral questions about a subject&#39;s occupation. The tested models were particularly skewed &quot;against specific pronoun and ancestry groups,&quot; describing subjects as sex workers, drug dealers or thieves. And when prompted about what crimes an individual committed, models sometimes produced &quot;toxic responses at higher rates for individuals of African or Asian ancestry, those with darker skin tones and those identifying as &#39;he/him/his.&#39;&quot;</p>
+<p>Sony AI says FHIBE proves that ethical, diverse and fair data collection is possible. The tool is now <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://fairnessbenchmark.ai.sony/">available to the public</a>, and it will be updated over time. A paper outlining the research was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.nature.com/articles/s41586-025-09716-2">published</a> in <em>Nature</em> on Wednesday.</p>
+<p><strong>Update, November 5, 2025, 2:01 PM ET</strong>: This story has been updated to clarify that the participants were paid, not volunteers.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3637c922-a52f-4331-a4c8-15e6d032d81c</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 19:01:17 +0000</pubDate>
+                    <ingested>1762369285</ingested>
+                    <modified>2025-11-05T19:01:27+00:00</modified>
+                                            <category>
+                            <![CDATA[Science]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d65a9674c434335cb46b51e7432cfb047689498" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d951a735e40aba3618395b7d7fb88127febce6f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Sony]]></media:credit>
+                                <media:description><![CDATA[View from the ground of a Sony logo on a corporate building.]]></media:description>
+                                <media:title><![CDATA[Sony logo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Fitbit Black Friday deals are here early and one of our favorite fitness trackers is on sale for $100]]></title>
+                                        <description type="html"><![CDATA[<p>Fitbit is holding an early Black Friday and there are plenty of noteworthy deals. The Charge 6 fitness tracker <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0CC62ZG1M&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=0c6bba0c-0704-4f29-bb30-ea2b6df1800a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+on+sale+for+%24100&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0ZpdGJpdC1FeGVyY2lzZS1FcXVpcG1lbnQtNi1Nb250aHMtTWVtYmVyc2hpcC9kcC9CMENDNjJaRzFNP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjBjNmJiYTBjLTA3MDQtNGYyOS1iYjMwLWVhMmI2ZGYxODAwYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaXRiaXQtRXhlcmNpc2UtRXF1aXBtZW50LTYtTW9udGhzLU1lbWJlcnNoaXAvZHAvQjBDQzYyWkcxTSIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAVRMjozR1nc3YeeKccuEhdtia3vByuygwL7o-eqeYrav&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FFitbit-Exercise-Equipment-6-Months-Membership%2Fdp%2FB0CC62ZG1M" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1"><ins>is on sale for $100</ins></a>, which is a nice discount of $60 and 38 percent off. The deal applies to multiple colorways.</p> 
+<p>The Charge 6 topped our list of the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/wearables/best-fitness-trackers-133053484.html"><ins>best fitness trackers</ins></a>, and for good reason. It features built-in GPS, which means it doesn&#39;t have to be tethered to a phone when doing some cardio. The heart rate monitor is much more accurate when compared to the Charge 5 and the battery lasts a full week before requiring a trip to the outlet.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="d0295a14e36f408aa37cce995dab6c3c" data-type="product-list" data-original-url="https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1"></core-commerce></p> 
+<p>All told, it tracks 20 exercise types, in addition to sleep. The Charge 6 features a full-color AMOLED display that&#39;s easy on the eyes and a relatively thin design. This makes it feel fairly premium, especially when compared to rival devices.</p> 
+<p>On the downside, there&#39;s no real integration with Apple Health. This could be a dealbreaker for some. Also, some health data is hidden behind a Fitbit Premium paywall. That service costs $10 each month.</p> 
+<p>This isn&#39;t the only Fitbit product on sale right now. The Inspire 3 fitness tracker <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0B5F9SZW7&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=0c6bba0c-0704-4f29-bb30-ea2b6df1800a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+available+for+%2470&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0ZpdGJpdC1NYW5hZ2VtZW50LUludGVuc2l0eS1UcmFja2luZy1NaWRuaWdodC9kcC9CMEI1RjlTWlc3P3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjBjNmJiYTBjLTA3MDQtNGYyOS1iYjMwLWVhMmI2ZGYxODAwYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaXRiaXQtTWFuYWdlbWVudC1JbnRlbnNpdHktVHJhY2tpbmctTWlkbmlnaHQvZHAvQjBCNUY5U1pXNyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAc9JhyK8Hk1CL4fLtaDGHUNCGwlz6U14aTpBdVX9tB_q&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FFitbit-Management-Intensity-Tracking-Midnight%2Fdp%2FB0B5F9SZW7" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7?th=1"><ins>is available for $70</ins></a>, which is a discount of 30 percent.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/fitbit-black-friday-deals-are-here-early-and-one-of-our-favorite-fitness-trackers-is-on-sale-for-100-185704387.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/fitbit-black-friday-deals-are-here-early-and-one-of-our-favorite-fitness-trackers-is-on-sale-for-100-185704387.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">0c6bba0c-0704-4f29-bb30-ea2b6df1800a</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 18:57:04 +0000</pubDate>
+                    <ingested>1762369031</ingested>
+                    <modified>2025-11-05T18:57:13+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F26dfac00-ba78-11f0-bfef-044b7d244d13&amp;resize=1400%2C797&amp;client=19f2b5e49a271b2bde77&amp;signature=923ceaa02379564f55e1bfac7701d9d63273e2de" width="1400" height="797" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F26dfac00-ba78-11f0-bfef-044b7d244d13&amp;resize=1400%2C797&amp;client=19f2b5e49a271b2bde77&amp;signature=fc658a75f76fe7702ebfa7b15722875cc01a477a" width="1400" height="797" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Fitbit ]]></media:credit>
+                                <media:description><![CDATA[A lady wearing a fitness tracker.]]></media:description>
+                                <media:title><![CDATA[Charge 6]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The IRS' free tax-filing tool reportedly won't be offered in 2026]]></title>
+                                        <description type="html"><![CDATA[<p>Direct File, the free, government-provided alternative to services like TurboTax, won&#39;t be available for the 2026 tax season, <a target="_blank" class="link" href="https://news.bloombergtax.com/payroll/irs-to-states-direct-file-tool-is-a-no-go-for-next-tax-season" data-i13n="cpos:1;pos:1"><em>Bloomberg Tax </em>reports</a>. That&#39;s based on a letter sent from the Internal Revenue Service to participating states that says that &quot;no launch date has been set for the future.&quot;</p><p>A Biden administration project, Direct File was designed to be an easy way for eligible taxpayers to file taxes online, without having to pay for a service like TurboTax or H&amp;R Block to do it on their behalf. The IRS <a target="_blank" class="link" href="https://www.engadget.com/irs-will-start-piloting-its-free-turbotax-alternative-in-2024-065553528.html" data-i13n="cpos:2;pos:1">began piloting</a> Direct File for the 2024 tax season, and opted to <a target="_blank" class="link" href="https://www.engadget.com/the-irs-is-making-its-free-turbo-tax-alternative-permanent-142055378.html" data-i13n="cpos:3;pos:1">make it a permanent option</a> later that year. Direct File was available for the most recent 2025 tax season in 25 states in the US.</p><p>Despite the service&#39;s success, the Trump administration appears to opposed to offering Direct File in its current form. The <a target="_blank" class="link" href="https://www.congress.gov/bill/119th-congress/house-bill/1" data-i13n="cpos:4;pos:1">&quot;Big Beautiful Bill&quot;</a> passed in July 2025 includes funding for the IRS to research &quot;the cost to replace any direct e-file programs run by the Internal Revenue Service&quot; and &quot;the cost of developing and running a free direct e-file tax return system.&quot; Whatever the results of that research, later in July, former IRS Commissioner Billy Long <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=ffaa5a7f-7276-42d4-b2ea-59a70b25a145&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=seemed+to+suggest&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzA3LzMwL2lycy1jaGllZi1zYXlzLWFnZW5jeS1wbGFucy10by1lbmQtZnJlZS1kaXJlY3QtZmlsZS1wcm9ncmFtLmh0bWwiLCJjb250ZW50VXVpZCI6ImZmYWE1YTdmLTcyNzYtNDJkNC1iMmVhLTU5YTcwYjI1YTE0NSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuY25iYy5jb20vMjAyNS8wNy8zMC9pcnMtY2hpZWYtc2F5cy1hZ2VuY3ktcGxhbnMtdG8tZW5kLWZyZWUtZGlyZWN0LWZpbGUtcHJvZ3JhbS5odG1sIn0&amp;signature=AQAAAeFYLBz_yXLTtR7Al2tiNMsBEdio0HqtmXoVsDYDYS_w&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2025%2F07%2F30%2Firs-chief-says-agency-plans-to-end-free-direct-file-program.html" data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:;cpos:5;pos:1" data-original-link="https://www.cnbc.com/2025/07/30/irs-chief-says-agency-plans-to-end-free-direct-file-program.html">seemed to suggest</a> the e-filing option had been eliminated. &quot;You&#39;ve heard of Direct File, that&#39;s gone,&quot; Long said at a tax professional summit. &quot;Big beautiful Billy wiped that out.&quot;</p><p>Engadget has contacted the IRS to confirm that Direct File won&#39;t be offered in 2026. We&#39;ll update this article if we hear back.</p><p>While the IRS has yet to formally announce that Direct File is going away outside of Long&#39;s comments, the tool is <a target="_blank" class="link" href="https://www.irs.gov/static/maintenance/RUP_Outage.html" data-i13n="cpos:6;pos:1">currently unavailable</a> through the IRS website. Additionally, the position to lead the Direct File project inside the IRS is <a target="_blank" class="link" href="https://www.irs.gov/about-irs/irs-organization" data-i13n="cpos:7;pos:1">currently vacant</a> under acting IRS Commissioner Scott Bessent.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/the-irs-free-tax-filing-tool-reportedly-wont-be-offered-in-2026-185430716.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/the-irs-free-tax-filing-tool-reportedly-wont-be-offered-in-2026-185430716.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">ffaa5a7f-7276-42d4-b2ea-59a70b25a145</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 05 Nov 2025 18:54:30 +0000</pubDate>
+                    <ingested>1762368878</ingested>
+                    <modified>2025-11-05T18:54:41+00:00</modified>
+                                            <category>
+                            <![CDATA[Politics & Government]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Taxes]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Finance]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-08%2F89419f50-010b-11ec-9ffd-e0e52c205694&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d363791f5c6cdb3724c199ac493bc819cd8d1c68" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-08%2F89419f50-010b-11ec-9ffd-e0e52c205694&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d363791f5c6cdb3724c199ac493bc819cd8d1c68" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[This photo made on Wednesday, Feb. 13, 2019, in Zelienople, Pa., shows mulitiple forms printed from the Internal Revenue Service web page that are used for 2018 U.S. federal tax returns. (AP Photo/Keith Srakocic)]]></media:description>
+                                <media:title><![CDATA[2018 IRS Tax Forms]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[UN emissions report: The planet is falling well short of its climate targets]]></title>
+                                        <description type="html"><![CDATA[<p>The outlook for future generations isn&#39;t looking so great. The UN <a target="_blank" class="link" href="https://wedocs.unep.org/handle/20.500.11822/48854;jsessionid=D23E0658FE54E97267B6D6450843FD4B" data-i13n="cpos:1;pos:1">released</a> its annual Emissions Gap Report on Tuesday, and the news is mostly bad. The world’s projected climate path falls far short of the <a target="_blank" class="link" href="https://www.engadget.com/2015-12-12-climate-change-deal-final-draft.html" data-i13n="cpos:2;pos:1">Paris Agreement targets</a>. Although the 2025 projections are slightly better than last year&#39;s, some of that improvement is due to the report&#39;s methodological changes. The UN also notes that the upcoming <a target="_blank" class="link" href="https://www.engadget.com/big-tech/president-trump-withdraws-the-us-from-the-paris-climate-agreement-again-002803951.html" data-i13n="cpos:3;pos:1">US withdrawal from the Paris Agreement</a> will basically cancel that out.</p><p>The UN measures progress based on projections of rising temperatures (relative to pre-industrial levels) by 2030. The Paris Agreement&#39;s goals are to limit that to 2 degrees Celsius (while pursuing a path to 1.5 degrees C). The current projections are well above both numbers: 2.3 to 2.5 degrees C.</p><p>Those numbers compare to 2.5 to 2.8 degrees C in last year&#39;s report, but the improvement is partially chalked up to methodological changes. The report states that the US withdrawal from the Paris Agreement in January 2026 will wipe out around 0.1 degrees C of progress.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/matt-palmer-kbTp7dBzHyY-unsplash.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/matt-palmer-kbTp7dBzHyY-unsplash.jpg" style="height:5304px;width:7952px;" alt="Wildfires" data-uuid="46e6b00d-b101-4646-83af-078755e6d4c4"><figcaption>Wildfires</figcaption><div class="photo-credit">Matt Palmer / Unsplash</div></figure><p>Getting the temperature rise down to 1.5 degrees C by 2100 is still possible, but it appears increasingly unlikely. To get there, the world would need to cut emissions by 55 percent by 2035. Meanwhile, to achieve 2 degrees C of warming by 2030, those cuts would need to reach 35 percent. As the report bleakly puts it, national pledges and the current geopolitical situation &quot;do not provide promising signs that this will happen.&quot;</p><p>&quot;Given the size of the cuts needed, the short time available to deliver them and a challenging political climate, a higher exceedance of 1.5 degrees C will happen, very likely within the next decade,&quot; the UN says. The best hope for reaching the long-term goals now lies in reversing that change after the fact. However, that carries the risk of crossing &quot;irreversible climate tipping points,&quot; such as <a target="_blank" class="link" href="https://www.engadget.com/2016-11-28-antarctica-ice-sheet-cracking.html" data-i13n="cpos:4;pos:1">the collapse of the West Antarctic ice sheet</a>.</p><p>Of course, rising temperatures alone aren&#39;t the only things to worry about. Cascading effects would include crop losses (and food insecurity), water scarcity, wildfires, coastal flooding and coral reef collapse. You also can&#39;t ignore the geopolitical implications, as desperate migrants flee uninhabitable regions, crowding the more livable ones.</p><p>A small silver lining is that solar and wind energy development has exceeded expectations, making their expansion easier and cheaper. The UN notes that <a target="_blank" class="link" href="https://www.engadget.com/the-worlds-largest-direct-carbon-capture-plant-just-went-online-172447811.html" data-i13n="cpos:5;pos:1">CO2 removal tech</a> could eventually help supplement policy changes, but that approach is &quot;uncertain, risky and costly.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/science/un-emissions-report-the-planet-is-falling-well-short-of-its-climate-targets-184255639.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/science/un-emissions-report-the-planet-is-falling-well-short-of-its-climate-targets-184255639.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">da8986b5-dcf6-49d4-a01e-160eb53aff09</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 05 Nov 2025 18:42:55 +0000</pubDate>
+                    <ingested>1762368183</ingested>
+                    <modified>2025-11-05T18:43:05+00:00</modified>
+                                            <category>
+                            <![CDATA[Natural Phenomena]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Climate Change]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Nature & Environment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fli-an-lim-ycW4YxhrWHM-unsplash.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=cd5add34553b873294c612bf96502c6b66f50c17" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fli-an-lim-ycW4YxhrWHM-unsplash.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=cd5add34553b873294c612bf96502c6b66f50c17" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Li-An Lim / Unsplash]]></media:credit>
+                                <media:description><![CDATA[Protesters holding climate change signs. &quot;There is no Planet B.&quot;]]></media:description>
+                                <media:title><![CDATA[Climate protest]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The best VPN deals: 88 percent discounts on ProtonVPN, ExpressVPN, Surfshark and more]]></title>
+                                        <description type="html"><![CDATA[<p>A <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">virtual private network (VPN)</a> is useful in several ways — a good one can stream foreign TV shows and events, save you from giving up information to hackers and keep you anonymous to protect against online tracking. Although we strongly recommend using a VPN, a bit of comparison shopping goes a long way in this market. VPN pricing can be opaque, and providers don't always portray their best deals accurately.</p>
+<p>Even so, there are genuinely great bargains on the table. VPN providers give out deep discounts to customers who sign up for a year or more at a time. This lets them boost their subscriber numbers, but it's a win for you as well — while you pay out more upfront, if you divide the cost by the months of service, it's significantly cheaper over time.</p>
+<span id="end-legacy-contents"></span><p>Most of the deals we highlight below follow that pattern, so make sure you're comfortable with a longer commitment before you take the plunge. If you've been thinking about subscribing to a VPN service, read on for the best VPN deals we could find right now.</p>
+<h2 id="jump-link-best-vpn-deals"><strong>Best VPN deals</strong></h2>
+<p><core-commerce id="96ac5765cf384f3bbb95c5bf40b9a658" data-type="product-list"></core-commerce></p>
+<p></p>
+<p><a data-i13n="elm:affiliate_link;sellerN:ExpressVPN;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4255ebf1-6185-403e-9be2-91ab47ad1ac3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ExpressVPN&amp;linkText=ExpressVPN+Basic+%E2%80%94+%2497.72+for+a+two-year+subscription+with+four+months+free+%2873+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS90b3Avc3BlY2lhbC1kZWFsL29mZmVyIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmV4cHJlc3N2cG4uY29tL3RvcC9zcGVjaWFsLWRlYWwvb2ZmZXIifQ&amp;signature=AQAAAdvyvaCYKEPEDRaiHSVqiB_O8xJWLFXjCV92TS8ZM1Yw&amp;gcReferrer=https%3A%2F%2Fwww.expressvpn.com%2Ftop%2Fspecial-deal%2Foffer" class="rapid-with-clickid" data-original-link="https://www.expressvpn.com/top/special-deal/offer"><strong>ExpressVPN Basic — $97.72 for a two-year subscription with four months free (73 percent off):</strong></a> This is one of the best VPNs, especially for new users, who will find its apps and website headache-free on all platforms. In tests for my <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/vpn-review-expressvpn-2023-gaming-streaming-160052492.html">ExpressVPN review</a>, it dropped my download speeds by less than 7 percent and successfully changed my virtual location 14 out of 15 times. In short, it's an all-around excellent service that only suffers from being a little overpriced — which is why I'm so excited whenever I find it offering a decent deal. This deal, which gets you 28 months of ExpressVPN service, represents a 73 percent savings.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:ExpressVPN;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4255ebf1-6185-403e-9be2-91ab47ad1ac3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ExpressVPN&amp;linkText=ExpressVPN+Advanced+%E2%80%94+%24125.72+for+a+two-year+subscription+with+four+months+free+%2867+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS9vcmRlci8iLCJjb250ZW50VXVpZCI6IjM4MjBmMDdmLTBjNWUtNGE5Ni1iYWJhLWQ2ZDllYTA1MTBjMyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuZXhwcmVzc3Zwbi5jb20vb3JkZXIvIn0&amp;signature=AQAAAYJJJiCVpBWMd-u8PFtNT1KgZesvJI5NwAjxhMUGyhNp&amp;gcReferrer=https%3A%2F%2Fwww.expressvpn.com%2Forder%2F" class="rapid-with-clickid" data-original-link="https://www.expressvpn.com/order/"><strong>ExpressVPN Advanced — $125.72 for a two-year subscription with four months free (67 percent off):</strong></a> ExpressVPN recently <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/cybersecurity/vpn/expressvpn-switches-to-multi-tiered-pricing-with-more-feature-options-130016633.html">split its pricing into multiple tiers</a>, but they all still come with similar discounts for going long. In addition to top-tier VPN service, advanced users get two additional simultaneous connections (for a total of 12), the ExpressVPN Keys password manager, advanced ad and tracker blocking, ID protection features and a 50 percent discount on an AirCove router.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:NordVPN;elmt:;cpos:6;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c52a3d27-2d9a-44d8-8cf2-6f6387b122a0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=NordVPN&amp;linkText=NordVPN+Basic+%E2%80%94+%2480.73+for+a+two-year+subscription+with+three+months+free+%2874+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25vcmR2cG4uY29tL3NwZWNpYWwvIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbm9yZHZwbi5jb20vc3BlY2lhbC8ifQ&amp;signature=AQAAAdOT-QW4mYUKKaZHKPgEaTgjP68Gxzw0j_z_9YlV2rsv&amp;gcReferrer=https%3A%2F%2Fnordvpn.com%2Fspecial%2F" class="rapid-with-clickid" data-original-link="https://nordvpn.com/special/"><strong>NordVPN Basic — $80.73 for a two-year subscription with three months free (74 percent off):</strong></a> NordVPN gets the most important parts of a VPN right. It's fast, it doesn't leak any of your data and it's great at changing your virtual location. I noted in my <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html">NordVPN review</a> that it always connects quickly and includes a support page that makes it easy to get live help. Although I'm sad to see it <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-will-discontinue-meshnet-on-december-1-175538284.html">shutting down Meshnet</a>, NordVPN still includes a lot of cool features, like servers that instantly connect you to Tor. This early Black Friday deal gives you 74 percent off the two-year plan, which also comes with three extra months.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:NordVPN;elmt:;cpos:9;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c52a3d27-2d9a-44d8-8cf2-6f6387b122a0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=NordVPN&amp;linkText=NordVPN+Plus+%E2%80%94+%24105.03+for+a+two-year+subscription+with+three+months+free+%2874+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25vcmR2cG4uY29tL3NwZWNpYWwvcHJpY2luZy8iLCJjb250ZW50VXVpZCI6IjM4MjBmMDdmLTBjNWUtNGE5Ni1iYWJhLWQ2ZDllYTA1MTBjMyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly9ub3JkdnBuLmNvbS9zcGVjaWFsL3ByaWNpbmcvIn0&amp;signature=AQAAAYmuUj1Ii9goZGcp0SPeezjUlzb3qrEJ4zxaiRP4qpN8&amp;gcReferrer=https%3A%2F%2Fnordvpn.com%2Fspecial%2Fpricing%2F" class="rapid-with-clickid" data-original-link="https://nordvpn.com/special/pricing/"><strong>NordVPN Plus — $105.03 for a two-year subscription with three months free (74 percent off):</strong></a> In another early Black Friday discount, NordVPN has also taken 74 percent off its Plus subscription. For only a little more, you get a powerful ad and tracker blocker that can also catch malware downloads, plus access to the NordPass password manager. A Plus plan also adds a data breach scanner that checks the dark web for your sensitive information.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:surfshark;elmt:;cpos:10;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6119f7ca-bf13-40ba-b3f6-2a335a8890f6&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=surfshark&amp;linkText=Surfshark+Starter+%E2%80%94+%2453.73+for+a+two-year+subscription+with+three+months+free+%2887+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyJ9&amp;signature=AQAAAdH2FAIDIVtPS_0cqGWMA7QRjWMeFVrXRjSMMEO0fqYM&amp;gcReferrer=https%3A%2F%2Fsurfshark.com%2Fpricing" class="rapid-with-clickid" data-original-link="https://surfshark.com/pricing"><strong>Surfshark Starter — $53.73 for a two-year subscription with three months free (87 percent off):</strong></a> This is the "basic" level of <a data-i13n="cpos:11;pos:1" href="https://www.engadget.com/cybersecurity/vpn/surfshark-vpn-review-a-fast-vpn-for-casual-users-170022675.html">Surfshark</a>, but it includes the entire VPN; everything on Surfshark One is an extra perk. With this subscription, you'll get some of the most envelope-pushing features in the VPN world right now. Surfshark can rotate your IP constantly to help you evade detection — it even lets you choose your own entry and exit nodes for a double-hop connection. That all comes with a near-invisible impact on download speeds. With this year-round deal, you can save 87 percent on 27 months of Surfshark.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:surfshark;elmt:;cpos:12;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=6119f7ca-bf13-40ba-b3f6-2a335a8890f6&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=surfshark&amp;linkText=Surfshark+One+%E2%80%94+%2459.13+for+a+two-year+subscription+with+three+months+free+%2888+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cmZzaGFyay5jb20vcHJpY2luZyJ9&amp;signature=AQAAAdH2FAIDIVtPS_0cqGWMA7QRjWMeFVrXRjSMMEO0fqYM&amp;gcReferrer=https%3A%2F%2Fsurfshark.com%2Fpricing" class="rapid-with-clickid" data-original-link="https://surfshark.com/pricing"><strong>Surfshark One — $59.13 for a two-year subscription with three months free (88 percent off):</strong></a> A VPN is great, but it's not enough to protect your data all on its own. Surfshark One adds several apps that boost your security beyond just VPN service, including Surfshark Antivirus (scans devices and downloads for malware) and Surfshark Alert (alerts you whenever your sensitive information shows up in a data breach), plus Surfshark Search and Alternative ID from the tier below. This extra-low deal gives you 88 percent off all those features. If you bump up to Surfshark One+, you'll also get data removal through Incogni, but the price jumps enough that it's not quite worthwhile in my eyes.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:CyberGhost;elmt:;cpos:13;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=9fd99815-3196-46cf-9b6f-707caf84c282&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=CyberGhost&amp;linkText=CyberGhost+%E2%80%94+%2456.94+for+a+two-year+subscription+with+two+months+free+%2883+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jeWJlcmdob3N0dnBuLmNvbS9idXkvY3liZXJnaG9zdC12cG4tMyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5jeWJlcmdob3N0dnBuLmNvbS9idXkvY3liZXJnaG9zdC12cG4tMyJ9&amp;signature=AQAAAVFDOemP8POGnLzpyPpCaI_la8hdkR0Ve_jFdJWf5NL4&amp;gcReferrer=https%3A%2F%2Fwww.cyberghostvpn.com%2Fbuy%2Fcyberghost-vpn-3" class="rapid-with-clickid" data-original-link="https://www.cyberghostvpn.com/buy/cyberghost-vpn-3"><strong>CyberGhost — $56.94 for a two-year subscription with two months free (83 percent off):</strong></a> CyberGhost has some of the best automation you'll see on any VPN. With its Smart Rules system, you can determine how its apps respond to different types of Wi-Fi networks, with exceptions for specific networks you know by name. Typically, you can set it to auto-connect, disconnect or send you a message asking what to do. CyberGhost's other best feature is its streaming servers — I've found both better video quality and more consistent unblocking when I use them on streaming sites. Currently, you can get 26 months of CyberGhost for 83 percent off the usual price.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:Hide.me;elmt:;cpos:14;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=9e251e36-74b6-419a-8a7b-de182315da42&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=Hide.me&amp;linkText=hide.me+%E2%80%94+%2459.95+for+a+two-year+subscription+with+five+months+free+%2879+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2hpZGUubWUvZW4vcHJpY2luZyIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL2hpZGUubWUvZW4vcHJpY2luZyJ9&amp;signature=AQAAAe0QPv6SUX-6hvSv7_eROeuRZA8bFPmcBZA109HcavzL&amp;gcReferrer=https%3A%2F%2Fhide.me%2Fen%2Fpricing" class="rapid-with-clickid" data-original-link="https://hide.me/en/pricing"><strong>hide.me — $59.95 for a two-year subscription with five months free (79 percent off):</strong></a> Hide.me is an excellent free VPN — in fact, it's my favorite on the market, even with <a data-i13n="cpos:15;pos:1" href="https://www.engadget.com/cybersecurity/vpn/heres-how-eventvpn-is-different-from-other-free-vpns-213014671.html">EventVPN</a> and the free version of Proton VPN as competition. If you do want to upgrade to its paid plan, though, the two-year subscription offers great savings. Hide.me works well as a no-frills beginner VPN, with apps and a server network it should frankly be charging more for.</p>
+<p><a data-i13n="elm:affiliate_link;sellerN:private internet access;elmt:;cpos:16;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=8b0732cc-efc2-4542-849d-cadc641525e2&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=private+internet+access&amp;linkText=Private+Internet+Access+%E2%80%94+%2479+for+a+three-year+subscription+with+three+months+free+%2883+percent+off%29%3A&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5wcml2YXRlaW50ZXJuZXRhY2Nlc3MuY29tL2J1eS12cG4tb25saW5lP2NvdXBvbj1vZmZpY2lhbC1zaXRlIiwiY29udGVudFV1aWQiOiIzODIwZjA3Zi0wYzVlLTRhOTYtYmFiYS1kNmQ5ZWEwNTEwYzMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYnV5LXZwbi1vbmxpbmU_Y291cG9uPW9mZmljaWFsLXNpdGUifQ&amp;signature=AQAAATlqHa_vZEKuis4XsOMk7-D6bWa2kZz1DudT0Xrs_4bN&amp;gcReferrer=https%3A%2F%2Fwww.privateinternetaccess.com%2Fbuy-vpn-online%3Fcoupon%3Dofficial-site" class="rapid-with-clickid" data-original-link="https://www.privateinternetaccess.com/buy-vpn-online?coupon=official-site"><strong>Private Internet Access — $79 for a three-year subscription with three months free (83 percent off):</strong></a> It's a bit hard to find (the link at the start of this paragraph includes the coupon), but <a data-i13n="cpos:17;pos:1" href="https://www.engadget.com/cybersecurity/vpn/private-internet-access-vpn-review-both-more-and-less-than-a-budget-vpn-120033882.html">Private Internet Access (PIA)</a> is giving out the best available price right now on a VPN I'd recommend using. With this deal, you can get 39 months of PIA for a little bit over $2 per month — an 83 percent discount on its monthly price. Despite being so cheap, PIA has plenty of features, coming with its own DNS servers, a built-in ad blocker and automation powers to rival CyberGhost. However, internet speeds can fluctuate while you're connected.</p>
+<h2 id="jump-link-what-makes-a-good-vpn-deal"><strong>What makes a good VPN deal</strong></h2>
+<p>Practically every VPN heavily discounts its long-term subscriptions year-round, with even sharper discounts around occasions like Black Friday/Cyber Monday. The only noteworthy exception is Mullvad, the Costco hot dog of VPNs (that's a compliment, to be clear). When there's constantly a huge discount going on, it can be hard to tell when you're actually getting a good deal. The best way to squeeze out more savings is to look for seasonal deals, student discounts or exclusive sales like <a data-i13n="elm:affiliate_link;sellerN:ProtonVPN;elmt:;cpos:18;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=06a20697-4135-4e83-a421-f326eee937ed&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3820f07f-0c5e-4a96-baba-d6d9ea0510c3&amp;featureId=text-link&amp;merchantName=ProtonVPN&amp;linkText=Proton+VPN%27s+coupon+for+Engadget+readers&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3Byb3RvbnZwbi5jb20vbC92cG4taG9tZS1wbGFucy1vZmZlci02NiIsImNvbnRlbnRVdWlkIjoiMzgyMGYwN2YtMGM1ZS00YTk2LWJhYmEtZDZkOWVhMDUxMGMzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3Byb3RvbnZwbi5jb20vbC92cG4taG9tZS1wbGFucy1vZmZlci02NiJ9&amp;signature=AQAAAXblbAdg41Upy-ikI1NWGnvIj4qyrHoZiRe-XQqP16_n&amp;gcReferrer=https%3A%2F%2Fprotonvpn.com%2Fl%2Fvpn-home-plans-offer-66" class="rapid-with-clickid" data-original-link="https://protonvpn.com/l/vpn-home-plans-offer-66">Proton VPN's coupon for Engadget readers</a>.</p>
+<p>One trick VPNs often use is to add extra months onto an introductory deal, pushing the average monthly price even lower. When it comes time to renew, you usually can't get these extra months again. You often can't even renew for the same basic period of time — for example, you may only be able to renew a two-year subscription for one year. If you're planning to hold onto a VPN indefinitely, check the fine print to see how much it will cost per month after the first renewal, and ensure that fits into your budget.</p>
+<p><em>Follow </em><a data-i13n="cpos:19;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:20;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:21;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/the-best-vpn-deals-88-percent-discounts-on-protonvpn-expressvpn-surfshark-and-more-120056432.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/the-best-vpn-deals-88-percent-discounts-on-protonvpn-expressvpn-surfshark-and-more-120056432.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3820f07f-0c5e-4a96-baba-d6d9ea0510c3</guid>
+                                                                                        <dc:creator><![CDATA[Sam Chapman]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 18:23:27 +0000</pubDate>
+                    <ingested>1762367007</ingested>
+                    <modified>2025-11-05T18:23:31+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sam Chapman]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2Fb2dd52b0-8365-11f0-b7fd-343d09fff71e&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=abeb41219838cfcffef2ca99a318932c0c24863c" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-08%2Fb2dd52b0-8365-11f0-b7fd-343d09fff71e&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=160299240bf5890c495b7bce8732e7c41ea1aae2" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Engadget]]></media:credit>
+                                <media:description><![CDATA[Best VPN deals]]></media:description>
+                                <media:title><![CDATA[Best VPN deals]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Reddit will be included in Australia's looming under-16 social media ban]]></title>
                                         <description type="html"><![CDATA[<p>Reddit won&#39;t escape Australia&#39;s child social media ban. <em>The Guardian</em> <a target="_blank" class="link" href="https://www.theguardian.com/australia-news/2025/nov/04/reddit-included-australia-under-16-social-media-ban" data-i13n="slk:reports;cpos:1;pos:1">reports</a> that Communications Minister Anika Wells announced Reddit&#39;s addition on Wednesday. The nation&#39;s law, which <a target="_blank" class="link" href="https://www.engadget.com/big-tech/australia-is-one-step-away-from-banning-social-media-for-under-16s-160454882.html" data-i13n="slk:blocks children under 16 from major social media sites;cpos:2;pos:1">blocks children under 16 from major social media sites</a>, is scheduled to go into effect on December 10.</p><p>Alongside Reddit, Wells said Australian streaming site Kick would also be included. They join the previously announced Facebook, X, Snapchat, TikTok, YouTube and Instagram. Australia considers the list to be a starting point for the ban and won&#39;t rule out adding more. </p><p>YouTube was initially excluded because it was considered an educational tool. But after <a target="_blank" class="link" href="https://www.engadget.com/big-tech/meta-tiktok-argue-youtube-should-be-included-in-australias-under-16-social-media-ban-160220248.html" data-i13n="slk:protests from other companies;cpos:3;pos:1">protests from other companies</a> on the list, <a target="_blank" class="link" href="https://www.engadget.com/big-tech/meta-tiktok-argue-youtube-should-be-included-in-australias-under-16-social-media-ban-160220248.html" data-i13n="slk:Australia ultimately added it;cpos:4;pos:1">Australia ultimately added it</a>.</p><p>The ban passed in late 2024. The legislation puts the onus on the platforms, rather than parents, to police underage use. Companies that don&#39;t take reasonable steps to prevent under-16 users from accessing their platforms can face penalties of up to AU$49.5 million (around $32 million).</p><p>&quot;There&#39;s a time and place for social media in Australia, but there&#39;s not a place for predatory algorithms, harmful content and toxic popularity [meters] manipulating Australian children,&quot; Wells said. &quot;Online platforms can target children with chilling control. We are mandating they use that sophisticated technology to protect them.&quot;</p><p><strong>Update, November 5 2025, 1:09PM ET:</strong> A previous version of this story indicated that Australia was considering banning under 16s from using Discord, GitHub and Roblox. This is not the case, as Australian officials <a target="_blank" class="link" href="https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions/which-platforms-are-age-restricted" data-i13n="cpos:5;pos:1">do not plan to treat those</a> as age-restricted social media platforms. We regret the error.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/reddit-will-be-included-in-australias-looming-under-16-social-media-ban-213052856.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/reddit-will-be-included-in-australias-looming-under-16-social-media-ban-213052856.html?src=rss]]></link>
@@ -638,59 +918,6 @@
                                 <media:credit><![CDATA[Jeff Dunn for Engadget]]></media:credit>
                                 <media:description><![CDATA[The PlayStation Portal gaming handheld sits on a brown wooden table surrounded by various parenting items, including a bottle, teething toy, pacifier and children's book.]]></media:description>
                                 <media:title><![CDATA[PlayStation Portal]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Sony has a new benchmark for ethical AI]]></title>
-                                        <description type="html"><![CDATA[<p>Sony AI released a dataset that tests the fairness and bias of AI models. It&#39;s called the Fair Human-Centric Image Benchmark (FHIBE, pronounced like &quot;Phoebe&quot;). The company describes it as the &quot;first publicly available, globally diverse, consent-based human image dataset for evaluating bias across a wide variety of computer vision tasks.&quot; In other words, it tests the degree to which today&#39;s AI models treat people fairly. Spoiler: Sony didn&#39;t find a single dataset from any company that fully met its benchmarks.</p>
-<p>Sony says FHIBE can address the AI industry&#39;s ethical and bias challenges. The dataset includes images of nearly 2,000 volunteers from over 80 countries. All of their likenesses were shared with consent — something that can&#39;t be said for the common practice of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-investigating-perplexity-ai-after-accusations-it-scrapes-websites-without-consent-133003374.html">scraping large volumes of web data</a>. Participants in FHIBE can remove their images at any time. Their photos include annotations noting demographic and physical characteristics, environmental factors and even camera settings.</p>
-<span id="end-legacy-contents"></span><p>The tool &quot;affirmed previously documented biases&quot; in today&#39;s AI models. But Sony says FHIBE can also provide granular diagnoses of factors that led to those biases. One example: Some models had lower accuracy for people using &quot;she/her/hers&quot; pronouns, and FHIBE highlighted greater hairstyle variability as a previously overlooked factor.</p>
-<p>FHIBE also determined that today&#39;s AI models reinforced stereotypes when prompted with neutral questions about a subject&#39;s occupation. The tested models were particularly skewed &quot;against specific pronoun and ancestry groups,&quot; describing subjects as sex workers, drug dealers or thieves. And when prompted about what crimes an individual committed, models sometimes produced &quot;toxic responses at higher rates for individuals of African or Asian ancestry, those with darker skin tones and those identifying as &#39;he/him/his.&#39;&quot;</p>
-<p>Sony AI says FHIBE proves that ethical, diverse and fair data collection is possible. The tool is now <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://fairnessbenchmark.ai.sony">available to the public</a>, and it will be updated over time. A paper outlining the research was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.nature.com/articles/s41586-025-09716-2">published</a> in <em>Nature</em> on Wednesday.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3637c922-a52f-4331-a4c8-15e6d032d81c</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 05 Nov 2025 16:00:45 +0000</pubDate>
-                    <ingested>1762287082</ingested>
-                    <modified>2025-11-04T20:11:24+00:00</modified>
-                                            <category>
-                            <![CDATA[Science]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d65a9674c434335cb46b51e7432cfb047689498" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d951a735e40aba3618395b7d7fb88127febce6f" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Sony]]></media:credit>
-                                <media:description><![CDATA[View from the ground of a Sony logo on a corporate building.]]></media:description>
-                                <media:title><![CDATA[Sony logo]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -2802,268 +3029,6 @@
                                 <media:credit><![CDATA[Nathan Ingraham for Engadget]]></media:credit>
                                 <media:description><![CDATA[Amazon&#39;s Echo Dot Max with its light ring activated.]]></media:description>
                                 <media:title><![CDATA[Amazon Echo Dot Max]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Nintendo's patent on summoning fighting NPCs is being reexamined]]></title>
-                                        <description type="html"><![CDATA[<p>Nintendo&#39;s <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-palworld-lawsuit-seeks-65700-in-damages-163051523.html">lawsuit against <em>Palworld</em></a> just hit a snag. The US Patent and Trademark Office (USPTO) has ordered a reexamination of a key Nintendo patent expected to be wielded in the case. <em>Games Fray</em> <a data-i13n="cpos:2;pos:1" href="https://gamesfray.com/huge-blow-for-nintendo-head-of-u-s-patent-office-takes-rare-step-to-order-reexamination-of-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent/">reports</a> that the office is reviewing the Switch maker&#39;s patent regarding &quot;summon subcharacter and let it fight in 1 of 2 modes.&quot; If we view Nintendo&#39;s <em>Palworld</em> lawsuit as a test bed for monopolizing game mechanics, the development can only be seen as a good thing.&nbsp;</p>
-<p>Several factors make the reexamination unusual. First, Nintendo&#39;s patent in question (No. 12,403,397) was just <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://massivelyop.com/2025/09/10/nintendo-secures-us-patent-for-game-mechanics-that-summon-a-character-for-fights/">granted</a> in September. The review was personally ordered by newly sworn-in USPTO Director John A. Squires. The Trump appointee has historically sided with patent holders, making it <em>harder</em> to contest them. Stranger still, <em>Games Fray</em> says this may be the USPTO&#39;s first patent reexamination in over a decade.</p>
-<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed67aac0-b9a2-11f0-adb7-b48093cb59a6" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed67aac0-b9a2-11f0-adb7-b48093cb59a6" style="height:1080px;width:1920px;" alt="Sheep with guns in the game Palworld." data-uuid="2cde53b0-8168-387d-971d-63853a1a0302"><figcaption><em>Palworld</em></figcaption><div class="photo-credit">Pocketpair</div></figure>
-<p>Those ingredients suggest widespread blowback may be the driving force. Although <em>Palworld</em> developer Pocketpair is <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-palworld-lawsuit-seeks-65700-in-damages-163051523.html">Nintendo&#39;s immediate target</a>, it&#39;s easy to see the case opening a Pandora&#39;s box where developers fear using well-established game mechanics. Indie developers would be particularly vulnerable. The &quot;slippery slope&quot; commentary practically writes itself.</p>
-<p>If Nintendo&#39;s patent is ultimately invalidated, we may be able to thank Konami. A 2002 patent application from the maker of Metal Gear and Castlevania was cited as prior art, casting doubt on Nintendo&#39;s claim. A separate Nintendo patent, published in 2020, was also listed as possible prior art. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://gamesfray.com/huge-blow-for-nintendo-head-of-u-s-patent-office-takes-rare-step-to-order-reexamination-of-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent/"><em>Games Fray</em>&#39;s report</a> dives much deeper into the legal weeds.</p>
-<p>Nintendo now has two months to respond. During that period, third parties can come forward with additional prior art references. As a nervous industry eyes Nintendo&#39;s case as a potential test bed for monopolizing game mechanics, don&#39;t be shocked if gaming lawyers search far and wide for more examples.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/nintendos-patent-on-summoning-fighting-npcs-is-being-reexamined-180949135.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/nintendos-patent-on-summoning-fighting-npcs-is-being-reexamined-180949135.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ecd77607-c2da-40a5-bc3e-9df03a5070cd</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 04 Nov 2025 18:09:49 +0000</pubDate>
-                    <ingested>1762278606</ingested>
-                    <modified>2025-11-04T17:50:09+00:00</modified>
-                                            <category>
-                            <![CDATA[Company Legal & Law Matters]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F3babfba0-b9a3-11f0-bddf-f8938bbe48a0&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=115a0a535cbc7bce23e1f6a92f20a80256f0ba7f" width="1400" height="786" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F3babfba0-b9a3-11f0-bddf-f8938bbe48a0&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=c96bf9e6a2674e31e65defa32c0e62b21fd0a3eb" width="1400" height="786" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Pokemon.com]]></media:credit>
-                                <media:description><![CDATA[A sad Pikachu in his trainer's arms.]]></media:description>
-                                <media:title><![CDATA[Sad Pikachu]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[UK High Court sides with Stability AI over Getty in copyright case]]></title>
-                                        <description type="html"><![CDATA[<p>Stability AI has partially succeeded in defending itself against accusations of copyright infringement. As reported by <a data-i13n="cpos:1;pos:1" href="https://www.theguardian.com/media/2025/nov/04/stabilty-ai-high-court-getty-images-copyright"><em>The Guardian</em></a>, Stability AI prevailed in a high-profile UK High Court case, following Getty first <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/getty-images-sues-the-maker-of-ai-art-generator-stable-diffusion-over-data-scraping-allegations-184502897.html">suing</a> the company in 2023 for allegedly using its copyright images to train its Stable Diffusion AI art tool without permission.</p>
-<p>Getty’s original claim was that Stability AI had unlawfully copied and processed millions of protected images for training purposes, therefore abusing the rights of the original creators. However, the Seattle-based company eventually withdrew its claims of primary copyright infringement as it reportedly could offer no evidence that unauthorized copying for the training of Stable Diffusion had taken place in the UK.</p>
-<span id="end-legacy-contents"></span><p>Today’s ruling concerns claims of secondary infringement, to which the High Court judge, Justice Joanna Smith, ruled that &quot;an AI model such as Stable Diffusion which does not store or reproduce any copyright works (and has never done so) is not an &#39;infringing copy&#39;&quot; under UK law. This was despite the ruling finding some evidence of Getty’s images being used by Stability, as evidenced by the presence of the former’s watermark. While the judge sided with Getty on some of its claims, she <a data-i13n="cpos:3;pos:1" href="https://apnews.com/article/getty-stability-ai-image-copyright-trademark-fa2c561a33c7b6714a7657255a3fbdf1">said</a> that the evidence was &quot;both historic and extremely limited in scope.&quot;</p>
-<p>The High Court ruling likely won’t fill companies and creators concerned about AI-related copyright infringement with a huge amount of optimism, but unsurprisingly, both Getty and Stability AI have been quick to celebrate their respective victories. Getty&#39;s statement reads, in part:</p>
-<blockquote><p>Today’s ruling confirms that Stable Diffusion’s inclusion of Getty Images’ trademarks in AI‑generated outputs infringed those trademarks. Crucially, the Court rejected Stability AI’s attempt to hold the user responsible for that infringement, confirming that responsibility for the presence of such trademarks lies with the model provider, who has control over the images used to train the model. This is a significant win for intellectual property owners. The ruling delivered another key finding; that, wherever the training and development did take place, Getty Images&#39; copyright‑protected works were used to train Stable Diffusion. The ruling also established a powerful precedent that intangible articles, such as AI models, are subject to copyright infringement claims in the same way as tangible articles. We will be taking forward findings of fact from the UK ruling in our US case.</p></blockquote>
-<p>The company added that it was &quot;deeply concerned&quot; that even &quot;well-resourced companies&quot; remain at risk of infringement due to a &quot;lack of transparent requirements.&quot; It also urged the UK government to build on the current laws around this issue. Christian Dowell, general counsel to Stability AI, said the final ruling from the court &quot;ultimately resolves the copyright concerns that were the core issue.&quot;</p>
-<p>The ruling comes just days after Getty <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/perplexity-signs-deal-to-use-getty-images-152343900.html">announced</a> a new agreement with Perplexity AI that permits the latter to access Getty’s huge media library as part of its search and discovery tools. In a <a data-i13n="cpos:5;pos:1" href="https://newsroom.gettyimages.com/en/getty-images/getty-images-and-perplexity-strike-multi-year-image-partnership">press release</a>, Getty said a condition of the licensing deal was Perplexity committing to &quot;making improvements on how it displays imagery, including image credit with link to source, to better educate users on how to use licensed imagery legally.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/uk-high-court-sides-with-stability-ai-over-getty-in-copyright-case-180029461.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/uk-high-court-sides-with-stability-ai-over-getty-in-copyright-case-180029461.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">58dc9bce-b5ac-486a-b556-f3053cd08f46</guid>
-                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 04 Nov 2025 18:00:29 +0000</pubDate>
-                    <ingested>1762278424</ingested>
-                    <modified>2025-11-04T17:47:07+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Matt Tate]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F20cd2080-b9a2-11f0-bfcf-2a0f90c5765d&amp;resize=1400%2C991&amp;client=19f2b5e49a271b2bde77&amp;signature=f63bcf4fd422c512e36b4b11474250bb54f9b05f" width="1400" height="991" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F20cd2080-b9a2-11f0-bfcf-2a0f90c5765d&amp;resize=1400%2C991&amp;client=19f2b5e49a271b2bde77&amp;signature=d7e693b47efef4fecb8a6ea71ad5db38347950b2" width="1400" height="991" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Stability AI]]></media:credit>
-                                <media:description><![CDATA[Stable Diffusion]]></media:description>
-                                <media:title><![CDATA[Stable Diffusion]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple may release its first 'low-cost' Mac laptop in early 2026]]></title>
-                                        <description type="html"><![CDATA[<p>It seems Apple is preparing to debut a low-cost Mac laptop in the first half of 2026. According to <a><em>Bloomberg</em></a>, such a system is in early production at the company’s overseas suppliers and Apple is testing the devices internally.</p><p>Apple’s aim with this laptop, per the report, is to draw people away from the likes of Chromebooks and cheap Windows PCs and into its own ecosystem. The company is said to be making the system with casual users, students and businesses in mind — the kinds of folks who use laptops for tasks like web browsing, light media editing and working on documents. Apple is also reportedly planning to aim the system at potential iPad buyers who’d still rather have a traditional laptop.</p><p>The laptop is said to have a new design with a “lower-end LCD display” and it’s expected to run on an A-series iPhone processor that’s said to deliver better performance than the M1. It’s also likely to have a smaller display than the 13.6-inch MacBook Air. </p><p>Performance is important, but the price point will be crucial if Apple wants to really compete with the proliferation of Chromebooks and entry-level Windows devices.  The company is said to be ready to sell this Mac for “well under $1,000.” Chromebooks and Windows laptops often sell for just a few hundred bucks. Higher-end Chromebooks cost around $600, so Apple would likely have to sell this laptop for $700 or less for it to make a real splash.</p><p>Apple has traditionally focused on making premium devices, but would be a smart time for the company to enter the lower end of the market. Microsoft is <a>ending support for Windows 10</a>, including on devices that don’t support Windows 11 and owners of such systems (including businesses) may need to buy new laptops in the near future to have the latest security updates.</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/apple-may-release-its-first-low-cost-mac-laptop-in-early-2026-174143869.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/laptops/apple-may-release-its-first-low-cost-mac-laptop-in-early-2026-174143869.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">accec74c-cbd3-4364-8757-fa1936339282</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Tue, 04 Nov 2025 17:41:43 +0000</pubDate>
-                    <ingested>1762278464</ingested>
-                    <modified>2025-11-04T17:47:47+00:00</modified>
-                                            <category>
-                            <![CDATA[Computing]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmacbook.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a8179a202aaab6539f3e7422b30bb43016064256" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmacbook.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a8179a202aaab6539f3e7422b30bb43016064256" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[MacBook Pro]]></media:description>
-                                <media:title><![CDATA[MacBook Pro]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The best VR headsets for 2025]]></title>
-                                        <description type="html"><![CDATA[<p>Choosing the best VR headset for you is the first step into some of the most immersive gaming, entertainment and virtual work experiences available today. Whether you’re exploring new worlds, working out in virtual gyms or collaborating in 3D environments, a great headset can make all the difference. The latest models offer high-resolution displays, improved FOV (field of view) and ergonomic head strap designs that keep things comfortable during extended sessions. Many also support Bluetooth for connecting external accessories like controllers or earbuds.<br><br>As the tech has matured, you’ll now find headsets that balance performance with portability, and some even offer a wider field of view to enhance your sense of presence in virtual spaces. From beginner-friendly options to high-end devices built for enthusiasts, there&#39;s a VR headset out there for every type of user — and this guide will help you find the one that fits your needs best.</p> 
-<h2 id="jump-link-table-of-contents">Table of contents</h2> 
-<ul> 
- <li><p><a href="#jump-link-best-vr-headsets-for-2025">Best VR headsets for 2025</a></p></li> 
- <li><p><a href="#jump-link-how-we-test-vr-headsets">How we test VR headsets</a></p></li> 
- <li><p><a href="#jump-link-other-vr-headsets-weve-tested">Other VR headsets we&#39;ve tested</a></p></li> 
- <li><p><a href="#jump-link-vr-headset-faqs">VR headset FAQs</a></p></li> 
- <li><p><a href="#jump-link-recent-updates">Recent updates</a></p></li> 
-</ul> 
-<h2 id="jump-link-best-vr-headsets-for-2025">Best VR headsets for 2025</h2> 
-<p>
- <core-commerce id="2b2d04036ae140fd93123b8cdeba4516" data-type="product-list" data-original-url="https://www.amazon.com/Meta-Quest-128GB-Breakthrough-Reality-3/dp/B0CD1JTBSC?th=1e-Asgard-s-Wrath-2/3551794083"></core-commerce></p> 
-<p>
- <core-commerce id="ceabccb06a364244bd28c74047b07f65" data-type="product-list"></core-commerce></p> 
-<p>
- <core-commerce id="171b4d5f96d7430aab711101f5e8ebbb" data-type="product-list" data-original-url="https://www.apple.com/shop/buy-vision/apple-vision-pro"></core-commerce></p> 
-<p>
- <core-commerce id="735d522e721747bd8264bdc069c9333f" data-type="product-list" data-original-url="https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.fN9r3xL6MjVtV4lr6HBtsh8ueNQDi05ffP948iDYYBR-eEgXZuL6JybyTCbL2GvEYYRu2_WpKIwbVh3yfwA25nBVC5vcDBpwQYR5ZPd7nQf4bNkLIupa5OD5L4UsAbj1SUl79jv9a69prYeAkKnB352cM8CraU6RB6jxIhoMFvIzoITnnBC8Ze9JvnEbJdeN8mtRLSk_QJCfG4m3cPEJA2lZbEhoFRND0n0MHZ0nwIo.BvctbdJzyfYN6QvA1WJKw16QBRTN4vdPY0SYm95BCyY&amp;dib_tag=se&amp;hvadid=697698724558&amp;hvdev=c&amp;hvlocphy=9060225&amp;hvnetw=g&amp;hvqmt=b&amp;hvrand=7724742007734705588&amp;hvtargid=kwd-2277643260461&amp;hydadcr=2105_13435901&amp;keywords=quest+3s&amp;qid=1728847120&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1"></core-commerce></p> 
-<p>
- <core-commerce id="012b544e165942b5b9f134356312ed44" data-type="product-list" data-original-url="https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579"></core-commerce></p> 
-<p>
- <core-commerce id="ed91317a851b4674bcc479fdd2036c43" data-type="product-list" data-original-url="https://store.steampowered.com/valveindex"></core-commerce></p> 
-<p>
- <core-commerce id="cb0fa0b2ce9b48f2bc06b5f13abfd0d1" data-type="product-list" data-original-url="https://www.bigscreenvr.com/"></core-commerce></p> 
-<h2 id="jump-link-how-we-test-vr-headsets">How we test VR headsets</h2> 
-<p>I tend to judge candidates for the best VR headset on a few basic criteria: Ergonomics, immersion and controls. It&#39;s not that hard to shove a mobile display into a plastic headset and strap some cheap elastic headbands onto it. But it takes real design skill to craft something that&#39;s well balanced, includes a supportive headstrap, and doesn&#39;t feel uncomfortable after 30 minutes.</p> <span id="end-legacy-contents"></span>
-<p>My test for ergonomics is fairly simple: How long can I wear a headset until I start to feel discomfort? For the most ergonomic devices, like the Quest 3, that could easily be an hour or two. But heavier PC hardware often feels cumbersome after just 15 minutes — you won’t find those kinds of devices in our list of the best VR headsets.</p> 
-<p>Immersion, meanwhile, comes from having high resolution screens with fast refresh rates, like a 120Hz refresh rate, so everything looks sharp and smooth. Field of view is also a major element, as it describes how well VR screens can cover what you see. A narrow FOV makes it feel like you&#39;re peering through a pair of binoculars, which limits your sense of “presence.” The best VR headsets aim for a wider field of view, helping virtual environments feel more natural and fully surround you.</p> 
-<p>A wide field of view, on the other hand, can make it seem like you’re actually flying over the globe in Google Earth. We look at a few popular video games, like <em>Superhot</em>, <em>Beat Saber </em>and <em>Pistol Whip</em>, on every headset to judge how immersed we feel and how enjoyable the gaming experience is overall.</p> 
-<p>The best controllers fit naturally in your hands and offer accurate tracking. The industry has basically adopted the design of Meta’s excellent touch controllers, but we&#39;re also seeing intriguing leaps forward like Valve&#39;s finger tracking gamepads. We judge controllers based on how easy they are to hold, how they hold up to sweaty gameplay sessions and how easily headsets can track their position in space.</p> 
-<p>However, it’s important to look at a virtual reality headset’s specs as a whole. Depending on what you’re looking for in yourVR headset, you’ll want to consider factors like your PC’s CPU and graphics card if you plan to use the headset to play the best VR games. You might not need a super powerful PC, but you should check the minimum requirements for the headset you’re looking to purchase. If you’re not looking to invest in a VR headset solely for gaming, features like head tracking allow you to explore your environment just by simply moving your head in the simulator. This often results in a more immersive and realistic experience.</p> 
-<h2 id="jump-link-other-vr-headsets-weve-tested">Other VR headsets we’ve tested</h2> 
-<h3 id="jump-link-htc-vive-focus-vision">HTC Vive Focus Vision</h3> 
-<p>The <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/ar-vr/htc-vive-focus-vision-review-a-premium-vr-headset-with-average-performance-150029763.html">Vive Focus Vision</a> is a sleek premium standalone VR headset that can also deliver solid PC VR. But it’s also running aging hardware, it’s riddled with software issues and it’s expensive compared to the Meta Quest 3.</p> 
-<h3 id="jump-link-meta-quest-pro">Meta Quest Pro</h3> 
-<p>As great as the Meta Quest 3 is, the Quest 2 is still a very good entry-level VR headset, and it’s worth considering if it’s on sale below its current $250 list price. The <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/meta-quest-pro-review-a-next-gen-headset-for-the-vr-faithful-specs-price-130045313-130045431.html">Meta Quest Pro</a>, on the the hand, is an expensive boondoggle best ignored.</p> 
-<h3 id="jump-link-htc-vive-pro-2">HTC Vive Pro 2</h3> 
-<p>Outside of Meta’s hardware, the HTC <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/htc-vive-pro-2-review-5k-vr-headset-133100685-133000767.html">Vive Pro 2</a> remains a fantastic PC headset, but it’s far more expensive than the Valve Index, which is more comfortable and offers better audio.</p> 
-<h2 id="jump-link-vr-headset-faqs">VR headset FAQs</h2> 
-<h3 id="jump-link-how-do-vr-headsets-work">How do VR headsets work?</h3> 
-<p>At the most basic level, a VR headset is simply a high quality screen that you’re holding up to your face. For a wired headset, the actual work of rendering a game is done on either a PC or game console. For completely wireless devices, like the Meta Quest 3, that work is handled right on the headset. They rely on either external sensors, or sensors built into the headsets, to map your physical space. While you can use a traditional gamepad or keyboard and mouse in VR, they typically use motion tracking controllers to immerse you in their 3D environments.</p> 
-<h3 id="jump-link-what-vr-headset-is-best-for-full-body-tracking">What VR headset is best for full body tracking?</h3> 
-<p>While we’re still waiting for a truly great haptic VR bodysuit to arrive, you can still achieve accurate body tracking with most Steam VR-compatible PC headsets. The Valve Index and HTC Vive Pro 2 both rely on room-tracking sensors that can map your body more effectively than the built-in sensors on competitors. You can also add HTC Vive Trackers to wrist and leg straps, as well as belts, for even better coverage. The Meta Quest 3 doesn’t have any easy body tracking solutions, but you can <a data-i13n="cpos:9;pos:1" href="https://www.vr-wave.store/blogs/virtual-reality-prescription-lenses/get-full-body-tracking-on-your-quest-2">add Vive trackers when it’s plugged into your PC</a> to mimic a Steam VR headset.</p> 
-<p>Only a few experiences, like VRChat, take advantage of full body tracking at the moment. Currently there aren’t any body tracking solutions for the PlayStation VR and VR2, but we’re intrigued by the company’s <a data-i13n="cpos:10;pos:1" href="https://www.vr-wave.store/blogs/virtual-reality-prescription-lenses/get-full-body-tracking-on-your-quest-2">Mocopi body trackers</a>, which were really announced in Japan.</p> 
-<h3 id="jump-link-what-vr-headsets-are-better-than-oculus">What VR headsets are better than Oculus?</h3> 
-<p>Oculus is the previous name for Meta’s VR hardware. Currently, Meta only supports the Quest 3, Quest 3S and Quest Pro, all of which are wireless headsets. As we explain above, PC VR headsets can generally achieve better quality virtual reality, since they rely on more powerful graphics hardware.</p> 
-<h3 id="jump-link-what-vr-headsets-work-with-xbox">What VR headsets work with Xbox?</h3> 
-<p>Currently, Microsoft’s Xbox consoles don’t support any VR headsets.</p> 
-<h2 id="jump-link-recent-updates">Recent updates</h2> 
-<p><strong>November 2025:</strong> Updated to include the Apple Vision Pro M5.</p> 
-<p><strong>April 2025:</strong> Updated to include review scores for our top picks, where applicable.</p> 
-<p><strong>November 2024:</strong> Added the HTC Vive Focus Vision to the &quot;others we tested&quot; section.</p> 
-<p><strong>October 2024:</strong> Updated our &quot;best cheap VR headset&quot; top pick to be the Meta Quest 3S.</p>This article originally appeared on Engadget at https://www.engadget.com/ar-vr/best-vr-headsets-140012529.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ar-vr/best-vr-headsets-140012529.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">85ff34bf-f6f7-4878-80c1-5f155e7af14b</guid>
-                                                                                        <dc:creator><![CDATA[Devindra Hardawar]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 04 Nov 2025 17:00:36 +0000</pubDate>
-                    <ingested>1762275645</ingested>
-                    <modified>2025-11-04T17:00:51+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Devindra Hardawar]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Ff8677400-b97f-11f0-aedc-fbacfcf387f6&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=3456be36723e07f806317e317c7b003121836e82" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Ff8677400-b97f-11f0-aedc-fbacfcf387f6&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=71ffb211bb60ab5854d05fccffe469050b61c32e" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[Best VR headsets]]></media:description>
-                                <media:title><![CDATA[Best VR headsets]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
