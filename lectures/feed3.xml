@@ -6,9 +6,222 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Fri, 29 Aug 2025 12:00:56 +0000</pubDate>
+            <pubDate>Wed, 05 Nov 2025 16:00:45 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Sony has a new benchmark for ethical AI]]></title>
+                                        <description type="html"><![CDATA[<p>Sony AI released a dataset that tests the fairness and bias of AI models. It&#39;s called the Fair Human-Centric Image Benchmark (FHIBE, pronounced like &quot;Phoebe&quot;). The company describes it as the &quot;first publicly available, globally diverse, consent-based human image dataset for evaluating bias across a wide variety of computer vision tasks.&quot; In other words, it tests the degree to which today&#39;s AI models treat people fairly. Spoiler: Sony didn&#39;t find a single dataset from any company that fully met its benchmarks.</p>
+<p>Sony says FHIBE can address the AI industry&#39;s ethical and bias challenges. The dataset includes images of nearly 2,000 paid participants from over 80 countries. All of their likenesses were shared with consent — something that can&#39;t be said for the common practice of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-investigating-perplexity-ai-after-accusations-it-scrapes-websites-without-consent-133003374.html">scraping large volumes of web data</a>. Participants in FHIBE can remove their images at any time. Their photos include annotations noting demographic and physical characteristics, environmental factors and even camera settings.</p>
+<span id="end-legacy-contents"></span><p>The tool &quot;affirmed previously documented biases&quot; in today&#39;s AI models. But Sony says FHIBE can also provide granular diagnoses of factors that led to those biases. One example: Some models had lower accuracy for people using &quot;she/her/hers&quot; pronouns, and FHIBE highlighted greater hairstyle variability as a previously overlooked factor.</p>
+<p>FHIBE also determined that today&#39;s AI models reinforced stereotypes when prompted with neutral questions about a subject&#39;s occupation. The tested models were particularly skewed &quot;against specific pronoun and ancestry groups,&quot; describing subjects as sex workers, drug dealers or thieves. And when prompted about what crimes an individual committed, models sometimes produced &quot;toxic responses at higher rates for individuals of African or Asian ancestry, those with darker skin tones and those identifying as &#39;he/him/his.&#39;&quot;</p>
+<p>Sony AI says FHIBE proves that ethical, diverse and fair data collection is possible. The tool is now <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://fairnessbenchmark.ai.sony/">available to the public</a>, and it will be updated over time. A paper outlining the research was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.nature.com/articles/s41586-025-09716-2">published</a> in <em>Nature</em> on Wednesday.</p>
+<p><strong>Update, November 5, 2025, 2:01 PM ET</strong>: This story has been updated to clarify that the participants were paid, not volunteers.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3637c922-a52f-4331-a4c8-15e6d032d81c</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 19:01:17 +0000</pubDate>
+                    <ingested>1762369285</ingested>
+                    <modified>2025-11-05T19:01:27+00:00</modified>
+                                            <category>
+                            <![CDATA[Science]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d65a9674c434335cb46b51e7432cfb047689498" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d951a735e40aba3618395b7d7fb88127febce6f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Sony]]></media:credit>
+                                <media:description><![CDATA[View from the ground of a Sony logo on a corporate building.]]></media:description>
+                                <media:title><![CDATA[Sony logo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Fitbit Black Friday deals are here early and one of our favorite fitness trackers is on sale for $100]]></title>
+                                        <description type="html"><![CDATA[<p>Fitbit is holding an early Black Friday and there are plenty of noteworthy deals. The Charge 6 fitness tracker <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0CC62ZG1M&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=0c6bba0c-0704-4f29-bb30-ea2b6df1800a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+on+sale+for+%24100&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0ZpdGJpdC1FeGVyY2lzZS1FcXVpcG1lbnQtNi1Nb250aHMtTWVtYmVyc2hpcC9kcC9CMENDNjJaRzFNP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjBjNmJiYTBjLTA3MDQtNGYyOS1iYjMwLWVhMmI2ZGYxODAwYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaXRiaXQtRXhlcmNpc2UtRXF1aXBtZW50LTYtTW9udGhzLU1lbWJlcnNoaXAvZHAvQjBDQzYyWkcxTSIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAVRMjozR1nc3YeeKccuEhdtia3vByuygwL7o-eqeYrav&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FFitbit-Exercise-Equipment-6-Months-Membership%2Fdp%2FB0CC62ZG1M" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1"><ins>is on sale for $100</ins></a>, which is a nice discount of $60 and 38 percent off. The deal applies to multiple colorways.</p> 
+<p>The Charge 6 topped our list of the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/wearables/best-fitness-trackers-133053484.html"><ins>best fitness trackers</ins></a>, and for good reason. It features built-in GPS, which means it doesn&#39;t have to be tethered to a phone when doing some cardio. The heart rate monitor is much more accurate when compared to the Charge 5 and the battery lasts a full week before requiring a trip to the outlet.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="d0295a14e36f408aa37cce995dab6c3c" data-type="product-list" data-original-url="https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1"></core-commerce></p> 
+<p>All told, it tracks 20 exercise types, in addition to sleep. The Charge 6 features a full-color AMOLED display that&#39;s easy on the eyes and a relatively thin design. This makes it feel fairly premium, especially when compared to rival devices.</p> 
+<p>On the downside, there&#39;s no real integration with Apple Health. This could be a dealbreaker for some. Also, some health data is hidden behind a Fitbit Premium paywall. That service costs $10 each month.</p> 
+<p>This isn&#39;t the only Fitbit product on sale right now. The Inspire 3 fitness tracker <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0B5F9SZW7&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=0c6bba0c-0704-4f29-bb30-ea2b6df1800a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+available+for+%2470&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0ZpdGJpdC1NYW5hZ2VtZW50LUludGVuc2l0eS1UcmFja2luZy1NaWRuaWdodC9kcC9CMEI1RjlTWlc3P3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjBjNmJiYTBjLTA3MDQtNGYyOS1iYjMwLWVhMmI2ZGYxODAwYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaXRiaXQtTWFuYWdlbWVudC1JbnRlbnNpdHktVHJhY2tpbmctTWlkbmlnaHQvZHAvQjBCNUY5U1pXNyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAc9JhyK8Hk1CL4fLtaDGHUNCGwlz6U14aTpBdVX9tB_q&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FFitbit-Management-Intensity-Tracking-Midnight%2Fdp%2FB0B5F9SZW7" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7?th=1"><ins>is available for $70</ins></a>, which is a discount of 30 percent.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/fitbit-black-friday-deals-are-here-early-and-one-of-our-favorite-fitness-trackers-is-on-sale-for-100-185704387.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/fitbit-black-friday-deals-are-here-early-and-one-of-our-favorite-fitness-trackers-is-on-sale-for-100-185704387.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">0c6bba0c-0704-4f29-bb30-ea2b6df1800a</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 05 Nov 2025 18:57:04 +0000</pubDate>
+                    <ingested>1762369031</ingested>
+                    <modified>2025-11-05T18:57:13+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F26dfac00-ba78-11f0-bfef-044b7d244d13&amp;resize=1400%2C797&amp;client=19f2b5e49a271b2bde77&amp;signature=923ceaa02379564f55e1bfac7701d9d63273e2de" width="1400" height="797" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F26dfac00-ba78-11f0-bfef-044b7d244d13&amp;resize=1400%2C797&amp;client=19f2b5e49a271b2bde77&amp;signature=fc658a75f76fe7702ebfa7b15722875cc01a477a" width="1400" height="797" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Fitbit ]]></media:credit>
+                                <media:description><![CDATA[A lady wearing a fitness tracker.]]></media:description>
+                                <media:title><![CDATA[Charge 6]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The IRS' free tax-filing tool reportedly won't be offered in 2026]]></title>
+                                        <description type="html"><![CDATA[<p>Direct File, the free, government-provided alternative to services like TurboTax, won&#39;t be available for the 2026 tax season, <a target="_blank" class="link" href="https://news.bloombergtax.com/payroll/irs-to-states-direct-file-tool-is-a-no-go-for-next-tax-season" data-i13n="cpos:1;pos:1"><em>Bloomberg Tax </em>reports</a>. That&#39;s based on a letter sent from the Internal Revenue Service to participating states that says that &quot;no launch date has been set for the future.&quot;</p><p>A Biden administration project, Direct File was designed to be an easy way for eligible taxpayers to file taxes online, without having to pay for a service like TurboTax or H&amp;R Block to do it on their behalf. The IRS <a target="_blank" class="link" href="https://www.engadget.com/irs-will-start-piloting-its-free-turbotax-alternative-in-2024-065553528.html" data-i13n="cpos:2;pos:1">began piloting</a> Direct File for the 2024 tax season, and opted to <a target="_blank" class="link" href="https://www.engadget.com/the-irs-is-making-its-free-turbo-tax-alternative-permanent-142055378.html" data-i13n="cpos:3;pos:1">make it a permanent option</a> later that year. Direct File was available for the most recent 2025 tax season in 25 states in the US.</p><p>Despite the service&#39;s success, the Trump administration appears to opposed to offering Direct File in its current form. The <a target="_blank" class="link" href="https://www.congress.gov/bill/119th-congress/house-bill/1" data-i13n="cpos:4;pos:1">&quot;Big Beautiful Bill&quot;</a> passed in July 2025 includes funding for the IRS to research &quot;the cost to replace any direct e-file programs run by the Internal Revenue Service&quot; and &quot;the cost of developing and running a free direct e-file tax return system.&quot; Whatever the results of that research, later in July, former IRS Commissioner Billy Long <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=ffaa5a7f-7276-42d4-b2ea-59a70b25a145&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=seemed+to+suggest&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzA3LzMwL2lycy1jaGllZi1zYXlzLWFnZW5jeS1wbGFucy10by1lbmQtZnJlZS1kaXJlY3QtZmlsZS1wcm9ncmFtLmh0bWwiLCJjb250ZW50VXVpZCI6ImZmYWE1YTdmLTcyNzYtNDJkNC1iMmVhLTU5YTcwYjI1YTE0NSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuY25iYy5jb20vMjAyNS8wNy8zMC9pcnMtY2hpZWYtc2F5cy1hZ2VuY3ktcGxhbnMtdG8tZW5kLWZyZWUtZGlyZWN0LWZpbGUtcHJvZ3JhbS5odG1sIn0&amp;signature=AQAAAeFYLBz_yXLTtR7Al2tiNMsBEdio0HqtmXoVsDYDYS_w&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2025%2F07%2F30%2Firs-chief-says-agency-plans-to-end-free-direct-file-program.html" data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:;cpos:5;pos:1" data-original-link="https://www.cnbc.com/2025/07/30/irs-chief-says-agency-plans-to-end-free-direct-file-program.html">seemed to suggest</a> the e-filing option had been eliminated. &quot;You&#39;ve heard of Direct File, that&#39;s gone,&quot; Long said at a tax professional summit. &quot;Big beautiful Billy wiped that out.&quot;</p><p>Engadget has contacted the IRS to confirm that Direct File won&#39;t be offered in 2026. We&#39;ll update this article if we hear back.</p><p>While the IRS has yet to formally announce that Direct File is going away outside of Long&#39;s comments, the tool is <a target="_blank" class="link" href="https://www.irs.gov/static/maintenance/RUP_Outage.html" data-i13n="cpos:6;pos:1">currently unavailable</a> through the IRS website. Additionally, the position to lead the Direct File project inside the IRS is <a target="_blank" class="link" href="https://www.irs.gov/about-irs/irs-organization" data-i13n="cpos:7;pos:1">currently vacant</a> under acting IRS Commissioner Scott Bessent.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/the-irs-free-tax-filing-tool-reportedly-wont-be-offered-in-2026-185430716.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/the-irs-free-tax-filing-tool-reportedly-wont-be-offered-in-2026-185430716.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">ffaa5a7f-7276-42d4-b2ea-59a70b25a145</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 05 Nov 2025 18:54:30 +0000</pubDate>
+                    <ingested>1762368878</ingested>
+                    <modified>2025-11-05T18:54:41+00:00</modified>
+                                            <category>
+                            <![CDATA[Politics & Government]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Taxes]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Finance]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-08%2F89419f50-010b-11ec-9ffd-e0e52c205694&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d363791f5c6cdb3724c199ac493bc819cd8d1c68" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-08%2F89419f50-010b-11ec-9ffd-e0e52c205694&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d363791f5c6cdb3724c199ac493bc819cd8d1c68" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[This photo made on Wednesday, Feb. 13, 2019, in Zelienople, Pa., shows mulitiple forms printed from the Internal Revenue Service web page that are used for 2018 U.S. federal tax returns. (AP Photo/Keith Srakocic)]]></media:description>
+                                <media:title><![CDATA[2018 IRS Tax Forms]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[UN emissions report: The planet is falling well short of its climate targets]]></title>
+                                        <description type="html"><![CDATA[<p>The outlook for future generations isn&#39;t looking so great. The UN <a target="_blank" class="link" href="https://wedocs.unep.org/handle/20.500.11822/48854;jsessionid=D23E0658FE54E97267B6D6450843FD4B" data-i13n="cpos:1;pos:1">released</a> its annual Emissions Gap Report on Tuesday, and the news is mostly bad. The world’s projected climate path falls far short of the <a target="_blank" class="link" href="https://www.engadget.com/2015-12-12-climate-change-deal-final-draft.html" data-i13n="cpos:2;pos:1">Paris Agreement targets</a>. Although the 2025 projections are slightly better than last year&#39;s, some of that improvement is due to the report&#39;s methodological changes. The UN also notes that the upcoming <a target="_blank" class="link" href="https://www.engadget.com/big-tech/president-trump-withdraws-the-us-from-the-paris-climate-agreement-again-002803951.html" data-i13n="cpos:3;pos:1">US withdrawal from the Paris Agreement</a> will basically cancel that out.</p><p>The UN measures progress based on projections of rising temperatures (relative to pre-industrial levels) by 2030. The Paris Agreement&#39;s goals are to limit that to 2 degrees Celsius (while pursuing a path to 1.5 degrees C). The current projections are well above both numbers: 2.3 to 2.5 degrees C.</p><p>Those numbers compare to 2.5 to 2.8 degrees C in last year&#39;s report, but the improvement is partially chalked up to methodological changes. The report states that the US withdrawal from the Paris Agreement in January 2026 will wipe out around 0.1 degrees C of progress.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/matt-palmer-kbTp7dBzHyY-unsplash.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/matt-palmer-kbTp7dBzHyY-unsplash.jpg" style="height:5304px;width:7952px;" alt="Wildfires" data-uuid="46e6b00d-b101-4646-83af-078755e6d4c4"><figcaption>Wildfires</figcaption><div class="photo-credit">Matt Palmer / Unsplash</div></figure><p>Getting the temperature rise down to 1.5 degrees C by 2100 is still possible, but it appears increasingly unlikely. To get there, the world would need to cut emissions by 55 percent by 2035. Meanwhile, to achieve 2 degrees C of warming by 2030, those cuts would need to reach 35 percent. As the report bleakly puts it, national pledges and the current geopolitical situation &quot;do not provide promising signs that this will happen.&quot;</p><p>&quot;Given the size of the cuts needed, the short time available to deliver them and a challenging political climate, a higher exceedance of 1.5 degrees C will happen, very likely within the next decade,&quot; the UN says. The best hope for reaching the long-term goals now lies in reversing that change after the fact. However, that carries the risk of crossing &quot;irreversible climate tipping points,&quot; such as <a target="_blank" class="link" href="https://www.engadget.com/2016-11-28-antarctica-ice-sheet-cracking.html" data-i13n="cpos:4;pos:1">the collapse of the West Antarctic ice sheet</a>.</p><p>Of course, rising temperatures alone aren&#39;t the only things to worry about. Cascading effects would include crop losses (and food insecurity), water scarcity, wildfires, coastal flooding and coral reef collapse. You also can&#39;t ignore the geopolitical implications, as desperate migrants flee uninhabitable regions, crowding the more livable ones.</p><p>A small silver lining is that solar and wind energy development has exceeded expectations, making their expansion easier and cheaper. The UN notes that <a target="_blank" class="link" href="https://www.engadget.com/the-worlds-largest-direct-carbon-capture-plant-just-went-online-172447811.html" data-i13n="cpos:5;pos:1">CO2 removal tech</a> could eventually help supplement policy changes, but that approach is &quot;uncertain, risky and costly.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/science/un-emissions-report-the-planet-is-falling-well-short-of-its-climate-targets-184255639.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/science/un-emissions-report-the-planet-is-falling-well-short-of-its-climate-targets-184255639.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">da8986b5-dcf6-49d4-a01e-160eb53aff09</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 05 Nov 2025 18:42:55 +0000</pubDate>
+                    <ingested>1762368183</ingested>
+                    <modified>2025-11-05T18:43:05+00:00</modified>
+                                            <category>
+                            <![CDATA[Natural Phenomena]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Climate Change]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Nature & Environment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fli-an-lim-ycW4YxhrWHM-unsplash.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=cd5add34553b873294c612bf96502c6b66f50c17" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fli-an-lim-ycW4YxhrWHM-unsplash.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=cd5add34553b873294c612bf96502c6b66f50c17" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Li-An Lim / Unsplash]]></media:credit>
+                                <media:description><![CDATA[Protesters holding climate change signs. &quot;There is no Planet B.&quot;]]></media:description>
+                                <media:title><![CDATA[Climate protest]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best VPN deals: 88 percent discounts on ProtonVPN, ExpressVPN, Surfshark and more]]></title>
                                         <description type="html"><![CDATA[<p>A <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">virtual private network (VPN)</a> is useful in several ways — a good one can stream foreign TV shows and events, save you from giving up information to hackers and keep you anonymous to protect against online tracking. Although we strongly recommend using a VPN, a bit of comparison shopping goes a long way in this market. VPN pricing can be opaque, and providers don't always portray their best deals accurately.</p>
 <p>Even so, there are genuinely great bargains on the table. VPN providers give out deep discounts to customers who sign up for a year or more at a time. This lets them boost their subscriber numbers, but it's a win for you as well — while you pay out more upfront, if you divide the cost by the months of service, it's significantly cheaper over time.</p>
@@ -705,59 +918,6 @@
                                 <media:credit><![CDATA[Jeff Dunn for Engadget]]></media:credit>
                                 <media:description><![CDATA[The PlayStation Portal gaming handheld sits on a brown wooden table surrounded by various parenting items, including a bottle, teething toy, pacifier and children's book.]]></media:description>
                                 <media:title><![CDATA[PlayStation Portal]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Sony has a new benchmark for ethical AI]]></title>
-                                        <description type="html"><![CDATA[<p>Sony AI released a dataset that tests the fairness and bias of AI models. It&#39;s called the Fair Human-Centric Image Benchmark (FHIBE, pronounced like &quot;Phoebe&quot;). The company describes it as the &quot;first publicly available, globally diverse, consent-based human image dataset for evaluating bias across a wide variety of computer vision tasks.&quot; In other words, it tests the degree to which today&#39;s AI models treat people fairly. Spoiler: Sony didn&#39;t find a single dataset from any company that fully met its benchmarks.</p>
-<p>Sony says FHIBE can address the AI industry&#39;s ethical and bias challenges. The dataset includes images of nearly 2,000 volunteers from over 80 countries. All of their likenesses were shared with consent — something that can&#39;t be said for the common practice of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-investigating-perplexity-ai-after-accusations-it-scrapes-websites-without-consent-133003374.html">scraping large volumes of web data</a>. Participants in FHIBE can remove their images at any time. Their photos include annotations noting demographic and physical characteristics, environmental factors and even camera settings.</p>
-<span id="end-legacy-contents"></span><p>The tool &quot;affirmed previously documented biases&quot; in today&#39;s AI models. But Sony says FHIBE can also provide granular diagnoses of factors that led to those biases. One example: Some models had lower accuracy for people using &quot;she/her/hers&quot; pronouns, and FHIBE highlighted greater hairstyle variability as a previously overlooked factor.</p>
-<p>FHIBE also determined that today&#39;s AI models reinforced stereotypes when prompted with neutral questions about a subject&#39;s occupation. The tested models were particularly skewed &quot;against specific pronoun and ancestry groups,&quot; describing subjects as sex workers, drug dealers or thieves. And when prompted about what crimes an individual committed, models sometimes produced &quot;toxic responses at higher rates for individuals of African or Asian ancestry, those with darker skin tones and those identifying as &#39;he/him/his.&#39;&quot;</p>
-<p>Sony AI says FHIBE proves that ethical, diverse and fair data collection is possible. The tool is now <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://fairnessbenchmark.ai.sony">available to the public</a>, and it will be updated over time. A paper outlining the research was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.nature.com/articles/s41586-025-09716-2">published</a> in <em>Nature</em> on Wednesday.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/sony-has-a-new-benchmark-for-ethical-ai-160045574.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3637c922-a52f-4331-a4c8-15e6d032d81c</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 05 Nov 2025 16:00:45 +0000</pubDate>
-                    <ingested>1762287082</ingested>
-                    <modified>2025-11-04T20:11:24+00:00</modified>
-                                            <category>
-                            <![CDATA[Science]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d65a9674c434335cb46b51e7432cfb047689498" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fe87506f0-b9b8-11f0-bdff-4c5df4c262c5&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5d951a735e40aba3618395b7d7fb88127febce6f" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Sony]]></media:credit>
-                                <media:description><![CDATA[View from the ground of a Sony logo on a corporate building.]]></media:description>
-                                <media:title><![CDATA[Sony logo]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -2869,167 +3029,6 @@
                                 <media:credit><![CDATA[Nathan Ingraham for Engadget]]></media:credit>
                                 <media:description><![CDATA[Amazon&#39;s Echo Dot Max with its light ring activated.]]></media:description>
                                 <media:title><![CDATA[Amazon Echo Dot Max]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Nintendo's patent on summoning fighting NPCs is being reexamined]]></title>
-                                        <description type="html"><![CDATA[<p>Nintendo&#39;s <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-palworld-lawsuit-seeks-65700-in-damages-163051523.html">lawsuit against <em>Palworld</em></a> just hit a snag. The US Patent and Trademark Office (USPTO) has ordered a reexamination of a key Nintendo patent expected to be wielded in the case. <em>Games Fray</em> <a data-i13n="cpos:2;pos:1" href="https://gamesfray.com/huge-blow-for-nintendo-head-of-u-s-patent-office-takes-rare-step-to-order-reexamination-of-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent/">reports</a> that the office is reviewing the Switch maker&#39;s patent regarding &quot;summon subcharacter and let it fight in 1 of 2 modes.&quot; If we view Nintendo&#39;s <em>Palworld</em> lawsuit as a test bed for monopolizing game mechanics, the development can only be seen as a good thing.&nbsp;</p>
-<p>Several factors make the reexamination unusual. First, Nintendo&#39;s patent in question (No. 12,403,397) was just <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://massivelyop.com/2025/09/10/nintendo-secures-us-patent-for-game-mechanics-that-summon-a-character-for-fights/">granted</a> in September. The review was personally ordered by newly sworn-in USPTO Director John A. Squires. The Trump appointee has historically sided with patent holders, making it <em>harder</em> to contest them. Stranger still, <em>Games Fray</em> says this may be the USPTO&#39;s first patent reexamination in over a decade.</p>
-<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed67aac0-b9a2-11f0-adb7-b48093cb59a6" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed67aac0-b9a2-11f0-adb7-b48093cb59a6" style="height:1080px;width:1920px;" alt="Sheep with guns in the game Palworld." data-uuid="2cde53b0-8168-387d-971d-63853a1a0302"><figcaption><em>Palworld</em></figcaption><div class="photo-credit">Pocketpair</div></figure>
-<p>Those ingredients suggest widespread blowback may be the driving force. Although <em>Palworld</em> developer Pocketpair is <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-palworld-lawsuit-seeks-65700-in-damages-163051523.html">Nintendo&#39;s immediate target</a>, it&#39;s easy to see the case opening a Pandora&#39;s box where developers fear using well-established game mechanics. Indie developers would be particularly vulnerable. The &quot;slippery slope&quot; commentary practically writes itself.</p>
-<p>If Nintendo&#39;s patent is ultimately invalidated, we may be able to thank Konami. A 2002 patent application from the maker of Metal Gear and Castlevania was cited as prior art, casting doubt on Nintendo&#39;s claim. A separate Nintendo patent, published in 2020, was also listed as possible prior art. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://gamesfray.com/huge-blow-for-nintendo-head-of-u-s-patent-office-takes-rare-step-to-order-reexamination-of-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent/"><em>Games Fray</em>&#39;s report</a> dives much deeper into the legal weeds.</p>
-<p>Nintendo now has two months to respond. During that period, third parties can come forward with additional prior art references. As a nervous industry eyes Nintendo&#39;s case as a potential test bed for monopolizing game mechanics, don&#39;t be shocked if gaming lawyers search far and wide for more examples.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/nintendos-patent-on-summoning-fighting-npcs-is-being-reexamined-180949135.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/nintendos-patent-on-summoning-fighting-npcs-is-being-reexamined-180949135.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ecd77607-c2da-40a5-bc3e-9df03a5070cd</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 04 Nov 2025 18:09:49 +0000</pubDate>
-                    <ingested>1762278606</ingested>
-                    <modified>2025-11-04T17:50:09+00:00</modified>
-                                            <category>
-                            <![CDATA[Company Legal & Law Matters]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F3babfba0-b9a3-11f0-bddf-f8938bbe48a0&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=115a0a535cbc7bce23e1f6a92f20a80256f0ba7f" width="1400" height="786" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F3babfba0-b9a3-11f0-bddf-f8938bbe48a0&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=c96bf9e6a2674e31e65defa32c0e62b21fd0a3eb" width="1400" height="786" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Pokemon.com]]></media:credit>
-                                <media:description><![CDATA[A sad Pikachu in his trainer's arms.]]></media:description>
-                                <media:title><![CDATA[Sad Pikachu]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[UK High Court sides with Stability AI over Getty in copyright case]]></title>
-                                        <description type="html"><![CDATA[<p>Stability AI has partially succeeded in defending itself against accusations of copyright infringement. As reported by <a data-i13n="cpos:1;pos:1" href="https://www.theguardian.com/media/2025/nov/04/stabilty-ai-high-court-getty-images-copyright"><em>The Guardian</em></a>, Stability AI prevailed in a high-profile UK High Court case, following Getty first <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/getty-images-sues-the-maker-of-ai-art-generator-stable-diffusion-over-data-scraping-allegations-184502897.html">suing</a> the company in 2023 for allegedly using its copyright images to train its Stable Diffusion AI art tool without permission.</p>
-<p>Getty’s original claim was that Stability AI had unlawfully copied and processed millions of protected images for training purposes, therefore abusing the rights of the original creators. However, the Seattle-based company eventually withdrew its claims of primary copyright infringement as it reportedly could offer no evidence that unauthorized copying for the training of Stable Diffusion had taken place in the UK.</p>
-<span id="end-legacy-contents"></span><p>Today’s ruling concerns claims of secondary infringement, to which the High Court judge, Justice Joanna Smith, ruled that &quot;an AI model such as Stable Diffusion which does not store or reproduce any copyright works (and has never done so) is not an &#39;infringing copy&#39;&quot; under UK law. This was despite the ruling finding some evidence of Getty’s images being used by Stability, as evidenced by the presence of the former’s watermark. While the judge sided with Getty on some of its claims, she <a data-i13n="cpos:3;pos:1" href="https://apnews.com/article/getty-stability-ai-image-copyright-trademark-fa2c561a33c7b6714a7657255a3fbdf1">said</a> that the evidence was &quot;both historic and extremely limited in scope.&quot;</p>
-<p>The High Court ruling likely won’t fill companies and creators concerned about AI-related copyright infringement with a huge amount of optimism, but unsurprisingly, both Getty and Stability AI have been quick to celebrate their respective victories. Getty&#39;s statement reads, in part:</p>
-<blockquote><p>Today’s ruling confirms that Stable Diffusion’s inclusion of Getty Images’ trademarks in AI‑generated outputs infringed those trademarks. Crucially, the Court rejected Stability AI’s attempt to hold the user responsible for that infringement, confirming that responsibility for the presence of such trademarks lies with the model provider, who has control over the images used to train the model. This is a significant win for intellectual property owners. The ruling delivered another key finding; that, wherever the training and development did take place, Getty Images&#39; copyright‑protected works were used to train Stable Diffusion. The ruling also established a powerful precedent that intangible articles, such as AI models, are subject to copyright infringement claims in the same way as tangible articles. We will be taking forward findings of fact from the UK ruling in our US case.</p></blockquote>
-<p>The company added that it was &quot;deeply concerned&quot; that even &quot;well-resourced companies&quot; remain at risk of infringement due to a &quot;lack of transparent requirements.&quot; It also urged the UK government to build on the current laws around this issue. Christian Dowell, general counsel to Stability AI, said the final ruling from the court &quot;ultimately resolves the copyright concerns that were the core issue.&quot;</p>
-<p>The ruling comes just days after Getty <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/perplexity-signs-deal-to-use-getty-images-152343900.html">announced</a> a new agreement with Perplexity AI that permits the latter to access Getty’s huge media library as part of its search and discovery tools. In a <a data-i13n="cpos:5;pos:1" href="https://newsroom.gettyimages.com/en/getty-images/getty-images-and-perplexity-strike-multi-year-image-partnership">press release</a>, Getty said a condition of the licensing deal was Perplexity committing to &quot;making improvements on how it displays imagery, including image credit with link to source, to better educate users on how to use licensed imagery legally.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/uk-high-court-sides-with-stability-ai-over-getty-in-copyright-case-180029461.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/uk-high-court-sides-with-stability-ai-over-getty-in-copyright-case-180029461.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">58dc9bce-b5ac-486a-b556-f3053cd08f46</guid>
-                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 04 Nov 2025 18:00:29 +0000</pubDate>
-                    <ingested>1762278424</ingested>
-                    <modified>2025-11-04T17:47:07+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Matt Tate]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F20cd2080-b9a2-11f0-bfcf-2a0f90c5765d&amp;resize=1400%2C991&amp;client=19f2b5e49a271b2bde77&amp;signature=f63bcf4fd422c512e36b4b11474250bb54f9b05f" width="1400" height="991" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F20cd2080-b9a2-11f0-bfcf-2a0f90c5765d&amp;resize=1400%2C991&amp;client=19f2b5e49a271b2bde77&amp;signature=d7e693b47efef4fecb8a6ea71ad5db38347950b2" width="1400" height="991" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Stability AI]]></media:credit>
-                                <media:description><![CDATA[Stable Diffusion]]></media:description>
-                                <media:title><![CDATA[Stable Diffusion]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple may release its first 'low-cost' Mac laptop in early 2026]]></title>
-                                        <description type="html"><![CDATA[<p>It seems Apple is preparing to debut a low-cost Mac laptop in the first half of 2026. According to <a><em>Bloomberg</em></a>, such a system is in early production at the company’s overseas suppliers and Apple is testing the devices internally.</p><p>Apple’s aim with this laptop, per the report, is to draw people away from the likes of Chromebooks and cheap Windows PCs and into its own ecosystem. The company is said to be making the system with casual users, students and businesses in mind — the kinds of folks who use laptops for tasks like web browsing, light media editing and working on documents. Apple is also reportedly planning to aim the system at potential iPad buyers who’d still rather have a traditional laptop.</p><p>The laptop is said to have a new design with a “lower-end LCD display” and it’s expected to run on an A-series iPhone processor that’s said to deliver better performance than the M1. It’s also likely to have a smaller display than the 13.6-inch MacBook Air. </p><p>Performance is important, but the price point will be crucial if Apple wants to really compete with the proliferation of Chromebooks and entry-level Windows devices.  The company is said to be ready to sell this Mac for “well under $1,000.” Chromebooks and Windows laptops often sell for just a few hundred bucks. Higher-end Chromebooks cost around $600, so Apple would likely have to sell this laptop for $700 or less for it to make a real splash.</p><p>Apple has traditionally focused on making premium devices, but would be a smart time for the company to enter the lower end of the market. Microsoft is <a>ending support for Windows 10</a>, including on devices that don’t support Windows 11 and owners of such systems (including businesses) may need to buy new laptops in the near future to have the latest security updates.</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/apple-may-release-its-first-low-cost-mac-laptop-in-early-2026-174143869.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/laptops/apple-may-release-its-first-low-cost-mac-laptop-in-early-2026-174143869.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">accec74c-cbd3-4364-8757-fa1936339282</guid>
-                                                                                        <dc:creator/>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder/>
-                                                                <pubDate>Tue, 04 Nov 2025 17:41:43 +0000</pubDate>
-                    <ingested>1762278464</ingested>
-                    <modified>2025-11-04T17:47:47+00:00</modified>
-                                            <category>
-                            <![CDATA[Computing]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmacbook.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a8179a202aaab6539f3e7422b30bb43016064256" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmacbook.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a8179a202aaab6539f3e7422b30bb43016064256" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[MacBook Pro]]></media:description>
-                                <media:title><![CDATA[MacBook Pro]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
