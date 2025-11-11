@@ -6,9 +6,66 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Mon, 10 Nov 2025 23:00:00 +0000</pubDate>
+            <pubDate>Tue, 11 Nov 2025 05:00:36 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Broadcom just announced an AI chipset that translates audio in real time directly on the device]]></title>
+                                        <description type="html"><![CDATA[<p>Broadcom and a company called <a data-i13n="cpos:1;pos:1" href="http://camb.ai/">CAMB.AI</a> are teaming up to bring on-device audio translation to a chipset. This would allow devices that use the SoC to complete translation, dubbing and audio description tasks without having to dip into the cloud. In other words, it could massively improve accessibility for consumers.</p>
+<p>The companies promise ultra-low latency and enhanced privacy, being that all processing is kept local to the user&#39;s device. The wireless bandwidth should also be drastically reduced.</p>
+<span id="end-legacy-contents"></span><div id="e51efcef311a477980e86ade84962618"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1127700800?h=29c9f4491b" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+<p>As for the audio description piece, there&#39;s a demo video of the tool being used on a clip <a data-i13n="elm:affiliate_link;sellerN:Vimeo;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=7d99dc20-7530-4df8-98e2-2f910e52ec89&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1b180ba1-ce21-4f89-accd-b8cb4d2b3455&amp;featureId=text-link&amp;merchantName=Vimeo&amp;linkText=from+the+film+Ratatouille&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3ZpbWVvLmNvbS8xMTI3NzAwODAwLzI5YzlmNDQ5MWIiLCJjb250ZW50VXVpZCI6IjFiMTgwYmExLWNlMjEtNGY4OS1hY2NkLWI4Y2I0ZDJiMzQ1NSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly92aW1lby5jb20vMTEyNzcwMDgwMC8yOWM5ZjQ0OTFiIn0&amp;signature=AQAAAaM2dufN9Y_jZEPmKmz_n4G9UaNxki8Gnoszv0unY_PS&amp;gcReferrer=https%3A%2F%2Fvimeo.com%2F1127700800%2F29c9f4491b" class="rapid-with-clickid" data-original-link="https://vimeo.com/1127700800/29c9f4491b">from the film <em>Ratatouille</em></a>. The AI can be heard describing the scene in various languages, in addition to a written translation appearing on-screen. This looks incredibly useful, particularly for those with vision issues.</p>
+<p>There is a major caveat. This is a tightly controlled clip with plenty of edits. We have no idea how this tech will work in a real world scenario. Also, we don&#39;t know <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/fda-employees-say-the-agencys-elsa-generative-ai-hallucinates-entire-studies-203547157.html">how accurate the information will be</a>. It does feature a voice model that&#39;s already being used by organizations like NASCAR, Comcast and Eurovision.</p>
+<p>The companies boast that this will enable &quot;on-device translation in over 150 languages.&quot; We don&#39;t know when these chips will begin showing up in TVs and other gadgets. The tech is in the testing phase for now, so it&#39;s gonna be a while. Broadcom also recently teamed up with OpenAI to help the latter company to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/openai-is-making-its-own-ai-chips-with-broadcoms-help-142242231.html">manufacture its own chips</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/broadcom-just-announced-an-ai-chipset-that-translates-audio-in-real-time-directly-on-the-device-050036717.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/broadcom-just-announced-an-ai-chipset-that-translates-audio-in-real-time-directly-on-the-device-050036717.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">1b180ba1-ce21-4f89-accd-b8cb4d2b3455</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 11 Nov 2025 05:00:36 +0000</pubDate>
+                    <ingested>1762791740</ingested>
+                    <modified>2025-11-10T16:22:22+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F8f110530-bbfe-11f0-9fe7-c792bf5cc15a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=5e8285a658daaa40b10cfefbd1d8de111d34fb35" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F8f110530-bbfe-11f0-9fe7-c792bf5cc15a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=6cf4b36f2f726bbebf036afa7f4baf3583884ea9" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
+                                <media:description><![CDATA[The Broadcom office building with the company logo is in Regensburg, Bavaria, Upper Palatinate, Germany, on October 4, 2025. Broadcom Inc. is a global technology company specializing in semiconductor solutions and infrastructure software. (Photo by Michael Nguyen/NurPhoto via Getty Images)]]></media:description>
+                                <media:title><![CDATA[Broadcom Office Building]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Rodecaster Video S review: Compact and comprehensive video production]]></title>
                                         <description type="html"><![CDATA[<p>The Rodecaster series of podcast mixers have become a mainstay among audio creatives. Last year, the company expanded the line with its first multimedia model — the <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/the-rodecaster-video-packs-audio-and-video-production-features-into-one-mighty-console-160015714.html" data-i13n="slk:Rodecaster Video;cpos:1;pos:1">Rodecaster Video</a>. It was a more niche proposition, aimed at streamers, video podcasters and live producers, and, at $1,200, people with deeper pockets. Today, Rode returns with the Rodecaster Video S (RCV-S), a streamlined version that offers much of the same functionality for less than half the cost of the original ($499).</p>
 <p>If you currently use Ecamm Live, OBS, a <a target="_blank" class="link" href="https://www.engadget.com/computing/accessories/elgatos-stream-deck-breaks-free-from-the-companys-hardware-230052921.html" data-i13n="slk:Stream Deck;cpos:2;pos:1">Stream Deck</a>, a <a target="_blank" class="link" href="https://www.engadget.com/rodecaster-duo-review-153032883.html" data-i13n="slk:Rodecaster Pro/Duo;cpos:3;pos:1">Rodecaster Pro/Duo</a>, a <a target="_blank" class="link" href="https://www.engadget.com/elgato-introduces-its-first-ever-hdmi-21-capture-cards-174046239.html" data-i13n="slk:video capture card;cpos:4;pos:1">video capture card</a> or <a target="_blank" class="link" href="https://www.engadget.com/2019-12-07-blackmagic-atem-mini-impressions.html" data-i13n="slk:Blackmagic Atem;cpos:5;pos:1">Blackmagic Atem</a> type switcher, then there’s a good chance the RCV-S does something, or many things, useful to you. Maybe it can replace all those products, some of them or enhance your workflow. It’s a little complicated, but within that complication is a lot of versatility.</p>
@@ -3111,104 +3168,6 @@
                                 <media:credit><![CDATA[Valve]]></media:credit>
                                 <media:description><![CDATA[A screenshot of the Steam page for the game Farthest Frontier]]></media:description>
                                 <media:title><![CDATA[Steam wide]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The 22 best gift ideas for the remote worker in your life]]></title>
-                                        <description type="html"><![CDATA[<p>For many folks, working from home is simply the new normal. If you’re looking to treat someone who spends most of their time in the home office, this holiday season is as good a time as any to make their daily routine a little more convenient. As a collection of remote workers ourselves, we at Engadget have rounded up a few gift ideas that should add a bit more delight to the WFH life.</p> 
-<h2 id="jump-link-best-gifts-for-remote-workers">Best gifts for remote workers</h2> 
-<p>
- <core-commerce id="19128630cb694f62a053cd671d73c6b9" data-type="product-list" data-original-url="https://www.amazon.com/Belkin-Compatible-Charging-Magnetic-Wireless/dp/B0FMC3PW5W/?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="17738c7099be4729a81c4aacedc019df" data-type="product-list" data-original-url="https://www.amazon.com/Logitech-Correction-Auto-Framing-Reduction-Microsoft/dp/B09QWVYK6V?"></core-commerce></p> 
-<p>
- <core-commerce id="b67cc14a290f4f39887891284a876c3d" data-type="product-list" data-original-url="https://www.amazon.com/LEGO-Botanicals-Happy-Plants-Building/dp/B0DRW6C2RF/"></core-commerce></p> 
-<p>
- <core-commerce id="8d4563c0ad7b45549f7a69762780eb0e" data-type="product-list" data-original-url="https://www.amazon.com/Govee-Gaming-Real-time-Display-Options/dp/B0DZ6T9VCM?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="a3805c71c6ec42aa842e032a20a6c6e3" data-type="product-list" data-original-url="https://www.amazon.com/gp/product/B083W7K6QC/?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="a5e249dd0b1f4c6ebaddd2aff6b945d4" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0DL5L1ZLH"></core-commerce></p> 
-<p>
- <core-commerce id="6b817b14d72e4a51a4278db287d4652d" data-type="product-list" data-original-url="https://portlandgear.com/products/cascade-tote?variant=46406835929275"></core-commerce></p> 
-<p>
- <core-commerce id="d1c3bd6ffce547e0a8a0d448065519a4" data-type="product-list" data-original-url="https://www.amazon.com/BenQ-Illumination-Adjustable-Brightness-Temperature/dp/B0CZ9P1QW9?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="5575b73d619a49ff8e3d3e2bf270dac8" data-type="product-list" data-original-url="https://www.amazon.com/Ultimate-Ears-WONDERBOOM-360-Degree-Waterproof/dp/B0BRXJVG1S"></core-commerce></p> 
-<p>
- <core-commerce id="7d336e382bdb4869b542536190c1c182" data-type="product-list" data-original-url="https://ember.com/products/ember-tumbler?variant=43379319570617"></core-commerce></p> 
-<p>
- <core-commerce id="db5431e22d774b41baeac9e5cb343e28" data-type="product-list" data-original-url="https://www.amazon.com/Logitech-Vertical-Wireless-Mouse-Rechargeable/dp/B07FNJB8TT"></core-commerce></p> 
-<p>
- <core-commerce id="b45c06a1a5e84e088cf46d82207d85ee" data-type="product-list" data-original-url="https://www.amazon.com/Logitech-Ergonomic-Performance-Ultra-Fast-Scrolling/dp/B0FC5SJNQX"></core-commerce></p> 
-<p>
- <core-commerce id="45f01dca4e8d4655a034bb51ee1d51bd" data-type="product-list" data-original-url="https://www.amazon.com/Razer-Basilisk-Wireless-Gaming-Mouse/dp/B0DG837JYP/"></core-commerce></p> 
-<p>
- <core-commerce id="c47bf74483e54c459d491b1288a8f4b9" data-type="product-list" data-original-url="https://www.amazon.com/Govee-Assistant-Bedroom-Mapping-Material/dp/B0CQN1B4JM"></core-commerce></p> 
-<p>
- <core-commerce id="99d7adb18d4b481db8526d01a62a4a02" data-type="product-list" data-original-url="https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Ocean-Blue/dp/B0BFC8DR7C"></core-commerce></p> 
-<p>
- <core-commerce id="fbb260f20bcf4c169345e8b5324d2641" data-type="product-list" data-original-url="https://www.amazon.com/Brother-HL-L2460DW-Monochrome-Subscription-Replenishment/dp/B0CPL2N5H6/"></core-commerce></p> 
-<p>
- <core-commerce id="d1c2780c00bf4eafb512eea8bbf7fd44" data-type="product-list" data-original-url="https://www.amazon.com/stores/Keychron/VMaxSeries_CUSTOMKEYBOARDS/page/F7D4855C-7A70-4E88-B1FE-C77FEDB32C67"></core-commerce></p> 
-<p>
- <core-commerce id="48793dbeae0b42279b87d12f34dcb5eb" data-type="product-list" data-original-url="https://www.amazon.com/Sony-Bluetooth-Personalized-Compatibility-Splash-Resistant/dp/B0D1GWVLY3"></core-commerce></p> 
-<p>
- <core-commerce id="ffb7b848f5404f3c9fc5f17319585f54" data-type="product-list" data-original-url="https://grovemade.com/desk-shelf-system/"></core-commerce></p> 
-<p>
- <core-commerce id="6f14ec4ff411416c944958e99ed212e7" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0C9WKGXHD"></core-commerce></p> 
-<p>
- <core-commerce id="17decbe50e2a4216aa8f5e787c9f739c" data-type="product-list" data-original-url="https://www.amazon.com/Creative-Minimalist-Computer-Bluetooth-Customizable/dp/B0DXW25R3D?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="06a07d25870a46f5aa94112f62bb8718" data-type="product-list" data-original-url="https://ticktick.com/card?language=en_US"></core-commerce></p> 
-<p><em>Check out the rest of our </em><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gifts/"><em>gift ideas</em></a><em> here.</em></p> <span id="end-legacy-contents"></span>This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ac7354ab-106c-4b9a-ab03-3baa917ca395</guid>
-                                                                                        <dc:creator><![CDATA[Engadget]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sat, 08 Nov 2025 16:16:26 +0000</pubDate>
-                    <ingested>1762618596</ingested>
-                    <modified>2025-11-08T16:16:41+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Personal Finance - Lifestyle]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Engadget]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F7b590d80-aeb6-11f0-bf9f-420033da7b44&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=28dde8f820d1f07a6fb58522363d112f2de27ba1" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F7b590d80-aeb6-11f0-bf9f-420033da7b44&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=4954bc302371f762a687eb0869032a1cf245f4fa" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[Best gift ideas for the remote worker in your life]]></media:description>
-                                <media:title><![CDATA[Best gift ideas for the remote worker in your life]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
