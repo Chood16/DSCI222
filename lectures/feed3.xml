@@ -6,9 +6,55 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 09 Oct 2025 17:40:11 +0000</pubDate>
+            <pubDate>Wed, 12 Nov 2025 21:36:03 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[IBM announces Nighthawk and Loon quantum chips]]></title>
+                                        <description type="html"><![CDATA[<p>IBM <a target="_blank" class="link" href="https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance" data-i13n="cpos:1;pos:1">has introduced</a> two different quantum chips that it believes could help demonstrate &quot;quantum advantage,&quot; or the ability for a quantum computer to solve a problem faster than a classical computer, by the end of 2026. The new chips, Nighthawk and Loon, should help do that by taking different approaches to connecting qubits in a quantum computer, producing fewer errors and supporting more complex computations.</p><p>Of the two new chips, IBM Quantum Nighthawk is the one the company believes it can iterate on to produce quantum advantage. By the end of 2025, the version of Nighthawk IBM will provide to its partners will have &quot;120 qubits linked together with 218 next-generation tunable couplers&quot; arranged in a square lattice to connect with their neighbors. IBM claims this will allow Nighthawk to &quot;execute circuits with 30 percent more complexity&quot; while maintaining lower error rates. It&#39;ll also let it handle more demanding computational problems &quot;that require up to 5,000 two-qubit gates,&quot; the company says. </p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IBM-Quantum-Loon.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IBM-Quantum-Loon.jpg" style="height:1440px;width:2560px;" alt="A silver, rectangular Quantum Loon chip." data-uuid="58dde12b-d79a-4072-b79c-5bba550d0d04"><figcaption>The IBM Quantum Loon chip.</figcaption><div class="photo-credit">IBM</div></figure><p>IBM Quantum Loon is the more experimental of the two chips, connecting qubits not just horizontally on the chip, but vertically, too, <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=1fa16fbb-59f6-4e22-9ee4-e51608b12319&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=a3b14338-bad2-4f1a-b168-6bc30e078b1f&amp;featureId=text-link&amp;merchantName=New+Scientist&amp;linkText=New+Scientist+writes&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uZXdzY2llbnRpc3QuY29tL2FydGljbGUvMjUwMzc5OS1pYm0taGFzLXVudmVpbGVkLXR3by11bnByZWNlZGVudGVkbHktY29tcGxleC1xdWFudHVtLWNvbXB1dGVycy8iLCJjb250ZW50VXVpZCI6ImEzYjE0MzM4LWJhZDItNGYxYS1iMTY4LTZiYzMwZTA3OGIxZiIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI1MDM3OTktaWJtLWhhcy11bnZlaWxlZC10d28tdW5wcmVjZWRlbnRlZGx5LWNvbXBsZXgtcXVhbnR1bS1jb21wdXRlcnMvIn0&amp;signature=AQAAAQEEfjHkZh7y_BGaYBQtmVpEO7NKhvRmNJW04UPnNRSj&amp;gcReferrer=https%3A%2F%2Fwww.newscientist.com%2Farticle%2F2503799-ibm-has-unveiled-two-unprecedentedly-complex-quantum-computers%2F" data-i13n="elm:affiliate_link;sellerN:New Scientist;elmt:;cpos:2;pos:1" data-original-link="https://www.newscientist.com/article/2503799-ibm-has-unveiled-two-unprecedentedly-complex-quantum-computers/"><em>New Scientist</em> writes</a>. Whichever chip proves to be more useful, the added connectivity options allows for fewer errors and more complex computations, which could lead to new real-world applications for quantum computers.</p><p>To pair with its new chips, IBM says it&#39;s also contributing to a new <a target="_blank" class="link" href="https://quantum-advantage-tracker.github.io/" data-i13n="cpos:3;pos:1">community-led quantum advantage tracker</a> backed by <a target="_blank" class="link" href="https://algorithmiq.fi/" data-i13n="cpos:4;pos:1">Algorithmiq</a>, researchers from the Flatiron Institute and <a target="_blank" class="link" href="https://www.bluequbit.io/" data-i13n="cpos:5;pos:1">BlueQubit</a>. The tracker &quot;supports three experiments for quantum advantage across observable estimation, variational problems, and problems with efficient classical verification,&quot; IBM says, and the company has invited the wider research community to contribute to it.</p><p>As <em>New Scientist</em> notes, IBM&#39;s approach is different from competitors like Google because it&#39;s focused on connecting qubits together in smaller groups. Google introduced its <a target="_blank" class="link" href="https://www.engadget.com/computing/googles-willow-quantum-chip-breakthrough-is-hidden-behind-a-questionable-benchmark-224707174.html" data-i13n="cpos:6;pos:1">Willow chip</a> in 2024 as being theoretically capable of demonstrating quantum advantage. A year later in 2025, the company announced its <a target="_blank" class="link" href="https://www.engadget.com/science/google-says-it-made-a-breakthrough-toward-practical-quantum-computing-183502245.html" data-i13n="cpos:7;pos:1">&quot;Quantum Echoes&quot;</a> algorithm for Willow, &quot;the first-ever verifiable quantum advantage running the out-of-order time correlator (OTOC) algorithm.&quot; </p>This article originally appeared on Engadget at https://www.engadget.com/science/ibm-announces-nighthawk-and-loon-quantum-chips-213603769.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/science/ibm-announces-nighthawk-and-loon-quantum-chips-213603769.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a3b14338-bad2-4f1a-b168-6bc30e078b1f</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 12 Nov 2025 21:36:03 +0000</pubDate>
+                    <ingested>1762983375</ingested>
+                    <modified>2025-11-12T21:36:18+00:00</modified>
+                                            <category>
+                            <![CDATA[Science]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FIBM-Quantum-Nighthawk.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ab347badf7562f7caddf79d63344140690acbc8e" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FIBM-Quantum-Nighthawk.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ab347badf7562f7caddf79d63344140690acbc8e" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[IBM]]></media:credit>
+                                <media:description><![CDATA[A gloved hand placing a Quantum Nighthawk chip on a yellow board.]]></media:description>
+                                <media:title><![CDATA[IBM-Quantum-Nighthawk]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[One of our favorite budgeting apps is half off before Black Friday]]></title>
                                         <description type="html"><![CDATA[<p>Monarch Money is one of our favorite budgeting apps and, fittingly enough, there&#39;s a way for newcomers to save money on a subscription right now. If you use the code <strong>MONARCHVIP </strong>at checkout, you can get an annual plan for 50 percent off. It typically costs $100, but <a data-i13n="elm:affiliate_link;sellerN:Monarch Money;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=3944d027-cb89-4eee-bf6b-148604c29ff9&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=07209026-3487-417e-9b66-aaab79027199&amp;featureId=text-link&amp;merchantName=Monarch+Money&amp;linkText=you+can+get+12+months+of+access+for+%2450+with+this+code.&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5tb25hcmNobW9uZXkuY29tLyIsImNvbnRlbnRVdWlkIjoiMDcyMDkwMjYtMzQ4Ny00MTdlLTliNjYtYWFhYjc5MDI3MTk5Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5tb25hcmNobW9uZXkuY29tLyJ9&amp;signature=AQAAAT0Ut7Nem4rsZGbkFVAwL4KNEnrEGyd3WNDQRuV2G2lr&amp;gcReferrer=https%3A%2F%2Fwww.monarchmoney.com%2F" class="rapid-with-clickid" data-original-link="https://www.monarchmoney.com/">you can get 12 months of access for $50 with this code.</a></p> 
 <p>There are some key caveats here. The discount is only for new users, and it can&#39;t be combined with other offers. The code only works when you sign up through the web. You can&#39;t redeem it through the Monarch mobile app.</p> <span id="end-legacy-contents"></span>
@@ -2837,67 +2883,6 @@
                                 <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
                                 <media:description><![CDATA[CANADA - 2025/04/24: In this photo illustration, the WhatsApp logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)]]></media:description>
                                 <media:title><![CDATA[In this photo illustration, the WhatsApp logo is seen...]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Black Friday Apple deals include the Apple Watch SE 3 on sale for $200]]></title>
-                                        <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/black-friday/">Black Friday</a> will be here before you know it, but you can already save on some sought-after tech. Case in point: the new <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFNRH72&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=76309c44-f741-4a7e-952b-15771109e088&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Apple+Watch+SE+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGTlJINzI_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNzYzMDljNDQtZjc0MS00YTdlLTk1MmItMTU3NzExMDllMDg4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGTlJINzIiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAVQQR65PpXPrVwKODvhyeEh8E9KK-D18aqzXqAL9TNKb&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FQFNRH72" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0FQFNRH72?th=1">Apple Watch SE 3</a>. Apple&#39;s most affordable smartwatch is even cheaper right now, down to just $200.</p> 
-<p>We consider this to be the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/wearables/best-apple-watch-160005462.html">best budget Apple Watch</a>, and arguably the best smartwatch for folks who have never owned one before. The latest version runs on the same chipset found in the new flagship models, and it has most of the same fitness and workout tracking features you&#39;ll find in those more expensive devices as well.</p> <span id="end-legacy-contents"></span>
-<p>
- <core-commerce id="fd666f916a98499a8cd176cce0e96744" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0FQFNRH72?th=1"></core-commerce></p> 
-<p>The SE 3 also now has an always-on display, making it easier to glance down throughout the day to check the time or see activity stats without moving your wrist, and fast-charging support makes it a more viable sleep tracker. Just plop it down on its charger for a bit at the end of the day and put it back on to monitor your sleep overnight.</p> 
-<p>Also discounted is the high-end <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFHVZYL&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=76309c44-f741-4a7e-952b-15771109e088&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Apple+Watch+Ultra+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGSFZaWUw_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNzYzMDljNDQtZjc0MS00YTdlLTk1MmItMTU3NzExMDllMDg4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRlFGSFZaWUwiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAcFvNdcUeVtLKWlZz_g6CesGB7fAiyGwR14T3wpVLBEo&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FQFHVZYL" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0FQFHVZYL?th=1">Apple Watch Ultra 3</a>, which you can snag for $100 off. The sale model comes with 64GB of storage, a 49mm screen and GPS and cellular service. Notably, it&#39;s also only available with the one size, adjustable band and in two colors: a Black titanium case with Black Ocean band and a natural titanium Case with Anchor Blue Ocean band.&nbsp;</p> 
-<p>The Apple Watch Ultra 3 came out in early September and is one of the first smartwatches to <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/wearables/apple-watch-ultra-3-a-closer-look-at-its-satellite-communications-tools-120012387.html">support satellite communications</a>. This feature means you can call, send messages or share your location with emergency services through the watch — even if you don&#39;t have a connection. The <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/wearables/apple-watch-ultra-3-has-satellite-connectivity-and-larger-display-173046366.html">new Ultra 3</a> also has a larger screen thanks to thinner bezels and a battery that can last for up to 42 hours.&nbsp;</p> 
-<p>
- <core-commerce id="f76630ff7869451fab5f2de3f2c18047" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0FQFHVZYL?th=1"></core-commerce></p> 
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/deals/black-friday-apple-deals-include-the-apple-watch-se-3-on-sale-for-200-133057960.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/black-friday-apple-deals-include-the-apple-watch-se-3-on-sale-for-200-133057960.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">76309c44-f741-4a7e-952b-15771109e088</guid>
-                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 11 Nov 2025 14:45:38 +0000</pubDate>
-                    <ingested>1762872349</ingested>
-                    <modified>2025-11-11T14:45:52+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sarah Fielding]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fbc288a80-bbdf-11f0-9ff6-02efc51e1d18&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a4d822525a73575d91172acb4784eba899878371" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Fbc288a80-bbdf-11f0-9ff6-02efc51e1d18&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c7110430a377b1ddcee1083365344b16cbe33ec6" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Apple]]></media:credit>
-                                <media:description><![CDATA[Apple Watch SE 3]]></media:description>
-                                <media:title><![CDATA[Apple Watch SE 3]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
