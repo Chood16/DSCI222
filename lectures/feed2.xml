@@ -6,9 +6,55 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 12 Nov 2025 21:36:03 +0000</pubDate>
+            <pubDate>Wed, 12 Nov 2025 23:44:10 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[The next macOS update can turn your screen into a ring light]]></title>
+                                        <description type="html"><![CDATA[<p>Sometimes, the best features in a new operating system aren&#39;t the flashy ones that get broadcast during a keynote. They&#39;re subtle improvements that naturally fit into how you use your device and just make the experience better. One of those appears to be coming in the next macOS update. The dev beta of Tahoe 26.2 includes a feature that essentially lets your computer screen function as a ring light during a video call.</p><p>It&#39;s called Edge Light and it illuminates a rectangular band around the edge of the screen. Apple&#39;s Neural Engine will also position the light based on where it detects your face in the video frame. There are some controls for making the light warmer or cooler, and it can be set to turn on automatically once the brightness in your environment dims. Edge Light doesn&#39;t cover the top menu bar, and it will also move out of the way if the cursor hovers over it so that you can still use your laptop normally while on a call.&nbsp;</p><p>Edge Light will only be available on MacBooks from after 2024 that are running on Apple&#39;s Silicon. It may not be a true replacement for a ring light, but it&#39;s probably a step up from opening a bunch of blank Google Docs to try and illuminate yourself for a last-minute meeting.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/the-next-macos-update-can-turn-your-screen-into-a-ring-light-234410504.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/computing/the-next-macos-update-can-turn-your-screen-into-a-ring-light-234410504.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">da83f9ae-367a-4a73-978e-cc65fcacaee2</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 12 Nov 2025 23:44:10 +0000</pubDate>
+                    <ingested>1762991059</ingested>
+                    <modified>2025-11-12T23:44:21+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FmacOS_Edge_Light.jpg&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=a9e6538f7a4a6263e11095e1cf2c4bf46b1a6a0a" width="1400" height="786" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FmacOS_Edge_Light.jpg&amp;resize=1400%2C786&amp;client=19f2b5e49a271b2bde77&amp;signature=a9e6538f7a4a6263e11095e1cf2c4bf46b1a6a0a" width="1400" height="786" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Apple]]></media:credit>
+                                <media:description><![CDATA[macOS Edge Light]]></media:description>
+                                <media:title><![CDATA[macOS Edge Light]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[IBM announces Nighthawk and Loon quantum chips]]></title>
                                         <description type="html"><![CDATA[<p>IBM <a target="_blank" class="link" href="https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance" data-i13n="cpos:1;pos:1">has introduced</a> two different quantum chips that it believes could help demonstrate &quot;quantum advantage,&quot; or the ability for a quantum computer to solve a problem faster than a classical computer, by the end of 2026. The new chips, Nighthawk and Loon, should help do that by taking different approaches to connecting qubits in a quantum computer, producing fewer errors and supporting more complex computations.</p><p>Of the two new chips, IBM Quantum Nighthawk is the one the company believes it can iterate on to produce quantum advantage. By the end of 2025, the version of Nighthawk IBM will provide to its partners will have &quot;120 qubits linked together with 218 next-generation tunable couplers&quot; arranged in a square lattice to connect with their neighbors. IBM claims this will allow Nighthawk to &quot;execute circuits with 30 percent more complexity&quot; while maintaining lower error rates. It&#39;ll also let it handle more demanding computational problems &quot;that require up to 5,000 two-qubit gates,&quot; the company says. </p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IBM-Quantum-Loon.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IBM-Quantum-Loon.jpg" style="height:1440px;width:2560px;" alt="A silver, rectangular Quantum Loon chip." data-uuid="58dde12b-d79a-4072-b79c-5bba550d0d04"><figcaption>The IBM Quantum Loon chip.</figcaption><div class="photo-credit">IBM</div></figure><p>IBM Quantum Loon is the more experimental of the two chips, connecting qubits not just horizontally on the chip, but vertically, too, <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=1fa16fbb-59f6-4e22-9ee4-e51608b12319&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=a3b14338-bad2-4f1a-b168-6bc30e078b1f&amp;featureId=text-link&amp;merchantName=New+Scientist&amp;linkText=New+Scientist+writes&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uZXdzY2llbnRpc3QuY29tL2FydGljbGUvMjUwMzc5OS1pYm0taGFzLXVudmVpbGVkLXR3by11bnByZWNlZGVudGVkbHktY29tcGxleC1xdWFudHVtLWNvbXB1dGVycy8iLCJjb250ZW50VXVpZCI6ImEzYjE0MzM4LWJhZDItNGYxYS1iMTY4LTZiYzMwZTA3OGIxZiIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI1MDM3OTktaWJtLWhhcy11bnZlaWxlZC10d28tdW5wcmVjZWRlbnRlZGx5LWNvbXBsZXgtcXVhbnR1bS1jb21wdXRlcnMvIn0&amp;signature=AQAAAQEEfjHkZh7y_BGaYBQtmVpEO7NKhvRmNJW04UPnNRSj&amp;gcReferrer=https%3A%2F%2Fwww.newscientist.com%2Farticle%2F2503799-ibm-has-unveiled-two-unprecedentedly-complex-quantum-computers%2F" data-i13n="elm:affiliate_link;sellerN:New Scientist;elmt:;cpos:2;pos:1" data-original-link="https://www.newscientist.com/article/2503799-ibm-has-unveiled-two-unprecedentedly-complex-quantum-computers/"><em>New Scientist</em> writes</a>. Whichever chip proves to be more useful, the added connectivity options allows for fewer errors and more complex computations, which could lead to new real-world applications for quantum computers.</p><p>To pair with its new chips, IBM says it&#39;s also contributing to a new <a target="_blank" class="link" href="https://quantum-advantage-tracker.github.io/" data-i13n="cpos:3;pos:1">community-led quantum advantage tracker</a> backed by <a target="_blank" class="link" href="https://algorithmiq.fi/" data-i13n="cpos:4;pos:1">Algorithmiq</a>, researchers from the Flatiron Institute and <a target="_blank" class="link" href="https://www.bluequbit.io/" data-i13n="cpos:5;pos:1">BlueQubit</a>. The tracker &quot;supports three experiments for quantum advantage across observable estimation, variational problems, and problems with efficient classical verification,&quot; IBM says, and the company has invited the wider research community to contribute to it.</p><p>As <em>New Scientist</em> notes, IBM&#39;s approach is different from competitors like Google because it&#39;s focused on connecting qubits together in smaller groups. Google introduced its <a target="_blank" class="link" href="https://www.engadget.com/computing/googles-willow-quantum-chip-breakthrough-is-hidden-behind-a-questionable-benchmark-224707174.html" data-i13n="cpos:6;pos:1">Willow chip</a> in 2024 as being theoretically capable of demonstrating quantum advantage. A year later in 2025, the company announced its <a target="_blank" class="link" href="https://www.engadget.com/science/google-says-it-made-a-breakthrough-toward-practical-quantum-computing-183502245.html" data-i13n="cpos:7;pos:1">&quot;Quantum Echoes&quot;</a> algorithm for Willow, &quot;the first-ever verifiable quantum advantage running the out-of-order time correlator (OTOC) algorithm.&quot; </p>This article originally appeared on Engadget at https://www.engadget.com/science/ibm-announces-nighthawk-and-loon-quantum-chips-213603769.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/science/ibm-announces-nighthawk-and-loon-quantum-chips-213603769.html?src=rss]]></link>
@@ -2831,58 +2877,6 @@
                                 <media:credit><![CDATA[Omega Force/Nintendo/The Pokémon Company]]></media:credit>
                                 <media:description><![CDATA[Pokémon Pokopia]]></media:description>
                                 <media:title><![CDATA[Pokémon Pokopia]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[WhatsApp will reportedly face further EU regulation]]></title>
-                                        <description type="html"><![CDATA[<p>WhatsApp is following in the footsteps of fellow Meta-owned companies, Instagram and Facebook. The European Commission will give WhatsApp&#39;s open channels the designation of Very Large Online Platform (VLOP) under the Digital Services Act (DSA), <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-11-11/whatsapp-set-to-face-stricter-content-moderation-rules-in-the-eu?"><em>Bloomberg </em>reports</a>. The Commission has yet to make a public announcement on the matter, but has reportedly told Meta.&nbsp;</p>
-<p>This label gives the EU greater regulatory power over WhatsApp in areas such as content moderation and data sharing. WhatsApp will also need to conduct an annual independent audit and have transparent advertising practices, among other mandates.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>The new label isn&#39;t exactly a surprise. In February, WhatsApp announced that it had averaged about <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/big-tech/eu-might-impose-further-regulation-on-whatsapp-152832935.html">46.8 million EU users</a> in the second half of 2024. The DSA states that the VLOP designation should be given when a platform exceeds 45 million monthly EU users.&nbsp;</p>
-<p>This designation will strictly be for WhatsApp&#39;s open channels feature. Individual messaging should not be impacted in any way and should remain private between the parties involved. Alongside Facebook and Instagram, WhatsApp joins companies such as Amazon, Google and ByteDance in the <a data-i13n="cpos:3;pos:1" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2413">VLOP designation</a>.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/whatsapp-will-reportedly-face-further-eu-regulation-150037042.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/whatsapp-will-reportedly-face-further-eu-regulation-150037042.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">46cef287-9b69-43a7-8e81-3644d3d69acf</guid>
-                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 11 Nov 2025 15:00:37 +0000</pubDate>
-                    <ingested>1762870435</ingested>
-                    <modified>2025-11-11T14:13:57+00:00</modified>
-                                            <category>
-                            <![CDATA[Internet & Networking Technology]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sarah Fielding]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F86db43e0-2530-11f0-af5f-78e57b0f4a05&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=77eddde29d359dd013b7a58889fe0ac4240e63eb" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-04%2F86db43e0-2530-11f0-af5f-78e57b0f4a05&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=2d6708f5ed77e4dd11ae3f9b63caeddd36375a0d" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[SOPA Images via Getty Images]]></media:credit>
-                                <media:description><![CDATA[CANADA - 2025/04/24: In this photo illustration, the WhatsApp logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)]]></media:description>
-                                <media:title><![CDATA[In this photo illustration, the WhatsApp logo is seen...]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
