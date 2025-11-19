@@ -6,9 +6,61 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 19 Nov 2025 05:01:00 +0000</pubDate>
+            <pubDate>Wed, 19 Nov 2025 05:30:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Cloudflare outage was not caused by a cyber attack]]></title>
+                                        <description type="html"><![CDATA[<p>Cloudflare wrongly suspected that the widespread outage that <a target="_blank" class="link" href="https://www.engadget.com/big-tech/cloudflare-hit-by-outage-causing-widespread-errors-124208302.html" data-i13n="cpos:1;pos:1">took numerous websites offline</a> on November 18 was caused by a DDoS attack, the company’s CEO has admitted. In his <a target="_blank" class="link" href="https://blog.cloudflare.com/18-november-2025-outage/" data-i13n="cpos:2;pos:1">blog post</a> that breaks down what happened, however, Matthew Prince explained that after realizing their mistake, his team was able to fix the issue. “The issue was not caused, directly or indirectly, by a cyber attack or malicious activity of any kind,” he wrote. It was instead caused by a change to its database systems’ permissions, which led to an issue with a file used by its Bot Management system. </p><p>The company’s Bot Management system uses a machine learning model to score bots for every request they make when they crawl Cloudflare’s network. Its clients rely on those bot scores to decide whether to allow or to block specific bots from accessing their websites. One the uses of having bot scores is being able to block AI companies’ bots so they can’t use a website’s content to train their LLMs. In July, Cloudflare launched an experiment called “<a target="_blank" class="link" href="https://www.engadget.com/ai/cloudflare-experiment-will-block-ai-bot-scrapers-unless-they-pay-a-fee-121523327.html" data-i13n="cpos:3;pos:1">pay per crawl,</a>” which allows website owners to let an AI bot crawl their pages if they get paid for access. </p><p>Prince said the model relies on a “feature” configuration file to make a prediction on whether a bot request was automated or not. The feature file is refreshed every few minutes, and a change in the underlying mechanism generating that file caused a change in its size that triggered the error. “As a result, HTTP 5xx error codes were returned by the core proxy system that handles traffic processing for our customers, for any traffic that depended on the bots module,” Prince wrote. </p><p>This recent event has been Cloudflare’s worst outage in years. The company said it hasn’t had an outage that has “caused the majority of core traffic to stop flowing through [its] network” since 2019. Prince apologized for the issue on behalf of his team. </p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">On November 18 Cloudflare experienced a service outage, triggered by an issue with a Bot Management feature, impacting multiple Cloudflare services. Here&#39;s a detailed breakdown of what happened. <a href="https://t.co/7WArlr5ghI">https://t.co/7WArlr5ghI</a></p>— Cloudflare (@Cloudflare) <a href="https://twitter.com/Cloudflare/status/1990930328844636316?ref_src=twsrc%5Etfw">November 18, 2025</a></blockquote>
+ 
+
+</div><p></p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/cloudflare-outage-was-not-caused-by-a-cyber-attack-053000551.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/cloudflare-outage-was-not-caused-by-a-cyber-attack-053000551.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">c89e0153-ae87-4865-bce1-7a5ce117f943</guid>
+                                                                                        <dc:creator/>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder/>
+                                                                <pubDate>Wed, 19 Nov 2025 05:30:00 +0000</pubDate>
+                    <ingested>1763530218</ingested>
+                    <modified>2025-11-19T05:30:22+00:00</modified>
+                                            <category>
+                            <![CDATA[Celebrities]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-images%2F2019-12%2F090c5b10-1d08-11ea-bceb-c14af933c4cc&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=58cf4bcac7c34bd7366c7c5cac69f1289f1fcbb4" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-images%2F2019-12%2F090c5b10-1d08-11ea-bceb-c14af933c4cc&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=58cf4bcac7c34bd7366c7c5cac69f1289f1fcbb4" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Andrei Stanescu via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Nov 2, 2019 San Francisco / CA / USA -  Exterior view of Cloudflare headquarters; Cloudflare, Inc. is an Ameircan web infrastructure and website security company]]></media:description>
+                                <media:title><![CDATA[Exterior view of Cloudflare headquarters, San Francisco]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[TikTok now has an in-app 'affirmation journal' and sound machine]]></title>
                                         <description type="html"><![CDATA[<p><a target="_blank" class="link" href="https://www.engadget.com/social-media/tiktoks-new-bulletin-board-feature-lets-creators-send-updates-to-their-fans-inboxes-181000448.html" data-i13n="cpos:1;pos:1">TikTok</a> is replacing its screen time management page with a Time and Well-being space, which also comes with new wellness features. You can now find an affirmation journal, where you can set your intentions for the day using the 120-plus cards the app provides. You can, say, choose the “grace” card that reminds you to be free of the expectation of others. The card is downloadable on your device, and you can share it with others. </p><p>You’ll also find an in-app soothing sound generator that you can use to listen to relaxing audio, such as those featuring the sound of rain, waves and white noise. The sounds stop after a few minutes when the timer ends, so you can play them to induce sleep when you go to bed. TikTok says its users are 14 percent more likely to listen to music to help them relax or go to sleep than non-users. You’ll also find different types of breathing exercises you can do in the new space. </p><p>In addition, TikTok is rolling out new well-being missions, expanding the original set it <a target="_blank" class="link" href="https://www.engadget.com/social-media/tiktok-gamifies-mindfulness-with-well-being-missions-110014036.html" data-i13n="cpos:2;pos:1">launched in July</a>. These missions, which are particularly designed for teens, will reward you with badges for completing challenges related to balanced digital habits. The new Sleep Hours Mission will award you with a badge if you stay off TikTok at night, while the daily screen time mission will earn you another if you set a screen time limit and manage to stick to it. There’s also a new weekly screen time mission that will prompt you to check your screen time report every week, as well as a well-being ambassador mission that will earn you badges if you invite others to do the missions. </p>This article originally appeared on Engadget at https://www.engadget.com/social-media/tiktok-now-has-an-in-app-affirmation-journal-and-sound-machine-050100713.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/social-media/tiktok-now-has-an-in-app-affirmation-journal-and-sound-machine-050100713.html?src=rss]]></link>
@@ -3248,71 +3300,6 @@
                                 <media:credit><![CDATA[Meta]]></media:credit>
                                 <media:description><![CDATA[Meta is making it easier for creators to protect against copycats.]]></media:description>
                                 <media:title><![CDATA[Content protection]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Xbox is hosting a partner showcase on November 20 at 1PM ET]]></title>
-                                        <description type="html"><![CDATA[<p>Xbox is hosting a <a data-i13n="cpos:1;pos:1" href="https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/">partner showcase event</a> on November 20 at 1PM ET. It&#39;ll be available for streaming on the platform&#39;s <a data-i13n="cpos:2;pos:1" href="https://www.youtube.com/user/xbox">official YouTube page</a> and <a data-i13n="cpos:3;pos:1" href="https://www.twitch.tv/Xbox">Twitch page</a>.</p>
-<p>We don&#39;t know how long this stream will run for, but previous Partner Preview events have <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/xbox/xbox-is-hosting-a-partner-showcase-on-october-17-at-1pm-et-174034491.html">lasted around 25 to 30 minutes</a>. As indicated by the name, this stream will highlight third-party publishers. Xbox called out companies like THQ Nordic, Tencent and IO Interactive in the press release that announced the event.</p>
-<span id="end-legacy-contents"></span><div id="2cd1b4d56b8c4a509f1cade135207e04"><iframe width="560" height="315" src="https://www.youtube.com/embed/BgOiQPxEF-I?si=iyvpJ3YRGGDhWHx8" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-
-<p>We do know some games that&#39;ll be getting the spotlight this week. Xbox has stated that we&#39;ll be seeing &quot;an exciting first look&quot; at content coming to the James Bond game, <em>007 First Light</em>. IO Interactive is behind that one and it <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/gaming/007-first-light-is-coming-to-ps5-xbox-series-xs-nintendo-switch-2-and-pc-on-march-27-191011686.html">comes out on March 27</a>.&nbsp;</p>
-<div id="053211459b6c4b53849b0e51b214190b"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y1AHkgXCNjA?si=bB1LV_Fd0o8buJOB" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>We got to <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/gaming/007-first-light-hitman-meets-action-movie-183551755.html">watch this title in action</a> at Gamescom and called it &quot;Hitman meets action blockbuster.&quot; This is appropriate given that developer IO Interactive was behind many of the Hitman games.</p>
-<div id="e4de440d1fbe43a8b55f083cb9a5c908"><iframe width="560" height="315" src="https://www.youtube.com/embed/YdFagFDMxKc?si=HSvfzORh0g0o3HUJ" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>We&#39;ll also be getting an &quot;electrifying extended gameplay trailer&quot; for <em>Tides of Annihilation</em>. This is an upcoming fantasy adventure game made by the Chinese studio Eclipse Glow Games. The platform also promises a &quot;fresh look&quot; at <em>Reanimal</em>, which is a horror adventure from the folks behind <em>Little Nightmares</em>.</p>
-<div id="179880643fd04466a737ad2c06290b06"><iframe width="560" height="315" src="https://www.youtube.com/embed/ACZL7VziLS8?si=Go8JPsOV-a4oLNi8" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>Xbox has also promised some &quot;brand-new reveals and Game Pass announcements.&quot; Those Game Pass announcements had better be beefy, <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/microsoft-jacks-the-price-of-game-pass-ultimate-up-to-30-a-month-142441307.html">considering that recent price hike</a>. We&#39;ll find out on Thursday.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/xbox-is-hosting-a-partner-showcase-on-november-20-at-1pm-et-191537266.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/xbox/xbox-is-hosting-a-partner-showcase-on-november-20-at-1pm-et-191537266.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">d862a60f-7714-4859-9531-ed2af150f562</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 17 Nov 2025 19:15:37 +0000</pubDate>
-                    <ingested>1763406945</ingested>
-                    <modified>2025-11-17T19:15:47+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F33459d20-c3e6-11f0-bbfb-4ed15d080a88&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=b3c149058466867340fd5f0c8d123aa877e4023e" width="1400" height="839" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2F33459d20-c3e6-11f0-bbfb-4ed15d080a88&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=04f1590eff3f510aa9ec1abcdb473bd02b840ee5" width="1400" height="839" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Xbox ]]></media:credit>
-                                <media:description><![CDATA[An ad for the event.]]></media:description>
-                                <media:title><![CDATA[Xbox Partner Preview]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
