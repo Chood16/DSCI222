@@ -6,9 +6,121 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 02 Oct 2024 12:00:46 +0000</pubDate>
+            <pubDate>Tue, 25 Nov 2025 11:05:38 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Signal extends backup feature to iOS users]]></title>
+                                        <description type="html"><![CDATA[<p>Fortunately, we live in a time when most information can be recovered from another device or the cloud. Now, iPhone users can add another app to that list. <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/cybersecurity/the-pentagon-warns-government-officials-that-signal-is-being-targeted-by-russian-hackers-203436757.html">Signal</a> has announced that secure backups are now available for iOS devices. It follows a similar launch for Android devices in early September. The company <a data-i13n="cpos:2;pos:1" href="https://x.com/signalapp/status/1993018186690871409?s=20">shared the news on X</a> and linked to the previous <a data-i13n="cpos:3;pos:1" href="https://signal.org/blog/introducing-secure-backups/">Android blog post</a> for all additional information.</p>
+<p>At the time, Signal noted that <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/computing/signal-will-block-microsoft-recall-from-snooping-on-your-texts-225853193.html">secure backups</a> would be an opt-in feature and available in Android users&#39; latest beta release. The company stated this was to test the feature on a smaller scale before it came to iOS and desktop — so clearly something worked.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>The end-to-end encrypted backup offers no-cost storage of a user&#39;s text messages and up to 45 days of media. Keeping older media costs $2 per month — Signal&#39;s first paid offering. &quot;The reason we’re doing this is simple: media requires a lot of storage, and storing and transferring large amounts of data is expensive,&quot; Signal said at the time. &quot;As a nonprofit that refuses to collect or sell your data, Signal needs to cover those costs differently than other tech organizations that offer similar products but support themselves by selling ads and monetizing data.&quot;</p>
+<p>Anyone who opts-in will have their messages backed up each day. The secure backups use a 64-character recovery key that is available exclusively on a user&#39;s device. It&#39;s required to access the backup and Signal is unable to recover it.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/apps/signal-extends-backup-feature-to-ios-users-133006884.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/signal-extends-backup-feature-to-ios-users-133006884.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a201462e-4546-43b6-994a-b645c926af83</guid>
+                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 25 Nov 2025 11:05:39 +0000</pubDate>
+                    <ingested>1764068745</ingested>
+                    <modified>2025-11-25T11:05:46+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sarah Fielding]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-03%2Ff71daa70-8634-11eb-bd5e-45bdaafcb567&amp;resize=1400%2C931&amp;client=19f2b5e49a271b2bde77&amp;signature=4142e25fbf938bbb5e475034d6001d53f228b9ce" width="1400" height="931" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-03%2Ff71daa70-8634-11eb-bd5e-45bdaafcb567&amp;resize=1400%2C931&amp;client=19f2b5e49a271b2bde77&amp;signature=43c1fa57065bf003ba4be5858592deeab33bfd68" width="1400" height="931" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NICOLAS ASFOURI via Getty Images]]></media:credit>
+                                <media:description><![CDATA[This photo illustration shows the encrypted messaging app Signal (C) pictured on a smartphone home screen in Beijing on March 16, 2021. (Photo by NICOLAS ASFOURI / AFP) (Photo by NICOLAS ASFOURI/AFP via Getty Images)]]></media:description>
+                                <media:title><![CDATA[CHINA-CENSORSHIP-SIGNAL]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Samsung Black Friday deals: Get up to $350 off gaming monitors and more]]></title>
+                                        <description type="html"><![CDATA[<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/samsungs-odyssey-g8-might-be-the-best-32-inch-gaming-monitor-of-the-year-140026504.html">Samsung’s Odyssey G8</a> OLED monitor is now down to $950 for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/black-friday/">Black Friday</a>, saving you $350. It’s one of Samsung’s best 32-inch displays, offering a crisp 4K resolution, a 240Hz refresh rate and vivid OLED contrast that makes games and movies look incredible.</p> 
+<p>The 32-inch Odyssey G8 has <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/samsungs-odyssey-g8-might-be-the-best-32-inch-gaming-monitor-of-the-year-140026504.html">earned high marks</a> for its blend of image quality and gaming performance. Its 4K OLED panel produces deep blacks and bright highlights, with 99 percent DCI-P3 color coverage for vibrant visuals. The 240Hz refresh rate and 0.03ms response time deliver exceptional smoothness in fast-paced games, while AMD FreeSync Premium Pro keeps everything tear-free.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="61ba0b95d1634768b9aa615ea67d4207" data-type="product-list" data-original-url="https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-g81sf-4k-240hz-gaming-monitor-sku-ls32fg810snxza/"></core-commerce></p> 
+<p>Design-wise, it’s sleek and minimal, with a slim metal frame that looks just as good in a work setup as it does in a gaming room. The monitor supports DisplayPort 1.4 and HDMI 2.1 inputs, plus USB-C connectivity for charging and data transfer. Built-in speakers and Smart TV features let you stream directly from apps like Netflix or Prime Video without connecting to a PC or console.</p> 
+<p>You also get Samsung’s SmartThings integration, so the Odyssey G8 can double as a smart home hub, controlling compatible IoT devices from lights to thermostats. It even supports cloud gaming through Xbox Game Pass and NVIDIA GeForce Now, meaning you can play high-end titles without extra hardware. The combination of OLED contrast, motion clarity and built-in streaming makes it one of the most versatile monitors in Samsung’s lineup.</p> 
+<p>If you want something even larger, the <a data-i13n="elm:affiliate_link;sellerN:Samsung Electronics;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=516c92b2-b88b-4f6f-82a2-5c3c24d04e20&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;linkText=Odyssey+G9&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9tb25pdG9ycy9nYW1pbmcvNDktaW5jaC1vZHlzc2V5LWc5LWc5MWYtZHFoZC0xNDRoei1nYW1pbmctbW9uaXRvci1za3UtbHM0OWZnOTEwZW54emEvIiwiY29udGVudFV1aWQiOiI1MTZjOTJiMi1iODhiLTRmNmYtODJhMi01YzNjMjRkMDRlMjAiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnNhbXN1bmcuY29tL3VzL21vbml0b3JzL2dhbWluZy80OS1pbmNoLW9keXNzZXktZzktZzkxZi1kcWhkLTE0NGh6LWdhbWluZy1tb25pdG9yLXNrdS1sczQ5Zmc5MTBlbnh6YS8ifQ&amp;signature=AQAAAeg4QgABGwM93_ZsJXeWnNjw8WNTObnuJfvX7hZptbE5&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmonitors%2Fgaming%2F49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza%2F" class="rapid-with-clickid" data-original-link="https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza/">Odyssey G9</a> is also discounted by $300, bringing the 49-inch curved DQHD model down to $700. It offers a wide field of view and 144Hz refresh rate, making it a great pick for simulation and racing fans.</p> 
+<p>The <a data-i13n="elm:affiliate_link;sellerN:Samsung Electronics;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=516c92b2-b88b-4f6f-82a2-5c3c24d04e20&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;linkText=Odyssey+G7&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9tb25pdG9ycy9jdXJ2ZWQvMzctaW5jaC1vZHlzc2V5LWc3LWc3NWYtNGstMTY1aHotY3VydmVkLWdhbWluZy1tb25pdG9yLXNrdS1sczM3Zmc3NWRlbnh6YS8iLCJjb250ZW50VXVpZCI6IjUxNmM5MmIyLWI4OGItNGY2Zi04MmEyLTVjM2MyNGQwNGUyMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuc2Ftc3VuZy5jb20vdXMvbW9uaXRvcnMvY3VydmVkLzM3LWluY2gtb2R5c3NleS1nNy1nNzVmLTRrLTE2NWh6LWN1cnZlZC1nYW1pbmctbW9uaXRvci1za3UtbHMzN2ZnNzVkZW54emEvIn0&amp;signature=AQAAARFVMxkS2rXBp2lfMDAYEY9msNOzmCK8AqTGTRvWnxV1&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmonitors%2Fcurved%2F37-inch-odyssey-g7-g75f-4k-165hz-curved-gaming-monitor-sku-ls37fg75denxza%2F" class="rapid-with-clickid" data-original-link="https://www.samsung.com/us/monitors/curved/37-inch-odyssey-g7-g75f-4k-165hz-curved-gaming-monitor-sku-ls37fg75denxza/">Odyssey G7</a> is another strong choice, now $600 after a $300 discount. This 37-inch 4K display runs at 165Hz with a curved design and supports both HDR and AMD FreeSync for smooth gameplay.</p> 
+<p>Finally, <a data-i13n="elm:affiliate_link;sellerN:Samsung Electronics;elmt:;cpos:6;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=516c92b2-b88b-4f6f-82a2-5c3c24d04e20&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;linkText=Samsung%E2%80%99s+Smart+Monitor+M9&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9tb25pdG9ycy9zbWFydC8zMi1pbmNoLXNtYXJ0LW1vbml0b3ItbTkwZi00ay1vbGVkLXZpc2lvbi1haS1tb25pdG9yLXNrdS1sczMyZm05MDJzbnh6YS8iLCJjb250ZW50VXVpZCI6IjUxNmM5MmIyLWI4OGItNGY2Zi04MmEyLTVjM2MyNGQwNGUyMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuc2Ftc3VuZy5jb20vdXMvbW9uaXRvcnMvc21hcnQvMzItaW5jaC1zbWFydC1tb25pdG9yLW05MGYtNGstb2xlZC12aXNpb24tYWktbW9uaXRvci1za3UtbHMzMmZtOTAyc254emEvIn0&amp;signature=AQAAAYRUk6u1mNJPBb1RQIWnZ_xPGijvp-25uDashSVD6IRl&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmonitors%2Fsmart%2F32-inch-smart-monitor-m90f-4k-oled-vision-ai-monitor-sku-ls32fm902snxza%2F" class="rapid-with-clickid" data-original-link="https://www.samsung.com/us/monitors/smart/32-inch-smart-monitor-m90f-4k-oled-vision-ai-monitor-sku-ls32fm902snxza/">Samsung’s Smart Monitor M9</a> is available for $1,300, $300 off its regular price. It combines 4K OLED visuals with built-in streaming and AI-powered vision tools, making it a good all-rounder for work and entertainment.</p> 
+<p>
+ <core-commerce id="7960d0c9016b498a9bd6577de718f36d" data-type="product-list" data-original-url="https://www.samsung.com/us/computing/monitors/all-monitors/"></core-commerce></p> 
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/deals/samsung-black-friday-deals-get-up-to-350-off-gaming-monitors-and-more-103000276.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/samsung-black-friday-deals-get-up-to-350-off-gaming-monitors-and-more-103000276.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">516c92b2-b88b-4f6f-82a2-5c3c24d04e20</guid>
+                                                                                        <dc:creator><![CDATA[Georgie Peru]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 25 Nov 2025 11:01:26 +0000</pubDate>
+                    <ingested>1764068493</ingested>
+                    <modified>2025-11-25T11:01:39+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Georgie Peru]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-06%2Fd8f2a820-21ea-11ef-bfce-b358ee830513&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=c156aef0a2886e8740b4cd2098e332bc478575f2" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-06%2Fd8f2a820-21ea-11ef-bfce-b358ee830513&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=b48555afa89bd75fbc0e77eb77b6602fedb1c9a6" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Photo by Sam Rutherford/Engadget]]></media:credit>
+                                <media:description><![CDATA[Samsung's Odyssey G8 features the company's third-gen QD-OLED panel along with a 4K resolution and 240Hz refresh rate.]]></media:description>
+                                <media:title><![CDATA[2024 Samsung Odyssey G8 gaming monitor]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The best digital frames for 2025]]></title>
                                         <description type="html"><![CDATA[<p>Making a good digital picture frame <em>should</em> be easy. All you need is a good screen and an uncomplicated way to get your favorite photos onto the device. Combine that with an inoffensive, frame-like design and you&#39;re good to go.<br><br>Despite that, I can tell you that many digital photo frames are awful. Amazon is positively littered with scads of digital frames and it&#39;s basically the 2020s version of what we saw with knock-off iPods back in the 2000s. There are loads of options that draw you in with a low price but deliver a totally subpar experience that will prompt you to shove the thing in a drawer and forget about it.<br><br>The good news is that you only need to find one smart photo frame that works. From there, you can have a pretty delightful experience. If you&#39;re anything like me, you have thousands of photos on your phone of friends, family photos, pets, vacation spots, perhaps some lattes or plates of pasta and much more. Too often, those photos stay siloed on our phones, not shared with others or enjoyed on a larger scale. And sure, I can look at my photos on my laptop or an iPad, but there&#39;s something enjoyable about having a dedicated place for these things. After all, there&#39;s a reason photo frames exist in the first place, right? A great frame can help you send photos to loved ones and share cherished memories with friends and family effortlessly. I tested out seven smart photo frames to weed through the junk and find the top picks for the best digital frames worth buying.</p> 
 <h2 id="jump-link-best-digital-picture-frames-for-2025">Best digital picture frames for 2025</h2> 
@@ -3308,165 +3420,6 @@
                                 <media:credit><![CDATA[Engadget]]></media:credit>
                                 <media:description><![CDATA[AirPods Pro 3]]></media:description>
                                 <media:title><![CDATA[AirPods Pro 3]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[The 10 best gadgets for your pets]]></title>
-                                        <description type="html"><![CDATA[<p>We&#39;re a pet-loving staff here at Engadget, with diverse distribution of cat people, dog people, other-small-fuzzy-creature people, bird feeder enjoyers and so on (at press time, I&#39;m unsure if we have a rat person, but I&#39;d be surprised if we didn&#39;t). And, of course, we love getting new gadgets of all sorts for our pets as much as for ourselves. This list, with gifts as low-tech as a blanket and as high-tech as the best $30 two-way camera you&#39;ll ever use, is for the pet lover in your life — whether that&#39;s you or another favorite human. Every entry comes waggingly approved by at least one fuzzy friend.</p> 
-<h2 id="jump-link-best-gadgets-for-your-pets">Best gadgets for your pets</h2> 
-<p>
- <core-commerce id="f127ed6c4de945368eaef5460ad5d7e5" data-type="product-list" data-original-url="https://www.amazon.com/Petcube-Monitoring-Security-Mounting-Surveillance/dp/B088C4NHRS?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="f8947a7e2f8049d3972291fb485f845c" data-type="product-list" data-original-url="https://www.amazon.com/PETLIBRO-Automatic-Feeders-Dispenser-180-Day/dp/B0BQ79KHD9?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="9a37a463b96a4e3e9d04a68e0c35039e" data-type="product-list" data-original-url="https://www.amazon.com/Berkshire-Blanket-Classic-VelvetLoft%C2%AE-Lightweight/dp/B0C2V38QN3?ref_=ast_sto_dp&amp;th=1&amp;psc=1"></core-commerce></p> 
-<p>
- <core-commerce id="07bc31676c434897ae8f9f03e7aa5011" data-type="product-list" data-original-url="https://www.amazon.com/StarMark-Bob-Lot-Interactive-Large/dp/B001JQLNB4?th=1"></core-commerce></p> 
-<p>
- <core-commerce id="6ee53d5f07524d0f919b1a37d7218c8f" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0CWXNS552"></core-commerce></p> 
-<p>
- <core-commerce id="ecdb4e3b8223490b8cf98b8c6db378cc" data-type="product-list" data-original-url="https://www.prettylitter.com/"></core-commerce></p> 
-<p>
- <core-commerce id="4fd9aff62cfb4c3c93f8434cecaff1a1" data-type="product-list" data-original-url="https://www.chewy.com/frisco-seek-discover-interactive/dp/506238"></core-commerce></p> 
-<p>
- <core-commerce id="c5ec6a5068034366b9bd8068b203c041" data-type="product-list" data-original-url="https://www.amazon.com/Yaheetech-Climber-Scratching-Dangling-Anti-toppling/dp/B07V4SGDDZ/"></core-commerce></p> 
-<p>
- <core-commerce id="1f8e67b4eed1446897f2786edf10b0e0" data-type="product-list" data-original-url="https://guineapigcagecompany.com/collections/cc-cages/products/large-2x4-grids-wide-loft"></core-commerce></p> 
-<p>
- <core-commerce id="26d5b6d80b87436d858cab2b43bf23b9" data-type="product-list" data-original-url="https://www.amazon.com/Shark-Navigator-Lift-Away-Professional-NV356E/dp/B005KMDV9A/?th=1"></core-commerce></p> 
-<p><em>Check out the rest of our </em><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gifts/"><em>gift ideas</em></a><em> here.</em></p> <span id="end-legacy-contents"></span>This article originally appeared on Engadget at https://www.engadget.com/home/smart-home/the-10-best-gadgets-for-your-pets-150714288.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/home/smart-home/the-10-best-gadgets-for-your-pets-150714288.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">8e085648-0846-42ce-adf6-3ea6cb9d43d1</guid>
-                                                                                        <dc:creator><![CDATA[Sam Chapman]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 24 Nov 2025 13:01:26 +0000</pubDate>
-                    <ingested>1763989316</ingested>
-                    <modified>2025-11-24T13:01:59+00:00</modified>
-                                            <category>
-                            <![CDATA[Pets]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Hobbies & Personal Activities]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Personal Finance - Lifestyle]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sam Chapman]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F366876c0-b429-11f0-b7bb-4ff42d231b90&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=a57afa45fbfd72a9e76124db201ac6da9ebfbf32" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F366876c0-b429-11f0-b7bb-4ff42d231b90&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=a86cb0ca20361cfb0a8739c65f2b300b2085bb3e" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Engadget]]></media:credit>
-                                <media:description><![CDATA[Best gadgets for your pets]]></media:description>
-                                <media:title><![CDATA[Best gadgets for your pets]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Dell 16 Premium review: Stylish to a fault]]></title>
-                                        <description type="html"><![CDATA[<p>We&#39;ve had less than a year to mourn the <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/dell-killing-the-xps-name-is-an-unforced-error-200006195.html" data-i13n="cpos:1;pos:1">loss of Dell&#39;s iconic XPS laptop brand</a>, and frankly, I&#39;m still not over it. But time moves on. Engadget has already reviewed the <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/dell-premium-14-review-new-name-same-great-laptop-120047563.html" data-i13n="cpos:2;pos:1">Dell 14 Premium</a>, formerly the XPS 14, and now I&#39;ve finally had a chance to put the larger Dell 16 Premium through its paces. My conclusion? It&#39;s still as beautiful as the <a target="_blank" class="link" href="https://www.engadget.com/dell-xps-16-review-beauty-and-power-comes-at-a-cost-200513721.html" data-i13n="cpos:3;pos:1">last XPS 16</a>, but I also think Dell seriously needs to rethink its ultramodern design strategy.&nbsp;</p>
-<p>With its minimalist design (look Ma, no visible trackpad!), smooth metal case and clean lines, the Dell 16 Premium looks like a work of art. It&#39;s the sort of thing I&#39;d imagine someone creating as a prop for a sci-fi movie in the &#39;90s, when we could barely imagine real notebooks moving beyond chunky grey bricks. But those good looks come at a cost — both in terms of price (it starts at $2,000) and basic functionality.</p>
-<p>
- <core-commerce data-type="product-list" id="0ae213af-b14a-47cf-babb-707bd9f18e24" data-original-url="https://www.dell.com/en-us/shop/dell-laptops/dell-16-premium-laptop/spd/dell-da16250-laptop"></core-commerce></p>
-<p>If you&#39;ve read my reviews of the <a target="_blank" class="link" href="https://www.engadget.com/dell-xps-16-review-beauty-and-power-comes-at-a-cost-200513721.html" data-i13n="cpos:4;pos:1">XPS 16</a> and <a target="_blank" class="link" href="https://www.engadget.com/dell-xps-13-plus-review-beauty-usability-120015270-120015030.html" data-i13n="cpos:5;pos:1">XPS 13 Plus</a>, Dell&#39;s first models to use this aesthetic, you might think I&#39;m just beating a dead horse. But it&#39;s worth pointing out <em>again</em>, more than three years after I first chastised Dell for chasing style over function, that the company seemingly hasn&#39;t learned anything. Sure, it&#39;s a bit faster than before, thanks to Intel&#39;s Core Ultra chips and NVIDIA&#39;s RTX 50-series GPUs, but that&#39;s not saying much.&nbsp;</p>
-<p>I still have trouble using the 16 Premium&#39;s borderless trackpad because it&#39;s tough to tell where the clickable zones are. I still hate the capacitive function row, both because it becomes miraculously invisible in bright light and it&#39;s tough to build muscle memory for specific keys (like changing the brightness or volume). And honestly, I still don&#39;t know how Dell can justify offering only USB-C ports and a microSD card slot on a laptop meant for serious work. Even Apple realized that it had to include a wider variety of ports for professionals, and that&#39;s also something other PC makers like ASUS and Acer offer.&nbsp; Did Dell miss the memo?</p><core-slideshow data-slideshowid="8b4830c3-a06a-4177-8d05-3b83456c1b2d"/>
-<p>Worst of all, the 16 Premium&#39;s 4K OLED screen seriously hampers its battery life. It only lasted six hours and five minutes during a basic video rundown, whereas the previous XPS 16 lasted eight and a half hours in the much more demanding PCMark 10 battery test. (For some reason, that benchmark didn&#39;t run properly on my review 16 Premium review unit.) Larger laptops often stuff in bigger batteries than smaller models, but the 16 Premium can&#39;t even manage that.&nbsp;</p>
-<p>At least it&#39;s faster than before. The Dell 16 Premium I reviewed was equipped with Intel&#39;s Core Ultra 7 255H chip and a low-wattage version of NVIDIA&#39;s RTX 5070 GPU. It scored around 10 percent higher than last year&#39;s XPS 16 in PCMark 10, and it was notably faster in the Geekbench AI benchmark thanks to Intel&#39;s revamped NPU. I was even able to play <em>Cyberpunk 2077 </em>in 4K at 84 fps thanks to the 5070, though I had to enable DLSS 4 frame generation to do so. For some reason though, the system would slow to an absolute crawl whenever I enabled ray tracing features. At best, I only saw around 60 fps in 1080p while using the low ray tracing settings.&nbsp;</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Dell_16_Premium-2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Dell_16_Premium-2.jpg" style="height:1512px;width:2500px;" alt="The Dell 16 Premium from the rear." data-uuid="64d50768-dff4-425c-82ee-316746957a76">
- <figcaption>
-  The Dell 16 Premium from the rear.
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<p>Sure, it&#39;s not a gaming laptop, so I can&#39;t directly compare it to something like the Razer Blade 16. But it&#39;s strange to see one of NVIDIA&#39;s latest GPUs handle ray tracing so poorly. As you&#39;d expect, the Dell 16 Premium also got pretty loud whenever its fans spun up. At least they managed to keep the system relatively cool though: Its CPU and GPU sat at 68C and 70C, respectively, under load.</p>
-<p>The more I looked at the Dell 16 Premium&#39;s beautiful facade, the more I wanted something... more. It needs more usable ports, like HDMI and a full-sized SD card reader. It needs more useful function keys that are visible in bright light — and also stay in one place — so I can touch type more easily. And for the love of god, just give up on the invisible trackpad. It&#39;s a parlor trick that just makes it harder to tell left and right mouse clicks apart, despite the impressively large trackpad area.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Dell_16_Premium-5.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Dell_16_Premium-5.jpg" style="height:1680px;width:2500px;" alt="The 16 Premium&#39;s &quot;invisible&quot; trackpad blends seamlessly into its wrist rest, while the keyboard lays perfectly flat and a row of capacitive function keys sits above." data-uuid="10ed0089-5b70-40b3-b56d-1b4066214763">
- <figcaption>
-  The 16 Premium&#39;s &quot;invisible&quot; trackpad blends seamlessly into its wrist rest, while the keyboard lays perfectly flat and a row of capacitive function keys sits above.
- </figcaption>
- <div class="photo-credit">
-  Devindra Hardawar for Engadget
- </div>
-</figure>
-<p>Given its premium positioning, I also expected more from the laptop&#39;s speakers. They sound fine compared to most Windows laptops, but they can&#39;t hold a candle to the audio sorcery Apple accomplishes with the 16-inch MacBook Pro. When playing music, the 16 Premium doesn&#39;t have much dynamic range or low-end tone, whereas Apple&#39;s speakers often surprise me with their depth and enveloping sound. During late night writing sessions, I often find myself playing music straight through the 16-inch MacBook Pro, rather than casting it off to my Sonos speakers like the 16 Premium forces me to do.</p>
-<p>To avoid being entirely negative, I&#39;ll reiterate that I genuinely enjoy <em>looking</em> at the Dell 16 Premium. I love the way its keyboard and large key caps lay perfectly flat along the notebook&#39;s lower half. And I&#39;ll admit, the 16-inch OLED screen looks lusciously colorful when it needs to. I&#39;m just asking for Dell&#39;s designers to consider a better balance of style <em>and </em>functionality for their next stab at a premium 16-inch laptop. </p>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/dell-16-premium-review-stylish-to-a-fault-130000463.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/laptops/dell-16-premium-review-stylish-to-a-fault-130000463.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">fc614aa0-accc-494d-b5c6-b9b2cec41c50</guid>
-                                                                                        <dc:creator><![CDATA[Devindra Hardawar]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 24 Nov 2025 13:00:00 +0000</pubDate>
-                    <ingested>1763989274</ingested>
-                    <modified>2025-11-24T13:01:19+00:00</modified>
-                                            <category>
-                            <![CDATA[Computing]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Devindra Hardawar]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FDell_16_Premium-1.jpg&amp;resize=1400%2C880&amp;client=19f2b5e49a271b2bde77&amp;signature=3e0f6a6036b165da080772b1b1975ceb339325ea" width="1400" height="880" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FDell_16_Premium-1.jpg&amp;resize=1400%2C880&amp;client=19f2b5e49a271b2bde77&amp;signature=3e0f6a6036b165da080772b1b1975ceb339325ea" width="1400" height="880" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[The Dell 16 Premium on a deck ledge.]]></media:description>
-                                <media:title><![CDATA[Dell 16 Premium]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
