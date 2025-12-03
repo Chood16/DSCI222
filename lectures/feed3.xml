@@ -6,11 +6,191 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 03 Dec 2025 17:15:00 +0000</pubDate>
+            <pubDate>Wed, 03 Dec 2025 21:05:53 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[OpenAI's new confession system teaches models to be honest about bad behaviors]]></title>
+                                        <description type="html"><![CDATA[<p>OpenAI <a target="_blank" class="link" href="https://openai.com/index/how-confessions-can-keep-language-models-honest/" data-i13n="cpos:1;pos:1">announced</a> today that it is working on a framework that will train artificial intelligence models to acknowledge when they&#39;ve engaged in undesirable behavior, an approach the team calls a confession. Since large language models are often trained to produce the response that seems to be desired, they can become increasingly likely to provide sycophancy or state hallucinations with total confidence. The new training model tries to encourage a secondary response from the model about what it did to arrive at the main answer it provides. Confessions are only judged on honesty, as opposed to the multiple factors that are used to judge main replies, such as helpfulness, accuracy and compliance. The technical writeup is available <a target="_blank" class="link" href="https://cdn.openai.com/pdf/6216f8bc-187b-4bbb-8932-ba7c40c5553d/confessions_paper.pdf" data-i13n="cpos:2;pos:1">here</a>.</p><p>The researchers said their goal is to encourage the model to be forthcoming about what it did, including potentially problematic actions such as hacking a test, sandbagging or disobeying instructions. &quot;If the model honestly admits to hacking a test, sandbagging, or violating instructions, that admission increases its reward rather than decreasing it,&quot; the company said. Whether you&#39;re a fan of Catholicism, Usher or just a more transparent AI, a system like confessions could be a useful addition to LLM training.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors-210553482.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors-210553482.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">5d6bf416-6ab7-4aa6-847e-6a83aa19ca4b</guid>
+                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 03 Dec 2025 21:05:53 +0000</pubDate>
+                    <ingested>1764795962</ingested>
+                    <modified>2025-12-03T21:06:05+00:00</modified>
+                                            <category>
+                            <![CDATA[Books & Publishing]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Anna Washenko]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fcccf0290-c345-44e1-8cea-d54e35a4e925&amp;resize=1400%2C939&amp;client=19f2b5e49a271b2bde77&amp;signature=bda6f15a5d1bb57fb2e5f0d7adcfef46b0e6f2f1" width="1400" height="939" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-10%2Fcccf0290-c345-44e1-8cea-d54e35a4e925&amp;resize=1400%2C939&amp;client=19f2b5e49a271b2bde77&amp;signature=bda6f15a5d1bb57fb2e5f0d7adcfef46b0e6f2f1" width="1400" height="939" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Reuters / REUTERS]]></media:credit>
+                                <media:description><![CDATA[Il logo di OpenAI in un&#39;illustrazione del 3 febbraio 2023. REUTERS/Dado Ruvic/Illustrazione]]></media:description>
+                                <media:title><![CDATA[Il logo di OpenAI]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Netflix is getting rid of another of its game studios by selling it back to its founders]]></title>
+                                        <description type="html"><![CDATA[<p>The developer of <em>Cozy Grove</em> and <em>Alphabear</em> is leaving Netflix. Spry Fox is being sold back to its original founders, <a target="_blank" class="link" href="https://www.gamefile.news/p/netflix-sells-game-studio-spry-fox" data-i13n="cpos:1;pos:1"><em>Game File</em> reports</a>, and will continue to work on its upcoming &quot;cooperative village life sim&quot; <a target="_blank" class="link" href="https://www.engadget.com/gaming/spry-foxs-next-netflix-games-title-is-spirit-crossing-200643116.html" data-i13n="cpos:2;pos:1"><em>Spirit Crossing</em></a> as an independent company. Unlike other shuttered Netflix games studios <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflix-has-closed-its-aaa-gaming-studio-133014946.html" data-i13n="cpos:3;pos:1">Team Blue</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflix-reportedly-shutters-studio-behind-squid-game-mobile-spinoff-151156987.html" data-i13n="cpos:4;pos:1">Boss Fight Entertainment</a>, Netflix will remain involved with the studio as <em>Spirit Crossing</em>&#39;s publisher on mobile.</p><p>As part of the arrangement, Spry Fox founders David Edery and Daniel Cook will be able to shop <em>Spirit Crossing </em>to other publishers for console and PC releases of the game. While reverting to being an independent studio is definitely a happier version of the typical studio closure story, it might not be without issues. <em>Game File</em> reports that layoffs at Spry Fox are still possible and the developer will need to find additional funding to continue long-term. <em>Spirit Crossing </em>may also need to be altered so that Spry Fox can continue to make money from the game after players purchase it.</p><p>Netflix <a target="_blank" class="link" href="https://spryfox.com/2022/10/31/spry-fox-is-joining-netflix/" data-i13n="cpos:5;pos:1">acquired Spry Fox</a> in 2022, a little over a year after it acquired <em>Oxenfree</em> developer <a target="_blank" class="link" href="https://about.netflix.com/en/news/expanding-our-games-team-with-the-acquisition-of-night-school-studio" data-i13n="cpos:6;pos:1">Night School</a>. Spry Fox released its first game for Netflix subscribers, <a target="_blank" class="link" href="https://www.engadget.com/netflixs-cozy-take-on-animal-crossing-hits-android-and-ios-in-june-204905615.html" data-i13n="cpos:7;pos:1">a sequel to <em>Cozy Grove</em></a>, in 2024. The studio formally announced <em>Spirit Crossing</em> in March of this year, as an ambitious attempt to fuse the cozy life simulation elements of something like <em>Animal Crossing: New Horizons</em> with the online social experiences of MMOs like <em>World of Warcraft</em> or <em>Final Fantasy XIV</em>.&nbsp;</p><p>That pitch apparently no longer jives with Netflix&#39;s current game strategy, which changed when Epic Games&#39; <a target="_blank" class="link" href="https://www.engadget.com/netflix-hires-former-epic-games-exec-as-new-president-of-games-212614285.html" data-i13n="cpos:8;pos:1">Alain Tascan</a> took over from ex-EA executive <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflixs-first-gaming-boss-has-left-the-company-124555235.html" data-i13n="cpos:9;pos:1">Mike Verdu</a>. Whereas Netflix Games under Verdu acquired studios, funded projects and licensed an eclectic collection of mobile games for Netflix subscribers, Tascan has refocused the company&#39;s games business around titles based on <a target="_blank" class="link" href="https://www.engadget.com/gaming/life-is-strange-developer-dont-nod-is-making-a-narrative-game-for-netflix-184506442.html" data-i13n="cpos:10;pos:1">Netflix IP</a>, <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflixs-push-into-gaming-will-add-party-and-couch-co-op-150050223.html" data-i13n="cpos:11;pos:1">social party games</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/red-dead-redemption-is-coming-to-mobile-for-netflix-subscribers-180557451.html" data-i13n="cpos:12;pos:1">known quantities</a>, <em>Game File</em> writes. <em>Spirit Crossing</em> doesn&#39;t fit neatly into any of those categories, which might be one reason Netflix is parting ways with Spry Fox.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/netflix-is-getting-rid-of-another-of-its-game-studios-by-selling-it-back-to-its-founders-203645232.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/netflix-is-getting-rid-of-another-of-its-game-studios-by-selling-it-back-to-its-founders-203645232.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">006361ad-171a-4cba-9779-a0ef405ed1fe</guid>
+                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 03 Dec 2025 20:36:45 +0000</pubDate>
+                    <ingested>1764794218</ingested>
+                    <modified>2025-12-03T20:37:02+00:00</modified>
+                                            <category>
+                            <![CDATA[Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Video Games]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Ian Carlos Campbell]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSpiritCrossing-Netflix-Games-1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e353e3e70efbf125ad057ec09e603a6f493f5d19" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSpiritCrossing-Netflix-Games-1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e353e3e70efbf125ad057ec09e603a6f493f5d19" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Netflix]]></media:credit>
+                                <media:description><![CDATA[A screenshot of player characters and in-game ghost NPCs from Spirit Crossing&#39;s trailer]]></media:description>
+                                <media:title><![CDATA[SpiritCrossing-Netflix-Games]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[How to watch the ‘Christmas in Rockefeller Center’ tree lighting special tonight]]></title>
+                                        <description type="html"><![CDATA[<iframe src="https://www.yahoo.com/news/videos/reba-mcentire-voice-happys-place-140048297.html?format=embed&amp;region=US&amp;lang=en-US&amp;site=news&amp;player_autoplay=false" sandbox="allow-same-origin allow-scripts" width="640" height="360" data-yom-embed-source="{media_id_1:5f616b15-b143-3079-8877-cc35e60c411b}" data-yahoo-uuid="5f616b15-b143-3079-8877-cc35e60c411b" frameborder="0" allowfullscreen="true" scrolling="no" id="ce81905de0cf43b5afdd5175aff5d3ec"></iframe>
+<p>It&#39;s time for the annual Rockefeller Christmas tree lighting! The <em>Christmas in Rockefeller Center </em>tree lighting special will air tonight, Dec. 3 from 8-10 PM ET — though coverage will start an hour prior, at 7 PM ET. <em>The Voice</em> and <em>Happy&#39;s Place </em>star Reba McEntire will host and perform at the Rockefeller Tree lighting, which will also feature performances from Halle Bailey, Michael Bublé, Kristin Chenoweth, Laufey, the Radio City Rockettes and more. Here’s how to tune into the 2025 Rockefeller Tree lighting.</p> 
+<h2 id="jump-link-when-is-the-2025-rockefeller-tree-lighting"><strong>When is the 2025 Rockefeller Tree lighting?</strong></h2> 
+<p>The Rockefeller Center Christmas tree will be lit on Wednesday, Dec. 3, 2025.</p> 
+<h2 id="jump-link-2025-rockefeller-tree-lighting-time"><strong>2025 Rockefeller Tree lighting time:</strong></h2> 
+<p>Coverage of the 2025 Rockefeller Tree lighting will start at 7 p.m. ET. The official <em>Christmas in Rockefeller Center </em>tree lighting special will air from 8-10 p.m ET.</p> 
+<h2 id="jump-link-2025-rockefeller-tree-lighting-channel"><strong>2025 Rockefeller Tree lighting channel:</strong></h2> 
+<p>The <em>Christmas in Rockefeller Center</em> special will air on NBC and stream on Peacock.</p> 
+<h2 id="jump-link-how-to-watch-the-2025-rockefeller-tree-lighting-without-cable"><strong>How to watch the 2025 Rockefeller Tree lighting without cable:</strong></h2> 
+<p>
+ <core-commerce id="a5977c4b9b8c4ec9b5759c139ca14b2f" data-type="product-list" data-original-url="https://www.peacocktv.com/"/></p> 
+<h2 id="jump-link-who-is-hosting-the-2025-rockefeller-tree-lighting"><strong>Who is hosting the 2025 Rockefeller Tree lighting?</strong></h2> 
+<p>Reba McEntire will host NBC&#39;s annual holiday special, and perform throughout the evening.</p> 
+<h2 id="jump-link-2025-rockefeller-tree-lighting-performers"><strong>2025 Rockefeller Tree Lighting performers:</strong></h2> 
+<p>Alongside Reba McEntire, the tree lighting ceremony special will feature performances from Marc Anthony, Halle Bailey, Michael Bublé, Kristin Chenoweth, Laufey, New Edition, Brad Paisley, Carly Pearce, Gwen Stefani and the Radio City Rockettes, who are celebrating their 100th anniversary this year.</p> 
+<h2 id="jump-link-ways-to-watch-the-rockefeller-tree-lighting-for-free">Ways to watch the Rockefeller Tree lighting for free:&nbsp;</h2> 
+<p>
+ <core-commerce id="b2dc2e108c4d47dabed6406c1cda0da5" data-type="product-list" data-original-url="https://www.directv.com/offers/packages/?"/></p> 
+<p>
+ <core-commerce id="ab4e6878dac143ae871bc7a6e05bbdd1" data-type="product-list"/></p> 
+<p>
+ <core-commerce id="2e8be2c40e5b4c399f1c91c79b0ca286" data-type="product-list" data-original-url="https://tv.youtube.com/welcome/"/></p> 
+<p></p> 
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">41e57f82-e68c-4c29-8e87-953318ea82a6</guid>
+                                                                                        <dc:creator><![CDATA[Danica Creahan]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 03 Dec 2025 20:27:06 +0000</pubDate>
+                    <ingested>1764793633</ingested>
+                    <modified>2025-12-03T20:27:15+00:00</modified>
+                                            <category>
+                            <![CDATA[Celebrities]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Christmas]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Danica Creahan]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Ffcfde610-cfba-11f0-bf6f-d3b802b91449&amp;resize=1400%2C911&amp;client=19f2b5e49a271b2bde77&amp;signature=a0b4a00d747ffa68b6824534ef12c6360e628a81" width="1400" height="911" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="" medium="video">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[Reba McEntire on &#39;The Voice,&#39; &#39;Happy&#39;s Place,&#39; Tree Lighting, More]]></media:title>
+                                                                    <media:embed><![CDATA[]]></media:embed>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[India will no longer require smartphone makers to preinstall its state-run 'cybersecurity' app]]></title>
-                                        <description type="html"><![CDATA[<p>India will no longer require smartphone makers to <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/india-will-require-a-state-owned-cybersecurity-app-to-be-installed-on-all-smartphones-192305599.html" data-i13n="cpos:1;pos:1">preinstall the Sanchar Saathi "security" app</a>. After blowback from Apple, Samsung and opposition leaders, the Modi government issued a statement saying it "has decided not to make the pre-installation mandatory for mobile manufacturers." The app is still available as a voluntary download.</p><p>India's Ministry of Communications framed the U-turn as a result of strong voluntary adoption. The nation said 14 million users (around 1 percent of the nation’s population) have downloaded the app. "The number of users has been increasing rapidly, and the mandate to install the app was meant to accelerate this process and make the app available to less aware citizens easily," the statement read.</p><p>In a statement sent to Engadget, the Electronic Frontier Foundation (EFF) celebrated India’s reversal. "This was a terrible and dangerous idea by the Indian government that lasted 24 hours longer than it ever should have," the organization wrote. "We thank our colleague organizations in India, such as SFLC.in and Internet Freedom Foundation, for promptly opposing it."</p><p>The Indian government had previously given smartphone makers 90 days to preinstall the Sanchar Saathi app on all new phones. They were also required to deliver it to existing devices via software updates. India claims its app exists solely for cybersecurity purposes. It includes tools allowing users to report and lock lost or stolen devices.</p><p>But privacy advocates warned that it could be used as a government backdoor for mass surveillance. According to <a target="_blank" class="link" href="https://www.bbc.com/news/articles/cedxyvx74p4o" data-i13n="cpos:2;pos:1">the <em>BBC</em></a>, the app’s privacy policy allows it to make and manage calls and send messages. It can access call and message histories, files, photos and the camera.</p><p><em>Reuters</em> <a target="_blank" class="link" href="https://www.reuters.com/world/india/india-cyber-safety-app-mandate-breach-privacy-main-opposition-party-tells-2025-12-03/" data-i13n="cpos:3;pos:1">reports</a> that industry experts cited Russia as the only known precedent for such a requirement. In August, Vladimir Putin's regime <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=5ce22e56-b6b9-4cbb-9309-11d539594de9&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=ordered&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI1LzEwLzIxL3dvcmxkL2V1cm9wZS9ydXNzaWEtbWF4LWFwcC5odG1sIiwiY29udGVudFV1aWQiOiI1Y2UyMmU1Ni1iNmI5LTRjYmItOTMwOS0xMWQ1Mzk1OTRkZTkiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjUvMTAvMjEvd29ybGQvZXVyb3BlL3J1c3NpYS1tYXgtYXBwLmh0bWwifQ&amp;signature=AQAAAZGGbkCz8hfnyOmSIX_XwGzG9IRypsNF6r2CguoNbyDz&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2025%2F10%2F21%2Fworld%2Feurope%2Frussia-max-app.html" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:4;pos:1" data-original-link="https://www.nytimes.com/2025/10/21/world/europe/russia-max-app.html">ordered</a> the messenger app MAX to be preinstalled on all mobile devices in the country. Like with India's example, experts warned that it could be used for surveillance.</p><p>On Tuesday, <em>Reuters</em> reported that <a target="_blank" class="link" href="https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html" data-i13n="cpos:5;pos:1">Apple would not comply with India's order</a>, citing privacy and security concerns. Samsung reportedly followed. Opposition leaders in the Indian government also joined the fray. Senior Congress leader Randeep Singh Surjewala called on the Modi government to clarify its legal authority for "mandating a non-removable app." Despite India's framing, it seems likely that the two companies' stances, along with domestic political pressure, played no small role in the reversal.</p><p><strong>Update, December 3, 2025, 2:50 PM ET:</strong> This story has been updated to add a statement from the EFF.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/india-will-no-longer-require-smartphone-makers-to-preinstall-its-state-run-cybersecurity-app-171500923.html?src=rss]]></description>
+                                        <description type="html"><![CDATA[<p>India will no longer require smartphone makers to <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/india-will-require-a-state-owned-cybersecurity-app-to-be-installed-on-all-smartphones-192305599.html" data-i13n="cpos:1;pos:1">preinstall the Sanchar Saathi "security" app</a>. After blowback from Apple, Samsung and opposition leaders, the Modi government issued a statement saying it "has decided not to make the pre-installation mandatory for mobile manufacturers." The app is still available as a voluntary download.</p><p>India's Ministry of Communications framed the U-turn as a result of strong voluntary adoption. The nation said 14 million users (around 1 percent of the nation’s population) have downloaded the app. "The number of users has been increasing rapidly, and the mandate to install the app was meant to accelerate this process and make the app available to less aware citizens easily," the statement read.</p><p>In a statement sent to Engadget, the Electronic Frontier Foundation (EFF) celebrated India’s reversal. "This was a terrible and dangerous idea by the Indian government that lasted 24 hours longer than it ever should have," EFF Civil Liberties Director David Greene wrote. "We thank our colleague organizations in India, such as SFLC.in and Internet Freedom Foundation, for promptly opposing it."</p><p>The Indian government had previously given smartphone makers 90 days to preinstall the Sanchar Saathi app on all new phones. They were also required to deliver it to existing devices via software updates. India claims its app exists solely for cybersecurity purposes. It includes tools allowing users to report and lock lost or stolen devices.</p><p>But privacy advocates warned that it could be used as a government backdoor for mass surveillance. According to <a target="_blank" class="link" href="https://www.bbc.com/news/articles/cedxyvx74p4o" data-i13n="cpos:2;pos:1">the <em>BBC</em></a>, the app’s privacy policy allows it to make and manage calls and send messages. It can access call and message histories, files, photos and the camera.</p><p><em>Reuters</em> <a target="_blank" class="link" href="https://www.reuters.com/world/india/india-cyber-safety-app-mandate-breach-privacy-main-opposition-party-tells-2025-12-03/" data-i13n="cpos:3;pos:1">reports</a> that industry experts cited Russia as the only known precedent for such a requirement. In August, Vladimir Putin's regime <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=5ce22e56-b6b9-4cbb-9309-11d539594de9&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=ordered&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI1LzEwLzIxL3dvcmxkL2V1cm9wZS9ydXNzaWEtbWF4LWFwcC5odG1sIiwiY29udGVudFV1aWQiOiI1Y2UyMmU1Ni1iNmI5LTRjYmItOTMwOS0xMWQ1Mzk1OTRkZTkiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjUvMTAvMjEvd29ybGQvZXVyb3BlL3J1c3NpYS1tYXgtYXBwLmh0bWwifQ&amp;signature=AQAAAZGGbkCz8hfnyOmSIX_XwGzG9IRypsNF6r2CguoNbyDz&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2025%2F10%2F21%2Fworld%2Feurope%2Frussia-max-app.html" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:4;pos:1" data-original-link="https://www.nytimes.com/2025/10/21/world/europe/russia-max-app.html">ordered</a> the messenger app MAX to be preinstalled on all mobile devices in the country. Like with India's example, experts warned that it could be used for surveillance.</p><p>On Tuesday, <em>Reuters</em> reported that <a target="_blank" class="link" href="https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html" data-i13n="cpos:5;pos:1">Apple would not comply with India's order</a>, citing privacy and security concerns. Samsung reportedly followed. Opposition leaders in the Indian government also joined the fray. Senior Congress leader Randeep Singh Surjewala called on the Modi government to clarify its legal authority for "mandating a non-removable app." Despite India's framing, it seems likely that the two companies' stances, along with domestic political pressure, played no small role in the reversal.</p><p><strong>Update, December 3, 2025, 2:50 PM ET:</strong> This story has been updated to add a statement from the EFF.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/india-will-no-longer-require-smartphone-makers-to-preinstall-its-state-run-cybersecurity-app-171500923.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/cybersecurity/india-will-no-longer-require-smartphone-makers-to-preinstall-its-state-run-cybersecurity-app-171500923.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">5ce22e56-b6b9-4cbb-9309-11d539594de9</guid>
@@ -19,8 +199,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
                                                                 <pubDate>Wed, 03 Dec 2025 19:50:07 +0000</pubDate>
-                    <ingested>1764791409</ingested>
-                    <modified>2025-12-03T19:50:13+00:00</modified>
+                    <ingested>1764796378</ingested>
+                    <modified>2025-12-03T21:13:00+00:00</modified>
                                             <category>
                             <![CDATA[Software]]>
                         </category>
@@ -241,82 +421,6 @@
                                 <media:credit><![CDATA[Engadget]]></media:credit>
                                 <media:description><![CDATA[Best VPN deals]]></media:description>
                                 <media:title><![CDATA[Best VPN deals]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[How to watch the ‘Christmas in Rockefeller Center’ tree lighting special tonight]]></title>
-                                        <description type="html"><![CDATA[<iframe src="https://www.yahoo.com/news/videos/reba-mcentire-voice-happys-place-140048297.html?format=embed&amp;region=US&amp;lang=en-US&amp;site=news&amp;player_autoplay=false" sandbox="allow-same-origin allow-scripts" width="640" height="360" data-yom-embed-source="{media_id_1:5f616b15-b143-3079-8877-cc35e60c411b}" data-yahoo-uuid="5f616b15-b143-3079-8877-cc35e60c411b" frameborder="0" allowfullscreen="true" scrolling="no" id="ce81905de0cf43b5afdd5175aff5d3ec"></iframe>
-<p>It&#39;s time for the annual Rockefeller Christmas tree lighting! The <em>Christmas in Rockefeller Center </em>tree lighting special will air tonight, Dec. 3 from 8-10 PM ET — though coverage will start an hour prior, at 7 PM ET. <em>The Voice</em> and <em>Happy&#39;s Place </em>star Reba McEntire will host and perform at the Rockefeller Tree lighting, which will also feature performances from Halle Bailey, Michael Bublé, Kristin Chenoweth, Laufey, the Radio City Rockettes and more. Here’s how to tune into the 2025 Rockefeller Tree lighting.</p> 
-<h2 id="jump-link-when-is-the-2025-rockefeller-tree-lighting"><strong>When is the 2025 Rockefeller Tree lighting?</strong></h2> 
-<p>The Rockefeller Center Christmas tree will be lit on Wednesday, Dec. 3, 2025.</p> 
-<h2 id="jump-link-2025-rockefeller-tree-lighting-time"><strong>2025 Rockefeller Tree lighting time:</strong></h2> 
-<p>Coverage of the 2025 Rockefeller Tree lighting will start at 7 p.m. ET. The official <em>Christmas in Rockefeller Center </em>tree lighting special will air from 8-10 p.m ET.</p> 
-<h2 id="jump-link-2025-rockefeller-tree-lighting-channel"><strong>2025 Rockefeller Tree lighting channel:</strong></h2> 
-<p>The <em>Christmas in Rockefeller Center</em> special will air on NBC and stream on Peacock.</p> 
-<h2 id="jump-link-how-to-watch-the-2025-rockefeller-tree-lighting-without-cable"><strong>How to watch the 2025 Rockefeller Tree lighting without cable:</strong></h2> 
-<p>
- <core-commerce id="a5977c4b9b8c4ec9b5759c139ca14b2f" data-type="product-list" data-original-url="https://www.peacocktv.com/"/></p> 
-<h2 id="jump-link-who-is-hosting-the-2025-rockefeller-tree-lighting"><strong>Who is hosting the 2025 Rockefeller Tree lighting?</strong></h2> 
-<p>Reba McEntire will host NBC&#39;s annual holiday special, and perform throughout the evening.</p> 
-<h2 id="jump-link-2025-rockefeller-tree-lighting-performers"><strong>2025 Rockefeller Tree Lighting performers:</strong></h2> 
-<p>Alongside Reba McEntire, the tree lighting ceremony special will feature performances from Marc Anthony, Halle Bailey, Michael Bublé, Kristin Chenoweth, Laufey, New Edition, Brad Paisley, Carly Pearce, Gwen Stefani and the Radio City Rockettes, who are celebrating their 100th anniversary this year.</p> 
-<h2 id="jump-link-ways-to-watch-the-rockefeller-tree-lighting-for-free">Ways to watch the Rockefeller Tree lighting for free:&nbsp;</h2> 
-<p>
- <core-commerce id="b2dc2e108c4d47dabed6406c1cda0da5" data-type="product-list" data-original-url="https://www.directv.com/offers/packages/?"/></p> 
-<p>
- <core-commerce id="ab4e6878dac143ae871bc7a6e05bbdd1" data-type="product-list"/></p> 
-<p>
- <core-commerce id="2e8be2c40e5b4c399f1c91c79b0ca286" data-type="product-list" data-original-url="https://tv.youtube.com/welcome/"/></p> 
-<p></p> 
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">41e57f82-e68c-4c29-8e87-953318ea82a6</guid>
-                                                                                        <dc:creator><![CDATA[Danica Creahan]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 03 Dec 2025 18:41:44 +0000</pubDate>
-                    <ingested>1764787312</ingested>
-                    <modified>2025-12-03T18:41:55+00:00</modified>
-                                            <category>
-                            <![CDATA[Celebrities]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Christmas]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Danica Creahan]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Ffcfde610-cfba-11f0-bf6f-d3b802b91449&amp;resize=1400%2C911&amp;client=19f2b5e49a271b2bde77&amp;signature=a0b4a00d747ffa68b6824534ef12c6360e628a81" width="1400" height="911" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="" medium="video">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[Reba McEntire on &#39;The Voice,&#39; &#39;Happy&#39;s Place,&#39; Tree Lighting, More]]></media:title>
-                                                                    <media:embed><![CDATA[]]></media:embed>
                                                         </media:content>
                                                                                         
                             </item>
@@ -3301,119 +3405,6 @@
                                 <media:credit><![CDATA[Engadget / Starz / MasterClass / Paramount / Audible / Fubo]]></media:credit>
                                 <media:description><![CDATA[Cyber Monday streaming deals]]></media:description>
                                 <media:title><![CDATA[Cyber Monday streaming deals]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Metroid Prime 4: Beyond review: an excellent modernization, but not a total reinvention]]></title>
-                                        <description type="html"><![CDATA[<p></p><p>It’s been 18 years since the last Metroid Prime game, but I felt right at home in <em>Metroid Prime 4: Beyond</em>. Almost too at home. Whether fighting my way through a volcano, exploring a research base in a frozen tundra or getting lost in a vast desert, I couldn’t shake the feeling I’d done this before. As the fourth game in a series, that’s not a huge surprise, but it was my main disappointment in <em>Metroid Prime 4: Beyond.</em> Think about the leap Nintendo took going from 2011’s <em>The Legend of Zelda: Skyward Sword </em>and 2017’s <em>Breath of the Wild</em>. They were both recognizably Zelda games, but Nintendo redefined what that means between those two games.&nbsp;</p><p>No such reinvention has happened with <em>Metroid Prime 4: Beyond.</em> But that doesn’t mean it isn’t a great time — it <a target="_blank" class="link" href="https://www.engadget.com/gaming/nintendo/metroid-prime-4-beyond-thrillingly-brings-the-series-into-the-modern-era-140000932.html" data-i13n="cpos:1;pos:1">executes the template</a> for a Metroid Prime game extremely well. It’s thrilling to see the series finally make the jump to HD, iconic bounty hunter Samus Aran has some intriguing new powers, there’s a badass motorcycle to shuttle her around the game’s open world hub and the game’s design and art direction show Nintendo at its best. It&#39;s everything you’d expect from a Metroid Prime game — no more, no less. Whether that’s a good thing is up to you to decide.</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/3fN5zFkeA4A?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>If you haven’t played the previous Metroid Prime games before, fear not. There isn’t anything story-wise that you need to know before you jump into this adventure. As with all Metroid games, you take control of acclaimed bounty hunter Samus Aran, an ultra-powerful warrior with a mechanized suit full of fun tricks. The vast majority of the game takes place in first-person view where you can lock on to the many creatures trying to kill you and blast away with an ever-expanding arsenal. The other main interface is your scan visor, where you can learn about your surroundings and enemies to find weaknesses and figure out what you need to do to advance.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Psychicabilities_01.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Psychicabilities_01.png" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="08e107cd-f927-45a6-a964-15b03b62a8b0"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>Beyond throws you right into a firefight that serves as a solid tutorial for the game&#39;s varied control schemes. A Galactic Federation outpost is under attack, and Samus flies in to help defend the troops and keep a secret artifact safe. This somewhat bombastic intro is a great way to show off the Switch 2&#39;s power. Sure, we&#39;re not talking about a PS5 Pro here, but this is perhaps the most visually-advanced game Nintendo has released. With a Switch 2 docked to a TV, you can play it at either 4K / 60fps or 1080p / 120fps (in handheld mode, that drops to 1080p or 720p with the same frame rates). I don’t have a huge TV, so I mostly went with “performance mode,” but in either case the game felt extremely fluid with no frame rate drops and looked outstanding.&nbsp;</p><p>The game starts as Samus Aran flies in to help the Galactic Federation fight off an invasion, and that opening cut scene shows off with some HDR-enhanced explosions and a detailed environment of a space base in chaos. There are little fires and explosions everywhere; it&#39;s visually busy but in a good way that serves the setting, and it all looks vibrant and life-like. As with basically all Nintendo games, <em>Metroid Prime 4: Beyond</em> isn&#39;t aiming for realism, but it&#39;s closer to a game like <em>Horizon Forbidden West</em> or <em>Cyberpunk 2077</em> than any other Nintendo titles I can think of. Things like the textures of metal installations, the leaves on alien trees or Samus&#39; gloves all have a level of textural detail you don&#39;t usually see in Nintendo&#39;s games. Often, that&#39;s due to a conscious art direction choice to go in a more cartoonish direction, but the Switch 2&#39;s hardware is helping make the game as lifelike as possible.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond-scrn-05.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond-scrn-05.jpg" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="18f7fa22-425f-44b2-9472-2481867867b9"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>(Note that <em>Metroid Prime 4: Beyond</em> is also available on the original Switch. I didn’t play it there so I can’t comment on how things like frame rates and textures hold up on that much older console. If you’re thinking about trying this game on the first Switch, it’s probably a good idea to see how other reviewers find that experience before shelling out $60.)</p><p>The aforementioned intro sets up the big conflict in <em>Beyond.</em> As Samus comes in to try and help the troops defend a mysterious artifact, the game’s big bad Sylux shows up and everything hits the fan. Samus and some other Galactic Federation forces are mysteriously transported to the planet Viewros, where Samus comes into contact with a near-excinct society called the Lamorn. A Lamorn elder telepathically pleads with Samus to try and save the society from being totally forgotten — indeed, she may be able to bring them back from the brink of extinction if all goes well. They’ve been waiting for a “chosen one,” you see, and Samus is naturally it.</p><p>As part of this intro, Samus gains her signature new physic powers in <em>Beyond.</em> These allow her to interact with otherwise-hidden parts of the environment to solve puzzles. The most significant is the Control Beam. When you charge your arm cannon while in the psychic scan visor mode (a slight tweak on the environmental scanning feature that has been a major part of all Metroid Prime games), you can fire a beam that slows time down and can be controlled with the right joystick. That means you can pass the Control Beam through multiple targets, something you’ll need to do periodically to weaken enemies or unlock the way forward.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Psychicabilities_03.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Psychicabilities_03.png" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="3e26293f-f56d-4d50-a53c-dffbf0140b34"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>For the most part, though, the psychic powers besides the beam are just repackaging of already-familiar tools. Metroid veterans will be familiar with the Spider Ball, an upgrade to the Morph Ball that lets Samus magnetically attach to tracks that help her get to out-of-reach areas. In <em>Beyond</em>, you instead get the “Psychic” Spider Ball — that does essentially the same thing. Occasionally, you’ll find Psychic Ball Tracks that you have to scan to reveal; they’ll then blast Samus into a secret area that usually has a weapon upgrade or energy tank. Even Samus’ main weapon gets a fancy “Psychic Beam” name — but the description of it in the inventory admits that it’s the same weapon. “The Psychic Beam’s strength and performance are equal to the standard Power Beam.” While the Control Beam adds a fun wrinkle to the gameplay, the psychic abilities don’t otherwise change the Metroid Prime formula in any significant way.</p><p>The main task Samus faces is collecting five Teleporter Keys that can get her off the planet. Those keys are hidden in various environments around Viewros that are all connected by Sol Valley, a large desert that holds lots of upgrades and side quests that you’ll need to clear to advance in the game. The desert is more of a hub than an open world — there are small areas to explore dotted around it, but the main action happens in places like Ice Belt, Volt Forge, Flare Pool and several others you’ll find your way to as you collect those teleporter keys.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/20251202-01KB09ANK06HFX0HN2H44A1PJ0-23FC2CF9-DB3D-43E8-8483-73248D8EDB58.jpeg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/20251202-01KB09ANK06HFX0HN2H44A1PJ0-23FC2CF9-DB3D-43E8-8483-73248D8EDB58.jpeg" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="bdec6888-85cf-4366-9690-9f5c64b67d23"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>As those names suggest, Ice Belt is a frozen area where you explore an abandoned research facility, while Flare Pool is inside of a volcano. And, as you might expect, you’ll need certain weapons to advance in those areas. In addition to her standard beam and missile weapons, Samus collects the obligatory freeze ray and fire blaster sort of weapons. This is where the game really started to remind me of the original <em>Metroid Prime</em> — the three elemental weapons she collects are essentially the same as those in the first game, and environments like a frozen wasteland or a fiery volcano are nearly identical to ones you’ll find in that game. The Lamorn, meanwhile, reminded me a lot of the departed Chozo tribe you’ll find on Tallon IV in the first <em>Metroid Prime.</em> Of course, that game came out all the way back in 2002, and <em>Metroid Prime 4: Beyond </em>will likely be the first game of the series many play. A little recycling of classic elements is forgivable.&nbsp;</p><p>That said, I was a bit disappointed that the game has a tightly-scripted flow. After the intro and the first mission on Viewros, you hit the desert with multiple locations where Teleporter Keys are believed to be hidden. But you can’t tackle them in any order you choose. This is a Metroid game, after all, and that means exploring to find powers that let you explore a new area that was previously closed off. Part of me was hoping for the freedom of a game like<em> Breath of the Wild</em> where you could tackle areas in any order you choose. But after playing through nearly the entire game, I appreciate the excellent execution of the familiar formula.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch2_MetroidPrime4Beyond_scrn10.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch2_MetroidPrime4Beyond_scrn10.png" style="height:2160px;width:3840px;" alt="Metroid Prime 4: Beyond" data-uuid="8a4eb6f9-3657-46ac-af04-15fd2b702cbf"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>Another thing that’ll be familiar to those who’ve played the older Metroid Prime games is the control scheme. For the most part, you can pick up the controller and get right to it, as the main control layout employs a two-joystick first-person view that should be pretty easy to get the hang of. But there are definitely times where I found myself wishing for more precision. You can lock onto enemies and targets with the ZL button and start blasting away with your chosen weapon, but many of the boss battles require you to lock on to a large creature and then use the right stick to adjust your aim to hit very specific targets. This took some getting used to, because I was used to the lock-on target vulnerable areas. Doing it with a Switch Pro Controller made things much easier, but using the standard Joy-Cons could get frustrating in a hurry. If I was playing in handheld mode, I would often pause before a big battle and wait until I could hook up to my TV and use a proper controller. I’d recommend you do the same — it’ll make for a much more enjoyable experience.</p><p><em>Beyond</em> also offers the option of using one Joy-Con in “mouse” mode for aiming while using the other for moving around. For me, this isn’t a viable option. I tried it a few times and immediately felt completely disoriented and far worse at aiming than I was with the right stick. I can appreciate the idea behind offering mouse-like controls for a first-person FPS game, but it just did not feel well executed. That said, this might be on me. I haven’t played a game with a keyboard and mouse in years; nearly all of my gaming is on a twin-stick controller, so I’m just more comfortable with that setup. I’m thinking about starting from the beginning and seeing how I adapt to mouse mode and will update this review if my opinion changes.</p><p>There are a few things that <em>Beyond</em> does that are completely new to the series. The most obvious one is Vi-O-La, the wild robotic motorcycle that Samus rides. You’ll unlock that early in the game, and its primary utility is to get around Sol Valley. For anyone worried that the game is overly focused on an element that admittedly feels a bit anachronistic to the usual Metroid vibe, fear not. You’ll use it a bunch, but it’s more about fast transportation and exploration than something that has detailed mechanics you need to master. There are a few segments where it’s a major part of the mission, but for the most part it’s just another tool in your arsenal rather than something that steals the focus of the game.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch2_MetroidPrime4Beyond_scrn05.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch2_MetroidPrime4Beyond_scrn05.png" style="height:2160px;width:3840px;" alt="Metroid Prime 4: Beyond" data-uuid="2ca181f9-d725-460e-b0a0-bf9767df6e11"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>The same can be said for the motley crew of adventures you assemble. One of the loudest bits of feedback that came out of the preview Nintendo offered the press a few weeks ago was “what’s the deal with Myles MacKenzie?” You see, in the first hours of the game you come across MacKenzie, a bumbling engineer type who you rescue in the jungles of Viewros shortly after landing on the planet. You then have to escort him around a bit, during which he makes some pretty bad and occasionally obnoxious jokes. This led many who played the preview to worry about MacKenzie shattering the quiet and lonely solitude the Metroid series is known for.</p><p>Don’t worry — Samus is on her own for the vast majority of the game. You’ll encounter a few more stranded Galactic Federation soldiers throughout the game, but they usually only stick around for short segments before returning to the home base you establish with Myles. And as for Myles himself, he’ll help upgrade your weapons and is available on the radio to give you hints on where you need to go, something that I honestly didn’t mind. I’d rather have hints at hand than spend all my time wandering lost throughout the vast world of <em>Beyond</em>. But I can also see that the hint system is occasionally too aggressive in dropping details on where to go next.</p><p>As a seasoned player, <em>Beyond</em> mostly felt challenging but fair. Games in the Metroid Prime series are notorious for moments of serious difficulty, but this one feels a little more forgiving. When battling bosses, there were plenty of ammo and energy drops that helped me even the score. I usually died a handful of times while figuring out my strategy or getting a feel for their attacks, but it wasn’t overly frustrating or tedious. That said, there were two bosses near the end (including the final boss) where the difficult curve spiked in a way that felt completely unreasonable.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/20251202-01KBBJEWWMD5PHW2WK9GY9WS58-EC71802D-D35E-4FF5-B3A2-437F3D6BE614.jpeg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/20251202-01KBBJEWWMD5PHW2WK9GY9WS58-EC71802D-D35E-4FF5-B3A2-437F3D6BE614.jpeg" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="3afc08ec-96b9-4c31-876d-48da420b86d6"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>There were also a few times when I felt wildly lost, with no useful information about my next step to be found anywhere on the map. Myles told me to find a member of the crew “out in the desert.” And while Sol Valley isn’t the same open-world scale of some bigger games, it’s still a pretty big space to explore without any other indication of where to go. I wasted far too much time riding my motorcycle across dunes aimlessly figuring out where to go. It wouldn’t be a Metroid game if you didn’t get hopelessly stuck at some point, though.</p><p>For the most part, I enjoyed the addition of some people helping Samus along her way. It helps flesh out the world of the game in small ways, giving some perspectives on everything going on from people who aren’t ultra-powerful, silent bounty hunters. It did make Samus’ never-ending silence feel a bit awkward, but it also fits with her otherworldly, not-quite-human presence.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Scene_01.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Switch_MetroidPrime4Beyond_SCRN_Scene_01.png" style="height:1080px;width:1920px;" alt="Metroid Prime 4: Beyond" data-uuid="66aac1f0-ba13-4eb3-b281-f622c2e5596d"><figcaption>Metroid Prime 4: Beyond</figcaption><div class="photo-credit">Nintendo</div></figure><p>In some ways, it’s easy to sum up <em>Metroid Prime 4: Beyond.</em> It’s the Metroid Prime experience, modernized. The graphics are better, the world is bigger, experiences like Vi-O-La and Samus’ psychic abilities offer a greater variety of gameplay experiences. But it’s also very much a Metroid Prime game at its core, with the familiar but effective mix of biomes to exploration, giant enemies to dispatch and weapon upgrades to find. And, of course, there were moments of immense frustration when things just got too difficult, another hallmark of the series. Seriously, the final battle is wildly frustrating. Maybe I just need to get good, but it felt so far out of sync with the entire rest of the game that it almost ruined the fun that came before.</p><p>That intense moment of frustration aside, anyone who played earlier games in the series will find a lot to love here. But, they also might be disappointed that Nintendo didn’t push the series further. However, there are also a lot of people who’ve never played a Metroid Prime game in the last two decades or so — those people will find that the formula Nintendo engineered in the 2000s still holds up here. <em>Metroid Prime 4: Beyond</em> is far more unique than your average first-person shooter, it was worth the long wait, and it’s a must-play for anyone who is up for the challenge.</p><p>&nbsp;</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/metroid-prime-4-beyond-review-an-excellent-modernization-but-not-a-total-reinvention-150000082.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nintendo/metroid-prime-4-beyond-review-an-excellent-modernization-but-not-a-total-reinvention-150000082.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">91a55d80-3585-4bdc-998b-c65ef2bd9d46</guid>
-                                                                                        <dc:creator><![CDATA[Nathan Ingraham]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 02 Dec 2025 15:00:00 +0000</pubDate>
-                    <ingested>1764687661</ingested>
-                    <modified>2025-12-02T15:01:16+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Nathan Ingraham]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSwitch_MetroidPrime4Beyond_SCRN_Scene_03.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ffd6ab6ac320f71c7cfb5b15a3ff99fd7f4b84c3" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSwitch_MetroidPrime4Beyond_SCRN_Scene_03.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ffd6ab6ac320f71c7cfb5b15a3ff99fd7f4b84c3" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Nintendo]]></media:credit>
-                                <media:description><![CDATA[Metroid Prime 4: Beyond]]></media:description>
-                                <media:title><![CDATA[Metroid Prime 4: Beyond]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple will reportedly refuse to pre-install India's state-mandated security app]]></title>
-                                        <description type="html"><![CDATA[<p><strong>Update December 3 2025, 10:43am ET: </strong>India has withdrawn its mandate requesting manufacturers to install the Sanchar Saathi app, according to reporting from <a data-i13n="cpos:1;pos:1" href="https://www.reuters.com/world/india/india-cyber-safety-app-mandate-breach-privacy-main-opposition-party-tells-2025-12-03/"><em>Reuters</em></a>. The text below has been left unaltered.</p>
-<p>India has issued a mandate to all smartphone manufacturers and importers requiring them to install a state-owned cyber security app. But Apple is reportedly not going to comply, citing privacy and security concerns, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-resist-india-order-preload-state-run-app-political-outcry-builds-2025-12-02/">according to <em>Reuters</em></a>.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>The app, called Sanchar Saathi (meaning Communication Companion), is supposed to expedite the process of finding lost or stolen devices and stopping their misuse, according to a <a data-i13n="cpos:3;pos:1" href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2197140&amp;reg=3&amp;lang=1">government press release</a> on Monday. It further states that companies, including the likes of Samsung and Xiaomi, should &quot;endeavor&quot; to use software updates to download the app on previously purchased smartphones.&nbsp;</p>
-<p>The Sanchar Saathi app comes alongside an entire website designed for reporting fraudulent communication and tracking missing phones. However, critics worry that the app is a means for Prime Minister Narendra Modi&#39;s government to gain access to every smartphone in India.&nbsp;</p>
-<p>The messages coming out of the Indian government have been mixed so far. In Monday&#39;s public announcement, it said companies must comply within 90 days and submit a report within 120 days. It also states that the app should be &quot;readily visible and accessible to the end users at the time of first use or device setup and that its functionalities are not disabled or restricted.&quot;&nbsp;</p>
-<p>Yet, today, India&#39;s Union Communications Minister Shri Jyotiraditya Scindia <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2197518&amp;reg=3&amp;lang=2">stated</a> that the app is &quot;completely democratic and fully voluntary.&quot; He added that users can deactivate or delete it &quot;at any time.&quot;</p>
-<p>At the same time, industry sources told <em>Reuters </em>that Apple will not comply with preinstalling the app. Whether that pushback lasts remains to be seen — Apple has bowed to government mandates in the past. Recently, it <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/apps/apple-told-to-remove-lgbtq-dating-apps-by-china-130022336.html">removed two of China&#39;s biggest LGBTQ+ dating apps</a>, following orders from the country&#39;s internet regulator and censor.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6b330c42-3c51-448d-8d55-ac4326f331ed</guid>
-                                                                                        <dc:creator><![CDATA[Sarah Fielding]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 02 Dec 2025 14:30:50 +0000</pubDate>
-                    <ingested>1764789418</ingested>
-                    <modified>2025-12-03T19:17:02+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Politics & Government]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Mobile Apps]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sarah Fielding]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bc89ca5e49ea28f53d84dc8529b67083e6e7f8cc" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Brian Oh for Engadget]]></media:credit>
-                                <media:description><![CDATA[A white iPhone 16 Pro and a desert iPhone 16 Pro Max standing on a table.]]></media:description>
-                                <media:title><![CDATA[iPhone 16 Pro review]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
