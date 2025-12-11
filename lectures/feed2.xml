@@ -6,9 +6,117 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 11 Dec 2025 18:00:00 +0000</pubDate>
+            <pubDate>Thu, 11 Dec 2025 18:50:29 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[OpenAI releases GPT-5.2 to take on Google and Anthropic]]></title>
+                                        <description type="html"><![CDATA[<p>OpenAI&#39;s &quot;code red&quot; response to Google&#39;s <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACezLmWoxPMsxtV37FLypbESuxMgkZjaQK8vhYio-WDTgQI1K8lJKvj21T05s-piYZew5foyQ4Pxwe9PzxaIIFevvuj-Zc6QBdlt9AEeZgILLcbbHacXmXLVWxrY8S3svOH8V8ApZlhx_BmiAh605-Btyqw2zZ6vIRN3U4lY19fm" data-i13n="cpos:1;pos:1">Gemini 3 Pro has arrived</a>. On the same day the company announced a Sora <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-signs-deal-to-bring-disney-characters-to-sora-and-chatgpt-144344820.html" data-i13n="cpos:2;pos:1">licensing pact with Disney</a>, it took the <a target="_blank" class="link" href="https://openai.com/index/introducing-gpt-5-2/" data-i13n="cpos:3;pos:1">wraps off GPT-5.2</a>.&nbsp;OpenAI is touting the new model as its best yet for real-world, professional use. “It’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long contexts, using tools, and handling complex, multi-step projects,” said OpenAI.</p><p>In a series of 10 benchmarks highlighted by OpenAI, GPT-5.2 Thinking, the most advanced version of the model, outperformed its GPT-5.1  counterpart, sometimes by a significant margin. For example, in AIME 2025, a test that involves 30 challenging mathematics problems, the model earned a perfect 100 percent score, beating out GPT-5.1’s already state-of-the-art score of 94 perfect.  It also achieved that feat without turning to tools like web search.  Meanwhile, in ARC-AGI-1, a benchmark that tests an AI system’s ability to reason abstractly like a human being would, the new system beat GPT-5.1’s score by more than 10 percentage points. </p><p>OpenAI says GPT-5.2 Thinking is better at answering questions factually, with the company finding it produces errors 30 percent less frequently.  “For professionals, this means fewer mistakes when using the model for research, writing, analysis, and decision support — making the model more dependable for everyday knowledge work,” the company said. </p><p>The new model should be better in conversation too. Of the version of the system most users are likely to encounter, OpenAI says “GPT‑5.2 Instant is a fast, capable workhorse for everyday work and learning, with clear improvements in info-seeking questions, how-tos and walk-throughs, technical writing, and translation, building on the warmer conversational tone introduced in GPT‑5.1 Instant.“</p><p>While it&#39;s probably overstating things to suggest this is a make or break release for OpenAI, it is fair to say the company does have a lot riding on GPT 5.2. Its big release of 2025, <a target="_blank" class="link" href="https://www.engadget.com/ai/gpt-5-is-here-and-its-free-for-everyone-170001066.html" data-i13n="cpos:4;pos:1">GPT-5</a>, didn&#39;t meet expectations. Users complained of a system that generated <a target="_blank" class="link" href="https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/" data-i13n="cpos:5;pos:1">surprisingly dumb answers</a> and had a boring personality. The disappointment with GPT-5 was such that people began demanding OpenAI bring back GPT-4o.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Then came <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html" data-i13n="cpos:6;pos:1">Gemini 3 Pro</a> — which jumped to the top of LMArena, a website where humans rate outputs from AI systems to vote on the best one. Following Google&#39;s announcement, Sam Altman reportedly called for a <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=30190bed-34ae-4250-a39d-8e5613de573b&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=%22code+red%22+effort&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkvb3BlbmFpcy1hbHRtYW4tZGVjbGFyZXMtY29kZS1yZWQtdG8taW1wcm92ZS1jaGF0Z3B0LWFzLWdvb2dsZS10aHJlYXRlbnMtYWktbGVhZC03ZmFmNWVhNiIsImNvbnRlbnRVdWlkIjoiMzAxOTBiZWQtMzRhZS00MjUwLWEzOWQtOGU1NjEzZGU1NzNiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkvb3BlbmFpcy1hbHRtYW4tZGVjbGFyZXMtY29kZS1yZWQtdG8taW1wcm92ZS1jaGF0Z3B0LWFzLWdvb2dsZS10aHJlYXRlbnMtYWktbGVhZC03ZmFmNWVhNiJ9&amp;signature=AQAAAdWte-lWaQAxh_ozw1-6GGkIra8pqDc0P0WlnJBjPM1C&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Fopenais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6" data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;cpos:7;pos:1" data-original-link="https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6">&quot;code red&quot; effort</a> to improve ChatGPT. Before today, the company&#39;s previous model, GPT-5.1, was ranked sixth on LMArena, with systems from Anthropic and Elon Musk&#39;s xAI occupying the spots between OpenAI between Google.&nbsp;</p><p>For a company that recently signed more than <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=30190bed-34ae-4250-a39d-8e5613de573b&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=%241.4+trillion&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzA5LzI4L2EtbG9vay1hdC1vcGVuYWlzLXRhbmdsZWQtd2ViLW9mLWRlYWxtYWtpbmcuaHRtbCIsImNvbnRlbnRVdWlkIjoiMzAxOTBiZWQtMzRhZS00MjUwLWEzOWQtOGU1NjEzZGU1NzNiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzA5LzI4L2EtbG9vay1hdC1vcGVuYWlzLXRhbmdsZWQtd2ViLW9mLWRlYWxtYWtpbmcuaHRtbCJ9&amp;signature=AQAAAV4Aie-M6Xp4CbAvr_aFysMAcrowWjGwWOzIT66pVgi3&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2025%2F09%2F28%2Fa-look-at-openais-tangled-web-of-dealmaking.html" data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:;cpos:8;pos:1" data-original-link="https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html">$1.4 trillion</a> worth of infrastructure deals in a bid to outscale the competition, that was not a good position for OpenAI to be in. In his memo to staff, Altman said GPT-5.2 would be the equal of Gemini 3 Pro. With the new system rolling out now, we&#39;ll see whether that&#39;s true, and what it might mean for the company if it can&#39;t at least match Google&#39;s best.&nbsp; &nbsp; &nbsp; </p><p>OpenAI is offering three different versions of GPT-5.2: Instant, Thinking and Pro. All three models will be first available to users on the company’s paid plans. Notably, the company plans to keep GPT-5.1 around, at least for a little while. Paid users can continue to use the older model for the next three months by selecting it from the legacy models section. </p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-releases-gpt-52-to-take-on-google-and-anthropic-185029007.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/openai-releases-gpt-52-to-take-on-google-and-anthropic-185029007.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">30190bed-34ae-4250-a39d-8e5613de573b</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 11 Dec 2025 18:50:29 +0000</pubDate>
+                    <ingested>1765479034</ingested>
+                    <modified>2025-12-11T18:50:42+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgpt-5.2.gif&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=428c35e5789a8944eb299cb9186f19c5eec11958" width="1400" height="789" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgpt-5.2.gif&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=428c35e5789a8944eb299cb9186f19c5eec11958" width="1400" height="789" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[OpenAI]]></media:credit>
+                                <media:description><![CDATA[OpenAI&#39;s new GPT-5.2 model has arrived.]]></media:description>
+                                <media:title><![CDATA[GPT-5.2]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Lawsuit accuses ChatGPT of reinforcing delusions that led to a woman's death]]></title>
+                                        <description type="html"><![CDATA[<p>OpenAI has been hit with a wrongful death lawsuit after a man <a data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=63236523-f30e-4814-9f21-15cd0e5df80c&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=killed+his+mother+and+took+his+own+life&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkvY2hhdGdwdC1haS1zdGVpbi1lcmlrLXNvZWxiZXJnLW11cmRlci1zdWljaWRlLTZiNjdkYmZiIiwiY29udGVudFV1aWQiOiI2MzIzNjUyMy1mMzBlLTQ4MTQtOWYyMS0xNWNkMGU1ZGY4MGMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9haS9jaGF0Z3B0LWFpLXN0ZWluLWVyaWstc29lbGJlcmctbXVyZGVyLXN1aWNpZGUtNmI2N2RiZmIifQ&amp;signature=AQAAAedLkkKhAru4oGMs1zwd8WHPwx2E1f-ICMGACbmcdCTP&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Fchatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb" class="rapid-with-clickid" data-original-link="https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb"><ins>killed his mother and took his own life</ins></a> back in August, <a data-i13n="cpos:2;pos:1" href="https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions"><ins>according to a report by </ins><em><ins>The Verge</ins></em></a>. The suit names CEO Sam Altman and accuses ChatGPT of putting a &quot;target&quot; on the back of victim Suzanne Adams, an 83-year-old woman who was killed in her home.</p>
+<p>The victim&#39;s estate <a data-i13n="cpos:3;pos:1" href="https://www.documentcloud.org/documents/26371289-estate-of-suzanne-adams-openai-complaint/"><ins>claims the killer</ins></a>, 56-year-old Stein-Erik Soelberg, engaged in delusion-soaked conversations with ChatGPT in which the bot &quot;validated and magnified&quot; certain &quot;paranoid beliefs.&quot; The suit goes on to suggest that the chatbot &quot;eagerly accepted&quot; delusional thoughts leading up to the murder and egged him on every step of the way.</p>
+<span id="end-legacy-contents"></span><p>The lawsuit claims the bot helped create a &quot;universe that became Stein-Erik’s entire life—one flooded with conspiracies against him, attempts to kill him, and with Stein-Erik at the center as a warrior with divine purpose.&quot; ChatGPT allegedly reinforced theories that he was &quot;100% being monitored and targeted&quot; and was &quot;100% right to be alarmed.&quot;</p>
+<p>The chatbot allegedly agreed that the victim&#39;s printer was spying on him, suggesting that Adams could have been using it for &quot;passive motion detection&quot; and &quot;behavior mapping.&quot; It went so far as to say that she was &quot;knowingly protecting the device as a surveillance point&quot; and implied she was being controlled by an external force.</p>
+<p>The chatbot also allegedly &quot;identified other real people as enemies.&quot; These included an Uber Eats driver, an AT&amp;T employee, police officers and a woman the perpetrator went on a date with. Throughout this entire period, the bot repeatedly assured Soelberg that he was &quot;not crazy&quot; and that the &quot;delusion risk&quot; was &quot;near zero.&quot;</p>
+<p>The lawsuit notes that Soelberg primarily interfaced with GPT-4o, a model <a data-i13n="cpos:4;pos:1" href="https://www.bbc.com/news/articles/cn4jnwdvg9qo"><ins>notorious for its sycophancy</ins></a>. OpenAI later replaced the model with the <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/gpt-5-is-here-and-its-free-for-everyone-170001066.html"><ins>slightly-less agreeable GPT 5</ins></a>, but users revolted <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/ai/openai-brings-gpt-4o-after-users-melt-down-over-the-new-model-172523159.html"><ins>so the old bot came back just two days later</ins></a>. The suit also suggests that the company &quot;loosened critical safety guardrails&quot; when making GPT-4o to better compete with Google Gemini.</p>
+<p>&quot;OpenAI has been well aware of the risks their product poses to the public,&quot; the lawsuit states. &quot;But rather than warn users or implement meaningful safeguards, they have suppressed evidence of these dangers while waging a PR campaign to mislead the public about the safety of their products.&quot;</p>
+<p>OpenAI has responded to the suit, calling it an &quot;incredibly heartbreaking situation.&quot; Company spokesperson Hannah Wong told <em>The Verge</em> that it will &quot;continue improving ChatGPT&#39;s training to recognize and respond to signs of mental or emotional distress.&quot;</p>
+<div id="cde6f0322a1f473f90ec0dbb0066f8d2"><iframe width="560" height="315" src="https://www.youtube.com/embed/VRjgNgJms3Q?si=OqPFRidx2o3CRCPy" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>It&#39;s not really a secret that chatbots, and particularly GPT-4o, <a data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;cpos:7;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=63236523-f30e-4814-9f21-15cd0e5df80c&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=can+reinforce+delusional+thinking&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkvaS1mZWVsLWxpa2UtaW0tZ29pbmctY3JhenktY2hhdGdwdC1mdWVscy1kZWx1c2lvbmFsLXNwaXJhbHMtYWU1YTUxZmMiLCJjb250ZW50VXVpZCI6IjYzMjM2NTIzLWYzMGUtNDgxNC05ZjIxLTE1Y2QwZTVkZjgwYyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cud3NqLmNvbS90ZWNoL2FpL2ktZmVlbC1saWtlLWltLWdvaW5nLWNyYXp5LWNoYXRncHQtZnVlbHMtZGVsdXNpb25hbC1zcGlyYWxzLWFlNWE1MWZjIn0&amp;signature=AQAAARPwK_YZMsKc_Q318ZWWzVZBFa4Fz-AVGnlLK2f4IoiR&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Fi-feel-like-im-going-crazy-chatgpt-fuels-delusional-spirals-ae5a51fc" class="rapid-with-clickid" data-original-link="https://www.wsj.com/tech/ai/i-feel-like-im-going-crazy-chatgpt-fuels-delusional-spirals-ae5a51fc"><ins>can reinforce delusional thinking</ins></a>. That&#39;s what happens when something has been programmed to agree with the end user no matter what. There have been other stories like this throughout the past year, bringing the term <a data-i13n="cpos:8;pos:1" href="https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health"><ins>&quot;AI psychosis&quot; to the mainstream</ins></a>.</p>
+<p>One such story involves 16-year-old Adam Raine, who took his own life after <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html"><ins>discussing it with GPT-4o for months</ins></a>. OpenAI is facing another <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/ai/openai-reportedly-asked-for-memorial-guest-list-in-teen-suicide-case-163309269.html"><ins>wrongful death suit for that incident</ins></a>, in which the bot has been accused of helping Raine plan his suicide.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/lawsuit-accuses-chatgpt-of-reinforcing-delusions-that-led-to-a-womans-death-183141193.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/lawsuit-accuses-chatgpt-of-reinforcing-delusions-that-led-to-a-womans-death-183141193.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">63236523-f30e-4814-9f21-15cd0e5df80c</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 11 Dec 2025 18:31:41 +0000</pubDate>
+                    <ingested>1765477912</ingested>
+                    <modified>2025-12-11T18:31:56+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Ff05b8210-d6bc-11f0-aedf-f1605f78f40e&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=44ed2d75068a6d342ea52475f355058ea5d42242" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Ff05b8210-d6bc-11f0-aedf-f1605f78f40e&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=e2d3b24bf674400fdd567b206629f9b96b0ded12" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[FILE - Sam Altman, Co-Founder and Chief Executive Officer, OpenAI, testifies before a Senate Committee on Commerce, Science, and Transportation hearing on Capitol Hill in Washington, May 8, 2025. (AP Photo/Jose Luis Magana, file)]]></media:description>
+                                <media:title><![CDATA[Time Person of the Year Cover]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Google Disco is an experimental web browser that builds AI widgets based on your tabs]]></title>
                                         <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/I-rAE40ggbc?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>The latest experiment emerging out of Google Labs is Disco, which is the company&#39;s AI-driven approach to web browsing. The first feature for Disco is called GenTabs, built on Google&#39;s <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html" data-i13n="cpos:1;pos:1">Gemini 3</a> model.&nbsp;</p><p>GenTabs are interactive widgets created from a mix of user prompts, open tabs and chat history. The preview examples demonstrate how GenTabs can create a model to demonstrate entropy as a study aid, or collect trip ideas into one screen for building an itinerary. The GenTab can be further refined with natural language requests, and it will also offer contextual suggestions for additions that may be helpful. Google&#39;s <a target="_blank" class="link" href="https://blog.google/technology/google-labs/gentabs-gemini-3/" data-i13n="cpos:2;pos:1">blog post</a> announcing this concept notes that information given in a GenTab will include links to its sources.&nbsp;</p><p>Google has a waitlist for people who want to try out Disco and GenTabs, although for now it&#39;s only on macOS. Google Labs projects don&#39;t always go the distance to an official public release, and the company even acknowledged that GenTabs will likely have some wonkiness at this experimental stage. But it&#39;s been clear for months that big tech companies are gunning for the best and fastest ways to put their AI tools into browsers, so it seems likely that there will be more features in this vein coming up soon.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-disco-is-an-experimental-web-browser-that-builds-ai-widgets-based-on-your-tabs-180000701.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/google-disco-is-an-experimental-web-browser-that-builds-ai-widgets-based-on-your-tabs-180000701.html?src=rss]]></link>
@@ -3154,103 +3262,6 @@ AI-driven gadgets, robots, and vehicles take the spotlight at CES 2025 in Las Ve
                                 <media:credit><![CDATA[]]></media:credit>
                                 <media:description><![CDATA[]]></media:description>
                                 <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Repair iconic 2000s-era gadgets in upcoming indie game ReStory]]></title>
-                                        <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/2f4HM4JHU40?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>We love a little nostalgia mixed in with our cozy gaming, and <em>ReStory</em> looks like a perfect blend of those two. In this upcoming indie game, you play the owner of a Tokyo electronics repair shop in the mid 2000s. The trailer that dropped today shows you tinkering with some very familiar gadgets from the era, such as renamed riffs on a Tamagotchi, a Nokia brick phone, a PSP and a Walkman. You clean and repair these devices for customers, and it looks like your conversations with them might have as much impact on their lives as your official work does.&nbsp;</p><p>The whole thing looks exceedingly charming and chill. It&#39;s nice to see a game like <em>ReStory</em> as a counterpart to something with a similar premise but wildly different tone like <em>Kaizen</em>, which was a <a target="_blank" class="link" href="https://www.engadget.com/gaming/neon-abyss-2-a-prison-break-rpg-and-other-new-indie-games-worth-checking-out-110043805.html" data-i13n="cpos:1;pos:1">highlight</a> during the Steam Automation Fest over the summer. <em>ReStory</em> is being developed by Mandragora, and it is currently <a target="_blank" class="link" href="https://store.steampowered.com/app/3812600/ReStory_Chill_Electronic_Repairs/" data-i13n="cpos:2;pos:1">playtesting</a> ahead of a planned 2026 release. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/repair-iconic-2000s-era-gadgets-in-upcoming-indie-game-restory-233445848.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/repair-iconic-2000s-era-gadgets-in-upcoming-indie-game-restory-233445848.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">91cebdb3-fda9-4f2e-b695-82a31d69f77a</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 09 Dec 2025 23:34:45 +0000</pubDate>
-                    <ingested>1765323289</ingested>
-                    <modified>2025-12-09T23:34:53+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FReStory.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=06b1d8580a9a5f6ab5b829667012aed27a45cc99" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Uber is installing kiosks for booking rides without the mobile app]]></title>
-                                        <description type="html"><![CDATA[<p>Uber is rolling out <a target="_blank" class="link" href="https://www.uber.com/newsroom/help-for-the-holidays/" data-i13n="cpos:1;pos:1">kiosks</a> for travelers to book rideshares without using the mobile app. The company is pitching the service as a convenience for international travelers who may not have a data plan, but it could also be a lifesaver if your phone runs out of juice and you don&#39;t have a way to recharge it. A passenger can use the kiosk to enter their destination and desired ride type, then will receive a printed receipt with the details about their booked ride. The first kiosk will debut in Terminal C at LaGuardia Airport in New York City, but Uber said it would have additional locations in airports, hotels and ports over the coming months.&nbsp;</p><p>In airport situations, these kiosks make Uber even more of a direct competitor to traditional taxis. With the removal of the app, the kiosk can essentially stand in as the dispatcher and a passenger can decide how to travel based on their preferences (or on wait times) for a rideshare versus a yellow cab.</p><p>Uber also used LaGuardia as the starting point for its <a target="_blank" class="link" href="https://www.engadget.com/transportation/uber-starts-offering-18-shuttle-rides-between-manhattan-and-laguardia-airport-193520618.html" data-i13n="cpos:2;pos:1">shuttle bus service</a> in New York, with $18 rides between the airport and Manhattan transit hubs in October 2024; it later <a target="_blank" class="link" href="https://www.engadget.com/transportation/uber-adds-new-shuttle-rides-between-jfk-airport-and-manhattan-100039821.html" data-i13n="cpos:3;pos:1">rolled out</a> the shuttles to John F. Kennedy Airport in March 2025. Today, Uber said it is bringing the shuttle bus option to Newark Liberty International Airport, so all major NYC airports now have access to the service. </p>This article originally appeared on Engadget at https://www.engadget.com/transportation/uber-is-installing-kiosks-for-booking-rides-without-the-mobile-app-220904106.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/uber-is-installing-kiosks-for-booking-rides-without-the-mobile-app-220904106.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">bc6dfd88-b030-4a18-b235-9c4d686df392</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 09 Dec 2025 22:09:04 +0000</pubDate>
-                    <ingested>1765321283</ingested>
-                    <modified>2025-12-09T23:01:25+00:00</modified>
-                                            <category>
-                            <![CDATA[Travel & Tourism]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FUber_Kiosk.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c6f33020ecf27847f2dbd880080b769ae80bab18" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FUber_Kiosk.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=c6f33020ecf27847f2dbd880080b769ae80bab18" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Uber]]></media:credit>
-                                <media:description><![CDATA[Illustration showing an Uber kiosk for booking a rideshare]]></media:description>
-                                <media:title><![CDATA[Uber kiosk]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
