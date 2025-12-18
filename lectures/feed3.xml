@@ -6,9 +6,311 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Thu, 18 Dec 2025 12:00:42 +0000</pubDate>
+            <pubDate>Thu, 18 Dec 2025 13:30:57 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[OpenAI just launched an app store inside ChatGPT]]></title>
+                                        <description type="html"><![CDATA[<p>OpenAI has introduced an app directory that&#39;s now available right inside ChatGPT, the company announced. &quot;Apps extend ChatGPT conversations by bringing in new context and letting users take action like order groceries, turn an outline into a slide deck or search for an apartment,&quot; the company wrote in a <a data-i13n="cpos:1;pos:1" href="https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/">blog post</a>. OpenAI also noted in a <a data-i13n="cpos:2;pos:1" href="https://help.openai.com/en/articles/11487775-apps-in-chatgpt">help document</a> that &quot;connector&quot; apps like Google Drive are now simply called &quot;apps.&quot;</p>
+<p>The new apps section (on iOS, Android and web) is divided into Feature, Lifestyle and Productivity categories, letting you connect to commonly used apps and sites like Booking.com, Spotify and Dropbox. To use an app, simply click on it, hit &quot;Connect&quot; then authorize the app to access ChatGPT. With that done, you can then start a chat related to that app. In the case of Dropbox, for instance, you&#39;ll be able to &quot;gather insights, prepare briefs and summarize reports or internal documents,&quot; according to the description. Once connected, any app can be accessed by doing an @ mention of it.</p>
+<span id="end-legacy-contents"></span><p>A new addition that came along with the store is an Apple Music app that, like Spotify, helps users find music, create playlists and manage their libraries through a chat interface. Another is DoorDash, which lets you transform recipes, meal planning and staples into &quot;an actionable shopping cart.&quot;</p>
+<p>Along with the app directory, OpenAI is now allowing developers to submit apps for review and publication in ChatGPT according to the company&#39;s app submission <a data-i13n="cpos:3;pos:1" href="https://developers.openai.com/apps-sdk/app-developer-guidelines">guidelines.</a> It also published resources to help developers build such apps, including <a data-i13n="cpos:4;pos:1" href="https://developers.openai.com/blog/what-makes-a-great-chatgpt-app">best practices</a>, open-source example apps, an open-sourced UI library for chat-native interfaces and a step-by-step <a data-i13n="cpos:5;pos:1" href="https://developers.openai.com/apps-sdk/quickstart/">quickstart guide</a>. That&#39;s on top of the software developer kit (SDK) that OpenAI <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/spotify-canva-and-other-apps-can-now-connect-to-chatgpt-194830116.html">introduced in October</a>.</p>
+<p>OpenAI noted that for now, developers can only monetize apps by linking out from the ChatGPT app to the native app or website — but the company is exploring internal monetization options as well. Privacy was also emphasized, with companies required to provide &quot;clear&quot; policies.</p>
+<p>The new feature is a big part of Sam Altman&#39;s promises to make ChatGPT more versatile with the addition of <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/gpts-are-the-single-application-mini-chatgpt-models-that-anyone-can-create-203311858.html">custom &quot;GPT&quot; bots</a>. &quot;Over time, we want apps in ChatGPT to feel like a natural extension of the conversation, helping people move from ideas to action, while building a thriving ecosystem for developers,&quot; the company wrote.</p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-just-launched-an-app-store-inside-chatgpt-133049586.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/openai-just-launched-an-app-store-inside-chatgpt-133049586.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">89caa5fe-19d2-470b-8701-8f4bd44880af</guid>
+                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Dec 2025 13:30:58 +0000</pubDate>
+                    <ingested>1766064664</ingested>
+                    <modified>2025-12-18T13:31:07+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Mobile Apps]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Steve Dent]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F9bc5c440-7ccb-11f0-bced-bfd1aaa2aeb0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=09480122838e0d067aa1e1173502a98f6b755123" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-08%2F9bc5c440-7ccb-11f0-bced-bfd1aaa2aeb0&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=c312b27174f1591ca40d0f1165db611be6c308ed" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Steve Dent for Engadget]]></media:credit>
+                                <media:description><![CDATA[OpenAI's ChatGPT Go plan arrives in India only for under $5 per month]]></media:description>
+                                <media:title><![CDATA[OpenAI's ChatGPT Go plan arrives in India only for under $5 per month]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The 10 best white elephant gifts worth fighting over for 2025]]></title>
+                                        <description type="html"><![CDATA[<p>There are a lot of competing ideas as to what a white elephant gift exchange really is. The origins of the term “white elephant” point to one definition: According to legend, the King of Siam would give a white elephant to courtiers who had upset them. It was a far more devious punishment than simply having them executed. The recipient had no choice but to simply thank the king for such an opulent gift, knowing that they likely could not afford the upkeep for such an animal. It would inevitably lead them to financial ruin.<br><br>While that story is almost certainly untrue, it can inform one approach to the white elephant gift exchange: gifting something just useful or amusing enough that it won’t immediately get tossed into the trash, but is also somewhat of a burden. However, every workplace, friend group and family unit has their own approach to white elephant gift exchanges nowadays. Some compete to get a gift that others will surely want to steal, while others scavenge for the most niche and targeted gag gifts. Almost all of them, though, typically have a price limit that keeps the burden of gift giving to a minimum — usually $50 or less. So with all of that in mind, here are some white elephant gift ideas that will get you a few chuckles without requiring you to spend too much (or think too hard about it).</p> 
+<h2 id="jump-link-best-white-elephant-gift-ideas">Best white elephant gift ideas</h2> 
+<p>
+ <core-commerce id="c577680a6a2f43588deff224a0759cd6" data-type="product-list"></core-commerce></p> 
+<p>
+ <core-commerce id="6b2d0998ef9145f7a4c90bb9831603b0" data-type="product-list" data-original-url="https://www.amazon.com/OCOOPA-Rechargeable-Ultra-Thin-Handwarmer-Essentials/dp/B0D947MPVQ?ref_=ast_sto_dp&amp;th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="8f604de5793c4776931511d155943083" data-type="product-list" data-original-url="https://www.amazon.com/WANIDEA-flickering-Rechargeable-ambience-Decoration/dp/B0CST6LXY7/?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="72d92d1b23734bc5ac7ed98961282e43" data-type="product-list" data-original-url="https://www.amazon.com/Etsfmoa-Rechargeable-Lighted-Headlight-Headlamp/dp/B07YNCY36R/?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="6b289de0819647b19becc682bea609d6" data-type="product-list" data-original-url="https://www.amazon.com/Mystic-Maze-1000-Piece-Jigsaw-Company/dp/B08NDXDR84?ref_=ast_sto_dp"></core-commerce></p> 
+<p>
+ <core-commerce id="5c43ca86d139443c9c92f432e85a9dce" data-type="product-list" data-original-url="https://www.amazon.com/Chop-Sabers-Light-LightSaber-Chopsticks/dp/B01CA2HOZ4/?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="ab02ed0856074dc39a4893586ccfc226" data-type="product-list" data-original-url="https://www.amazon.com/Native-Union-Pop-Phone-Conferences/dp/B0FK5BQ9YK/?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="0874848234d74b27afe4351167724a56" data-type="product-list" data-original-url="https://www.amazon.com/Projector-Birthday-Decorations-Twinkling-Projection/dp/B0B3QR6HRY/?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="d516361f071542fbacb2610b2f0d2a18" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0761VVFDX?th=1"></core-commerce></p> 
+<p>
+ <core-commerce id="0b5eb2c4c2af481cbf3ec63cf11bd50a" data-type="product-list" data-original-url="https://www.amazon.com/Clocky-Rolling-Sleeper-Bed-Room-Run-away/dp/B004MSMUGI/?th=1"></core-commerce></p> 
+<h2 id="jump-link-white-elephant-faqs">White elephant FAQs</h2> 
+<h3 id="jump-link-what-is-white-elephant">What is white elephant?</h3> 
+<p>A white elephant gift exchange is a party game typically played around the holidays in which people exchange funny, impractical gifts.</p> <span id="end-legacy-contents"></span>
+<h3 id="jump-link-how-does-white-elephant-work">How does white elephant work?</h3> 
+<p>A group of people each bring one wrapped gift to the white elephant gift exchange, and each gift is typically of a similar value. All gifts are then placed together and the group decides the order in which they will each claim a gift. The first person picks a white elephant gift from the pile, unwraps it and their turn ends. The following players can either decide to unwrap another gift and claim it as their own, or steal a gift from someone who has already taken a turn. The rules can vary from there, including the guidelines around how often a single item can be stolen — some say twice, max. The game ends when every person has a white elephant gift.</p> 
+<h3 id="jump-link-why-is-it-called-white-elephant">Why is it called white elephant?</h3> 
+<p>The term “white elephant” is said to come from the legend of the King of Siam gifting white elephants to courtiers who upset him. While it seems like a lavish gift on its face, the belief is that the courtiers would be ruined by the animal’s upkeep costs.</p> 
+<p><em>Check out the rest of our </em><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gifts/"><em>gift ideas</em></a><em> here.</em></p>This article originally appeared on Engadget at https://www.engadget.com/the-10-best-white-elephant-gifts-worth-fighting-over-for-2025-150516281.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/the-10-best-white-elephant-gifts-worth-fighting-over-for-2025-150516281.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">167b1092-71dd-42b0-b152-e8240159f089</guid>
+                                                                                        <dc:creator><![CDATA[Engadget]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Dec 2025 13:18:56 +0000</pubDate>
+                    <ingested>1766063949</ingested>
+                    <modified>2025-12-18T13:19:12+00:00</modified>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Personal Finance - Lifestyle]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Personal Finance - Career & Education]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Engadget]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-10%2F0c6b75c0-7349-11ee-89ea-e198bc29fb13&amp;resize=1400%2C770&amp;client=19f2b5e49a271b2bde77&amp;signature=89959ef3f3969f2d2f8b237da582e1f411a0b8a2" width="1400" height="770" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2023-10%2F0c6b75c0-7349-11ee-89ea-e198bc29fb13&amp;resize=1400%2C770&amp;client=19f2b5e49a271b2bde77&amp;signature=612d53cd32d5d9d847a64a136a9bae89f1be80f1" width="1400" height="770" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Getty / Engadget (Illustration)]]></media:credit>
+                                <media:description><![CDATA[The best white elephant gift ideas for 2023]]></media:description>
+                                <media:title><![CDATA[The best white elephant gift ideas for 2023]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The AirPods Pro 3 are back on sale for a record low of $199]]></title>
+                                        <description type="html"><![CDATA[<p>No need to fret if you missed out on some of the best Black Friday deals this year — some of them have returned already. Case in point: <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFB8FMG&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=42f7f263-d7c8-4a21-ad07-9121207a6244&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Apple%27s+AirPods+Pro+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNDJmN2YyNjMtZDdjOC00YTIxLWFkMDctOTEyMTIwN2E2MjQ0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAa00rgoV0I-UbOq0nkwpsQ1FfJifrSdBPZ_6PPl2wT9r&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Cancellation-Translation-Headphones-High-Fidelity%2Fdp%2FB0FQFB8FMG%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/">Apple&#39;s AirPods Pro 3</a>, which came out in September this year, are back down to $199. That&#39;s an all-time-low price and better than the price it was during Black Friday and Cyber Monday. With the new AirPods Pro, Apple made some big improvements, including better battery life and sound quality, and introduced useful new features, such as Live Translation.</p> 
+<p>
+ <core-commerce id="eae3086f4cbf45b7b7990d7656cc4a5f" data-type="product-list" data-original-url="https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/"></core-commerce></p> 
+<p>The AirPods Pro 3 are <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/audio/headphones/best-airpods-100041810.html">the best AirPods</a> available today, with Apple&#39;s H2 chip, and earned a score of 90 out of 100 in <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/audio/headphones/airpods-pro-3-review-a-significant-update-to-apples-best-earbuds-120028170.html">Engadget&#39;s review</a> this fall. Active noise cancellation (ANC) is one of the biggest selling points of the AirPods Pro, and Apple has made the experience even better with the AirPods Pro 3. They sport new foam-infused ear tips that create a better seal to improve passive noise isolation, and as Engadget&#39;s Billy Steele wrote in his review, &quot;Ultra-low-noise microphones combine with advanced computational audio to silence even more background noise.&quot; In testing, they had no problem blocking out the chatter of people nearby or otherwise noisy environments.</p> <span id="end-legacy-contents"></span>
+<p>With the AirPods Pro 3, Apple introduced heart-rate sensing, so you&#39;ll be able to see your heart rate data from the earbuds in the Fitness app and other workout apps. The AirPods Pro 3 also boast Live Translation, which you can activate via controls on the earbuds themselves. As long as you have an Apple Intelligence-capable device, you&#39;ll be able to translate in-person conversations in English, French, German, Italian, Japanese, Korean, Portuguese, Spanish and Chinese (Mandarin).</p> 
+<p><em>Follow </em><a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/the-airpods-pro-3-are-back-on-sale-for-a-record-low-of-199-222806371.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/the-airpods-pro-3-are-back-on-sale-for-a-record-low-of-199-222806371.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">42f7f263-d7c8-4a21-ad07-9121207a6244</guid>
+                                                                                        <dc:creator><![CDATA[Cheyenne MacDonald]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Dec 2025 13:13:52 +0000</pubDate>
+                    <ingested>1766063646</ingested>
+                    <modified>2025-12-18T13:14:09+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Cheyenne MacDonald]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F9e490ce0-966b-11f0-8f5f-621ab674583e&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=6255e9a07c5b099f7ac41b60c5b960a6e0c6018b" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F9e490ce0-966b-11f0-8f5f-621ab674583e&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=4b1a6c027d3f9a536b890f831cdcdbbcf5f9ab1e" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Billy Steele for Engadget]]></media:credit>
+                                <media:description><![CDATA[The AirPods Pro 3 pictured inside a case with the top open, propped up against two books]]></media:description>
+                                <media:title><![CDATA[AirPods Pro 3]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Ultrahuman brings snoring detection and respiratory health tracking to the Ring Air]]></title>
+                                        <description type="html"><![CDATA[<p>The Ultrahuman Ring Air now has the capacity to track snoring and general respiratory health. This is thanks to proprietary technology called Respiratory Health PowerPlug, which is basically a suite of audio analysis tools along with some &quot;advanced biomarker tracking&quot; and AI tomfoolery.</p>
+<p>All of this results in &quot;one of the most comprehensive consumer tools ever built for understanding nighttime respiratory stability.&quot; It details snoring sessions, of course, but also delivers a holistic and &quot;actionable sleep picture.&quot; The company says this &quot;reveals patterns, trends and changes in respiratory health over time.&quot;</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-12/d5df56a0-db6c-11f0-bdff-bf2175f36b3b" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-12/d5df56a0-db6c-11f0-bdff-bf2175f36b3b" style="height:727px;width:1344px;" alt="Health insights." data-uuid="cde2071f-ea88-3663-af33-559da11e470a"><figcaption></figcaption><div class="photo-credit">Ultrahuman</div></figure>
+<p>To that end, it can also detect coughing and respiratory disturbances. This data is cross-referenced with movement patterns, sleep fragmentation patterns and resting heart rate to &quot;show exactly how breathing issues shape sleep quality.&quot; The company says this can be a good resource when experimenting with interventions, like switching to a new pillow or taping up the nose.</p>
+<p>More health data is never a bad thing, but this information isn&#39;t free. Ultrahuman is charging $4 per month for access to the tool, though folks can pick up an annual subscription for $40.</p>
+<p>The Ultrahuman Ring Air made our list of the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/wearables/best-smart-ring-140000425.html"><ins>best smart rings</ins></a>, and that was before the company introduced this new software. It tracks an impressive amount of data and integrates with third-party devices like glucose monitors.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/ultrahuman-brings-snoring-detection-and-respiratory-health-tracking-to-the-ring-air-130054901.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/wearables/ultrahuman-brings-snoring-detection-and-respiratory-health-tracking-to-the-ring-air-130054901.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">531672c2-6c78-4772-a060-a239c188d3f0</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Dec 2025 13:00:54 +0000</pubDate>
+                    <ingested>1765993805</ingested>
+                    <modified>2025-12-17T17:50:07+00:00</modified>
+                                            <category>
+                            <![CDATA[Fitness]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Fb02793a0-db6c-11f0-bfbf-875ca168c7f0&amp;resize=1400%2C891&amp;client=19f2b5e49a271b2bde77&amp;signature=8b9029c49d05b016a5f48deddc78d05ae06af848" width="1400" height="891" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Fb02793a0-db6c-11f0-bfbf-875ca168c7f0&amp;resize=1400%2C891&amp;client=19f2b5e49a271b2bde77&amp;signature=c1d5599bb7fa3072345ab2398256b8bd5940f391" width="1400" height="891" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Ultrahuman]]></media:credit>
+                                <media:description><![CDATA[A ring on a finger amongst flowers.]]></media:description>
+                                <media:title><![CDATA[Ultrahuman Ring Air]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The FTC is reportedly investigating Instacart over its AI pricing tool]]></title>
+                                        <description type="html"><![CDATA[<p>The Federal Trade Commission has sent Instacart a civil investigative demand, seeking information about its AI-powered pricing tool, according to <a target="_blank" class="link" href="https://www.reuters.com/legal/litigation/ftc-investigating-instacarts-ai-pricing-tool-source-says-2025-12-17/" data-i13n="cpos:1;pos:1"><em>Reuters</em></a>. This comes after a recently published <a target="_blank" class="link" href="https://www.engadget.com/big-tech/study-shows-that-instacart-was-charging-different-amounts-for-the-same-items-165108224.html" data-i13n="cpos:2;pos:1">pricing experiment study</a> showed that the online grocery delivery app gave different users different prices for the same items from the same store location at the exact same time. Some of the testers saw prices up to 23 percent higher than what the other testers saw, though the average difference for the same list of items was around 7 percent. Those higher prices could cost customers over $1,000 more in expenses for the year. </p><p>“The Federal Trade Commission has a longstanding policy of not commenting on any potential or ongoing investigations,” the FTC told Reuters in a statement. “But, like so many Americans, we are disturbed by what we have read in the press about Instacart’s alleged pricing practices.”</p><p>When the study came out, Instacart told Engadget that the pricing variances were caused by some of its retail partners doing “limited, short-term and randomized tests” to better understand consumers. Those randomized pricing tests were enabled by Instacart’s AI pricing tool called Eversight developed by a company it purchased in 2022. Instacart told <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=fe9cac17-7766-45de-ab3b-cf20e4ad74af&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=CNBC&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzEyLzE3L2luc3RhY2FydC1zZWMtcHJvYmUtcHJpY2luZy10b29sLmh0bWwiLCJjb250ZW50VXVpZCI6ImZlOWNhYzE3LTc3NjYtNDVkZS1hYjNiLWNmMjBlNGFkNzRhZiIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuY25iYy5jb20vMjAyNS8xMi8xNy9pbnN0YWNhcnQtc2VjLXByb2JlLXByaWNpbmctdG9vbC5odG1sIn0&amp;signature=AQAAAcRizn_Z5EqpOmroThm3_K_7bZEMXlFl3kkQRGwxx2Hi&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F17%2Finstacart-sec-probe-pricing-tool.html" data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:;cpos:3;pos:1" data-original-link="https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html"><em>CNBC</em></a> that “much of what’s been reported has mischaracterized how pricing works” on its platform. The spokesperson repeated that retailers conduct pricing tests on its app and said that “prices on Instacart do not change in real time,” aren’t based on supply or demand and that it never uses “personal, demographic, or user-level behavioral data to set item prices.”</p>This article originally appeared on Engadget at https://www.engadget.com/apps/the-ftc-is-reportedly-investigating-instacart-over-its-ai-pricing-tool-130000472.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/the-ftc-is-reportedly-investigating-instacart-over-its-ai-pricing-tool-130000472.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">fe9cac17-7766-45de-ab3b-cf20e4ad74af</guid>
+                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 18 Dec 2025 13:00:00 +0000</pubDate>
+                    <ingested>1766062856</ingested>
+                    <modified>2025-12-18T13:00:59+00:00</modified>
+                                            <category>
+                            <![CDATA[Business]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Mariella Moon]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-07%2F814c09f0-e4c0-11eb-ad5e-a3bf9ca2b369&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=4eb87aa8475d5da69ac5d097617591a6974a6f66" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2021-07%2F814c09f0-e4c0-11eb-ad5e-a3bf9ca2b369&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=4eb87aa8475d5da69ac5d097617591a6974a6f66" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[JHVEPhoto via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Toronto, Canada- November 14, 2020: Instacart company closeup sign is seen in Toronto, Canada. Instacart is an American company that operates a grocery delivery and pick-up service.]]></media:description>
+                                <media:title><![CDATA[Instacart company closeup sign is seen in Toronto, Canada.]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Sony settles with Tencent over 'slavish' Horizon clone]]></title>
                                         <description type="html"><![CDATA[<p>Earlier this year Sony <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/sony-sues-tencent-over-its-horizon-zero-dawn-clone-191009077.html">sued Tencent</a> for copyright infringement over its <em>Light of Motiram</em> game, calling it a &quot;slavish clone&quot; of Horizon Zero Dawn. Then, earlier this month, Tencent agreed to <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/sony-sues-tencent-over-its-horizon-zero-dawn-clone-191009077.html">stop promoting</a> and publicly testing the game. Now, the two companies have reached a &quot;confidential settlement&quot; and the case has been dismissed, according to <a data-i13n="cpos:3;pos:1" href="https://www.documentcloud.org/documents/26381827-sony-v-tencent-stipulation-for-dismissal-pursuant-to-rule-41a1aii/">court documents</a> seen by <a data-i13n="cpos:4;pos:1" href="https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement"><em>The Verge</em></a>. <em>Light of Motiram</em> has also disappeared from Steam and Epic&#39;s game stores.&nbsp;</p>
 <p>&quot;SIE and Tencent are pleased to have reached a confidential resolution and will have no further public comment on this matter,&quot; Tencent&#39;s spokesperson told <em>The Verge.</em>&nbsp;</p>
@@ -3024,272 +3326,6 @@
                                 <media:credit><![CDATA[Karissa Bell for Engadget]]></media:credit>
                                 <media:description><![CDATA[Meta&#39;s second-gen Ray-Ban frames.]]></media:description>
                                 <media:title><![CDATA[Ray-Ban Meta gen 2 glasses]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[CES 2026 preview: What we're expecting from tech's biggest conference in January]]></title>
-                                        <description type="html"><![CDATA[<p>CES doesn't start until January, but whispers of the products and announcements that could be in store for tech's biggest annual conference have already started to take shape. The CES 2026 show floor is officially open from January 6 through 9, although the show kicks off with events on Sunday January 4 and a host of press conferences on Monday. As always, product demos, announcements and networking will be happening at the Las Vegas Convention Center and surrounding hotels all over the city. As usual, Engadget will be covering the event in-person and remotely, bringing you news and hands-ons straight from the show floor.</p><p>More specific details and pre-announcements should trickle out as CES approaches, but in the meantime, we do know what companies will be hosting press conferences and what tech trends could rear their heads at the show.</p><h2 id="cbc11c13-20f0-4f78-bd1e-8f9d8de8b7b3">What we already know about</h2><p>Press conferences and show floor booths are the bread and butter of CES. The Consumer Technology Association has already published <a target="_blank" class="link" href="https://exhibitors.ces.tech/8_0/#/" data-i13n="slk:a searchable directory;cpos:1;pos:1">a searchable directory</a> of who will have a presence at the show, along with <a target="_blank" class="link" href="https://www.ces.tech/schedule/" data-i13n="slk:a schedule;cpos:2;pos:1">a schedule</a> of every official panel and presentation.</p><p>On Sunday, January 4, Samsung will kick-off CES with <a target="_blank" class="link" href="https://news.samsung.com/global/invitation-samsung-event-at-ces-2026-the-first-look" data-i13n="slk:&quot;The First Look,&quot;;cpos:3;pos:1">"The First Look,"</a> a presentation hosted by TM Roh, the CEO of Samsung's DX Division, on the company's "vision for the DX (Device eXperience) Division in 2026, along with new AI-driven customer experiences."&nbsp;</p><p>That'll be followed by multiple press conferences throughout Monday, January 5. LG is hosting its <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=472a467b-5d76-4e49-b1e8-d1e77258dd8e&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2645ab40-20b1-4cf0-bdcf-9e9656c79061&amp;featureId=text-link&amp;merchantName=LG+Electronics&amp;linkText=%22Innovation+in+Tune+with+You%22&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5sZy5jb20vc2cvYWJvdXQtbGcvcHJlc3MtYW5kLW1lZGlhL2xnLXRvLXNob3djYXNlLWlubm92YXRpb24taW4tdHVuZS13aXRoLXlvdS1hdC1jZXMtMjAyNi8iLCJjb250ZW50VXVpZCI6IjI2NDVhYjQwLTIwYjEtNGNmMC1iZGNmLTllOTY1NmM3OTA2MSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubGcuY29tL3NnL2Fib3V0LWxnL3ByZXNzLWFuZC1tZWRpYS9sZy10by1zaG93Y2FzZS1pbm5vdmF0aW9uLWluLXR1bmUtd2l0aC15b3UtYXQtY2VzLTIwMjYvIn0&amp;signature=AQAAAVdFbvagfuLjdXSTGikLKfxv5Lxz8K374JXMuW2mYP05&amp;gcReferrer=https%3A%2F%2Fwww.lg.com%2Fsg%2Fabout-lg%2Fpress-and-media%2Flg-to-showcase-innovation-in-tune-with-you-at-ces-2026%2F" data-i13n="elm:affiliate_link;sellerN:LG Electronics;elmt:;slk:&quot;Innovation in Tune with You&quot;;cpos:4;pos:1" data-original-link="https://www.lg.com/sg/about-lg/press-and-media/lg-to-showcase-innovation-in-tune-with-you-at-ces-2026/">"Innovation in Tune with You"</a> presentation to share "its vision for elevating daily life through Affectionate Intelligence" at the start of the day, Intel is <a target="_blank" class="link" href="https://www.intel.com/content/www/us/en/events/ces.html" data-i13n="slk:launching;cpos:5;pos:1">launching</a> its new Core Ultra Series 3 processors in the afternoon, Sony Honda Mobility is holding a <a target="_blank" class="link" href="https://www.shm-afeela.com/en/news/2025-11-20/" data-i13n="slk:press conference;cpos:6;pos:1">press conference</a> on its first car and AMD CEO Lisa Su will cover AMD's upcoming chip announcements at <a target="_blank" class="link" href="https://www.amd.com/en/corporate/events/ces.html" data-i13n="slk:a keynote;cpos:7;pos:1">a keynote</a> address that closes out the day.</p><p>On the week of December 15, the CTA added a <a target="_blank" class="link" href="https://www.ces.tech/schedule/nvidia-press-conference-at-ces-2026-with-founder-and-ceo-jensen-huang/" data-i13n="cpos:8;pos:1">keynote by NVIDIA CEO Jensen Huang to its schedule</a>. The event will take place on January 5 at 1PM PT and, according to the website, will last about 90 minutes. Based on the description on the listing, the presentation will “showcase the latest NVIDIA solutions driving innovation and productivity across industries.”</p><p>Finally, on Tuesday, January 6, Lenovo CEO Yuanqing Yang will host Lenovo's <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2645ab40-20b1-4cf0-bdcf-9e9656c79061&amp;featureId=text-link&amp;linkText=Tech+World+Conference&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25ld3MubGVub3ZvLmNvbS9wcmVzc3Jvb20vcHJlc3MtcmVsZWFzZXMvbGVub3ZvLWFubm91bmNlcy10ZWNod29ybGQtY2VzLyIsImNvbnRlbnRVdWlkIjoiMjY0NWFiNDAtMjBiMS00Y2YwLWJkY2YtOWU5NjU2Yzc5MDYxIiwib3JpZ2luYWxVcmwiOiJodHRwczovL25ld3MubGVub3ZvLmNvbS9wcmVzc3Jvb20vcHJlc3MtcmVsZWFzZXMvbGVub3ZvLWFubm91bmNlcy10ZWNod29ybGQtY2VzLyJ9&amp;signature=AQAAAV2t1hmM6cxHwm-5E40pl-6ZqrWVm-ixaEoZVVfhOmeh&amp;gcReferrer=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Flenovo-announces-techworld-ces%2F" data-i13n="elm:affiliate_link;sellerN:;elmt:;slk:Tech World Conference;cpos:9;pos:1" data-original-link="https://news.lenovo.com/pressroom/press-releases/lenovo-announces-techworld-ces/">Tech World Conference</a> at Sphere, using the large and decidedly curved screen to share the company's "commitment to delivering smarter AI for all by constantly redefining how technology can engage, inspire, and empower." It’s worth noting that Lenovo is the parent company of Motorola, which still makes phones and foldables that feature AI tools, so it’s possible those devices feature in the presentation as well. </p><p>Outside of the formal introduction of new products and initiatives, reading the tea leaves of what was announced last year and what companies are reportedly working on, we can make some educated guesses at what we could see at CES 2026.</p><h2 id="fd99c033-cf1c-46a6-bc2e-3ba9ecd7cd60">New chips from AMD, Intel and Qualcomm</h2><p>CES is frequently the start of a cascade of new chip announcements for a given year, and one of the first places new silicon appears in real consumer products. AMD will likely use its keynote to introduce new versions of its Ryzen chips, including the recently spotted <a target="_blank" class="link" href="https://www.tomshardware.com/pc-components/cpus/amd-mentions-unreleased-gaming-optimized-ryzen-7-9850x3d-could-be-the-next-fastest-gaming-cpu-ever" data-i13n="slk:Ryzen 7 9850X3D;cpos:10;pos:1">Ryzen 7 9850X3D</a>, which is expected to offer better single-threaded performance, and the <a target="_blank" class="link" href="https://www.pcguide.com/cpu/amd-ryzen-9000g-release-date-specs-price/" data-i13n="slk:Ryzen 9000G;cpos:11;pos:1">Ryzen 9000G</a> series, which could be built with AMD's Zen 5 architecture. The company might also use its CES stage to go over its new <a target="_blank" class="link" href="https://www.engadget.com/gaming/pc/amd-will-preview-its-redstone-upscaling-tech-on-december-10-174507324.html" data-i13n="slk:FSR Redstone;cpos:12;pos:1">FSR Redstone</a> AI upscaling tech.</p><p>Intel has already <a target="_blank" class="link" href="https://www.intel.com/content/www/us/en/events/ces.html" data-i13n="slk:publicly announced;cpos:13;pos:1">publicly announced</a> that it'll launch its Panther Lake chips at CES 2026. The officially titled Intel Core Ultra Series 3 chips fit into Intel's overall "AI PC" push, but are specifically meant for premium laptops. Based on <a target="_blank" class="link" href="https://www.engadget.com/computing/intel-gives-us-a-glimpse-of-its-panther-lake-core-ultra-chips-130010879.html" data-i13n="slk:a preview;cpos:14;pos:1">a preview</a> from October 2025, Intel says the first chip made with its <a target="_blank" class="link" href="https://www.engadget.com/big-tech/intels-next-gen-manufacturing-process-is-reportedly-still-struggling-184146350.html" data-i13n="slk:2-nanometer 18A process;cpos:15;pos:1">2-nanometer 18A process</a> will offer 50 percent more processing performance than previous generations and for the chip's Arc GPU, a 50 percent performance bump from last generation.</p><p>Qualcomm is also rumored to be targeting laptops at the show, building on the work it's done <a target="_blank" class="link" href="https://www.engadget.com/here-are-all-of-the-copilot-pcs-with-snapdragon-x-chips-that-were-released-today-104404765.html" data-i13n="slk:moving its Snapdragon chips;cpos:16;pos:1">moving its Snapdragon chips</a> out of phones and tablets and into other types of computers. The company's <a target="_blank" class="link" href="https://www.engadget.com/computing/qualcomm-says-its-new-snapdragon-chips-are-the-fastest-and-most-efficient-for-windows-pcs-084535090.html" data-i13n="slk:Snapdragon X2 Elite and X2 Elite Premium;cpos:17;pos:1">Snapdragon X2 Elite and X2 Elite Premium</a> chips should start appearing in laptops at CES 2026, offering a look at the improved speed and AI performance the company promised in 2025.</p><h2 id="302ddc97-ad29-45a3-bf35-575761007fb8">Brighter, "truer" screens</h2><p>Sony announced <a target="_blank" class="link" href="https://www.engadget.com/home/home-theater/sonys-2025-bravia-tv-lineup-includes-a-new-flagship-qd-oled-model-160019669.html" data-i13n="slk:a collection of new Bravia TVs;cpos:18;pos:1">a collection of new Bravia TVs</a> in April 2025, replacing the company's flagship, filling in its midrange options and adding a new budget model to the mix. The star of this updated Bravia lineup is the Bravia 9, which features a QD-OLED panel, but Sony appears to be prepping entirely new display tech for 2026. In March 2025, Sony introduced a new <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=205f44ce-77be-4119-a5db-84e810a586b7&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2645ab40-20b1-4cf0-bdcf-9e9656c79061&amp;featureId=text-link&amp;merchantName=Sony-UK&amp;linkText=RGB+LED+panel&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zb255LmNvLnVrL3ByZXNzY2VudHJlL3NvbnktZGV2ZWxvcHMtbmV4dC1nZW5lcmF0aW9uLWRpc3BsYXktc3lzdGVtLXdpdGgtcHJvcHJpZXRhcnktc2lnbmFsLXByb2Nlc3NpbmctdGVjaG5vbG9neS1mb3ItaW5kaXZpZHVhbC1yZ2ItY29udHJvbC1vZi1oaWdoLWRlbnNpdHktbGVkLWJhY2tsaWdodHMiLCJjb250ZW50VXVpZCI6IjI2NDVhYjQwLTIwYjEtNGNmMC1iZGNmLTllOTY1NmM3OTA2MSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuc29ueS5jby51ay9wcmVzc2NlbnRyZS9zb255LWRldmVsb3BzLW5leHQtZ2VuZXJhdGlvbi1kaXNwbGF5LXN5c3RlbS13aXRoLXByb3ByaWV0YXJ5LXNpZ25hbC1wcm9jZXNzaW5nLXRlY2hub2xvZ3ktZm9yLWluZGl2aWR1YWwtcmdiLWNvbnRyb2wtb2YtaGlnaC1kZW5zaXR5LWxlZC1iYWNrbGlnaHRzIn0&amp;signature=AQAAAQjl0CHSLu-e4f5LhX9rq454peFeTRK2L4mGcS8iLZ0l&amp;gcReferrer=https%3A%2F%2Fwww.sony.co.uk%2Fpresscentre%2Fsony-develops-next-generation-display-system-with-proprietary-signal-processing-technology-for-individual-rgb-control-of-high-density-led-backlights" data-i13n="elm:affiliate_link;sellerN:Sony-UK;elmt:;slk:RGB LED panel;cpos:19;pos:1" data-original-link="https://www.sony.co.uk/presscentre/sony-develops-next-generation-display-system-with-proprietary-signal-processing-technology-for-individual-rgb-control-of-high-density-led-backlights">RGB LED panel</a> that uses individual Mini LED backlights colored in red, green and blue to produce even brighter, more accurate colors. In contrast to a QD-OLED, which filters a layer of blue organic light emitting diodes through quantum dots that change color, Sony's "General RGB LED Backlight Technology" can get as bright as a Mini LED panel without needing an extra filter layer or worrying about OLED's problems with burn-in.&nbsp;</p><p>The company has already trademarked the name <a target="_blank" class="link" href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1764577431" data-i13n="slk:&quot;True RGB,&quot;;cpos:20;pos:1">"True RGB,"</a> which could end up being what Sony calls this new flavor of display if it decides to show them off at CES. It seems entirely likely, because CES is nothing if not a TV show — it’s a sure bet that we’ll see new TVs from the likes of LG and Samsung in addition to Sony. If the company doesn't introduce new display tech for its TVs, it does have <a target="_blank" class="link" href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1764577431" data-i13n="slk:a new 240Hz PlayStation monitor;cpos:21;pos:1">a new 240Hz PlayStation monitor</a> coming in 2026 that it could show off at CES instead.</p><p>Sony isn't the only company hyped on bright screens. Samsung is reportedly pushing an updated version of the HDR10 and HDR10+ standards that could be ready to demo at CES 2026. The new <a target="_blank" class="link" href="https://www.ces.tech/schedule/" data-i13n="slk:HDR10+ Advanced standard;cpos:22;pos:1">HDR10+ Advanced standard</a> would be Samsung's answer to <a target="_blank" class="link" href="https://www.engadget.com/home/home-theater/dolby-announces-dolby-vision-2-expanding-picture-quality-beyond-hdr-123019504.html" data-i13n="slk:Dolby Vision 2;cpos:23;pos:1">Dolby Vision 2</a>, which includes support for things bi-directional tone mapping and intelligent features that automatically adapt sports and gaming content. Samsung's take will reportedly offer improved brightness, genre-based tone mapping and intelligent motion smoothing options, among other improvements.</p><h2 id="9f20f27f-8480-4692-b34c-2e3edb300d53">Ballie Watch 2026</h2><p>The ball-shaped yellow robot lovingly known as "Ballie" has been announced twice, <a target="_blank" class="link" href="https://www.engadget.com/2020-01-10-samsung-ballie-robot-face-on-hands-on-interview.html" data-i13n="slk:first in 2020;cpos:24;pos:1">first in 2020</a> and then <a target="_blank" class="link" href="https://www.engadget.com/2020-01-10-samsung-ballie-robot-face-on-hands-on-interview.html" data-i13n="slk:again in 2024;cpos:25;pos:1">again in 2024</a> with a projector in tow. Samsung said Ballie would <a target="_blank" class="link" href="https://www.engadget.com/home/the-cute-samsung-ballie-home-robot-will-actually-go-on-sale-this-year-223528677.html" data-i13n="slk:go on sale in 2025;cpos:26;pos:1">go on sale in 2025</a> at CES last year and then <a target="_blank" class="link" href="https://www.engadget.com/home/the-cute-samsung-ballie-home-robot-will-actually-go-on-sale-this-year-223528677.html" data-i13n="slk:shared in April 2025;cpos:27;pos:1">shared in April 2025</a> that Ballie would ship this summer with Google's Gemini onboard. But it's nearly 2026, and Ballie is nowhere to be seen. It's possible Samsung could make a third attempt at announcing its robot at CES 2026, but whether or not it does, robotics will still be a big part of the show.</p><p><a target="_blank" class="link" href="https://www.engadget.com/home/smart-home/the-new-robot-vacuums-that-caught-our-eye-at-ces-2025-210358124.html" data-i13n="slk:Robot vacuums and mops;cpos:28;pos:1">Robot vacuums and mops</a> were a major highlight of CES 2025, and it's safe to expect notable improvements from the new models that are announced at CES 2026. Not every company will adopt the retractable arm of the <a target="_blank" class="link" href="https://www.engadget.com/home/roborocks-new-flagship-robot-vacuum-has-an-arm-that-can-grab-small-objects-170020390.html" data-i13n="slk:Roborock Saros Z70;cpos:29;pos:1">Roborock Saros Z70</a>, but robot vacuums with legs for rising over small ledges like the <a target="_blank" class="link" href="https://www.engadget.com/home/smart-home/dreames-x50-robot-vacuum-can-climb-stairs-200058312.html" data-i13n="slk:Dreame X50;cpos:30;pos:1">Dreame X50</a> seem like they could become the norm. Roborock could also show off its new Roborock <a target="_blank" class="link" href="https://global.roborock.com/pages/roborock-qrevo-curv-2-flow" data-i13n="slk:Qrevo Curv 2 Flow;cpos:31;pos:1">Qrevo Curv 2 Flow</a>, the first of its robot vacuums to feature a retractable roller mop.</p><p>Beyond just traversing spaces more efficiently, improving robots' navigation could also be a major concern at the show. <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2645ab40-20b1-4cf0-bdcf-9e9656c79061&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=Prominent+members&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkveWFubi1sZWN1bi1haS1tZXRhLTAwNThiMTNjP2dhYV9hdD1lYWZzJmdhYV9uPUFXRXRzcWVsU281VkZLdll0RENxNGxkM1dlckJrbWY0ZktzTGNhaTl6Z2V5bFNhZEQzd3oteC05dDd4NCZnYWFfdHM9NjkzMWMxMjgmZ2FhX3NpZz1yRDFFcmZtS0gwMGtBemMxVEJ1MHVEOXRWdjgzTi1mMHFTaTR1aHp1VndhZzBiTkp1UHJUWmhsVzhnT2p0YVk3b1dJVkhmSlB6SUlOaWNDUXNvbEZ4USUzRCUzRCIsImNvbnRlbnRVdWlkIjoiMjY0NWFiNDAtMjBiMS00Y2YwLWJkY2YtOWU5NjU2Yzc5MDYxIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkveWFubi1sZWN1bi1haS1tZXRhLTAwNThiMTNjP2dhYV9hdD1lYWZzJmdhYV9uPUFXRXRzcWVsU281VkZLdll0RENxNGxkM1dlckJrbWY0ZktzTGNhaTl6Z2V5bFNhZEQzd3oteC05dDd4NCZnYWFfdHM9NjkzMWMxMjgmZ2FhX3NpZz1yRDFFcmZtS0gwMGtBemMxVEJ1MHVEOXRWdjgzTi1mMHFTaTR1aHp1VndhZzBiTkp1UHJUWmhsVzhnT2p0YVk3b1dJVkhmSlB6SUlOaWNDUXNvbEZ4USUzRCUzRCJ9&amp;signature=AQAAAYqkRUE2z5IDV26S35rqiGSTwNJjYA5_Sa9dk5s72igu&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Fyann-lecun-ai-meta-0058b13c%3Fgaa_at%3Deafs%26gaa_n%3DAWEtsqelSo5VFKvYtDCq4ld3WerBkmf4fKsLcai9zgeylSadD3wz-x-9t7x4%26gaa_ts%3D6931c128%26gaa_sig%3DrD1ErfmKH00kAzc1TBu0uD9tVv83N-f0qSi4uhzuVwag0bNJuPrTZhlW8gOjtaY7oWIVHfJPzIINicCQsolFxQ%253D%253D" data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;slk:Prominent members;cpos:32;pos:1" data-original-link="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?gaa_at=eafs&amp;gaa_n=AWEtsqelSo5VFKvYtDCq4ld3WerBkmf4fKsLcai9zgeylSadD3wz-x-9t7x4&amp;gaa_ts=6931c128&amp;gaa_sig=rD1ErfmKH00kAzc1TBu0uD9tVv83N-f0qSi4uhzuVwag0bNJuPrTZhlW8gOjtaY7oWIVHfJPzIINicCQsolFxQ%3D%3D">Prominent members</a> of the AI industry are turning their attention from large language models to <a target="_blank" class="link" href="https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/" data-i13n="slk:world models;cpos:33;pos:1">world models</a>, which aim to give AI a deep understanding of physical space. Those world models could be the key to making robots, bipedal or otherwise, competent at navigating homes and workplaces, and will likely be a significant talking point at CES 2026.</p><p>We’ll be updating this article throughout the month as more rumors surface and new products are confirmed —&nbsp;stay tuned for future updates!</p><p><strong>Update, December 11 2025, 11:03AM ET:</strong> This story has been updated to include detail on Lenovo being Motorola’s parent company and how the latter might have a part in the Tuesday presentation.</p><p><strong>Update, December 16 2025, 1:33PM ET:</strong> This story has been updated to include the NVIDIA press conference, which was added to the CTA schedule within the last two days.</p><p></p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/ces-2026-preview-what-were-expecting-from-techs-biggest-conference-in-january-120000768.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/big-tech/ces-2026-preview-what-were-expecting-from-techs-biggest-conference-in-january-120000768.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">2645ab40-20b1-4cf0-bdcf-9e9656c79061</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Dec 2025 18:36:35 +0000</pubDate>
-                    <ingested>1765910196</ingested>
-                    <modified>2025-12-16T18:36:44+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-12%2Fe8dccbc3-be88-4b87-a625-47af0b588c1a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=847468bf6a6f5a8a4b43b937b35806bdd0094027" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2025-12%2Fe8dccbc3-be88-4b87-a625-47af0b588c1a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=847468bf6a6f5a8a4b43b937b35806bdd0094027" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
-                                <media:description><![CDATA[LAS VEGAS, USA - JANUARY 07: 
-CES 2025 in Las Vegasin Las Vegas, Nevada, USA, on January 7 2025. 
-AI-driven gadgets, robots, and vehicles take the spotlight at CES 2025 in Las Vegas, as vendors grapple with Trump&#39;s proposed tariffs. (Photo by Artur Widak/NurPhoto via Getty Images)]]></media:description>
-                                <media:title><![CDATA[CES 2025 - Day One]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[ChatGPT image generation is now faster and better at following tweaks]]></title>
-                                        <description type="html"><![CDATA[<p>Following the release of <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-releases-gpt-52-to-take-on-google-and-anthropic-185029007.html" data-i13n="cpos:1;pos:1">GPT-5.2 last week</a>, OpenAI has begun <a target="_blank" class="link" href="https://openai.com/index/new-chatgpt-images-is-here/" data-i13n="cpos:2;pos:1">rolling out a new image generation model</a>. The company says the updated ChatGPT Images is four times faster than its predecessor. If you&#39;re a frequent ChatGPT user, you&#39;ll know it can sometimes take a while for OpenAI&#39;s servers to create images, particularly during peak times and if you&#39;re not paying for ChatGPT Plus. In that respect, any improvement in speed is welcome. </p><p>The new version is also better at following instructions, including when you want to edit something the new model just generated. You can ask the system to add, subtract, combine, blend and even transpose elements.&nbsp;At the same time, OpenAI says the update offers better text rendering. That&#39;s something many image models have traditionally struggled with, but according to the company, the new ChatGPT Images is capable of handling denser and smaller text. As part of the today&#39;s model update, OpenAI is additionally adding a dedicated Images section to the ChatGPT sidebar. Here you&#39;ll find preset filters and prompts you can look to for inspiration.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sam-chatgpt-images.gif" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sam-chatgpt-images.gif" style="height:1024px;width:1024px;" alt="A portrait of Sam Altman, in the style of Johannes Vermeer&#39;s Girl with a Pearl Earring. " data-uuid="3ed75026-a9a5-44ac-a052-a9ec5ef2651e"/><figcaption>A portrait of Sam Altman, in the style of Johannes Vermeer&#39;s Girl with a Pearl Earring. </figcaption><div class="photo-credit">OpenAI</div></figure><p>The new ChatGPT Images arrives just as <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-nano-banana-pro-image-generator-leverages-gemini-3-for-improved-visuals-and-text-rendering-185505073.html" data-i13n="cpos:3;pos:1">Nano Banana Pro</a> is responsible for a surge in Gemini usage. In October, Google said its chatbot had 650 million users, up from 450 million just a few months earlier in July. Nano Banana Pro has proven so popular, the company recently <a target="_blank" class="link" href="https://www.engadget.com/ai/google-limits-free-nano-banana-pro-image-generation-usage-due-to-high-demand-223442929.html" data-i13n="cpos:4;pos:1">limited free users</a> to just two image generations per day. For OpenAI, a strong response to Nano Banana Pro probably wasn&#39;t as important as ensuring it came out swinging against <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html" data-i13n="cpos:5;pos:1">Gemini 3 Pro</a>, but ChatGPT&nbsp;Images is a big part of why there are 800 million ChatGPT users.&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&quot;We believe we’re still at the beginning of what image generation can enable,&quot; OpenAI said. &quot;Today’s update is a meaningful step forward with more to come, from finer-grained edits to richer, more detailed outputs across languages.&quot;</p><p>OpenAI is rolling out the new ChatGPT Images to all users starting today. If you&#39;re one of those people who miss GPT-4o, you&#39;ll be happy to learn you can continue to use the older version of the tool through a custom GPT.&nbsp;&nbsp;</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/chatgpt-image-generation-is-now-faster-and-better-at-following-tweaks-180000750.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/chatgpt-image-generation-is-now-faster-and-better-at-following-tweaks-180000750.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">2b793071-18e9-4bdb-8aab-44ca1ae76b71</guid>
-                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Dec 2025 18:00:00 +0000</pubDate>
-                    <ingested>1765909592</ingested>
-                    <modified>2025-12-16T18:26:39+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Igor Bonifacic]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fskating-chatgpt-images.gif&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=62b33beca25964f954ad8925d678fa25697ae64a" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fskating-chatgpt-images.gif&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=62b33beca25964f954ad8925d678fa25697ae64a" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[OpenAI]]></media:credit>
-                                <media:description><![CDATA[ChatGPT Images is now faster and better at following edit prompts]]></media:description>
-                                <media:title><![CDATA[ChatGPT Images]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Rainbow Six Mobile will finally be available in February after years of testing]]></title>
-                                        <description type="html"><![CDATA[<p>The long-awaited <em>Rainbow Six Mobile</em> <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=28025780-b8d4-4d69-a871-3ccc8bc61d81&amp;featureId=text-link&amp;linkText=comes+out+on+February+23&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25ld3MudWJpc29mdC5jb20vZW4tdXMvYXJ0aWNsZS8yYnhRMWVHTHhTUkdnNFhnaHBIRm84L3JhaW5ib3ctc2l4LW1vYmlsZS1sYXVuY2hpbmctd29ybGR3aWRlLW9uLWZlYnJ1YXJ5LTIzIiwiY29udGVudFV1aWQiOiIyODAyNTc4MC1iOGQ0LTRkNjktYTg3MS0zY2NjOGJjNjFkODEiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbmV3cy51Ymlzb2Z0LmNvbS9lbi11cy9hcnRpY2xlLzJieFExZUdMeFNSR2c0WGdocEhGbzgvcmFpbmJvdy1zaXgtbW9iaWxlLWxhdW5jaGluZy13b3JsZHdpZGUtb24tZmVicnVhcnktMjMifQ&amp;signature=AQAAAergmlOizHF_DdFgm6xvaw7hlvqwM1FBdR_1jm1GciCf&amp;gcReferrer=https%3A%2F%2Fnews.ubisoft.com%2Fen-us%2Farticle%2F2bxQ1eGLxSRGg4XghpHFo8%2Frainbow-six-mobile-launching-worldwide-on-february-23" class="rapid-with-clickid" data-original-link="https://news.ubisoft.com/en-us/article/2bxQ1eGLxSRGg4XghpHFo8/rainbow-six-mobile-launching-worldwide-on-february-23"><ins>comes out on February 23</ins></a> for iOS and Android devices. This is a global release and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ubisoft-rainbow-six-mobile-announcement-130047665.html"><ins>follows years of testing</ins></a> and <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ubisoft-delays-its-rainbow-six-and-division-mobile-games-until-at-least-april-2025-174035060.html"><ins>some significant delays</ins></a>.</p>
-<p>This is basically a smartphone version of the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/2018-06-11-rainbow-six-siege-35-million-players.html"><ins>popular tactical shooter</ins></a> <em>Rainbow Six Siege</em>. It was &quot;developed exclusively&quot; for mobile devices and features a trio of 5v5 multiplayer modes. There&#39;s a team deathmatch, of course, and a pair of bomb-defusing games that are riffs on a pre-existing mode from <em>Siege.</em></p>
-<span id="end-legacy-contents"></span><div id="5adfca0e08a94b47810b3449e2df7edc"><iframe width="560" height="315" src="https://www.youtube.com/embed/HzWjPR7EUmE?si=HNilzWeI262iLSln" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p><em>Rainbow Six Mobile</em> offers access to a bunch of maps, including some that will be familiar to fans of the franchise. There are more than 20 operators to choose from and Ubisoft promises it&#39;ll be adding more content with each new season.</p>
-<p>The company is rolling the game out early in some parts of the world. It&#39;s already playable in Poland, France, Canada and parts of Latin America. Everyone else has to wait until February.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/rainbow-six-mobile-will-finally-be-available-in-february-after-years-of-testing-174001081.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/rainbow-six-mobile-will-finally-be-available-in-february-after-years-of-testing-174001081.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">28025780-b8d4-4d69-a871-3ccc8bc61d81</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Dec 2025 17:40:01 +0000</pubDate>
-                    <ingested>1765906812</ingested>
-                    <modified>2025-12-16T17:40:15+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F56b321f0-daa3-11f0-abbf-f18282026718&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=8917fbf0f7de214f94aeb4cd5c420e4cdb241b41" width="1400" height="789" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2F56b321f0-daa3-11f0-abbf-f18282026718&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=609f2997986ab140f143c556f0fdafe2eafaa265" width="1400" height="789" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Ubisoft ]]></media:credit>
-                                <media:description><![CDATA[A shot of a lady.]]></media:description>
-                                <media:title><![CDATA[Rainbow Six Mobile]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[What happened to iRobot can happen to anyone]]></title>
-                                        <description type="html"><![CDATA[<p>The company which popularized robot vacuum cleaners around the world has <a target="_blank" class="link" href="https://www.engadget.com/home/irobot-has-filed-for-bankruptcy-and-may-be-taken-over-by-its-primary-supplier-091602257.html" data-i13n="cpos:1;pos:1">filed for Chapter 11 bankruptcy</a>. iRobot, makers of the Roomba, has been synonymous with the category since its inception, but its star had dulled in recent years. The company plans to sell its assets to its primary supplier, China’s Picea Robotics, in the hope of maintaining its business.</p><p>Everyone’s got a strident opinion as to why iRobot fell from grace. The rugged individualists blame <a target="_blank" class="link" href="https://reason.com/2025/10/31/irobot-faces-bankruptcy-after-elizabeth-warren-helped-kill-1-65-billion-amazon-merger/" data-i13n="cpos:2;pos:1">limp</a> <a target="_blank" class="link" href="https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/" data-i13n="cpos:3;pos:1">regulators</a> on both sides of the pond (and their hatred for big tech) for blocking Amazon’s attempted purchase in 2023. Those on the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=4c0d6e71-97f9-4187-b49a-7214de83fef8&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=hardware&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS93aXJlY3V0dGVyL3Jldmlld3Mvcm9vbWJhLW9iaXQvIiwiY29udGVudFV1aWQiOiI0YzBkNmU3MS05N2Y5LTQxODctYjQ5YS03MjE0ZGU4M2ZlZjgiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3dpcmVjdXR0ZXIvcmV2aWV3cy9yb29tYmEtb2JpdC8ifQ&amp;signature=AQAAAaVLxSjYq1FGdE6UMBmaYUxKIYoMLwG49RQG-NrMmPi1&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2Fwirecutter%2Freviews%2Froomba-obit%2F" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:4;pos:1" data-original-link="https://www.nytimes.com/wirecutter/reviews/roomba-obit/">hardware</a> side of the fence say iRobot’s refusal to embrace LiDAR for navigation until <em>this year</em> left it behind rivals.</p><p>Then there’s the geopolitical experts, who can point at China’s industrial <a target="_blank" class="link" href="https://research.hktdc.com/en/article/MjExNzc3NTk1Ng" data-i13n="cpos:5;pos:1">policy</a>, subsidies and favorable regulatory environment compared to the US approach. After all, iRobot’s US gear is made in Vietnam, which is now subject to a 46 percent import levy. As <a target="_blank" class="link" href="https://www.bbc.co.uk/news/articles/c1lr75lp239o" data-i13n="cpos:6;pos:1"><em>BBC News</em></a> reported, that added around $23 million to iRobot’s costs and increased the price of its hardware.</p><p>The real answer is that iRobot’s demise was caused by a perfect storm of all these factors piling on to the company. More importantly, iRobot’s situation isn’t any way unique, and should serve as a warning to every major American technology brand. It’s also a lesson in why companies need to deal with existential threats when they have the time and cash to do so.&nbsp;</p><p>For instance, once iRobot perfected the concept for the Roomba, it wasn’t long before the first copies burst onto the scene. iRobot had the brand and the know-how, but that only goes so far against well-motivated copycats. Think about the first Samsung Android handsets, and how quickly they went from iPhone imitations to class-defining devices of their own — and <a target="_blank" class="link" href="https://www.engadget.com/2012-08-25-breaking-down-apples-1-billion-courtroom-victory-over-samsung.html" data-i13n="cpos:7;pos:1">how hard Apple fought in court</a> to prevent it.</p><p>Even before this year’s tariffs, iRobot struggled to compete on price in a manner we’ve seen in other fields. Remember Fitbit before Google purchased it, happily selling $80 fitness trackers for years until Xiaomi swiped the low-end part of its business for itself. Even if the early MiBands weren’t very good, you could buy three for the price of a single Fitbit Charge. Yes, the argument around quality and reliability is important, but it’s often not as loud or compelling as a competing product sold for a fraction of the price.</p><p>iRobot should have either made more of an effort to offer a dirt-cheap model to undercut its rivals, or more likely pull out of the low end altogether. Earlier today, I checked out local retail listings for Roombas and its nearest competitors. Next to one another were the Roomba 405 Combo with Dock and the Roborock Q7 L5+ — both capable of vacuuming and mopping your floor. The former is currently on sale for $400 direct from iRobot, while the latter is currently selling for $220. I’m sure plenty of buyers would have seen the price difference and opted for the cheaper model.</p><p>I’m not going to throw too many Told You So’s over iRobot’s fence for not embracing LiDAR sooner. Its omission was a mistake, but you could see why it was shy about abandoning its existing setup. But the company had forgotten one key mantra about the tech world, Andy Grove’s maxim that “only the paranoid survive.” Even the fanciest, highest-end Roombas of the last five years felt a generation behind rival products.</p><p>And, at the risk of sounding like a marketing guru, it was never clear what iRobot, or Roomba, stood for. When companies flooded the market with cheaper models, iRobot needed to make it clear what it <em>meant</em> when you bought a Roomba over a generic model. What did, and could, it offer beyond the name and history that made it stand out against cheaper competitors? Companies like Apple and Dyson command a premium, but you almost always know what you’re getting for your money.</p><p>All I can say is that it’s good that there isn’t another American company presently in a similar position. I <em>certainly</em> can’t think of a controversial US company that builds things with wheels that has historically rejected <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/tesla-says-it-has-been-testing-driverless-model-ys-in-austin-for-several-days-123037251.html" data-i13n="cpos:8;pos:1">LiDAR</a> for its autonomous services. One that has a brand that doesn’t stand for much, or has its identity tied too closely to the identity of its CEO. One that is staring down the barrel at a raft of <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/byd-unveils-new-tech-for-twice-as-fast-ev-charging-175729412.html" data-i13n="cpos:9;pos:1">better</a> <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/chinese-ev-maker-byd-promises-to-make-all-of-its-models-self-driving-capable-164641323.html" data-i13n="cpos:10;pos:1">equipped</a> and often cheaper Chinese alternatives. Because that company could surely be looking at a similar fate a decade or so down the road.</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/home/what-happened-to-irobot-can-happen-to-anyone-164500625.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/home/what-happened-to-irobot-can-happen-to-anyone-164500625.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">4c0d6e71-97f9-4187-b49a-7214de83fef8</guid>
-                                                                                        <dc:creator><![CDATA[Daniel Cooper]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Dec 2025 16:45:00 +0000</pubDate>
-                    <ingested>1765904685</ingested>
-                    <modified>2025-12-16T17:04:50+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Daniel Cooper]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FY3JvcD0xNjAwJTJDMTAyOCUyQzAlMkMwJnF1YWxpdHk9ODUmZm9ybWF0PWpwZyZyZXNpemU9MTYwMCUyQzEwMjgmaW1hZ2VfdXJpPWh0dHAlM0ElMkYlMkZvLmFvbGNkbi5jb20lMkZoc3MlMkZzdG9yYWdlJTJGbWlkYXMlMkZjZjViNWIyZTVmMjVlY2QxYmU1MjFiMzQwZjE5OGFlMyUyRjIwNjcxNzAwOCUyRlJvb21.jpeg&amp;resize=1400%2C899&amp;client=19f2b5e49a271b2bde77&amp;signature=9b2c8fe7145553c263e711df6ce357f96a96b427" width="1400" height="899" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FY3JvcD0xNjAwJTJDMTAyOCUyQzAlMkMwJnF1YWxpdHk9ODUmZm9ybWF0PWpwZyZyZXNpemU9MTYwMCUyQzEwMjgmaW1hZ2VfdXJpPWh0dHAlM0ElMkYlMkZvLmFvbGNkbi5jb20lMkZoc3MlMkZzdG9yYWdlJTJGbWlkYXMlMkZjZjViNWIyZTVmMjVlY2QxYmU1MjFiMzQwZjE5OGFlMyUyRjIwNjcxNzAwOCUyRlJvb21.jpeg&amp;resize=1400%2C899&amp;client=19f2b5e49a271b2bde77&amp;signature=9b2c8fe7145553c263e711df6ce357f96a96b427" width="1400" height="899" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
-                                <media:description><![CDATA[Image of a Roomba i7+]]></media:description>
-                                <media:title><![CDATA[iRobot]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Dead Island 3 is in development and will reportedly come out in 2028]]></title>
-                                        <description type="html"><![CDATA[<p>The zombie-decapitating sim <em>Dead Island 3</em> is still being developed, according to financial documents from Dambuster Studios that were <a data-i13n="cpos:1;pos:1" href="https://x.com/bogorad222/status/2000827597106896907/photo/1"><ins>published on X</ins></a> and reported on by <a data-i13n="cpos:2;pos:1" href="https://www.videogameschronicle.com/news/dead-island-3-is-in-development-and-targeting-a-2028-release-financial-docs-reveal/"><em><ins>Video Games Chronicle</ins></em></a>. These documents suggest a 2028 release date, so that&#39;s something to look forward to.</p>
-<div id="e5ab176f5ec94d0aaf73db22dbe2bbfc"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dambuster Studios&#39; financial statements are out (as of March 2025)<br>The company employed 194 employees<br>Dead Island 3 is in development<br>The current predicted release window for the project is Q1/2 2028 <a href="https://t.co/FOHOitH3nD">pic.twitter.com/FOHOitH3nD</a></p>— Timur222 (@bogorad222) <a href="https://twitter.com/bogorad222/status/2000827597106896907?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote>
- 
-
-</div>
-<p>The paperwork says the development is &quot;moving at pace&quot; and that &quot;parts of the game are now in early production.&quot; These parts reportedly include feature design, world design, narrative and character design.</p>
-<span id="end-legacy-contents"></span><p>We already knew this game was in development, as Dambuster <a data-i13n="cpos:3;pos:1" href="https://steamcommunity.com/games/934700/announcements/detail/505086494235427243?snr=2___"><ins>posted on Steam earlier this year that</ins></a> &quot;the outbreak is far from over.&quot; The idea of <em>Dead Island 3</em> makes a whole lot of sense, given the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/after-one-last-release-date-change-dead-island-2-will-arrive-a-week-early-182902641.html"><ins>success of the second one</ins></a>. The company <a data-i13n="cpos:5;pos:1" href="https://www.gameshub.com/news/news/dead-island-3-2802927/"><ins>has sold over 4 million copies</ins></a> of the game since 2023.</p>
-<div id="61289bf35ab9475a982dc02151d8f746"><iframe width="560" height="315" src="https://www.youtube.com/embed/yiHalBhBMj4?si=gJXy_AQ8K7SYNx47" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
-<p>It&#39;s also worth noting that a 2028 release date would put five years between the two sequels. That&#39;s a long time for something like Assassin&#39;s Creed, but nothing for the Dead Island franchise. <em>Dead Island 2</em> <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/2014-06-12-dead-island-2-turns-its-frown-upside-down.html"><ins>was first announced in 2014</ins></a>, so development took nearly a decade.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/dead-island-3-is-in-development-and-will-reportedly-come-out-in-2028-162522680.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/dead-island-3-is-in-development-and-will-reportedly-come-out-in-2028-162522680.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e6eec06e-b5cc-4f1b-953a-24a5823b31c2</guid>
-                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 16 Dec 2025 16:25:23 +0000</pubDate>
-                    <ingested>1765902330</ingested>
-                    <modified>2025-12-16T16:25:33+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Lawrence Bonk]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Fb866db60-da9b-11f0-aa5d-7d28fda59d61&amp;resize=1400%2C932&amp;client=19f2b5e49a271b2bde77&amp;signature=10bd234d0ec54b21198df27067822177c24ca893" width="1400" height="932" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Fb866db60-da9b-11f0-aa5d-7d28fda59d61&amp;resize=1400%2C932&amp;client=19f2b5e49a271b2bde77&amp;signature=8bd536f68815f69acf090bb5e7a269e6d828e309" width="1400" height="932" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Deep Silver]]></media:credit>
-                                <media:description><![CDATA[A zombie.]]></media:description>
-                                <media:title><![CDATA[Dead Island 2]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Ffdc34650-da99-11f0-af93-60e6598cdf53&amp;resize=1400%2C919&amp;client=19f2b5e49a271b2bde77&amp;signature=b9ea993b20a0ee1fa39acd7d0867032c1047df61" width="1400" height="919" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[3]]></dc:identifier>
-                                <media:credit><![CDATA[Dambuster Studios/Deep Silver]]></media:credit>
-                                <media:description><![CDATA[A shot from game.]]></media:description>
-                                <media:title><![CDATA[Dead Island 2]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
