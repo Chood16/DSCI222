@@ -6,9 +6,90 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2025</copyright>
-            <pubDate>Wed, 24 Dec 2025 14:00:15 +0000</pubDate>
+            <pubDate>Wed, 24 Dec 2025 16:00:01 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[How to set up an iPad for a child]]></title>
+                                        <description type="html"><![CDATA[<p>Creating a child-friendly iPad takes a few extra steps, but Apple’s tools make the process relatively straightforward. From creating a child’s Apple ID to adjusting Screen Time and privacy settings, you can shape how your child uses the device and protect them from inappropriate content. The process varies slightly depending on whether the iPad is new or already in use, but the principles are the same: set up a managed account, connect it to Family Sharing and fine-tune the controls that keep your child’s digital space safe.</p>
+<h2 id="jump-link-create-an-apple-id-for-your-child">Create an Apple ID for your child</h2>
+<p>Every kid using an iPad should have their own Apple ID. This allows you to manage their account through Family Sharing and gives them access to features like iCloud, the App Store and Messages under your supervision. Apple requires parents to create accounts for children under 13, which can be done directly from your own device.</p>
+<span id="end-legacy-contents"></span><p>Open the Settings app on your iPhone or iPad, tap your name at the top and select <strong>Family</strong>. Tap <strong>Add Member</strong>, then <strong>Create Child Account</strong>, and follow the onscreen prompts. You’ll need to provide your child’s name and birth date, along with parental consent using your own Apple ID password. Once created, the account is automatically added to your Family Sharing group.</p>
+<p>If your kid already has an account, you can invite them to join your Family Sharing setup instead. On the iPad, go to <strong>Settings &gt; Family &gt; Add Member</strong>, then select <strong>Invite People</strong> to send a request to their existing Apple ID email address. When they accept, you’ll be able to manage parental controls from your own device.</p>
+<h2 id="jump-link-add-your-child-to-family-sharing">Add your child to Family Sharing</h2>
+<p>Family Sharing brings all your family’s Apple devices together under one umbrella. It lets you share subscriptions, purchases and iCloud storage, while giving you oversight of your child’s activity. The <strong>Ask to Buy</strong> feature, for example, requires your approval before your child can download apps or make in-app purchases, helping to avoid surprise charges.</p>
+<p>To enable Family Sharing on your iPad, go to <strong>Settings &gt; [your name] &gt; Family</strong>, then tap <strong>Add Member</strong> if your child isn’t already added. You can manage shared purchases, location sharing and Screen Time settings from here. Linking devices through Family Sharing also makes it easier to locate a lost iPad and maintain consistent restrictions across all your family’s devices. For broader setup advice, see Engadget’s guide on<a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/2019-12-02-how-to-set-up-a-phone-or-tablet-for-a-child.html"> how to set up a phone or tablet for a child</a>.</p>
+<h2 id="jump-link-set-up-screen-time-and-parental-controls">Set up Screen Time and parental controls</h2>
+<p>Once your child’s account is linked, you can use Screen Time to manage how the iPad is used. Screen Time is found under <strong>Settings &gt; Screen Time</strong>, and it lets you set time limits, restrict certain apps, and monitor usage reports.</p>
+<p>When first opening Screen Time on your child’s iPad, tap <strong>This is My Child’s iPad</strong>. You’ll be prompted to create a unique Screen Time passcode. This passcode is different from the iPad’s unlock code and prevents your child from changing settings without permission, so make sure you remember it. From here, you can configure several key features.</p>
+<p><strong>Downtime</strong> allows you to block all but essential apps and calls during certain hours, such as bedtime or homework time. <strong>App Limits</strong> sets daily time limits for categories such as games, entertainment or social networking. You can also set <strong>Communication Limits</strong> to control who your child can contact throughout the day and during Downtime, which is useful for if you only want them to message family members or trusted friends. The <strong>Always Allowed</strong> section lets you choose essential apps, such as Messages or educational tools, that remain accessible at all times.</p>
+<p>You can adjust these settings from your own device if your child is part of your Family Sharing group. Screen Time reports provide detailed insight into how the iPad is used, so you can see which apps are used the most and make adjustments as needed.</p>
+<h2 id="jump-link-enable-content-and-privacy-restrictions">Enable Content and Privacy Restrictions</h2>
+<p>Content and Privacy Restrictions offer finer control over what your kid can and cannot do with their iPad. To enable them, go to <strong>Settings &gt; Screen Time &gt; Content &amp; Privacy Restrictions</strong>, and toggle them on.</p>
+<p>Within this menu, you can manage App Store purchases and downloads, disabling in-app purchases or preventing your child from installing or deleting apps. You can also filter explicit content in Apple Music, TV, and Books, and apply web restrictions in Safari to limit adult content. Under <strong>Web Content</strong>, choose <strong>Limit Adult Websites</strong> or specify certain sites that are allowed or blocked.</p>
+<p>Privacy controls extend beyond content. You can manage location services, camera and microphone access and other sensitive permissions. For example, turning off location sharing in certain apps can help safeguard your child’s privacy. You can also prevent changes to accounts, passcodes and cellular settings, ensuring that restrictions remain consistent.</p>
+<h2 id="jump-link-fine-tune-privacy-and-safety-settings">Fine-tune privacy and safety settings</h2>
+<p>Beyond Screen Time, Apple includes additional tools to make iPads safer for children. In Safari, you can enable SafeSearch to filter explicit results in search engines. Restrict AirDrop under <strong>Settings &gt; General &gt; AirDrop</strong> to limit sharing to Contacts Only or turn it off completely, reducing the potential for exposure to unsolicited files.</p>
+<p>Messages includes a <strong>Communication Safety</strong> feature that uses on-device machine learning to detect sensitive images. When enabled, the iPad will blur images that contain nudity and offer guidance before the child can view them. You’ll find this under <strong>Settings &gt; Screen Time &gt; Communication Safety</strong>. It works entirely on the device and doesn’t send data to Apple, preserving privacy while offering extra protection.</p>
+<p>If your child uses Game Center, you can limit multiplayer games, profile visibility and the ability to add friends. These small adjustments can prevent unwanted social interactions or exposure to inappropriate content in online games.</p>
+<h2 id="jump-link-use-guided-access-for-younger-children">Use Guided Access for younger children</h2>
+<p>For younger children or toddlers, Guided Access can keep them focused on a single app and prevent them from accidentally navigating elsewhere. To enable it, open <strong>Settings &gt; Accessibility &gt; Guided Access</strong>, then toggle it on and set a passcode.</p>
+<p>Once it’s active, open the app you want your child to use and triple-click the top button (or the Home button on older models). Guided Access locks the iPad to that app until you end the session with your passcode. You can disable hardware buttons or touch input areas to avoid navigating elsewhere in the app or accessing playback controls. This feature is ideal when you want your child to watch a video or use an educational app without interruption.</p>
+<h2 id="jump-link-keep-everything-up-to-date">Keep everything up to date</h2>
+<p>After initial setup, it’s important to revisit these settings occasionally. Children’s needs change as they grow, and Apple regularly adds new parental features with each iPadOS update. Keep the iPad updated by going to <strong>Settings &gt; General &gt; Software Update</strong>, and review restrictions periodically to ensure they still fit your child’s age and usage patterns.</p>
+<p>Setting up an iPad for your child isn’t just about managing screen time or blocking certain apps. It’s about creating a space that encourages safe exploration while maintaining healthy boundaries. With Apple’s parental tools, you can find the right balance between freedom and supervision, making the iPad a secure and educational part of your child’s digital world.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/how-to-set-up-an-ipad-for-a-child-160001671.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/mobile/tablets/how-to-set-up-an-ipad-for-a-child-160001671.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9edb616d-be8c-467e-a902-5115d3fa886d</guid>
+                                                                                        <dc:creator><![CDATA[Rob Webb]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 24 Dec 2025 16:00:01 +0000</pubDate>
+                    <ingested>1765399945</ingested>
+                    <modified>2025-12-10T20:52:28+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Rob Webb]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F3d0b8b50-a50d-11f0-bfc5-c093aca2ed21&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=d558278c3aef7654a375222a7c52e9bffabbf784" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-10%2F3d0b8b50-a50d-11f0-bfc5-c093aca2ed21&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=678e6f155d26a4c6b8636375ae2a2165e50ebcba" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Jeff Dunn for Engadget]]></media:credit>
+                                <media:description><![CDATA[iPad A16]]></media:description>
+                                <media:title><![CDATA[iPad A16]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Pro-Russian hacker group claims responsibility for DDoS attack on French postal service]]></title>
                                         <description type="html"><![CDATA[<p>A pro-Russian hacker group has come forward as the perpetrator of a DDoS attack on the French national postal service La Poste that took place on December 22, according to <a data-i13n="cpos:1;pos:1" href="https://apnews.com/article/france-cyberattack-postal-service-russia-09bd0156aae99e14e619051756574853"><em><ins>Reuters</ins></em></a>. The distributed denial-of-service attack took central computer systems at La Poste entirely offline and caused major disruptions in package deliveries just days before Christmas.</p>
 <p><a data-i13n="cpos:2;pos:1" href="https://apnews.com/article/france-cyberattack-postal-service-russia-09bd0156aae99e14e619051756574853"><em><ins>Reuters</ins></em></a> reported that the cyberattack on La Poste was still not fully resolved as of Wednesday morning. While regular letters were not affected, postal workers were unable to track packages and online payments through La Banque Postale, the service&#39;s banking division, were also disrupted.</p>
@@ -3323,55 +3404,6 @@ AI-driven gadgets, robots, and vehicles take the spotlight at CES 2025 in Las Ve
                                 <media:credit><![CDATA[SAUL LOEB via Getty Images]]></media:credit>
                                 <media:description><![CDATA[US President Donald Trump jokes with Meta CEO Mark Zuckerberg (L) as he hosts tech leaders for a dinner in the State Dining Room of the White House in Washington, DC, on September 4, 2025. (Photo by SAUL LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty Images)]]></media:description>
                                 <media:title><![CDATA[US-POLITICS-TRUMP]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Netflix is acquiring game avatar maker Ready Player Me]]></title>
-                                        <description type="html"><![CDATA[<p>Netflix is acquiring Estonian startup <a target="_blank" class="link" href="https://readyplayer.me/" data-i13n="cpos:1;pos:1">Ready Player Me</a>, a company creating &quot;cross-game avatar tech&quot; that allows players to bring their digital personas with them to different games, the company&#39;s CEO Timmu Tõke <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=6deefbf2-941b-4156-9f41-a61ebb50d13d&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b7822683-862a-4270-b2d5-2957d63862c2&amp;featureId=text-link&amp;merchantName=LinkedIn&amp;linkText=shared+in+a+LinkedIn+post&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcG9zdHMvdGltbXV0b2tlX25ldGZsaXgteHJlYWR5LXBsYXllci1tZS1pbS1leGNpdGVkLWFjdGl2aXR5LTc0MDc4MzIzMjQyMzI0NTgyNDMtN3MzOD91dG1fc291cmNlPXNoYXJlJnV0bV9tZWRpdW09bWVtYmVyX2Rlc2t0b3AmcmNtPUFDb0FBQk5YV0NVQmYzclM4c1RXa2pQRnpOSVJCSUlKV1JvdTg4OCIsImNvbnRlbnRVdWlkIjoiYjc4MjI2ODMtODYyYS00MjcwLWIyZDUtMjk1N2Q2Mzg2MmMyIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcG9zdHMvdGltbXV0b2tlX25ldGZsaXgteHJlYWR5LXBsYXllci1tZS1pbS1leGNpdGVkLWFjdGl2aXR5LTc0MDc4MzIzMjQyMzI0NTgyNDMtN3MzOD91dG1fc291cmNlPXNoYXJlJnV0bV9tZWRpdW09bWVtYmVyX2Rlc2t0b3AmcmNtPUFDb0FBQk5YV0NVQmYzclM4c1RXa2pQRnpOSVJCSUlKV1JvdTg4OCJ9&amp;signature=AQAAAeKjdQJlagKETksfi758o-hALcDcokcQczza3awqlbWi&amp;gcReferrer=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftimmutoke_netflix-xready-player-me-im-excited-activity-7407832324232458243-7s38%3Futm_source%3Dshare%26utm_medium%3Dmember_desktop%26rcm%3DACoAABNXWCUBf3rS8sTWkjPFzNIRBIIJWRou888" data-i13n="elm:affiliate_link;sellerN:LinkedIn;elmt:;cpos:2;pos:1" data-original-link="https://www.linkedin.com/posts/timmutoke_netflix-xready-player-me-im-excited-activity-7407832324232458243-7s38?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNXWCUBf3rS8sTWkjPFzNIRBIIJWRou888">shared in a LinkedIn post</a>. The acquisition is part of Netflix&#39;s new games strategy, which puts an emphasis on approachable multiplayer titles and adaptations of the streaming service&#39;s IP.</p><p>Ready Player Me&#39;s team of around 20 employees will be incorporated into Netflix&#39;s staff, <a target="_blank" class="link" href="https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/" data-i13n="cpos:3;pos:1"><em>TechCrunch</em> writes</a>, though Tõke is the only one of the startup&#39;s four founders who will continue on after the acquisition. Neither company has shared when the avatar tech will be incorporated into Netflix&#39;s games or what games will support the feature when they do.&nbsp;</p><p>Besides designing its avatar system to be easy for developers to implement in their games, Ready Player Me&#39;s big pitch for their system is using AI to automatically redesign avatars for different games&#39; art styles and &quot;automatically fit assets to any avatar rig or topology without manual work.&quot;</p><p>Netflix has taken multiple different approaches&nbsp; to games in the last few years, but lately, the company has actively <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflix-has-closed-its-aaa-gaming-studio-133014946.html" data-i13n="cpos:4;pos:1">retreated from AAA development</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflix-is-getting-rid-of-another-of-its-game-studios-by-selling-it-back-to-its-founders-203645232.html" data-i13n="cpos:5;pos:1">its more ambitious projects</a>. Other than the premiere of <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/best-guess-live-is-netflixs-take-on-hq-trivia-170000030.html" data-i13n="cpos:6;pos:1">its take on HQ Trivia</a>, Netflix&#39;s last few game announcements of 2025 were focused on a collection of <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/netflix-is-bringing-party-games-to-tvs-123034128.html" data-i13n="cpos:7;pos:1">streamable party games</a>, and <a target="_blank" class="link" href="https://www.engadget.com/gaming/the-first-post-ea-fifa-soccer-sim-will-be-a-netflix-games-exclusive-204321196.html" data-i13n="cpos:8;pos:1">a partnership with FIFA</a> to release a new soccer sim in 2026. All of those projects could support avatars in one form or another, now Netflix just needs to decide how.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/netflix-is-acquiring-game-avatar-maker-ready-player-me-204443001.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/netflix-is-acquiring-game-avatar-maker-ready-player-me-204443001.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">b7822683-862a-4270-b2d5-2957d63862c2</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Fri, 19 Dec 2025 20:44:43 +0000</pubDate>
-                    <ingested>1766177093</ingested>
-                    <modified>2025-12-19T20:44:56+00:00</modified>
-                                            <category>
-                            <![CDATA[Sports & Recreation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FReady-Player-Me-avatars.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a37046e515641406995e9fddc8ceafc55aeb9b47" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FReady-Player-Me-avatars.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a37046e515641406995e9fddc8ceafc55aeb9b47" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Ready Player Me]]></media:credit>
-                                <media:description><![CDATA[Five different styles of avatar made with Ready Player Me&#39;s tools.]]></media:description>
-                                <media:title><![CDATA[Ready-Player-Me-avatars]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
