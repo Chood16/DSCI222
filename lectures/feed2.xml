@@ -6,11 +6,69 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Tue, 06 Jan 2026 04:50:49 +0000</pubDate>
+            <pubDate>Tue, 06 Jan 2026 05:30:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[NVIDIA announces DLSS 4.5 at CES 2026]]></title>
+                                        <description type="html"><![CDATA[<p>Just like <a target="_blank" class="link" href="https://www.engadget.com/computing/nvidia-announced-dlss-4-will-come-to-all-rtx-gpus-044835926.html" data-i13n="cpos:1;pos:1">last year</a>, NVIDIA has used some of its time on the CES stage to introduce an upgraded version of its real-time image-upscaling technology. The new DLSS 4.5 promises sharper visuals with the 2nd Generation Super Resolution Transformer, which the company says will deliver better temporal stability, reduced ghosting and improved anti-aliasing. The DLSS 4.5 also includes Dynamic Multi Frame Generation, which maximizes frame per second to monitor refresh rate, delivering up to 4K 240Hz path traced performance.</p><p>The 2nd Gen Transformer Super Resolution is available now for all RTX GPUs, while the Dynamic 6x Frame Generation will arrive some time in spring 2026 for the RTX 50 series. It will also be available for more than 400 games through the NVIDIA app.&nbsp;&nbsp;</p><p>Another new feature is RTX Remix Logic, which allows real-time environmental reactions to in-game events. For instance, when a door is opened on screen, the NVIDIA tech can present changes to volumetric conditions, display different weather simulations with particles or alter materials. More than 30 different common events can be detected, and the RTX Remix Logic can make adaptations to volumetrics, particles, material properties and light properties.</p><p>NVIDIA noted that it now has native clients for both Linux and Fire TV. That&#39;s the roundup of major gaming updates from the company&#39;s CES presentation, but NVIDIA CEO Jensen Huang had <a target="_blank" class="link" href="https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html" data-i13n="cpos:2;pos:1">plenty to talk about</a> earlier today. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nvidia-announces-dlss-45-at-ces-2026-053000128.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/nvidia-announces-dlss-45-at-ces-2026-053000128.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">83946710-143c-48eb-b2fc-0acceb225bff</guid>
+                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 06 Jan 2026 05:30:00 +0000</pubDate>
+                    <ingested>1767677452</ingested>
+                    <modified>2026-01-06T05:30:56+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Anna Washenko]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FNVIDIA_DLSS_4.5.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7b9dd245983e37d783332c3479aeb6a56b1d6f9e" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FNVIDIA_DLSS_4.5.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7b9dd245983e37d783332c3479aeb6a56b1d6f9e" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NVIDIA]]></media:credit>
+                                <media:description><![CDATA[Slide from NVIDIA&#39;s CES 2026 presentation about DLSS 4.5]]></media:description>
+                                <media:title><![CDATA[NVIDIA DLSS 4.5]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Agibot's humanoid robots can give directions and learn your TikTok dances]]></title>
-                                        <description type="html"><![CDATA[<p>For better or worse, CES 2026 is already shaping up to be a big year for humanoid robots. Chinese company Agibot showed up with two: the roughly human-sized <a target="_blank" class="link" href="https://www.agibot.com/products/A2_D" data-i13n="cpos:1;pos:1">A2</a> and the slightly smaller <a target="_blank" class="link" href="https://www.agibot.com/products/X2" data-i13n="cpos:2;pos:1">X2</a>, both of which were displaying their surprisingly impressive dancing abilities.&nbsp;</p><p>We watched both robots walk around, wave at passersby and show off their best moves. The larger A2 mostly kept its legs still and danced mainly with its arms. The smaller X2 on the other hand is a bit more nimble — it has a larger set of &quot;feet&quot; to give it more stability — and those abilities were on full display.</p><p>At the time we saw them, the robots were controlled partially by an Agibot rep using a dedicated controller, but the company told me the robots are able to move autonomously in spaces once they&#39;ve been able to use their onboard sensors to map out their&nbsp; environmentThe company, which has already shipped several thousand robots in China and plans to make them available in the United States this year, says both the A2 and X2 are intended to provide a flexible platform so people can interact with the robots in a variety of situations.</p><p>Agibot envisions the larger A2 as a kind of hospitality helper robot that can greet visitors at museums or conferences (like CES) and provide directions or even walk alongside their human guests.&nbsp;</p><p>The smaller X2 on the other hand could be suited for educational purposes or other scenarios when you might want a robot with slightly more human-like movements. It could even be a good TikTok companion, as Agibot&#39;s head of communications, Yuheng Feng explained to me. &quot;Take a Tiktok video, for example,you can use that video to train the robot, [so] it can also dance exactly like you did in the video.&quot;&nbsp;</p><p>The company hasn&#39;t given details on when its robots might show up in the US or how much they might cost. Feng told me a lot will depend on how companies want to use them because their hardware is able to be customized depending on the use case. For now, though, we&#39;ll just soak in the dance moves.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/agibots-humanoid-robots-can-give-directions-and-learn-your-tiktok-dances-045049798.html?src=rss]]></description>
+                                        <description type="html"><![CDATA[<p>For better or worse, CES 2026 is already shaping up to be a big year for humanoid robots. Chinese company Agibot showed up with two: the roughly human-sized <a data-i13n="cpos:1;pos:1" href="https://www.agibot.com/products/A2_D">A2</a> and the slightly smaller <a data-i13n="cpos:2;pos:1" href="https://www.agibot.com/products/X2">X2</a>, both of which were displaying their surprisingly impressive dancing abilities.&nbsp;</p>
+<p>We watched both robots walk around, wave at passersby and show off their best moves. The larger A2 mostly kept its legs still and danced mainly with its arms. The smaller X2 on the other hand is a bit more nimble — it has a larger set of &quot;feet&quot; to give it more stability — and those abilities were on full display.</p>
+<span id="end-legacy-contents"></span><p>At the time we saw them, the robots were controlled partially by an Agibot rep using a dedicated controller, but the company told me the robots are able to move autonomously in spaces once they&#39;ve been able to use their onboard sensors to map out their  environmentThe company, which has already shipped several thousand robots in China and plans to make them available in the United States this year, says both the A2 and X2 are intended to provide a flexible platform so people can interact with the robots in a variety of situations.</p>
+<div id="783a476bfff8442ba791e271141fd7cd"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">This year seems to be the year that the robots have learned to do laundry, dance and probably a bunch of other stuff. These humanoid 🤖 are made by Agibot and they have the dance moves down <a href="https://t.co/MnT11Xq4Yq">pic.twitter.com/MnT11Xq4Yq</a></p>— Karissa Bell (@karissabe) <a href="https://twitter.com/karissabe/status/2008392964180242887?ref_src=twsrc%5Etfw">January 6, 2026</a></blockquote>
+ 
+
+</div>
+<p>Agibot envisions the larger A2 as a kind of hospitality helper robot that can greet visitors at museums or conferences (like CES) and provide directions or even walk alongside their human guests.&nbsp;</p>
+<p>The smaller X2 on the other hand could be suited for educational purposes or other scenarios when you might want a robot with slightly more human-like movements. It could even be a good TikTok companion, as Agibot&#39;s head of communications, Yuheng Feng explained to me. &quot;Take a Tiktok video, for example, you can use that video to train the robot, [so] it can also dance exactly like you did in the video.&quot;&nbsp;</p>
+<p>The company hasn&#39;t given details on when its robots might show up in the US or how much they might cost. Feng told me a lot will depend on how companies want to use them because their hardware is able to be customized depending on the use case. For now, though, we&#39;ll just soak in the dance moves.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/agibots-humanoid-robots-can-give-directions-and-learn-your-tiktok-dances-045049798.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/agibots-humanoid-robots-can-give-directions-and-learn-your-tiktok-dances-045049798.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">e9007022-29ab-44c7-9868-b7c6533ab500</guid>
@@ -19,8 +77,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
                                                                 <pubDate>Tue, 06 Jan 2026 04:50:49 +0000</pubDate>
-                    <ingested>1767675058</ingested>
-                    <modified>2026-01-06T04:51:02+00:00</modified>
+                    <ingested>1767680260</ingested>
+                    <modified>2026-01-06T06:17:41+00:00</modified>
                                             <category>
                             <![CDATA[Robots]]>
                         </category>
@@ -2702,60 +2760,6 @@
                                 <media:credit><![CDATA[Audeze]]></media:credit>
                                 <media:description><![CDATA[Audeze Maxwell 2]]></media:description>
                                 <media:title><![CDATA[Audeze Maxwell 2]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[XGIMI's Titan Noir Max 4K projector has a dynamic IRIS for increased contrast]]></title>
-                                        <description type="html"><![CDATA[<p>XGIMI, which burst on the scene in 2025 with several <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FN7WG453&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cc6c7651-cb49-4ad3-b82e-8f4e898e23c4&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=impressive+projectors&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRk43V0c0NTMvP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6ImNjNmM3NjUxLWNiNDktNGFkMy1iODJlLThmNGU4OThlMjNjNCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMEZON1dHNDUzLyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAZ6ks9IkGEXG8UfOBrJv1BJ58vMl9Noo-Gu-86Sig5iW&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FN7WG453%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0FN7WG453/">impressive projectors</a>, has unveiled its latest high-end model called the Titan Noir Max. The new model revealed at CES 2026 has many of the bells and whistles found on professional-level projectors including a dynamic IRIS system for improved contrast, along with a new thermal system designed to boost brightness.</p>
-<p>The Titan Noir Max has a design to XGIMI&#39;s <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cc6c7651-cb49-4ad3-b82e-8f4e898e23c4&amp;featureId=text-link&amp;linkText=Titan+model&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2V1LnhnaW1pLmNvbS9wYWdlcy90aXRhbiIsImNvbnRlbnRVdWlkIjoiY2M2Yzc2NTEtY2I0OS00YWQzLWI4MmUtOGY0ZTg5OGUyM2M0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL2V1LnhnaW1pLmNvbS9wYWdlcy90aXRhbiJ9&amp;signature=AQAAAajl8pNfxM89vXljZfgtRxRdhqtQm66ys-3DPPL1ynIp&amp;gcReferrer=https%3A%2F%2Feu.xgimi.com%2Fpages%2Ftitan" class="rapid-with-clickid" data-original-link="https://eu.xgimi.com/pages/titan">Titan model</a> announced last year, but it&#39;s taller and a bit squarer with an elegant grille-like pattern on the front. As with other XGIMI models, it features a laser light engine and 4K video quality, though the company didn&#39;t say if it had the same big Texas Instruments 0.78-inch DMD (digital micromirror device) chip as the original Titan model.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>The key new feature is a dynamic IRIS system that boosts native contrast to 10,000:1 for deeper blacks and brighter highlights. At the same time, it boasts new &quot;precision tuned optics&quot; (ie a better lens) also designed to improve contrast and color nuance.&nbsp;</p>
-<p>Another key feature is a re-engineered DMD architecture that can handle &quot;substantially higher light power densities,&quot; XGIMI says. This should allow for increased brightness, though the company didn&#39;t provide a figure in ANSI Lumens. It would be impressive if it topped the 5,000 Lumen Titan, though.&nbsp;</p>
-<p>Many other specs are lacking, like color accuracy in the Rec.2020 space. However, the company is promising a lot, saying that the Titan Noir Max will offer &quot;the stability, accuracy, and reliability required for color-critical work, studio environments, and high-end installations.&quot; At the same time, it&#39;s also targeted at home enthusiasts, promising to &quot;turn a blank wall into a cinematic event.&quot;&nbsp;</p>
-<p>XGIMI&#39;s Titan was only recently released for $3,999 but there&#39;s no word yet on the price or release date of the Titan Noir Max. Unlike the Horizon 20 series (which has a smaller 0.47-inch DMD chip) the Titan has received very few reviews so far, but one <a data-i13n="cpos:3;pos:1" href="https://www.mondoprojos.fr/2025/12/20/test-xgimi-titan/">French projector site</a> gave it a solid score.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/xgimis-titan-noir-max-4k-projector-has-a-dynamic-iris-for-increased-contrast-170044625.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/home/home-theater/xgimis-titan-noir-max-4k-projector-has-a-dynamic-iris-for-increased-contrast-170044625.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">cc6c7651-cb49-4ad3-b82e-8f4e898e23c4</guid>
-                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Mon, 05 Jan 2026 17:00:44 +0000</pubDate>
-                    <ingested>1767607817</ingested>
-                    <modified>2026-01-05T10:10:21+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Steve Dent]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F6162aba0-ea13-11f0-b59b-746dc370710c&amp;resize=1400%2C825&amp;client=19f2b5e49a271b2bde77&amp;signature=95713fb2b76f057f88f38ffa6c8b4497c5ffa894" width="1400" height="825" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F6162aba0-ea13-11f0-b59b-746dc370710c&amp;resize=1400%2C825&amp;client=19f2b5e49a271b2bde77&amp;signature=838ebc8c44640dfa999864d278a035e560dec328" width="1400" height="825" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[XGIMI]]></media:credit>
-                                <media:description><![CDATA[XGIMI's Titan Noir Max 4K projector has a dynamic IRIS for increased contrast]]></media:description>
-                                <media:title><![CDATA[XGIMI's Titan Noir Max 4K projector has a dynamic IRIS for increased contrast]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
