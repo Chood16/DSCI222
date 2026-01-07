@@ -6,9 +6,223 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Wed, 07 Jan 2026 19:10:00 +0000</pubDate>
+            <pubDate>Wed, 07 Jan 2026 20:17:43 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[How to use a VPN on iPhone]]></title>
+                                        <description type="html"><![CDATA[<p>Installing a virtual private network (VPN) on an iPhone or iPad is easy. The days are gone when Apple users had to be content with the leavings from the Windows ecosystem — in 2026, all the <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html" data-i13n="cpos:1;pos:1">best VPN services</a> have secure, user-friendly iOS apps on par with every other platform. If you&#39;ve decided to add a VPN to your iPhone to stay anonymous online and change your virtual location, you&#39;ve got plenty of great choices.</p><p>Since you&#39;re here, chances are you&#39;re familiar with <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/what-is-a-vpn-and-what-can-you-do-with-one-161549146.html" data-i13n="cpos:2;pos:1">the benefits of using a VPN</a>, including security on public Wi-Fi and the ability to explore streaming libraries in other countries. But you may still be daunted by the process of actually choosing, installing and configuring a VPN on your iPhone.</p><p>In this article, I&#39;ll walk you through the steps, including how to configure a VPN manually without going through a service. Check out my <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-140000564.html" data-i13n="cpos:3;pos:1">how to use a VPN</a> piece for more general information.</p><h2 id="jump-link-how-to-choose-an-iphone-vpn"><strong>How to choose an iPhone VPN</strong></h2><p>One of the trickiest parts of installing an iPhone VPN is picking the right service. That brings us to our first pro tip: Don’t just go to the App Store and search on “VPN.” That will simply front-load whichever vendor(s) are paying for top placement (note the little “Ad” icon) as well as a laundry list of free services that come with big caveats. There are dozens of mobile VPNs out there, and many of them don&#39;t put the user first (for example, I reported last year on popular VPNs that <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/researchers-find-alarming-overlaps-among-18-popular-vpns-191828342.html" data-i13n="cpos:4;pos:1">failed to disclose shared security flaws</a>). Choosing hastily can leave you stuck with an iOS VPN that&#39;s either mediocre or actively harmful.</p><p>Before downloading an iPhone VPN, do some research into the provider&#39;s background. A dependable VPN should have a well-written customer support page, a clear timeline of its history and a way to tell at a glance who actually owns and operates it. Check the reviews on the app store — it should have at least several hundred, almost all 4s and 5s.</p><p>iPhone users have a particular advantage here: several VPNs let you download their iOS app and start using it without paying. You can use this free trial period to <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/how-we-test-vpns-175845189.html" data-i13n="cpos:5;pos:1">put the VPN through its paces</a>. Start by testing its speed using Ookla speedtest or a similar app. You should also use an IP address checker to make sure it isn&#39;t leaking; to confirm this, just check your phone&#39;s IP address before and after connecting to the VPN and make sure it&#39;s different the second time.</p><p>To keep things simple, my top recommendation for all platforms is <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/proton-vpn-review-2025-a-nonprofit-service-with-premium-performance-153046073.html" data-i13n="cpos:6;pos:1">Proton VPN</a>. Out of all VPNs, it strikes the best balance of solid security, fast performance, useful features and a commitment to user privacy. Other iPhone VPNs I love include <a target="_blank" class="link" href="https://www.engadget.com/vpn-review-expressvpn-2023-gaming-streaming-160052492.html" data-i13n="cpos:7;pos:1">ExpressVPN</a>, <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/surfshark-vpn-review-a-fast-vpn-for-casual-users-170022675.html" data-i13n="cpos:8;pos:1">Surfshark</a> and <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html" data-i13n="cpos:9;pos:1">NordVPN</a>.</p><h2 id="jump-link-how-to-install-a-vpn-on-your-iphone"><strong>How to install a VPN on your iPhone</strong></h2><p>Installing an iPhone VPN is like installing any other app. Just go to the App Store, find the VPN you&#39;ve chosen and download it onto your phone. When it finishes downloading, open the app to grant permissions and finish setup. However, since there are a couple of potential sticking points, I&#39;ll run through the steps in more detail.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IMG_4077.PNG" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IMG_4077.PNG" style="height:1334px;width:750px;" alt="Proton VPN on the iOS app store." data-uuid="17864b81-fdc9-4ada-9560-b47c54fe05ef"/><figcaption>Proton VPN on the iOS app store.</figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure><ol><li><p>Open the App Store.</p></li><li><p>Tap the search bar and type in the name of your chosen VPN. Hit Search and look through the list of results. Be careful to pick the right one — there are some &quot;mockbuster&quot; VPNs that try to snare people looking for well-known names. As a rule, the one with the most reviews is the service worth using.</p></li><li><p>On the page for the VPN app, tap Get. Enter your Apple ID and password to begin the installation.</p></li><li><p>Once installation is complete, either tap Open in the App Store or find the new VPN icon on your home screen.</p></li><li><p>Create a VPN account with a username and password. Most services let you do this within the app, but you may have to shift temporarily to a browser, so make sure you&#39;ve got internet access.</p></li><li><p>Choose a subscription. If there&#39;s a free trial, grab it and use it to test the VPN. If not, or if it&#39;s already expired, choose a plan that fits your budget and needs. Longer-term plans tend to save you money on average, but cost more at the start.</p></li><li><p>On the VPN app, log in with your new credentials. You&#39;re now ready to get started.</p></li></ol><p>If you aren&#39;t interested in paying for software right now, you can still get an iOS VPN. Check out my list of the <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/vpn/best-free-vpn-120032818.html" data-i13n="cpos:10;pos:1">best free VPNs</a>, which all have iPhone apps. We also constantly update a curated list of the <a target="_blank" class="link" href="https://www.engadget.com/deals/the-best-vpn-deals-up-to-88-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056445.html" data-i13n="cpos:11;pos:1">best VPN deals</a> for bargain hunters.</p><h2 id="jump-link-how-to-configure-and-use-a-vpn-on-your-iphone"><strong>How to configure and use a VPN on your iPhone</strong></h2><p>An iOS VPN is generally usable with the default settings. Even so, it&#39;s a good idea to look through the options — you may not end up using all of them, but many of them are vital security checks or important quality-of-life boosters.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Proton_iOS_NetShield.PNG" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Proton_iOS_NetShield.PNG" style="height:1334px;width:750px;" alt="Proton VPN&#39;s NetShield content blocker on iOS." data-uuid="fddf8c6c-4e2f-4251-94a6-221457c077cb"/><figcaption>Proton VPN&#39;s NetShield content blocker on iOS.</figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure><p>Here are some quick steps to make sure you&#39;re getting the best performance. These settings are in different places on each VPN, but most can be found by clicking a button with a gear icon, or any page labeled &quot;settings&quot; or &quot;preferences.&quot;</p><ol><li><p>Turn on the kill switch. This will protect you from broadcasting any data the VPN hasn&#39;t encrypted. In the event the VPN suddenly disconnects, the kill switch also cuts off your internet connection.</p></li><li><p>Set the VPN to always reconnect automatically if it disconnects. The method for doing this varies between services, so check the VPN&#39;s help page. Some (like Proton VPN) have an always-on VPN setting in the app itself, while others (like ExpressVPN) handle it through iOS settings.</p></li><li><p>Configure split tunneling. Not many iPhone VPNs have this option, but if yours does, you can use it to let certain apps or websites skip the VPN tunnel. Make sure to only bypass the VPN on sites and apps that share no sensitive information, or that refuse to work with a VPN active (some banks are like this).</p></li><li><p>If your VPN has a feature for blocking ads and malware domains, I recommend using it — the worst it can do is not work. Some also include parental controls, in case you&#39;re setting up the VPN on your child&#39;s phone.</p></li><li><p>Create shortcuts. Sometimes called Profiles, this relatively common feature lets you connect to the VPN and open a certain website with one tap.</p></li><li><p>Decide when and how you want the VPN to send you notifications.</p></li><li><p>Check available protocols. It&#39;s almost always best to let the VPN pick for you, but if you want to choose for yourself, IKEv2 is generally the fastest.</p></li><li><p>Look over the server list to see what choices are available.</p></li></ol><p>When choosing a VPN server, think about what you need the VPN for. If you&#39;re just using it for privacy, pick the fastest server (or let the VPN app choose it for you). On the other hand, if you want to watch a movie or TV show that&#39;s only on streaming in another country, choose the fastest server in that country. If you&#39;re on a good VPN, it still shouldn&#39;t slow you down too much.</p><p>If you have the address of a VPN server and the necessary credentials, iOS lets you set up your own VPN and connect directly. This is less convenient than using a provider app, since you need to know the details about every server you connect to, but it&#39;s nice if you&#39;re worried about trusting your privacy to a third party. It can also be convenient for quickly accessing a work or school VPN from your phone. Here&#39;s how to do it.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IMG_4075.PNG" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IMG_4075.PNG" style="height:1334px;width:750px;" alt="Manually setting up a VPN connection on iOS." data-uuid="337e4deb-6426-4904-afb6-d6f66792990f"/><figcaption>Manually setting up a VPN connection on iOS.</figcaption><div class="photo-credit">Sam Chapman for Engadget</div></figure><ol><li><p>Open the Settings app. Scroll down and tap <strong>General</strong>.</p></li><li><p>Scroll down again and tap <strong>VPN &amp; Device Management</strong>. Tap the word <strong>VPN</strong> on the new page, then tap <strong>Add VPN Configuration</strong>. You should reach the screen shown above.</p></li><li><p>Make sure <strong>Type</strong> is set to IKEv2, then enter the <strong>Description</strong>, <strong>Server</strong> and <strong>Remote ID</strong> for the server you&#39;re connecting to (plus the Local ID if there is one).</p></li><li><p>Your source for the server information should also have told you if it authenticates access with a username/password or certificate. Pick the correct option, then enter the credentials required.</p></li><li><p>Tap the <strong>Done</strong> button or the blue checkmark at the top-right of the screen.</p></li><li><p>You&#39;ll arrive back on the previous menu with your new VPN option available. Toggle it on to connect. To turn it off, return to the same menu and deactivate the switch.</p></li></ol><h2 id="jump-link-do-you-need-an-iphone-vpn"><strong>Do you need an iPhone VPN?</strong></h2><p>Whenever you get online, your internet service provider (ISP) assigns an IP address to your device — a unique fingerprint that follows you throughout the session. Your ISP may sell this knowledge to marketers to target ads at you, or in worse cases, collaborate with governments willing to violate their citizens&#39; rights to privacy.</p><p>When you use a VPN, though, your real IP address is hidden behind that of the VPN server, so nothing you do on the internet connects back to you. That&#39;s why I always advise using a VPN on any device, including iPhones, that connects to the internet. It&#39;s even more important on the unprotected public networks you sometimes find in cafes and hotels. On the fun side, you can also use a VPN to change your virtual location to show you different content libraries on Netflix and other streaming platforms.</p><p>One more thing: I often hear iPhone users ask whether they need a VPN, since iCloud Private Relay comes standard on iOS devices. Just to clear this up, iCloud Private Relay is not a VPN. As you can see from this <a target="_blank" class="link" href="https://support.apple.com/en-us/102602" data-i13n="cpos:12;pos:1">support page</a>, your ISP can still see your real IP address when it’s active.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-on-iphone-201743118.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-on-iphone-201743118.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">839be217-8686-4e08-80ad-fc5515c020c9</guid>
+                                                                                        <dc:creator><![CDATA[Sam Chapman]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 07 Jan 2026 20:17:43 +0000</pubDate>
+                    <ingested>1767817064</ingested>
+                    <modified>2026-01-07T20:17:48+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Sam Chapman]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FProton_VPN_iOS.PNG&amp;resize=1400%2C1042&amp;client=19f2b5e49a271b2bde77&amp;signature=94f393f5fb08fcbc7931141b800317af137c9426" width="1400" height="1042" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FProton_VPN_iOS.PNG&amp;resize=1400%2C1042&amp;client=19f2b5e49a271b2bde77&amp;signature=94f393f5fb08fcbc7931141b800317af137c9426" width="1400" height="1042" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Sam Chapman for Engadget]]></media:credit>
+                                <media:description><![CDATA[Proton VPN&#39;s iOS interface.]]></media:description>
+                                <media:title><![CDATA[Proton VPN&#39;s iOS interface.]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Character.AI and Google settle with families in teen suicide and self-harm lawsuits]]></title>
+                                        <description type="html"><![CDATA[<p>Character.AI and Google have reportedly agreed to settle multiple lawsuits regarding teen suicide and self-harm. According to <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=37873d48-8c75-4a29-9fa0-e297b4cb8a74&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=The+Wall+Street+Journal&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL3RlY2gvYWkvYWktY2hhdGJvdC1zdGFydHVwLWdvb2dsZS10by1zZXR0bGUtbGF3c3VpdHMtb3Zlci10ZWVuLXN1aWNpZGVzLWZiNDFhMDYzIiwiY29udGVudFV1aWQiOiIzNzg3M2Q0OC04Yzc1LTRhMjktOWZhMC1lMjk3YjRjYjhhNzQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9haS9haS1jaGF0Ym90LXN0YXJ0dXAtZ29vZ2xlLXRvLXNldHRsZS1sYXdzdWl0cy1vdmVyLXRlZW4tc3VpY2lkZXMtZmI0MWEwNjMifQ&amp;signature=AQAAAb0Z2PH_rEsA0pZST-Oo9GSXnKafPYwNKpA2fXdc0ZfL&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Fai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063" data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;cpos:1;pos:1" data-original-link="https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063"><em>The Wall Street Journal</em></a>, the victims&#39; families and the companies are working to finalize the settlement terms.</p><p>The families of several teens sued the companies in Florida, Colorado, Texas and New York. The Orlando, FL, lawsuit was filed by the mother of 14-year-old Sewell Setzer III, who used a <a target="_blank" class="link">Character.AI</a> chatbot tailored after <em>Game of Thrones&#39;</em> Daenerys Targaryen. The teen reportedly exchanged sexualized messages with the chatbot and occasionally referred to it as &quot;his baby sister.&quot; He eventually talked about joining &quot;Daenerys&quot; in a deeper way before taking his own life.</p><p>The Texas suit accused a <a target="_blank" class="link">Character.AI</a> model of encouraging a teen to cut his arms. It also allegedly suggested that murdering his parents was a reasonable option. After the lawsuits were filed, the startup changed its policies and <a target="_blank" class="link" href="https://www.engadget.com/ai/characterai-launches-guided-stories-format-after-banning-teens-from-its-chatbots-133000131.html" data-i13n="cpos:2;pos:1">banned users under 18</a>.</p><p><a target="_blank" class="link">Character.AI</a> is a role-playing chatbot platform that allows you to create custom characters and share them with other users. Many are based on celebrities or fictional pop culture figures. The company was founded in 2021 by two Google engineers, Noam Shazeer and Daniel de Freitas. In 2024, Google rehired the co-founders and struck a $2.7 billion deal to license the startup&#39;s technology.</p><p>On one hand, the settlements will likely compensate the victims&#39; families handsomely. On the other hand, not going to trial means key details of the cases may never be made public. It&#39;s easy to imagine other AI companies facing similar suits, including <a target="_blank" class="link" href="https://www.engadget.com/ai/lawsuit-accuses-chatgpt-of-reinforcing-delusions-that-led-to-a-womans-death-183141193.html" data-i13n="cpos:3;pos:1">OpenAI</a> and <a target="_blank" class="link" href="https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html" data-i13n="cpos:4;pos:1">Meta</a>, viewing the settlements as a welcome development.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/characterai-and-google-settle-with-families-in-teen-suicide-and-self-harm-lawsuits-201059912.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/characterai-and-google-settle-with-families-in-teen-suicide-and-self-harm-lawsuits-201059912.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">37873d48-8c75-4a29-9fa0-e297b4cb8a74</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 07 Jan 2026 20:10:59 +0000</pubDate>
+                    <ingested>1767816668</ingested>
+                    <modified>2026-01-07T20:11:11+00:00</modified>
+                                            <category>
+                            <![CDATA[Arts & Entertainment]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcharacter_ai.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=c8066c141e370e781dd854ba3828033a0da4bb7c" width="1400" height="840" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcharacter_ai.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=c8066c141e370e781dd854ba3828033a0da4bb7c" width="1400" height="840" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Character.AI / Apple]]></media:credit>
+                                <media:description><![CDATA[Apple App Store screenshots for the app Character.AI]]></media:description>
+                                <media:title><![CDATA[Character.AI]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Fujifilm's latest Instax camera looks like a vintage Super 8]]></title>
+                                        <description type="html"><![CDATA[<p>Fujifilm just revealed the <a data-i13n="cpos:1;pos:1" href="https://www.fujifilm.com/jp/en/news/hq/13230"><ins>Instax mini Evo Cinema camera</ins></a>, which looks suspiciously like a vintage Super 8. More specifically, it was designed to mimic the Single-8 from 1965, which was a rival unit to the Super 8. Fujifilm&#39;s latest device captures video, just like its retro inspiration.</p>
+<div id="2767c25049e641808341efaddafa1cc9"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow,  the new FUJIFILM Instax Mini EVO Cinema camera looks nuts.. esp the decade slider thing for the looks. If the cost isn&#39;t nuts this could be a must have... Needs to be around $249/299ish to be a hit <a href="https://t.co/6w8JPsBxIg">https://t.co/6w8JPsBxIg</a> <a href="https://t.co/plcmNhfyT7">pic.twitter.com/plcmNhfyT7</a></p>— derek morleY (@derekmorley) <a href="https://twitter.com/derekmorley/status/2008954827343384952?ref_src=twsrc%5Etfw">January 7, 2026</a></blockquote>
+ 
+
+</div>
+<p>However, this is an Instax and the line has primarily been dedicated to snapping and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/fujifilms-hybrid-instax-mini-evo-camera-has-double-the-resolution-of-past-models-091009145.html"><ins>printing out still images on the fly</ins></a>. The Evo Cinema can still do that, albeit in a slightly different way. Users shoot a video and the camera can convert a shot from the footage into an Instax print. That&#39;s pretty cool. The bad news? It requires some kind of QR code tomfoolery.</p>
+<span id="end-legacy-contents"></span><p>The camera also comes equipped with something called the Eras Dial, which has nothing to do with Taylor Swift and everything to do with adjusting various effects and filters to create footage &quot;inspired by different eras.&quot; There are ten &quot;eras&quot; to choose from, including a 1960s vibe. The filter levels here are adjustable. We&#39;ll have to take a look at some footage to see how everything translates.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/eb122c70-ebff-11f0-855f-8c914c88b12c" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/eb122c70-ebff-11f0-855f-8c914c88b12c" style="height:1012px;width:1504px;" alt="The Eras Dial." data-uuid="8b296d8e-5e81-34c4-bce0-2b0bcbdabaf5"><figcaption></figcaption><div class="photo-credit">Fujifilm</div></figure>
+<p>Fujifilm is dropping the Instax Evo Cinema on January 30, but only in Japan for now. We don&#39;t have a price yet.</p>
+<p>This is just the latest nifty camera gizmo the company has thrust upon the world. It recently released an Instax model that has a <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cameras/fujifilms-refreshed-instax-mini-liplay-has-an-extra-camera-for-selfies-164319167.html"><ins>secondary camera for selfies</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/cameras/fujifilms-latest-instax-camera-looks-like-a-vintage-super-8-194537863.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cameras/fujifilms-latest-instax-camera-looks-like-a-vintage-super-8-194537863.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">d3797006-5a9d-4353-bafd-8fe0949cf68c</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 07 Jan 2026 19:45:37 +0000</pubDate>
+                    <ingested>1767814910</ingested>
+                    <modified>2026-01-07T19:41:52+00:00</modified>
+                                            <category>
+                            <![CDATA[Celebrities]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F822b50b0-ebff-11f0-bbaf-47b30838252d&amp;resize=1400%2C927&amp;client=19f2b5e49a271b2bde77&amp;signature=ab8a054e9e79b5b84f138f3842e73d1aa03223e1" width="1400" height="927" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F822b50b0-ebff-11f0-bbaf-47b30838252d&amp;resize=1400%2C927&amp;client=19f2b5e49a271b2bde77&amp;signature=2f485bd32a2ae265a876ae39e973c27ba6636d68" width="1400" height="927" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Fujifilm]]></media:credit>
+                                <media:description><![CDATA[A guy using a camera.]]></media:description>
+                                <media:title><![CDATA[Instax Camera]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[HP's new EliteBoard made me believe in keyboard computers again]]></title>
+                                        <description type="html"><![CDATA[<p>A keyboard computer has always been on my wishlist — that is, a computer where the entire machine was stuffed into a keyboard. Perhaps I caught a glimpse of the Commodore 64 at an impressionable age, but regardless, the idea has always been intriguing to me. At <a target="_blank" class="link" href="https://www.engadget.com/ces-2026-live-updates-and-gadget-reveals-during-the-biggest-tech-event-of-the-year-153146751.html" data-i13n="cpos:1;pos:1">CES 2026</a>, HP is bringing that concept back with the new EliteBoard G1a, which is dubbed a “Next Gen AI PC.”</p><p>It&#39;s an IT administrator&#39;s dream: It looks a typical desktop keyboard, but it has the full power of a Copilot+ AI PC inside. You can equip it with Ryzen 5 or 7 CPUs and their embedded Radeon 800 GPUs, up to 64GB of RAM and as much as 2TB of NVMe SSD storage. All you need to do is add a monitor and a mouse, and you&#39;ve got a full-fledged desktop setup.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/HP_EliteBoard-1.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/HP_EliteBoard-1.jpg" style="height:1152px;width:2000px;" alt="HP EliteBoard keyboard PC." data-uuid="439d1f0c-eb33-45fe-85b1-738f81cb1276"/><figcaption>HP EliteBoard keyboard PC.</figcaption><div class="photo-credit">Devindra Hardawar for Engadget</div></figure><p>The more I think about it, the more sad I am that the arc of the computing industry trended towards standardized desktops and laptops. There was a brief spark of interest with the UMPC (ultra mobile PC) trend in the 2000&#39;s, which <a target="_blank" class="link" href="https://www.engadget.com/2006-09-29-meet-the-second-generation-of-umpcs-shoulda-been-first.html" data-i13n="cpos:2;pos:1">Engadget covered extensively as a young blog</a>, as well as <a target="_blank" class="link" href="https://www.engadget.com/2009-03-03-hands-on-with-asus-eee-keyboard.html" data-i13n="cpos:3;pos:1">ASUS&#39;s Eee keyboard</a>. But they couldn&#39;t survive the rise of the smartphone and tablet. It turns out putting an entire computer behind a screen was more compelling than stuffing them into a keyboard. </p><p>I was able to test out an early EliteBoard prototype, and while the experience wasn&#39;t perfect, it&#39;s still an intriguing computing option. I had trouble setting it up initially because it only had two USB-C ports on its rear, which meant I had to find a way to power it through one port and pass a video signal through the other.  Thankfully, my Anker USB-C charging hub was able to juice it up, and I also had a USB-C hub with an HDMI port, which allowed me to connect to my monitor.</p><p>Sadly, the overall setup was a jumble of wires, and not the clean layout I expected from a keyboard PC. Once I was able to start up Windows though, I was less annoyed and more amazed that the keyboard contained an entire computer. I suppose I shouldn&#39;t be too surprised, as <a target="_blank" class="link" href="https://www.engadget.com/2015-05-30-intel-compute-stick-review.html" data-i13n="cpos:4;pos:1">Intel&#39;s Compute Stick placed a functional PC in a much smaller case</a>, but unlike the failed product, the EliteBoard actually felt usable. I was able to load up several browser windows with tabs, edit a few photos and even play a few light games, like <em>Vampire Survivors. </em>And yes, typing on it felt pretty great too.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/HP_EliteBoard-3.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/HP_EliteBoard-3.jpg" style="height:1119px;width:2000px;" alt="HP EliteBoard keyboard PC." data-uuid="c8b26cc3-4e39-48a1-b2a2-3a7144417589"/><figcaption>HP EliteBoard keyboard PC.</figcaption><div class="photo-credit">Devindra Hardawar for Engadget</div></figure><p>Since I was testing out prototype hardware, I agreed not to benchmark the EliteBoard. But from the performance I saw, it felt about the same an entry-level laptop. Basically, it&#39;s perfectly suited to its main task: Being a boring office computer. Back in my IT days, I certainly would have preferred deploying a few light keyboards instead of the tank-like Dell desktops we typically ordered.</p><p>While the EliteBoard is targeted at commercial users, HP is considering it an experiment to see how people respond to a keyboard PC. There&#39;s a chance we could see one that&#39;s eventually meant for mainstream consumers. I&#39;m not sure if that&#39;s exactly, necessary, though. The whole concept of a desktop PC mainly appeals to tinkerers and IT folks. And for anyone who wants to get their hands on an EliteBoard soon, there&#39;s really nothing stopping you.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/hps-new-eliteboard-made-me-believe-in-keyboard-computers-again-033000022.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/computing/hps-new-eliteboard-made-me-believe-in-keyboard-computers-again-033000022.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">8a465857-65de-4340-b8bf-15ecdc4b74e1</guid>
+                                                                                        <dc:creator><![CDATA[Devindra Hardawar]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Wed, 07 Jan 2026 19:44:36 +0000</pubDate>
+                    <ingested>1767815081</ingested>
+                    <modified>2026-01-07T19:44:46+00:00</modified>
+                                            <category>
+                            <![CDATA[Computing]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Devindra Hardawar]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FHP_EliteBoard-2.jpg&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=d6f693784ff426dcbf29c8fb3f117c1a0ada16c6" width="1400" height="839" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FHP_EliteBoard-2.jpg&amp;resize=1400%2C839&amp;client=19f2b5e49a271b2bde77&amp;signature=d6f693784ff426dcbf29c8fb3f117c1a0ada16c6" width="1400" height="839" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Devindra Hardawar for Engadget]]></media:credit>
+                                <media:description><![CDATA[HP EliteBoard keyboard PC.]]></media:description>
+                                <media:title><![CDATA[HP EliteBoard keyboard PC.]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[The Shine 2.0 is a compact wind turbine for your next camping trip]]></title>
                                         <description type="html"><![CDATA[<p>As power <a target="_blank" class="link" href="https://www.engadget.com/science/in-2025-ai-and-evs-gave-the-us-an-insatiable-hunger-for-power-133000673.html" data-i13n="cpos:1;pos:1">gets more dicey</a>, personal energy generation only gets more appealing. Shine’s compact turbine isn’t going to power your house any time soon (though the company’s co-founder told me they have plans in that direction) but it can suck up the energy required to refill a smartphone in as little as 17 minutes. Of course, what it can generate depends on wind speed. That same charge could take as long as 11 hours if there’s only a slight breeze. </p>
 <p>That power curve, and its ability to operate at night, sets the turbine apart from solar panels. Of course, on a completely still day, the Shine as inert as a becalmed sailing ship but if the wind picks up even as little as a breeze, it gets to work making power. The turbine even automatically pivots on the included stand to face into the wind. </p>
@@ -2588,208 +2802,6 @@
                                 <media:credit><![CDATA[Lenovo]]></media:credit>
                                 <media:description><![CDATA[Lenovo&#39;s ThinkPad X1 Carbon Gen 14 Aura Edition.]]></media:description>
                                 <media:title><![CDATA[Lenovo Space Frame]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Lenovo reveals a SteamOS variant of the Legion Go 2 at CES]]></title>
-                                        <description type="html"><![CDATA[<p>If you saw <a target="_blank" class="link" href="https://www.engadget.com/gaming/pc/lenovo-legion-go-2-review-the-utility-pc-gaming-handheld-120000533.html" data-i13n="cpos:1;pos:1">Lenovo&#39;s Legion Go 2 launch</a> last year and thought, &quot;I&#39;ll wait for the SteamOS version,&quot; well, you&#39;ll have to wait a little longer. But at least now it&#39;s official. At <a target="_blank" class="link" href="https://www.engadget.com/big-tech/ces-2026-what-to-expect-when-techs-biggest-conference-starts-on-january-4-120000189.html" data-i13n="cpos:2;pos:1">CES 2026</a>, the company revealed the Legion Go 2, Powered by SteamOS. The Valve-friendly variant of the gaming handheld arrives in June, starting at a pricey $1,199.</p><p>There aren&#39;t any surprises here. It&#39;s the same Lenovo Legion Go 2 hardware, with SteamOS replacing the sometimes-awkward Windows. In many ways, you could view the SteamOS Legion Go 2 as a more powerful and versatile (and expensive!) <a target="_blank" class="link" href="https://www.engadget.com/steam-deck-lcd-review-2023-still-one-of-the-best-handheld-pcs-140044516.html" data-i13n="cpos:3;pos:1">Steam Deck</a>. One notable exception is the optimizations game developers often make for Valve&#39;s handheld. (Ditto for &quot;Steam Deck Verified&quot; badges on store listings to learn quickly how playable games are.)</p><p>So, all the specs from the Windows version carry over. That includes a spacious 8.8-inch OLED display at 1,920 x 1,200 and with a 144Hz VRR. You still have two tiers to choose from: Ryzen Z2 / 16GB  / 1TB or Ryzen Z2 Extreme / 32GB / 2TB. The device has a microSD slot, kickstand, detachable controllers and a 74Wh battery. At 2.2 lbs, it&#39;s a bulky affair, so you&#39;ll want to look elsewhere if a light, compact handheld is your priority.</p><p>Lenovo says the Legion Go 2, Powered by SteamOS is expected in June. It will start at $1,199 for the entry-level variant. (Lenovo hasn&#39;t yet announced pricing for the Z2 Extreme tier.) You can revisit Sam Rutherford&#39;s <a target="_blank" class="link" href="https://www.engadget.com/gaming/pc/lenovo-legion-go-2-review-the-utility-pc-gaming-handheld-120000533.html" data-i13n="cpos:4;pos:1">review of the Windows version</a> for much more on the hardware.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/lenovo-reveals-a-steamos-variant-of-the-legion-go-2-at-ces-010000852.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/pc/lenovo-reveals-a-steamos-variant-of-the-legion-go-2-at-ces-010000852.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">95a8626f-1070-4dec-8605-b9b4660aea54</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 01:00:00 +0000</pubDate>
-                    <ingested>1767747621</ingested>
-                    <modified>2026-01-07T01:00:24+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flenovo.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=09545002058489ae30f20df2872c90d5c04c6e5b" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flenovo.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=09545002058489ae30f20df2872c90d5c04c6e5b" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Lenovo]]></media:credit>
-                                <media:description><![CDATA[Product marketing image of the Lenovo Legion Go 2 with SteamOS. Gaming handheld against a red background.]]></media:description>
-                                <media:title><![CDATA[Legion Go 2 with SteamOS]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[CES 2026: The Lenovo ThinkBook Plus Gen 7 Auto Twist won't let you out of it sight]]></title>
-                                        <description type="html"><![CDATA[<p></p><p>A couple years ago Lenovo <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/lenovos-auto-twist-concept-laptop-has-a-lid-that-can-swivel-and-bow-down-at-your-command-150022971.html" data-i13n="cpos:1;pos:1">showed off a concept laptop stand</a> that used cameras and AI to follow you around. But now at CES 2026, the company has taken that idea and turned it into a full-fledged system that it’s actually going to sell.&nbsp;</p><p>Dubbed the ThinkBook Plus Gen 7 Auto Twist, instead of a laptop stand, Lenovo created a standalone notebook with the same functionality, plus a little more. The impressive thing is that despite having a built-in motor that lets its display follow you around, the laptop’s design doesn&#39;t look all that outlandish. And after playing around with it a bit, I discovered a handful of other tricks it can do.&nbsp;</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/9W2LFxh30Xo?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-provider-name="youtube"></iframe></div></div><p>Instead of using your fingers to open the lid like a luddite, all you have to do is knock a couple times and then the laptop’s display will pop up by itself. From there, you’re greeted with a surprisingly good-looking 14-inch 2.8K OLED display and a traditional keyboard that won’t upset longtime ThinkBook or ThinkPad aficionados. You also get solid specs including support for Intel’s new Core Ultra Series 3 processors, up to 32GB of RAM, 2TB of storage and a decently large 75Whr battery. The laptop also sports a strong selection of ports including two USB-C with Thunderbolt 4, two USB-A 3.2 Gen 2, a full-size HDMI jack and Wi-Fi 7. And all of this comes in a chassis that weighs 3.1 pounds, which is very reasonable for a 14-inch machine.&nbsp;</p><p>As for its auto-twisting abilities, the main use case is during presentation and video calls, where the laptop can use its motor, 10-MP webcam and AI to track your face as you move around so you stay neatly in frame. Compared to the concept I saw before, the laptop pivots and rotates its display more smoothly (though it’s still a bit jerky) and if you want, you can even make it dance to music. Alternatively, the laptop can analyze your posture to position its screen in the optimal position to prevent slouching or automatically transform between laptop, tablet and presentation modes. While this is a really minor inclusion, my favorite thing about the Auto Twist is that when you turn the system off, the laptop will automatically close its own lid, as if it was tucking itself into bed.&nbsp;</p><core-slideshow data-slideshowid="6aa8e884-d5ee-41d7-bfc3-315af0af150f"/><p>The other goal of this laptop is that Lenovo is touting it as a vertical AI solution for small businesses. Naturally this means that the system supports Microsoft’s Copilot+ features, though we also saw a demo of Lenovo’s own AI companion. Not only can you talk to it, ask it questions or use it to translate other languages like a regular digital assistant, the company created a friendly face that reacts to your queries and comments.&nbsp;</p><p>The one odd inclusion, which probably won’t make it to retail units, was an AI feature designed to help you understand hidden meanings or subtext in other languages. However, in my experience (as seen in the video above), this turned into a weird excuse to get negged by AI or at the very least make yourself more paranoid about what your friends or coworkers are saying about you.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/auto-twist-lid-twisted.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/auto-twist-lid-twisted.jpg" style="height:2000px;width:3333px;" alt="My favorite thing about the Auto Twist is that if you shut it down, it will automatically close its own lid. " data-uuid="f8008873-f8d9-4e60-8d24-c1a84ce0f99f"><figcaption>My favorite thing about the Auto Twist is that if you shut it down, it will automatically close its own lid. </figcaption><div class="photo-credit">Sam Rutherford for Engadget</div></figure><p>In the end, I’m still not sure I need a laptop with a display and a camera that can follow me around during video calls. But if you have happy feet during work meetings or like to express yourself through movement, the ThinkBook Plus Gen 7 Auto Twist might be the business notebook you need. Plus, considering it features relatively novel tech, its starting price of $1,649 is surprisingly approachable. You’ll just have to wait until it goes on sale sometime in June.<br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/ces-2026-the-lenovo-thinkbook-plus-gen-7-auto-twist-wont-let-you-out-of-it-sight-010000913.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/laptops/ces-2026-the-lenovo-thinkbook-plus-gen-7-auto-twist-wont-let-you-out-of-it-sight-010000913.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">69534102-2569-4e3e-84b0-164c87efbd97</guid>
-                                                                                        <dc:creator><![CDATA[Sam Rutherford]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 01:00:00 +0000</pubDate>
-                    <ingested>1767747782</ingested>
-                    <modified>2026-01-07T01:03:06+00:00</modified>
-                                            <category>
-                            <![CDATA[Computing]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Sam Rutherford]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAuto-twist-lead.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=5dd4b94a43a3395da418cb68991c180c8231c4cb" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAuto-twist-lead.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=5dd4b94a43a3395da418cb68991c180c8231c4cb" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Sam Rutherford for Engadget]]></media:credit>
-                                <media:description><![CDATA[AT CES 2026, Lenovo introduced a new laptop called that ThinkBook Plus Gen 7 Auto Twist featuring a camera and a motorized display that can follow you as you move around.]]></media:description>
-                                <media:title><![CDATA[Lenovo ThinkBook Gen 7 Auto Twist laptop]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Motorola expands its Moto Things lineup with a new Bluetooth tracker, stylus and smartwatch]]></title>
-                                        <description type="html"><![CDATA[<p>After kicking off its Moto Things accessory line with <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/the-moto-buds-loop-are-open-ear-earbuds-you-wear-like-jewelry-160056857.html" data-i13n="cpos:1;pos:1">wireless earbuds</a>, a <a target="_blank" class="link" href="https://www.engadget.com/motorola-is-the-latest-to-offer-a-bluetooth-tracker-with-the-moto-tag-220022175.html" data-i13n="cpos:2;pos:1">Bluetooth tracker</a> and <a target="_blank" class="link" href="https://www.engadget.com/wearables/motorola-introduces-the-no-frills-moto-watch-fit-160030585.html" data-i13n="cpos:3;pos:1">a cheap smartwatch</a> in 2024, Motorola is doubling down. At CES 2026, the company is announcing a sequel to its tracker, the Moto Tag 2, a stylus for its new folding phone, the Moto Pen Ultra and a more premium smartwatch called the Moto Watch.</p><p>The Moto Watch has a 47mm round face with a stainless steel crown and an aluminum frame. The smartwatch comes with a PANTONE &quot;Volcanic Ash&quot; silicone band, but is designed to support third-party 22mm bands, too, which greatly expands its customization options. Motorola says the watch can get up to 13 days of battery life normally or seven days with its always-on display enabled, and also features a built-in speaker and microphone for hands-free controls and audio notifications. The Moto Watch is meant to be fairly durable, as well, with Gorilla Glass 3 front glass and IP68 water and dust resistance.</p><p>The actual fitness features of the watch are powered by Motorola&#39;s new partner Polar, a company with its own line of fitness trackers and smartwatches. The Moto Watch lets users log their calorie consumption throughout the day, track their workouts and activity levels (with a daily Activity Goal and Activity Score) and monitor their sleep. The watch also has built-in dual-frequency GPS for tracking runs, bike rides and hikes.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Motorola-Moto-Pen-Ultra.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Motorola-Moto-Pen-Ultra.jpg" style="height:1440px;width:2560px;" alt="A hand holding a Moto Pen Ultra writing on a Razr Fold." data-uuid="6ca15c61-76c8-4b0c-b2a4-db8c356cae1c"/><figcaption>A hand holding a Moto Pen Ultra writing on a Razr Fold.</figcaption><div class="photo-credit">Motorola</div></figure><p>While Samsung dropped S Pen stylus support on its latest version of the <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/samsung-galaxy-z-fold-7-review-foldable-phone-nirvana-for-a-price-123004636.html" data-i13n="cpos:4;pos:1">Galaxy Z Fold 7</a> (one of many ways the company got the foldable so thin), Motorola is embracing styluses on its new Razr Fold. The Moto Pen Ultra comes with a charging case and supports things like palm rejection and tilt sensitivity for more accurate strokes. The Moto Pen Ultra can also be used with <a target="_blank" class="link" href="https://www.engadget.com/mobile/circle-to-search-now-offers-one-tap-actions-for-phone-numbers-emails-and-urls-180005330.html" data-i13n="cpos:5;pos:1">Google&#39;s Circle to Search</a> and new AI-powered software features like &quot;Sketch to Image,&quot; which converts hand-drawn sketches into detailed images.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Moto-Tag-2-bike.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Moto-Tag-2-bike.jpg" style="height:1440px;width:2560px;" alt="A bike seat with a Moto Tag 2 attached to it." data-uuid="376a5a42-4feb-42c9-8999-cbb2de5c257d"/><figcaption>A bike seat with a Moto Tag 2 attached to it.</figcaption><div class="photo-credit">Motorola</div></figure><p>The Moto Tag 2 builds on the original Moto Tag with a longer battery life and better durability. The Moto Tag 2 is IP68-rated and now gets over 500 days of battery life in comparison to the original Tag&#39;s year-long battery. As before, the Bluetooth tracker connects to <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/google-is-improving-scam-detection-and-its-find-feature-on-android-170037324.html" data-i13n="cpos:6;pos:1">Google&#39;s Find Hub</a> network and Motorola says the tracker&#39;s ultra-wideband (UWB) antenna and support for Bluetooth Channel Sounding can help users determine the exact distance they are from their tracked object. You can also press the button on the Moto Tag 2 to ring your phone if it&#39;s missing, or customize the Tag to act as a camera shutter button.</p><p>Motorola hasn&#39;t shared pricing details for any of its new Moto Things accessories, though it has provided a release date for at least one. The Moto Watch will be available on January 22 from the company&#39;s website. The Moto Tag 2 and Moto Pen Ultra, meanwhile, will both be available in North America &quot;in the coming months.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/motorola-expands-its-moto-things-lineup-with-a-new-bluetooth-tracker-stylus-and-smartwatch-010000669.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/mobile/smartphones/motorola-expands-its-moto-things-lineup-with-a-new-bluetooth-tracker-stylus-and-smartwatch-010000669.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ebd83f19-6706-460e-9c60-e13d8a1eb3b3</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 01:00:00 +0000</pubDate>
-                    <ingested>1767747641</ingested>
-                    <modified>2026-01-07T01:00:51+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMotorola-Moto-Watch.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=187c35204fd58e65724bb9a00e891eff88064fcc" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMotorola-Moto-Watch.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=187c35204fd58e65724bb9a00e891eff88064fcc" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Motorola]]></media:credit>
-                                <media:description><![CDATA[A person looking at a Moto Watch on their wrist.]]></media:description>
-                                <media:title><![CDATA[Motorola-Moto-Watch]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Lenovo and Motorola are releasing their own on-device AI assistant]]></title>
-                                        <description type="html"><![CDATA[<p>If the world didn&#39;t already have one too many digital assistants, Lenovo is adding another one to the pile. On Tuesday evening, the company announced Qira, a cross-device AI for both its own computers and Motorola smartphones. Set to arrive later this quarter, it will live at the system level of Lenovo devices. Users won&#39;t need to open or switch to the assistant. Instead, &quot;it&#39;s always present,&quot; says Lenovo.&nbsp;&nbsp;&nbsp;</p><p>Of course, you can ignore Qira, and it will stay quiet if you don&#39;t need the software to do anything for you. Occasionally, Lenovo says Qira will surface proactive suggestions, and for frequent users, the company promises a machine learning system that will develop a &quot;living model&quot; of your world, &quot;understanding context, continuity and personal patterns of over time.&quot; In practice, that means Qira can write emails for you, transcribe and translate meetings and provide summaries of things you might have missed. You know, all the usual stuff every company is <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/nothing-phone-3a-essential-spaces-ai-powered-app-done-right-163042976.html" data-i13n="cpos:1;pos:1">offering with their on-device assistants</a>.&nbsp;&nbsp;</p><p>From a privacy standpoint, Lenovo says Qira employs a hybrid architecture that &quot;prioritizes&quot; on-device processing, and won&#39;t collect customer data without the user&#39;s permission.&nbsp;&quot;Every aspect of the Lenovo Qira experience is designed to be secure, ethical, and accountable.&quot; I asked Lenovo how Qira would interact with Copilot and Gemini on the company&#39;s PCs and Motorola smartphones, and if the new assistant would add to the processing load on those devices, but the company has yet to respond to my email. I&#39;ll update this article when I hear back.&nbsp;</p><p>On paper, creating a dedicated AI assistant for the company&#39;s devices is something I&#39;m sure Lenovo executives agreed was a good idea, but when many people aren&#39;t even using Copilot, it feels like a misread of what Lenovo users want. In April, <a target="_blank" class="link" href="https://www.newcomer.co/p/microsofts-big-ai-hire-cant-match" data-i13n="cpos:2;pos:1">reporting from <em>Newcomer</em></a><em> </em>suggested Copilot had flatlined at around <a target="_blank" class="link" href="https://www.engadget.com/ai/it-seems-like-most-windows-users-dont-care-for-copilot-195500516.html" data-i13n="cpos:3;pos:1">20 million weekly users</a> in 2024. By contrast, over that same period, ChatGPT had grown to 400 million weekly users, and as of late 2025, there are <a target="_blank" class="link" href="https://openai.com/index/the-state-of-enterprise-ai-2025-report/" data-i13n="cpos:4;pos:1">800 million people</a> using OpenAI&#39;s chatbot every week.&nbsp; </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/lenovo-and-motorola-are-releasing-their-own-on-device-ai-assistant-010000696.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/lenovo-and-motorola-are-releasing-their-own-on-device-ai-assistant-010000696.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">18960e9d-8982-4aef-82bb-83aeba452a12</guid>
-                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 01:00:00 +0000</pubDate>
-                    <ingested>1767747650</ingested>
-                    <modified>2026-01-07T01:00:53+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Igor Bonifacic]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FCross_device_Wide.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5a174ca7d12f72db79f7c6f496f4fc86661e8f0e" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FCross_device_Wide.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5a174ca7d12f72db79f7c6f496f4fc86661e8f0e" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Lenovo]]></media:credit>
-                                <media:description><![CDATA[Qira, Lenovo&#39;s new AI assistant, running on a PC, tablet and Motorola smartphone.]]></media:description>
-                                <media:title><![CDATA[Qira]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
