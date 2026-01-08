@@ -6,9 +6,294 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Thu, 08 Jan 2026 17:19:00 +0000</pubDate>
+            <pubDate>Thu, 08 Jan 2026 18:10:22 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Microsoft is now integrating shopping directly into Copilot]]></title>
+                                        <description type="html"><![CDATA[<p>Have you ever wanted to save approximately three seconds and two mouse clicks when shopping online? Microsoft has something special just for you. The company just introduced something called <a data-i13n="cpos:1;pos:1" href="https://about.ads.microsoft.com/en/blog/post/january-2026/conversations-that-convert-copilot-checkout-and-brand-agents"><ins>Copilot Checkout</ins></a> at the NRF 2026 retail conference. This is exactly what it sounds like. It&#39;s a shopping assistant embedded within Copilot.</p>
+<p>The feature is rolling out now in the US and <a data-i13n="cpos:2;pos:1" href="https://newsroom.paypal-corp.com/2026-01-08-PayPal-Powers-Microsofts-Launch-of-Copilot-Checkout"><ins>integrates with PayPal</ins></a>, Shopify, Stripe and Etsy. It lets people complete purchases directly inside of Copilot without having to withstand the grueling experience of being redirected to a retailer&#39;s website. Participating partners include Urban Outfitters, Anthropologie and Ashley Furniture.</p>
+<span id="end-legacy-contents"></span><div id="a19640bde54b492dae8db428c6d67b15"><iframe width="560" height="315" src="https://www.youtube.com/embed/6X6WOP7_U4Q?si=SJpCIoxT7YGR2gYh" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>The retailers remain the actual merchant of record, so they&#39;ll still get customer data and all of that jazz. Microsoft controls the interface.</p>
+<p>We don&#39;t know what kind of safeguards are in place to prevent the AI from hallucinating its way into buying you a giant bounce house when you wanted to order some Bounce dryer sheets. Engadget has reached out to Microsoft to inquire about these safeguards and how exactly the money is handled.</p>
+<p>This is a pretty big moment for AI shopping. OpenAI <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/chatgpt-now-offers-a-dedicated-shopping-assistant-180000034.html"><ins>introduced a shopping assistant</ins></a> several months ago that <a data-i13n="cpos:4;pos:1" href="https://openai.com/index/buy-it-in-chatgpt/"><ins>seems to work in a similar way</ins></a>. However, the company <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/chatgpt-now-offers-a-dedicated-shopping-assistant-180000034.html"><ins>said that</ins></a> a related shopping assistant &quot;might make mistakes about product details like price and availability&quot; and it encouraged people to visit the merchant site for the most accurate details.</p>
+<div id="e17fbb68a5bd47069f66852887879ec2"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exclusive: OpenAI’s push to turn ChatGPT into a personal shopping assistant is running into a familiar problem: messy product data.<br><br>Read more from <a href="https://twitter.com/anngehan?ref_src=twsrc%5Etfw">@AnnGehan</a> 👇 <a href="https://t.co/atPdY1ruEa">https://t.co/atPdY1ruEa</a></p>— The Information (@theinformation) <a href="https://twitter.com/theinformation/status/2009272415730159641?ref_src=twsrc%5Etfw">January 8, 2026</a></blockquote>
+ 
+
+</div>
+<p>Microsoft is advertising Copilot Checkout as a way to avoid the merchant site entirely, so maybe all kinks have been worked out. A recent report <a data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:6;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=347d04fc-65ea-4c2c-a312-96af854517ea&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=from+The+Information&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvb3BlbmFpcy1zaG9wcGluZy1hbWJpdGlvbnMtaGl0LW1lc3N5LWRhdGEtcmVhbGl0eSIsImNvbnRlbnRVdWlkIjoiMzQ3ZDA0ZmMtNjVlYS00YzJjLWEzMTItOTZhZjg1NDUxN2VhIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvb3BlbmFpcy1zaG9wcGluZy1hbWJpdGlvbnMtaGl0LW1lc3N5LWRhdGEtcmVhbGl0eSJ9&amp;signature=AQAAAQMyoGLdrXio7IP31FspkvUNmq1KVtgjVQGdR76SxtvT&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fopenais-shopping-ambitions-hit-messy-data-reality" class="rapid-with-clickid" data-original-link="https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality"><ins>from </ins><em><ins>The Information</ins></em></a> suggests OpenAI has had trouble integrating merchant partners for its own initiative, so maybe not.&nbsp;</p>
+<p>It&#39;s also worth noting that automatic shopping isn&#39;t exactly a new concept. It&#39;s just the AI wrapper that&#39;s new. Remember those <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/2015-11-15-amazon-dash.html"><ins>weird buttons from Amazon</ins></a> that would complete a purchase with a simple press? That was over ten years ago.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/microsoft-is-now-integrating-shopping-directly-into-copilot-181022989.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/microsoft-is-now-integrating-shopping-directly-into-copilot-181022989.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">347d04fc-65ea-4c2c-a312-96af854517ea</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 08 Jan 2026 18:10:23 +0000</pubDate>
+                    <ingested>1767895832</ingested>
+                    <modified>2026-01-08T18:10:35+00:00</modified>
+                                            <category>
+                            <![CDATA[Shopping]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Hobbies & Personal Activities]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F20582d80-ecb9-11f0-adfe-a0d0cb903c88&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=fd2ba680cf1b942a9c40ab3e3b21e61b6d16cc90" width="1400" height="789" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F20582d80-ecb9-11f0-adfe-a0d0cb903c88&amp;resize=1400%2C789&amp;client=19f2b5e49a271b2bde77&amp;signature=574007b089b78a572293ae5aba2d37d056d312dd" width="1400" height="789" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Microsoft ]]></media:credit>
+                                <media:description><![CDATA[An ad.]]></media:description>
+                                <media:title><![CDATA[Copilot Checkout]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[I can't get over this goofy, long-necked 'cyber pet' robot at CES]]></title>
+                                        <description type="html"><![CDATA[<p>Cute, alien-inspired companion <a target="_blank" class="link" href="https://www.engadget.com/home/smart-home/the-robots-we-saw-at-ces-2025-the-good-the-bad-and-the-completely-unhinged-174529774.html" data-i13n="cpos:1;pos:1">robots are a fixture at CES</a>, but have I ever seen one with a furry telescoping neck that&#39;s also warm to the touch? No, I can&#39;t say I have before this year. OlloBot — which had possibly the cutest booth at CES 2026 — is a home robot and &quot;cyber pet&quot; that looks something like if you put ET&#39;s head on a penguin&#39;s body, plus a splash of fur and color.&nbsp;</p><p>Its face is essentially a large tablet that displays its expressions, pictures and videos, and allows it to communicate with people in the home. OlloBot speaks its own language, but will put text on the screen when it has a message that&#39;s meant to actually be understood. There&#39;s also a companion app where family members can message with the robot, see its diary updates and play games. Like other family-oriented robots, OlloBot is designed to capture special moments and &quot;grow&quot; with the people using it. </p><div><div><div id="c2df2a6ac9934af1b0d17dcdce6bc7fd"><iframe width="720" height="1280" src="https://iframely.publishing.yahoo.net/NuaS1RUL?app=1" data-oembed-type="iframely" data-provider-name="tiktok" allowfullscreen="true" frameborder="0" scrolling="no"></iframe></div></div></div><p>Based on the interactions, it will over time develop a personality based on the Meyers-Briggs personality types. The robot responds to voice and touch, and can do tasks like make calls and help find lost objects. It will be able to control Matter-compatible smart home devices, too.&nbsp;All data is stored locally in a heart-shaped removable module underneath one of its flapping arms. Not only is that intended to be a privacy move, but if the robot ever breaks, the family&#39;s cyber pet (along with its &quot;memories&quot;) can be restored by putting the old heart into a new body.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/heart.JPG" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/heart.JPG" style="height:3648px;width:5472px;" alt="A hand is seen lifting OlloBot&#39;s arm to reveal a red heart underneath, which serves as a removable module that contains its data" data-uuid="2d9974d9-8466-4c00-8260-e2d33cd1c7ae"><figcaption>OlloBot&#39;s heart</figcaption><div class="photo-credit">Cheyenne MacDonald for Engadget</div></figure><p>According to a member of the OlloBot team, a Kickstarter campaign to fund the robot&#39;s production is planned for this summer. There will be two versions of OlloBot to choose from: a small one with a fixed, short neck that will cost around $1,000 and a more advanced model that can extend its neck by two feet or so (just eyeballing it) to see from different vantage points, which will run you about $2,000. At the booth, the team also showed off several outfits for OlloBot, including a plush giraffe suit and a sort of cottagecore apple and gingham outfit.</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/home/smart-home/i-cant-get-over-this-goofy-long-necked-cyber-pet-robot-at-ces-175900062.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/home/smart-home/i-cant-get-over-this-goofy-long-necked-cyber-pet-robot-at-ces-175900062.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">c3bdc006-082b-4b15-a394-ebbe6c314326</guid>
+                                                                                        <dc:creator><![CDATA[Cheyenne MacDonald]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 08 Jan 2026 17:59:00 +0000</pubDate>
+                    <ingested>1767895672</ingested>
+                    <modified>2026-01-08T18:07:55+00:00</modified>
+                                            <category>
+                            <![CDATA[Robots]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Hobbies & Personal Activities]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Cheyenne MacDonald]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Folloheader.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8497b3076ee677b01ade159a0ba85d74ae53a53f" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Folloheader.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8497b3076ee677b01ade159a0ba85d74ae53a53f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[Two OlloBots — one with a long furry purple neck, making it about two feet taller than the other — are pictured on a light purple floor, in front of a screen displaying a closeup of a child playing with blocks.]]></media:description>
+                                <media:title><![CDATA[OlloBot]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[You can get a four-pack of Samsung SmartTag 2 trackers for just $45]]></title>
+                                        <description type="html"><![CDATA[<p>Samsung SmartTag 2 trackers are back on sale if you&#39;re willing to pick up a bundle. Woot has a four-pack <a data-i13n="elm:affiliate_link;sellerN:Woot;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=8bcb408b-26bf-4ed1-b788-e3719aeef347&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1748a861-e4e0-43a0-a739-cd7f741446f0&amp;featureId=text-link&amp;merchantName=Woot&amp;linkText=down+to+just+%2445&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2VsZWN0cm9uaWNzLndvb3QuY29tL29mZmVycy80LXBhY2stc2Ftc3VuZy1zbWFydHRhZzItYmx1ZXRvb3RoLXRyYWNrZXJzLWdwcy1sb2NhdG9ycy0yNj8iLCJjb250ZW50VXVpZCI6IjE3NDhhODYxLWU0ZTAtNDNhMC1hNzM5LWNkN2Y3NDE0NDZmMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly9lbGVjdHJvbmljcy53b290LmNvbS9vZmZlcnMvNC1wYWNrLXNhbXN1bmctc21hcnR0YWcyLWJsdWV0b290aC10cmFja2Vycy1ncHMtbG9jYXRvcnMtMjY_In0&amp;signature=AQAAAeNHNH7ZsuKymUzcNr7MnNLI-tdb88KPtiusRo_rLV7M&amp;gcReferrer=https%3A%2F%2Felectronics.woot.com%2Foffers%2F4-pack-samsung-smarttag2-bluetooth-trackers-gps-locators-26%3F" class="rapid-with-clickid" data-original-link="https://electronics.woot.com/offers/4-pack-samsung-smarttag2-bluetooth-trackers-gps-locators-26?"><ins>down to just $45</ins></a>, which undercuts the previous all-time low we’ve seen on Amazon ($55) by $10. That&#39;s a discount of 55 percent from the retail price of $100. It&#39;s a compelling opportunity to stock up if you&#39;re already in Samsung&#39;s ecosystem.</p> 
+<p>
+ <core-commerce id="c7ed52e51d9c4d72aaa140daac1fd930" data-type="product-list" data-original-url="https://electronics.woot.com/offers/4-pack-samsung-smarttag2-bluetooth-trackers-gps-locators-26?"></core-commerce></p> 
+<p>We named the SmartTag 2 the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-bluetooth-tracker-140028377.html"><ins>best Bluetooth tracker</ins></a> for Samsung devices. The companion SmartThings Find app is easy to use, showing locations on a Google Maps-based interface. Much like Apple&#39;s Find My network, the location of a SmartTag is pinpointed using nearby Samsung phones. While nothing can beat the sheer size of Apple&#39;s tracking infrastructure given the number of iPhones in the US, it still worked well in our tests.</p> <span id="end-legacy-contents"></span>
+<p>The SmartTag 2&#39;s design is more practical than some competitors since the oblong fob has a built-in hole that lets you easily attach your keys without buying an extra accessory. It’s IP67 rated for water and dust resistance, and uses a replaceable battery that Samsung says offers about 16 months of juice. The volume on the tag is pretty loud and users can select from multiple ringtones. Additionally, a double-squeeze of the SmartTag 2 will ping your handset, something you can&#39;t do with an AirTag.</p> 
+<p>The tracking is not quite as precise as Apple&#39;s AirTag, but it&#39;s a solid option for Samsung users looking to keep track of their things and can be scooped up at a bargain price.</p> 
+<p><em>Follow </em><a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/you-can-get-a-four-pack-of-samsung-smarttag-2-trackers-for-just-45-173936230.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/you-can-get-a-four-pack-of-samsung-smarttag-2-trackers-for-just-45-173936230.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">1748a861-e4e0-43a0-a739-cd7f741446f0</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 08 Jan 2026 17:39:36 +0000</pubDate>
+                    <ingested>1767893226</ingested>
+                    <modified>2026-01-08T17:27:09+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-08%2F00e2ae30-64a2-11ef-a7bd-bc12fb7e1baa&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=22a233a41ff67e18b200aed6bd01762f3cf1da0f" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-08%2F00e2ae30-64a2-11ef-a7bd-bc12fb7e1baa&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ebbf96b7dcd8f81c02dcb865dee0bec3c7e0ccfe" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Samsung]]></media:credit>
+                                <media:description><![CDATA[Four Samsung SmartTag 2 item trackers, attached to (tiny versions of) luggage, a key, a car and a bike.]]></media:description>
+                                <media:title><![CDATA[Samsung SmartTag 2]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[The GE Profile Smart Fridge stops you from buying too much kale]]></title>
+                                        <description type="html"><![CDATA[<p>If you’ve ever bought a bag of spinach only to come home and realize you already had a bag of spinach, you may appreciate this fridge. I had a chance to check out the <a target="_blank" class="link" href="https://www.engadget.com/home/kitchen-tech/ge-appliances-new-smart-refrigerator-automates-grocery-shopping-with-a-barcode-scanner-and-instacart-194326073.html" data-i13n="cpos:1;pos:1">GE Profile Smart Fridge</a> with Kitchen Assistant <a target="_blank" class="link" href="https://www.engadget.com/ces-2026-live-updates-on-lego-samsung-nvidia-dell-and-more-153146039.html" data-i13n="cpos:2;pos:1">at CES</a> and was surprised to find I kinda wanted one. To be perfectly honest, most attempts I’ve seen at the show to “stick some AI in it” are at best amusing but usually completely unnecessary. </p>
+<p>Here, though, the AI has a purpose. After seeing how the autofill water dispenser worked, I asked the GE Appliance reps how easy it was to change the fridge’s water filter. Jason May, a GE Appliances product management executive, walked up to the fridge’s (appropriately sized) touchscreen and said “Hey HQ, where’s my water filter?” (HQ is short for SmartHQ, GE Profile’s assistant). Then, relying on information it had gathered from this model’s user manual, the AI assistant explained exactly where to find it (in the left hand door below the ice maker). It took another rep about two seconds to pop out the filter and, justlikethat, the task was on its way to done. </p>
+<p>As for the spinach conundrum, that’s handled by a crisper drawer camera, called Fridge Focus. Each time you open the drawers, a built-in camera (that you can physically shutter or turn off in the app) takes a video snapshot of what’s left when you’re done. So if you’re at the store and wondering how much kale you already have, you can take a peek and see. </p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_fridge_focus.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_fridge_focus.jpg" style="height:1491px;width:2650px;" alt="Checking out what&#39;s in the crisper drawer using the Fridge Focus feature. " data-uuid="59eda955-31e9-4ddf-ad2e-5e666b218cc4">
+ <figcaption>
+  Checking out what&#39;s in the crisper drawer using the Fridge Focus feature. 
+ </figcaption>
+ <div class="photo-credit">
+  Sam Rutherford for Engadget
+ </div>
+</figure>
+<p>Wendy Treinen, GE Appliances’ senior director of product communications, told me the camera can see what’s in the crisper drawer, but can’t see who accessed it. So if you’re hoping your fridge will rat out whoever at the last of the grapes, you’re out of luck. It can however, help that grape-eater easily add more fruit to the family shopping list. </p>
+<p>That’s the most unique feature the fridge offers: a patented, built-in barcode scanner. It lives in the water dispenser and when you walk up, a little green light activates and scans the barcode of whatever you hold up to it. So if you’re drinking the last of the almond milk, you scan the container and it’ll automatically add it to your list. </p>
+<p>That list can be accessed through the SmartHQ app which you can either check off at the grocery store or, if you really want to get deluxe about it, use the Instacart integration and have it delivered to your door. I scanned a few products — a box of vitamin C mix and a package of cinnamon raisin bagels — both of which quickly popped up on the screen and joined the running list. </p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_INstacart_.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_INstacart_.jpg" style="height:1491px;width:2650px;" alt="Adding grocery items to Instacart with one button. " data-uuid="410a60c4-b257-480b-875f-cebda8567110">
+ <figcaption>
+  Adding grocery items to Instacart with one button. 
+ </figcaption>
+ <div class="photo-credit">
+  Sam Rutherford for Engadget
+ </div>
+</figure>
+<p>The scanner can recognize four million products, including household items like paper towels and trash bags, but you can add things a other ways too. The easiest is probably just asking your fridge to do so, saying “Hey HQ, add paper towels to my shopping list.” The app allows manual additions and you can add items using the recipe function as well. </p>
+<p>For the launch of the fridge, GE Profile has partnered with Taste of Home and will send 50 recipes each month to the fridge for users to try. Once you see the ingredients list, you can add anything you’re missing to your shopping. Those 50 recipes will cycle out at the end of the month to make way for a new 50, so if you cook something and like it, you’ll need to to add it to your personal recipe vault. </p>
+<p>The AI assistant can also create recipes for you. The GE rep snapped a picture of an array of produce and asked SmartHQ what he could make with it. A list of recipe suggestions popped up and they all looked quite tasty (to be fair, I hadn’t eaten yet and it was already 2PM). </p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_ai_recipe.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_ai_recipe.jpg" style="height:1491px;width:2650px;" alt="The recipe created from a picture of produce. Sam Rutherford for Engadget" data-uuid="01c37257-b14a-4e17-8677-2c573e2f79f4">
+ <figcaption>
+  The recipe created from a picture of produce. Sam Rutherford for Engadget
+ </figcaption>
+ <div class="photo-credit"></div>
+</figure>
+<p>I mentioned the water dispenser’s hands-free auto-fill feature earlier. That’s been available on GE Profile fridges for a while and lets you select your glass capacity and walk away while it fills. You can also ask for, say, a half cup of water for a recipe. A new “precise fill” feature will dispense larger amounts in sequence. Say you need ten cups of water for soup. Since you can’t fit a huge vat in the water dispenser tray, you can instead use a smaller jug and the auto-filler will fill it the correct amount of times. </p>
+<p>Another of my favorite bits is the screen. Fridges with giant, interactive screens make my eyes roll. Yes, it’s novel and eye-catching and perhaps amusing, but what possible problem is it trying to solve? The screen here is eight inches, which is enough to display scanned items, show recipes, and display the weather atop a pretty image when you’re not actively using the interface. </p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_dislplay.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_dislplay.jpg" style="height:1491px;width:2650px;" alt="Finally! A reasonably sized fridge screen." data-uuid="9266a61d-e880-4a34-9867-ab6d1a84c373">
+ <figcaption>
+  Finally! A reasonably sized fridge screen.
+ </figcaption>
+ <div class="photo-credit">
+  Sam Rutherford for Engadget
+ </div>
+</figure>
+<p>The GE Appliances reps were eager to point out that this is just the beginning of what they want to do with the fridge. My college Sam Rutherford asked whether the fridge would be able to alert you before your lettuce went bad, and we were told something that addresses that problem is on the horizon. It would likely work by recognizing when you purchased a perishable, and how long that perishable typically lasts. The company is also working with a chef on a feature that can reimagine your leftovers to create something new. </p>
+<p>During the demo, May told me that the whole idea around the fridge’s design was to do something other than just “put a big screen on it with a bunch of apps that don’t have ay relevance to anything.” Instead the engineers started with problems people actually have — knowing what to buy at the store, knowing what’s already in the fridge, answering the eternal, unrelenting “What’s for dinner?” question — and designed the fridge around that. </p>
+<p>I’d have to live with it a while to know whether those problems were solved, but so far, I can say this is the most intrigued I’ve felt about a smart fridge yet. The GE Profile Smart Fridge with Kitchen Assistant will be available in March from <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c6efa3bd-7e88-4c77-b015-37f6878ef85a&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=db978eac-7f71-4bf4-9e8d-cb69745a0108&amp;featureId=text-link&amp;merchantName=GE+Appliances+Parts&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwOi8vZ2VhcHBsaWFuY2VzLmNvbSIsImNvbnRlbnRVdWlkIjoiZGI5NzhlYWMtN2Y3MS00YmY0LTllOGQtY2I2OTc0NWEwMTA4Iiwib3JpZ2luYWxVcmwiOiJodHRwOi8vZ2VhcHBsaWFuY2VzLmNvbSJ9&amp;signature=AQAAAdjJY6bOEIM3Gw6Ubf_kBIdI7nVXdvWOepIIl5rMjB82&amp;gcReferrer=http%3A%2F%2Fgeappliances.com" data-i13n="elm:affiliate_link;sellerN:GE Appliances Parts;elmt:;cpos:3;pos:1" data-original-link="http://geappliances.com"></a><a target="_blank" class="link">geappliances.com</a> for $4,899. </p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_open.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/GE_Profile_Smart_Fridge_open.jpg" style="height:1491px;width:2650px;" alt="A good amount of organization. " data-uuid="6f79aa14-55ee-428d-bcae-2868fa676b5b">
+ <figcaption>
+  A good amount of organization. 
+ </figcaption>
+ <div class="photo-credit">
+  Sam Rutherford for Engadget
+ </div>
+</figure>
+<p>
+ <core-commerce data-type="product-list" id="4f0d22f8-df7c-472e-9f17-d1bbb3da5b85" data-original-url="https://www.geappliances.com/ge-appliances/kitchen/refrigerators/french-door-refrigerators/"></core-commerce></p>
+<p></p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/home/kitchen-tech/the-ge-profile-smart-fridge-stops-you-from-buying-too-much-kale-172433059.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/home/kitchen-tech/the-ge-profile-smart-fridge-stops-you-from-buying-too-much-kale-172433059.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">db978eac-7f71-4bf4-9e8d-cb69745a0108</guid>
+                                                                                        <dc:creator><![CDATA[Amy Skorheim]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 08 Jan 2026 17:24:33 +0000</pubDate>
+                    <ingested>1767895113</ingested>
+                    <modified>2026-01-08T17:58:38+00:00</modified>
+                                            <category>
+                            <![CDATA[Food & Cooking]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Amy Skorheim]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FGE_Profile_Smart_Fridge_with_Kitchen_Assistant_1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=24c017976b9715076f11201d700b3b5a392b4f8f" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FGE_Profile_Smart_Fridge_with_Kitchen_Assistant_1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=24c017976b9715076f11201d700b3b5a392b4f8f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Sam Rutherford for Engadget]]></media:credit>
+                                <media:description><![CDATA[GE Profile Smart Fridge on display at CES]]></media:description>
+                                <media:title><![CDATA[GE Profile Smart Fridge with Kitchen Assistant]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[NASA delays spacewalk due to a 'medical concern' with a crew member]]></title>
                                         <description type="html"><![CDATA[<p>NASA has <a target="_blank" class="link" href="https://www.nasa.gov/blogs/spacestation/2026/01/07/nasa-postpones-jan-8-spacewalk/" data-i13n="cpos:1;pos:1">postponed</a> an International Space Station (ISS) spacewalk that was scheduled for Thursday. &quot;The agency is monitoring a medical concern with a crew member that arose Wednesday afternoon aboard the orbital complex,&quot; the agency wrote. On Thursday, NASA <a target="_blank" class="link" href="https://www.nasa.gov/blogs/spacestation/2026/01/08/international-space-station-update-2/" data-i13n="cpos:2;pos:1">added</a> that ending Crew-11&#39;s mission early was on the table.</p><p>The unnamed crew member is stable, according to NASA. <a target="_blank" class="link" href="https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/" data-i13n="cpos:3;pos:1"><em>Space News</em></a> notes that Kimiya Yui of the Japan Aerospace Exploration Agency (JAXA) was heard on an open comms channel on Wednesday requesting a private medical conference with a flight surgeon. However, those requests are routine on the ISS, so we can’t assume the events were related.</p><p>&quot;The matter involved a single crew member who is stable,&quot; NASA wrote. &quot;Safely conducting our missions is our highest priority, and we are actively evaluating all options, including the possibility of an earlier end to Crew-11&#39;s mission.&quot;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/iss074e0007219~large.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/iss074e0007219~large.jpg" style="height:1280px;width:1920px;" alt="NASA astronaut Zena Cardman in her pressurized spacesuit, checking its comms and power systems ahead of the (now postponed) spacewalk" data-uuid="dd351709-411e-49f3-8506-db04daf8d70e"/><figcaption>NASA astronaut Zena Cardman in her pressurized spacesuit, checking its comms and power systems ahead of the (now postponed) spacewalk</figcaption><div class="photo-credit">NASA</div></figure><p>Crew-11 was scheduled to remain on board the ISS until at least the second half of February. Its replacement, Crew-12, isn&#39;t slated to blast off until February 15 at the earliest.</p><p>NASA astronauts Mike Fincke and Zena Cardman had planned to exit the airlock on Thursday for the six-and-a-half-hour spacewalk. The short trip’s mission was to install a kit and cables in preparation for a new roll-out solar array that will arrive on a future mission.</p><p>The agency said it will provide further updates within 24 hours.</p>This article originally appeared on Engadget at https://www.engadget.com/science/space/nasa-delays-spacewalk-due-to-a-medical-concern-with-a-crew-member-171900024.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/science/space/nasa-delays-spacewalk-due-to-a-medical-concern-with-a-crew-member-171900024.html?src=rss]]></link>
@@ -2582,230 +2867,6 @@
                                 <media:credit><![CDATA[Daniel Cooper for Engadget]]></media:credit>
                                 <media:description><![CDATA[Nosh]]></media:description>
                                 <media:title><![CDATA[Nosh AI cooker]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Lego unveils a technology-packed Smart Brick at CES 2026]]></title>
-                                        <description type="html"><![CDATA[<p><a target="_blank" class="link" href="https://www.engadget.com/gaming/follow-the-lego-ces-2026-press-conference-live-right-here-130005940.html" data-i13n="cpos:1;pos:1">Lego</a> bricks come in a bunch of shapes and sizes, but they’re getting a big technical upgrade in 2026 thanks to news announced at CES this year. Meet the Lego Smart Brick, a standard-sized 2 x 4 brick that’s packed with modern technology to enable sets that can respond to how they’re played with or the sets you build. The company’s new initiative, <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=70bceed8-b1ae-4af0-9fde-faa9258e1bc8&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=6354879d-871a-4410-855d-b4db770893fe&amp;featureId=text-link&amp;merchantName=LEGO&amp;linkText=Smart+Play&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5sZWdvLmNvbS9lbi11cy9zbWFydC1wbGF5IiwiY29udGVudFV1aWQiOiI2MzU0ODc5ZC04NzFhLTQ0MTAtODU1ZC1iNGRiNzcwODkzZmUiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmxlZ28uY29tL2VuLXVzL3NtYXJ0LXBsYXkifQ&amp;signature=AQAAAfP_aTDlIXUJrcSpv8DAU4bDzX0WVIU1j63Uxwwc1HbZ&amp;gcReferrer=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fsmart-play" data-i13n="elm:affiliate_link;sellerN:LEGO;elmt:;cpos:2;pos:1" data-original-link="https://www.lego.com/en-us/smart-play">Smart Play</a>, encompasses the Smart Brick as well as Smart Minifigures and Smart Tags. It’s remains to be seen how diehard Lego fans will take to this new system, but it’s fair to say this is the biggest move Lego has ever made to infuse its products with connected technology.</p>
-<p>The Smart Brick has a 4.1mm ASIC chip inside of it that Lego says is smaller than a standard Lego stud. It runs something called the Play Engine that can sense things like motion, orientation and magnetic fields. Thanks to this and some integrated copper coils, the Smart Brick can sense distance, direction and orientation of other Smart Bricks near it when you’re building. The brick also has a tiny built-in speaker, an accelerometer and an LED array. Lego says the speaker can produce audio that is “tied to live play actions” rather than just playing pre-recorded clips. </p>
-<p>The Smart Tag and Smart Minifigures are a lot simpler. The Tag is a 2 x 2 studless tile with a digital ID embedded in it that the Smart Brick can read via “near-field magnetic communication.” This obviously sounds a lot like NFC, but we can’t be sure that these new Lego pieces will be able to communicate with any other NFC devices. Similarly, the Smart Minifigure also has a digital ID readable by NFC. </p>
-<p>The purpose of the Smart Tag as well as the similar tech in a Smart Minifigure is to let the Smart Brick know what kind of context it is being used in. As Lego puts it, “The role of the Smart Tag is to tell the Smart Brick how it should play back with you.” The Tag tells the Brick what kind of object, animal, vehicle and so forth it should become. A Smart Tag in a Lego Star Wars X-Wing set, for example, will contain the unique ID and instructions for how the Smart Brick should behave.</p>
-<p>If this isn’t enough, Lego has also built a local wireless layer that connects this all together called BrickNet. It’s based on Bluetooth and uses Lego’s proprietary “Neighbor Position Measurement&quot; system, which is what lets the Smart Bricks know how close they are to each other and how they’re oriented. Lego says that this lets the bricks “talk” to each other directly without the need for apps, internet connections or external controls. It sounds like the idea is all three of these new Smart pieces can communicate and interact without any need for setup, which should make it refreshingly like a traditional Lego set.</p>
-<p>That said, these bricks naturally will need some power. Lego says that their batteries should still perform even after “years” of inactivity, and the coils and power system is designed so that multiple bricks can be charged wirelessly on a shared charging pad.</p>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/75427_Lifestyle_cons_4.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/75427_Lifestyle_cons_4.jpg" style="height:1600px;width:2400px;" alt="Lego Star Wars set with Smart Bricks" data-uuid="bc97e1e2-4de6-4727-a7ea-9a40fce3fd4c">
- <figcaption>
-  Lego Star Wars set with Smart Bricks
- </figcaption>
- <div class="photo-credit">
-  Lego
- </div>
-</figure>
-<p>Speaking of sets, Lego is unsurprisingly launching the Smart Play system with its biggest licensed partner: Star Wars. There will be three “all-in-one” Star Wars sets available, all of which are on the smaller side and definitely geared towards kids, rather than the 1,000 piece and up sets that the company has released to get adults (like me) interested.</p>
-<p>The prices are inflated compared to non-smart sets, but not outrageously so. Darth Vader’s TIE Fighter is a 473-piece set with a smart Darth Vader Minifigure, one Smart Brick and one Smart Tag, priced at $70. Luke’s Red Five X-Wing is a 584-piece set with two Smart Minifigures, one Smart Brick and five Smart Tags, priced at $100. The Throne Room Duel &amp; A-wing is a 962-piece set with three Smart Minifigures, two Smart Bricks and five Smart Tags, priced at a slightly shocking $160. </p>
-<p>It’s an entirely new direction for Lego, and you won’t have to wait long to check it out. The company is putting those three sets up for pre-order on January 9, and they’ll launch on March 1. There’s obviously a lot of technology here that’s entirely new to Lego, and as such it’s hard to imagine just how this will all look when it comes together — but we’re hoping that Lego will have some sets on hand here at CES so we can get a closer look at how the Smart Play system works.</p>
-<p>In the meantime, you can find a few videos on how Smart Play works <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=70bceed8-b1ae-4af0-9fde-faa9258e1bc8&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=6354879d-871a-4410-855d-b4db770893fe&amp;featureId=text-link&amp;merchantName=LEGO&amp;linkText=here&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5sZWdvLmNvbS9lbi11cy9hYm91dHVzL25ld3MvMjAyNi9kZWNlbWJlci9sZWdvLXNtYXJ0LXBsYXktYW5ub3VuY2VtZW50IiwiY29udGVudFV1aWQiOiI2MzU0ODc5ZC04NzFhLTQ0MTAtODU1ZC1iNGRiNzcwODkzZmUiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmxlZ28uY29tL2VuLXVzL2Fib3V0dXMvbmV3cy8yMDI2L2RlY2VtYmVyL2xlZ28tc21hcnQtcGxheS1hbm5vdW5jZW1lbnQifQ&amp;signature=AQAAAd7mjLxH-ai2uVe90PG9rQ_nv6yjWJzpvLg3BY9by_-E&amp;gcReferrer=https%3A%2F%2Fwww.lego.com%2Fen-us%2Faboutus%2Fnews%2F2026%2Fdecember%2Flego-smart-play-announcement" data-i13n="elm:affiliate_link;sellerN:LEGO;elmt:;cpos:3;pos:1" data-original-link="https://www.lego.com/en-us/aboutus/news/2026/december/lego-smart-play-announcement">here</a>.</p>
-<p>
- <core-commerce data-type="product-list" id="eac6cda6-0a32-4ee8-9810-1a2872857345" data-original-url="https://www.lego.com/en-us/smart-play"></core-commerce></p>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/lego-unveils-a-technology-packed-smart-brick-at-ces-2026-190000511.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/lego-unveils-a-technology-packed-smart-brick-at-ces-2026-190000511.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6354879d-871a-4410-855d-b4db770893fe</guid>
-                                                                                        <dc:creator><![CDATA[Nathan Ingraham]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 16:37:29 +0000</pubDate>
-                    <ingested>1767803858</ingested>
-                    <modified>2026-01-07T16:37:42+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Nathan Ingraham]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSMARTBrick_16x9.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=52a61befc01bac17c425cdcae5db50edf1c02fa3" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSMARTBrick_16x9.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=52a61befc01bac17c425cdcae5db50edf1c02fa3" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Lego]]></media:credit>
-                                <media:description><![CDATA[Lego introduced the Smart Brick at CES 2026.]]></media:description>
-                                <media:title><![CDATA[Lego&#39;s Smart Brick]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[At CES 2026, Sony Honda Mobility's latest Afeela 1 still feels woefully out of date]]></title>
-                                        <description type="html"><![CDATA[<p>It&#39;s been six years since Sony first rolled out its prototype car at CES 2020. It was called the&nbsp; <a target="_blank" class="link" href="https://www.engadget.com/2020-01-06-sony-vision-s.html" data-i13n="cpos:1;pos:1">Vision-S</a> back then, and I remember everyone endlessly debating just how serious the consumer electronics powerhouse was about making a car. Over the subsequent half-decade, Sony has proven it is not only serious, but absolutely hell-bent on making this thing a reality.</p><p>At CES 2026, we&#39;re still somehow about 12 months away from that car hitting the roads. Now called the Afeela 1, instead of being built by Sony proper it will come from the joint venture Sony Honda Mobility. It will start at $89,900, offer around 300 miles of range, and wear an exterior design so sedate that even the 31.5-inch-wide &quot;Media Bar&quot; micro-LED integrated into the nose barely makes an impact.</p><p>With the Afeela up on stage again this year, what&#39;s new in 2026? I&#39;m fresh from getting a closer look at the sedan here in Las Vegas and, sadly, there&#39;s little more to see than what so <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/sonys-afeela-1-feels-like-a-playstation-4-in-the-ps5-era-184620132.html" data-i13n="cpos:2;pos:1">underwhelmed me last year</a>. From the outside, 2026&#39;s Afeela looks nigh identical to 2025&#39;s, save for one change: I&#39;m happy to report that the unfortunate seam running down the middle of last year&#39;s nose-mounted Media Bar has been fixed. It now appears to be a single, contiguous panel.</p><p>On the inside, the interior seems to have a higher degree of fit and finish than last year&#39;s. To get in, you either push on a little button hidden in the trim or pull out the smartphone app and request that the door open automatically. There are no door latches as such, something that might raise a few eyebrows given <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/nhtsa-is-investigating-tesla-over-its-electronic-door-handles-203605393.html" data-i13n="cpos:3;pos:1">Tesla&#39;s current door handle woes</a>. (I was told there are physical door releases hidden below the car on the outside, and low in the door card on the inside.)</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%2813%29.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%2813%29.jpg" style="height:2667px;width:4000px;" alt="Sony Honda Mobility at CES 2026" data-uuid="590c0464-f273-4806-9905-e3c4d3a067be"/><figcaption>Sony Honda Mobility at CES 2026</figcaption><div class="photo-credit">Tim Stevens for Engadget</div></figure><p>The door closes automatically once you&#39;re inside, instantly hushing the manic drone of the crowd on the always-packed CES floor. This creates a great soundscape for the whopping 28 speakers Sony is deploying here. The car&#39;s interior shape was actually designed to optimize the placement of those speakers, and the few moments of music I heard were impressive.</p><p>There&#39;s Dolby Atmos support, so you can take full advantage of the spatial audio features in the cockpit. You can even toggle the sound on or off for individual seats, perhaps helping a little one stay asleep in the back seat — or simply sparing your kids from the depths of your guilty pleasure playlist.</p><p>The most noticeable feature inside the car, though, is the sweeping display that runs across the dashboard. There&#39;s a 12.3-inch LCD gauge cluster on the left conjoined with a 28.5-inch display that goes all the way to the right. Sony&#39;s infotainment software effectively splits that rightmost panel in two, enabling you or the passenger to drag apps left or right as needed.</p><p>Media or other distracting apps running on the passenger&#39;s side of the display will trigger an integrated privacy shield, blacking it out ensuring minimal distraction for the driver. But Sony is still pushing the envelope a bit here in a few other areas. You can dial into Zoom meetings from the driver&#39;s seat, for example, and while the Afeela 1 won&#39;t be the first car to do this (Mercedes-Benz included the service in the car in its <a target="_blank" class="link" href="https://www.engadget.com/mercedes-benz-e-class-puts-220120865.html" data-i13n="cpos:4;pos:1">2024 E-Class</a>), Sony will actually let the driver participate in the video while driving. This seems a little unnecessary to me.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%2819%29.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%2819%29.jpg" style="height:2667px;width:4000px;" alt="Sony Honda Mobility at CES 2026" data-uuid="e39a7477-a436-4179-a934-665aecd65318"/><figcaption>Sony Honda Mobility at CES 2026</figcaption><div class="photo-credit">Tim Stevens for Engadget</div></figure><p>Zoom uses the ceiling-mounted camera, one of 40 sensors in and around the Afeela 1. That includes the pods for a LiDAR sensor and more cameras protruding rather conspicuously from the roof. These sensors will provide Level 2+ driver assistance at launch. Over time, Sony promises to upgrade the car to Level 4, meaning that you, the driver, could theoretically take a nap behind the wheel. The car certainly looks to have enough sensors and processing power to make that work, but as we saw with Tesla&#39;s Full Self Driving, these sorts of automotive upgrades have a tendency to <a target="_blank" class="link" href="https://www.engadget.com/tesla-full-self-driving-v9-beta-release-date-170921380.html" data-i13n="cpos:5;pos:1">take longer than anticipated</a>.</p><p>Some of that digital processing power comes courtesy of Qualcomm&#39;s Snapdragon Digital Chassis, which also powers the infotainment experience. The software that runs the dashboard and rear seat experience looked far more comprehensive than before. That includes a functional AI voice assistant providing advanced routing guidance, like telling you which of the dozen taquerias on your route has the best guac.</p><p>Personalization is a big part of the sales pitch here, with downloadable packages changing everything from the car&#39;s ambient lights to the gauge cluster, engine sound, and even whatever&#39;s displayed on the nose-mounted display.</p><p>The idea here is to give you an emotional connection with the car -- despite its decidedly emotionless exterior design.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%289%29.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%289%29.jpg" style="height:2667px;width:4000px;" alt="Sony Honda Mobility at CES 2026" data-uuid="75d1a1f9-403f-4d6e-b6dc-e86406c1bed0"/><figcaption>Sony Honda Mobility at CES 2026</figcaption><div class="photo-credit">Tim Stevens for Engadget</div></figure><p>&quot;Our brand, Afeela, is built on a vision to redefine the relationship between people and mobility,&quot; Izumi Kawanishi, Sony Honda Mobility&#39;s president and COO, said. &quot;Being in a car will no longer be about driving. It will be about making the most of your time and space while you move.&quot;</p><p>I got to sample a number of these customizations at the show, including a particularly cool one that replicated the dashboard of Honda&#39;s first-ever Grand Prix-winning machine, 1965&#39;s RA272. The Afeela even picked up the raspy sound of its 1.5-liter V12.</p><p>The pre-production car on the Afeela stage had about a dozen such experiences installed, but the plan is for many, many more. Sony Honda Mobility will launch what it&#39;s calling the Afeela Co-Creation Program, a set of software developer tools and interfaces enabling third-party developers to not only create their own customizations, but to sell them.</p><p>Yes, alternate revenue streams are a big part of the equation here, including premium audio and video purchases, but Sony seemingly isn&#39;t factoring that in to help make the Afeela 1 more affordable. Again, you&#39;re looking at $89,900 to start, a price that hasn&#39;t changed from last year.</p><p>In fact, the biggest change to the Afeela 1 since CES 2025&#39;s showing is a delay. The sedan now isn&#39;t hitting the road until the very end of 2026, with first, limited deliveries happening in California. Arizona is next in 2027, but it could be years more before it&#39;s available anywhere else in the world.</p><p>Don&#39;t call it vaporware, though, because it is coming. Trial production work is already happening at Honda&#39;s plant in Ohio. In fact, the Afeela 1 you see here is an early, pre-production machine assembled there.</p><p>But just because it&#39;s going to happen doesn&#39;t mean that it will be a compelling product. An EV that costs $20,000 more than a more-powerful, longer-range Lucid Air Touring is a difficult proposition today, never mind 2027 or later, when the Afeela 1 will finally become readily available.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%287%29.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_Afeela_1_Update_%287%29.jpg" style="height:2667px;width:4000px;" alt="Sony Honda Mobility at CES 2026" data-uuid="cda3daa9-116a-44f1-9076-5363bf286d0f"/><figcaption>Sony Honda Mobility at CES 2026</figcaption><div class="photo-credit">Tim Stevens for Engadget</div></figure><p>With sedans increasingly on the outs in the American market, an SUV shape would make more sense. Sony confirmed that one is coming by rolling out the <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/sony-honda-mobilitys-afeela-prototype-2026-puts-an-suv-spin-on-its-too-familiar-sedan-at-ces-043927882.html" data-i13n="cpos:6;pos:1">Afeela 2026 Prototype</a>, but despite its name, it isn&#39;t coming until 2028 at the earliest.</p><p>As much as I respect Sony&#39;s stubborn commitment to this project, the numbers are just not working out in the Afeela 1&#39;s favor. I asked Sony Honda Mobility America president and CEO Shugo Yamaguchi what would make the car stand out in an EV segment that&#39;s increasingly crowded with quality machines, many available for tens of thousands less.</p><p>&quot;We do have that LiDAR, which is expensive, and introduces more safety. We have better entertainment, amazing displays and 800 TOPS of processing power. So, we believe that through our applications and our development, we are going to more than make our customers happy,&quot; he said.</p><p>Will customers pay more for a luxury and safety experience topped off by an expensive sensor that likely won&#39;t be fully utilized for years to come? After making a similar pitch in its <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/volvos-ex90-suv-was-mostly-worth-the-wait-153035616.html" data-i13n="cpos:7;pos:1">2025 EX90</a>, Volvo has decided to delete LiDAR from the 2026 model. I can&#39;t say I&#39;m more bullish here.</p><p>The Afeela 1 was an audacious product when it was announced at CES 2020, but with each subsequent year it feels more and more out of touch. It&#39;ll undoubtedly be the ultimate expression of brand loyalty for the true PlayStation fans out there. But with even established luxury brands like BMW and Mercedes-Benz shifting their focus to more affordable EVs like <a target="_blank" class="link" href="https://www.engadget.com/transportation/evs/mercedes-benz-cla-first-drive-head-of-the-ev-class-140000562.html" data-i13n="cpos:8;pos:1">the new CLA</a>, a $90,000 sedan with specs that sounded good in 2020 makes it awfully hard to stay excited for this PlayStation on wheels.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/at-ces-2026-sony-honda-mobilitys-latest-afeela-1-still-feels-woefully-out-of-date-163513001.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/evs/at-ces-2026-sony-honda-mobilitys-latest-afeela-1-still-feels-woefully-out-of-date-163513001.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">f5ad6f99-c189-4ea8-9dd6-7f2ac5f6b451</guid>
-                                                                                        <dc:creator><![CDATA[Tim Stevens]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 16:35:13 +0000</pubDate>
-                    <ingested>1767806405</ingested>
-                    <modified>2026-01-07T17:20:14+00:00</modified>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Tim Stevens]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2026_CES_Sony_Honda_Mobility_001.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=14a7236dec2b3a1274ab219ec4429c5b300941cf" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2026_CES_Sony_Honda_Mobility_001.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=14a7236dec2b3a1274ab219ec4429c5b300941cf" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Tim Stevens for Engadget]]></media:credit>
-                                <media:description><![CDATA[Sony Honda Mobility at CES 2026]]></media:description>
-                                <media:title><![CDATA[Sony Honda Mobility at CES 2026]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Roblox now requires age verification to use in-game chat]]></title>
-                                        <description type="html"><![CDATA[<p>Roblox Corporation, the company behind the popular online game platform <em>Roblox</em>, <a data-i13n="cpos:1;pos:1" href="https://ir.roblox.com/news/news-details/2026/Roblox-Requires-Users-Worldwide-to-Age-Check-to-Access-Chat/default.aspx"><ins>announced today</ins></a> that age verification will now be required for any users wishing to use in-game chat in all regions where the feature is available. This comes after mounting pressure to protect underage players and lawsuits from multiple state attorneys general like <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/louisiana-attorney-general-has-filed-a-child-protection-lawsuit-against-roblox-182354250.html"><ins>Louisiana</ins></a> and <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/texas-ag-ken-paxton-sues-roblox-over-alleged-child-safety-lapses-131500288.html"><ins>Texas</ins></a>.</p>
-<p>Starting January 7, players in the US and abroad will need to submit to facial age estimation via a selfie. Users 13 years of age or older may opt for ID-based checks. These features were given a trial <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/roblox-begins-asking-tens-of-millions-of-children-to-verify-their-age-with-a-selfie-120000311.html"><ins>rollout</ins></a> late last year in Australia, New Zealand and the Netherlands, where Roblox says half of the daily active users have already completed verification. The company says facial estimation is done via its third-party vendor Persona and that images are deleted immediately after processing. Age verification remains optional to play the game itself and is only required to use chat for now.</p>
-<span id="end-legacy-contents"></span><p>Once a player&#39;s age is verified, they will be placed in one of six age groups, the youngest being under 9, and the oldest being 21+. Players in these groups can only chat with their own group, as well as age groups directly below and above theirs. Roblox <a data-i13n="cpos:5;pos:1" href="https://corp.roblox.com/newsroom/2026/01/roblox-age-checks-required-to-chat"><ins>says</ins></a> players who are 13 or older can still chat more freely with players beyond their immediate age group by using the &quot;Trusted Connections&quot; feature within <em>Roblox</em>. This feature is intended for friends imported via a user&#39;s phone, or contacts added by QR codes shared outside of <em>Roblox</em>. Age verification is still required by both parties to use this feature.</p>
-<p>Players under 9 years old will have chat turned off by default unless a parent approves its use after age verification. Roblox says it may ask users to resubmit verification if their behavior suggests they are substantially older or younger than they claimed.</p>
-<p>Roblox has faced <a data-i13n="cpos:6;pos:1" href="https://www.bloomberg.com/features/2024-roblox-pedophile-problem/"><ins>repeated accusations</ins></a> that it was not doing enough to protect younger players. In 2024, the company <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/gaming/roblox-restricts-dms-for-kids-under-13-and-beefs-up-parental-controls-in-safety-push-120031833.html"><ins>banned players</ins></a> under 13 from accessing certain types of in-game content, as well as restricting their ability to direct message with other players outside of specific games. Last year the company cracked down on user-created content, after a <a data-i13n="cpos:8;pos:1" href="https://www.ag.state.la.us/Files/Article/322/Documents/RobloxLawsuit.pdf"><ins>lawsuit</ins></a> from the state of Louisiana alleged some disturbing in-game &quot;experiences&quot; that minors may have been exposed to.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/roblox-now-requires-age-verification-to-use-in-game-chat-163213512.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/roblox-now-requires-age-verification-to-use-in-game-chat-163213512.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">be4816a0-ccda-49b4-87e1-69cacadba360</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 16:32:13 +0000</pubDate>
-                    <ingested>1767803541</ingested>
-                    <modified>2026-01-07T16:32:24+00:00</modified>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F0c5a0cd0-1c68-11f0-90c6-3581a59887ba&amp;resize=1400%2C900&amp;client=19f2b5e49a271b2bde77&amp;signature=fd2c55693fe31d1c6c190a756fe6c27a0d010bb7" width="1400" height="900" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-04%2F0c5a0cd0-1c68-11f0-90c6-3581a59887ba&amp;resize=1400%2C900&amp;client=19f2b5e49a271b2bde77&amp;signature=823a2f451576c42915b1b498e2815fc203e22b05" width="1400" height="900" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Roblox]]></media:credit>
-                                <media:description><![CDATA[A logo.]]></media:description>
-                                <media:title><![CDATA[Roblox Logo]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[iPolish brings color-changing press-on smart nails to CES]]></title>
-                                        <description type="html"><![CDATA[<p>In the original, and<em> </em>best <a target="_blank" class="link" href="https://www.engadget.com/2012-05-11-total-recall-mind-bending-blu-ray-july-31st.html" data-i13n="slk:Total Recall,;cpos:1;pos:1"><em>Total Recall,</em></a><em> </em>you may remember a scene in which Rekall’s receptionist changes her nail polish by using a digital pen. Now, after only 35 years, a company came to <a target="_blank" class="link" href="https://www.engadget.com/ces-2026-live-updates-and-gadget-reveals-during-the-biggest-tech-event-of-the-year-153146751.html" data-i13n="cpos:2;pos:1">CES 2026</a> with a vision for such a gadget that actually works outside of that pricey sci-fi movie. The company is iPolish, and it makes press-on acrylic nails that, when you apply an electric charge, change color almost like magic.</p><p>In order to enjoy kaleidoscopic nails, you’ll need to charge the wand, which then connects to your phone. Once you’ve selected your color of choice, you just put the tip of the nail into the wand, and it’ll pass a short charge into the nail to change it. Sadly, the company wouldn’t shed too much light on the process it uses to run the nails but, from my guess, it’s some sort of electrochemical shenanigans going on behind the scenes.&nbsp;All in all, it took around five seconds to change the color of a single nail, so it’s not a big deal in the grand scheme of things.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ipolishbody.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ipolishbody.jpg" style="height:1013px;width:1800px;" alt="iPolish" data-uuid="f59e675b-3650-499d-bfa3-e0806625ec0a"/><figcaption>iPolish</figcaption><div class="photo-credit">Daniel Cooper for Engadget</div></figure><p>iPolish says that each nail can display 400 colors, and can be changed as many times as the user would like. So, if you’re coordinating your nails with your outfits, you’re not bound to a single color palette in the weeks between salon visits. They’re also surprisingly affordable, with the starter set <a target="_blank" class="link" href="https://ipolish.fashion/collections/starter-kits" data-i13n="cpos:3;pos:1">costing $95</a> which contains two sets of nails, one in Ballerina cut, one in Squoval. The Ballerinas are relatively short, while the Sqovals are longer.&nbsp; It’s worth noting that you can’t shape the nails as you’ll break the hardware, so if you don’t like those shapes, you can’t use ‘em.</p><p>When it comes time to replace your nails when one breaks or you lose it in some nailbed mishap, you’ll be able to pick up spares for $6.50. Given the theoretical cost of getting your nails re-done on a weekly basis, being able to change color on a whim seems like a bargain. Of course, we won’t be able to speak to iPolish’s quality and reliability until they start shipping, which is presently expected to begin in June 2026.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/wearables/ipolish-brings-color-changing-press-on-smart-nails-to-ces-001345407.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/ipolish-brings-color-changing-press-on-smart-nails-to-ces-001345407.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">780c33de-5d8a-4bd7-aca5-dbd5f5358db5</guid>
-                                                                                        <dc:creator><![CDATA[Daniel Cooper]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 07 Jan 2026 16:25:06 +0000</pubDate>
-                    <ingested>1767803112</ingested>
-                    <modified>2026-01-07T16:25:15+00:00</modified>
-                                            <category>
-                            <![CDATA[Beauty]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Daniel Cooper]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FiPolishlede.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f3f34083dcf2a1996f64ac24e6f11695872caf5f" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FiPolishlede.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f3f34083dcf2a1996f64ac24e6f11695872caf5f" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Daniel Cooper for Engadget]]></media:credit>
-                                <media:description><![CDATA[iPolish]]></media:description>
-                                <media:title><![CDATA[IPolish]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
