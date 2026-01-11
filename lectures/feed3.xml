@@ -6,9 +6,67 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Sat, 10 Jan 2026 22:57:21 +0000</pubDate>
+            <pubDate>Sat, 10 Jan 2026 19:21:05 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Instagram says accounts 'are secure' after wave of suspicious password reset requests]]></title>
+                                        <description type="html"><![CDATA[<p>If you received a bunch of password reset requests from Instagram recently, you&#39;re not alone. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://bsky.app/profile/malwarebytes.com/post/3mbywfybiil26">Malwarebytes</a>, an antivirus software company, initially reported that there was a data breach revealing the &quot;sensitive information&quot; of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more. However, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://x.com/instagram/status/2010202301886238822?s=20">Instagram said</a> there was no breach and that user accounts were &quot;secure.&quot;</p>
+<div id="8216e5e1a1644775bfbb6b8aba9e1f76"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We fixed an issue that let an external party request password reset emails for some people. There was no breach of our systems and your Instagram accounts are secure. <br><br>You can ignore those emails — sorry for any confusion.</p>— Instagram (@instagram) <a href="https://twitter.com/instagram/status/2010202301886238822?ref_src=twsrc%5Etfw">January 11, 2026</a></blockquote>
+ 
+
+</div>
+<p>In Malwarebytes post, the company added that the &quot;data is available for sale on the dark web and can be abused by cybercriminals.&quot; Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and that it&#39;s tied to a potential incident related to an Instagram API exposure from 2024.</p>
+<span id="end-legacy-contents"></span><p>The reported breach has resulted in users receiving <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.reddit.com/r/Instagram/comments/1q93j15/instagram_data_leak_exposes_sensitive_info_of/">several</a> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.reddit.com/r/Instagram/comments/1q8pcq1/is_someone_trying_to_hack_me/">emails</a> from Instagram about password reset requests. According to Malwarebytes, the leaked information could lead to more serious attacks, like phishing attempts or account takeovers. In response, Instagram posted on X that users can ignore the recent emails requesting password resets.</p>
+<p>&quot;We fixed an issue that let an external party request password reset emails for some people,&quot; Instagram&#39;s post on X read. &quot;There was no breach of our systems and your Instagram accounts are secure.&quot;</p>
+<p>While Instagram said this isn&#39;t a data breach, its parent company has been in hot water for <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/meta-facebook-gdpr-data-breach-eu-fine-173528015.html">data breaches</a> in the past. If you haven&#39;t already, it&#39;s always a good idea to turn on two-factor authentication and change your password. Even better, you can review what devices are logged into your Instagram account in Meta&#39;s Accounts Center.</p>
+<p><strong>Update, January 11, 2026, 11:10AM ET: </strong>This story and its headline have been updated with Instagram&#39;s statement that was posted on X.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">03a7276f-89bf-4013-8583-e716c9ba37e8</guid>
+                                                                                        <dc:creator><![CDATA[Jackson Chen]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Sun, 11 Jan 2026 16:09:08 +0000</pubDate>
+                    <ingested>1768147756</ingested>
+                    <modified>2026-01-11T16:09:19+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Jackson Chen]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Fdeb5df10-ee54-11f0-af5f-329814eac189&amp;resize=1400%2C917&amp;client=19f2b5e49a271b2bde77&amp;signature=967a02ab261f4b04df46abc7eb49e6379ae9edf3" width="1400" height="917" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Fdeb5df10-ee54-11f0-af5f-329814eac189&amp;resize=1400%2C917&amp;client=19f2b5e49a271b2bde77&amp;signature=f8120a4f522272ab6dd9379c6ccc1df56b9725d3" width="1400" height="917" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Instagram]]></media:credit>
+                                <media:description><![CDATA[Three screenshots showing Instagram's security center.]]></media:description>
+                                <media:title><![CDATA[Instagram's security features]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Elon Musk says X's new algorithm will be made open source next week]]></title>
                                         <description type="html"><![CDATA[<p>X may soon provide more insight into how its algorithm works. On Saturday, Elon Musk posted on the platform to say that the company &quot;will make the new X algorithm, including all code used to determine what organic and advertising posts are recommended to users, open source in 7 days.&quot;&nbsp;</p><p>X&#39;s recommendation algorithm has been the <a target="_blank" class="link" href="https://www.engadget.com/big-tech/france-launches-criminal-probe-of-xs-alleged-algorithm-manipulation-123017920.html" data-i13n="cpos:1;pos:1">subject of investigations by France</a> <a target="_blank" class="link" href="https://www.engadget.com/big-tech/the-eu-wants-to-know-just-how-xs-recommendation-algorithm-works-161000963.html" data-i13n="cpos:2;pos:1">and the European Commission</a>, the latter of which <a target="_blank" class="link" href="https://www.reuters.com/world/eu-commission-has-ordered-x-retain-all-grok-documents-until-end-2026-2026-01-08/" data-i13n="cpos:3;pos:1">recently extended</a> through 2026 a retention order that it sent to the company at the beginning of last year. And scrutiny into the platform, along with demands for accountability, have only increased after its chatbot, Grok, was caught <a target="_blank" class="link" href="https://www.engadget.com/ai/elon-musks-grok-ai-posted-csam-image-following-safeguard-lapses-140521454.html" data-i13n="cpos:4;pos:1">generating CSAM at users&#39; requests</a> and continues to be <a target="_blank" class="link" href="https://www.theguardian.com/technology/2026/jan/08/grok-x-nonconsensual-images" data-i13n="cpos:5;pos:1">used to digitally undress women</a> nonconsensually.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-10_at_4.50.33%E2%80%AFPM.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-10_at_4.50.33%E2%80%AFPM.png" style="height:602px;width:1292px;" alt="A screenshot of an X post by Elon Musk that reads, &quot;We will make the new X algorithm, including all code used to determine what organic and advertising posts are recommended to users, open source in 7 days. This will be repeated every 4 weeks, with comprehensive developer notes, to help you understand what changed." data-uuid="a2e57274-e6eb-44e7-afc7-06202d9efb2f"/><figcaption>Elon Musk&#39;s X post about open-sourcing the algorithm.</figcaption><div class="photo-credit">Screenshot/X</div></figure><p>Musk has been making promises of open-sourcing the algorithm since his takeover of Twitter, and in 2023 published the code for the site&#39;s &quot;For You&quot; feed on GitHub. But the code wasn&#39;t all that revealing, leaving out key details, <a target="_blank" class="link" href="https://www.engadget.com/what-did-twitters-open-source-algorithm-actually-reveal-not-a-lot-194652809.html" data-i13n="cpos:6;pos:1">according to analyses at the time</a>. And it hasn&#39;t been kept up to date. Of the making the new algorithm open source, Musk said in his post, &quot;This will be repeated every 4 weeks, with comprehensive developer notes, to help you understand what changed.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html?src=rss]]></link>
@@ -108,57 +166,6 @@
                                 <media:credit><![CDATA[REUTERS / Reuters]]></media:credit>
                                 <media:description><![CDATA[People walk by a GameStop in Manhattan, New York, U.S., December 7, 2021. REUTERS/Andrew Kelly]]></media:description>
                                 <media:title><![CDATA[People walk by a GameStop in Manhattan, New York]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[An Instagram data breach reportedly exposed the personal info of 17.5 million users]]></title>
-                                        <description type="html"><![CDATA[<p>If you received a bunch of password reset requests from Instagram recently, you&#39;re not alone. As reported by <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://bsky.app/profile/malwarebytes.com/post/3mbywfybiil26">Malwarebytes</a>, an antivirus software company, there was a data breach revealing the &quot;sensitive information&quot; of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more.</p>
-<p>The company added that the &quot;data is available for sale on the dark web and can be abused by cybercriminals.&quot; Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and that it&#39;s tied to a potential incident related to an Instagram API exposure from 2024.</p>
-<span id="end-legacy-contents"></span><p>The reported breach has resulted in users receiving <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.reddit.com/r/Instagram/comments/1q93j15/instagram_data_leak_exposes_sensitive_info_of/">several</a> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.reddit.com/r/Instagram/comments/1q8pcq1/is_someone_trying_to_hack_me/">emails</a> from Instagram about password reset requests. According to Malwarebytes, the leaked information could lead to more serious attacks, like phishing attempts or account takeovers. Meta hasn&#39;t released an official statement about the latest incident, but it&#39;s not the first time Instagram&#39;s parent company has been in hot water for <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/meta-facebook-gdpr-data-breach-eu-fine-173528015.html">data breaches</a>. If you haven&#39;t already, it&#39;s always a good idea to turn on two-factor authentication and change your password. Even better, you can review what devices are logged into your Instagram account in Meta&#39;s Accounts Center.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">03a7276f-89bf-4013-8583-e716c9ba37e8</guid>
-                                                                                        <dc:creator><![CDATA[Jackson Chen]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sat, 10 Jan 2026 19:21:05 +0000</pubDate>
-                    <ingested>1768072879</ingested>
-                    <modified>2026-01-10T19:21:21+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Jackson Chen]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Fdeb5df10-ee54-11f0-af5f-329814eac189&amp;resize=1400%2C917&amp;client=19f2b5e49a271b2bde77&amp;signature=967a02ab261f4b04df46abc7eb49e6379ae9edf3" width="1400" height="917" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Fdeb5df10-ee54-11f0-af5f-329814eac189&amp;resize=1400%2C917&amp;client=19f2b5e49a271b2bde77&amp;signature=f8120a4f522272ab6dd9379c6ccc1df56b9725d3" width="1400" height="917" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Instagram]]></media:credit>
-                                <media:description><![CDATA[Three screenshots showing Instagram's security center.]]></media:description>
-                                <media:title><![CDATA[Instagram's security features]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
