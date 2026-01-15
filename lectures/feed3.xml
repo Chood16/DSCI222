@@ -6,9 +6,281 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Thu, 15 Jan 2026 10:30:00 +0000</pubDate>
+            <pubDate>Thu, 15 Jan 2026 13:30:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[OpenAI quietly rolls out a dedicated ChatGPT translation tool]]></title>
+                                        <description type="html"><![CDATA[<p><a target="_blank" class="link" href="https://www.engadget.com/ai/chatgpt-is-launching-a-new-dedicated-health-portal-210150083.html" data-i13n="cpos:1;pos:1">OpenAI</a> has debuted a dedicated ChatGPT-powered translation tool. While folks have been using the main chatbot for translation for some time, you can now find <a target="_blank" class="link" href="https://chatgpt.com/translate/" data-i13n="cpos:2;pos:1">ChatGPT Translate</a> on its own webpage, as <a target="_blank" class="link" href="https://www.androidauthority.com/chatgpt-translate-3632584/" data-i13n="cpos:3;pos:1"><em>Android Authority</em></a> spotted.&nbsp;</p><p>The tool can translate text, voice inputs and images into more than 50 languages in seconds, OpenAI says. There’s an automatic language detection function too.</p><p>Most interestingly, ChatGPT Translate can rewrite the output to take various contexts and tones into account, much in the same way that more general text-generating AI tools <a target="_blank" class="link" href="https://www.engadget.com/chromes-latest-experimental-ai-feature-can-help-you-write-170014645.html" data-i13n="cpos:4;pos:1">can do</a>. With a single tap, it can rewrite the translation into something &quot;more fluent,&quot; for a business formal audience, to make it more child-friendly or for academic purposes. The tool’s webpage says ChatGPT Translate understands &quot;tone, idioms and context.&quot;</p><p>While those tone and context considerations are intriguing, ChatGPT Translate is a little underbaked compared with the likes of Google Translate — which has been around for decades and just got its own <a target="_blank" class="link" href="https://www.engadget.com/ai/google-translate-now-offers-gemini-assisted-translations-151008774.html" data-i13n="cpos:5;pos:1">Gemini-based makeover</a> with better support for understanding idioms and slang. The desktop version of ChatGPT Translate does not yet allow for voice inputs, though the mobile one does, as <em>Android Authority</em> notes. Despite claims that ChatGPT can translate text in an image, there’s currently no way to upload one to the tool. There’s no website, document or handwriting translation support as yet either.&nbsp;</p><p>Perhaps most crucially, ChatGPT Translate lives on a webpage right now and there’s no dedicated app. So using it offline appears to be out of the question as things stand. No app with on-device translation support could make ChatGPT Translate a no-go for travelers in rural areas with no Internet access. There’s no support for <a target="_blank" class="link" href="https://www.engadget.com/apps/google-translates-latest-feature-is-its-take-on-duolingo-160035157.html" data-i13n="cpos:6;pos:1">translating real-time conversations</a> as yet either. Google’s Pixel 10, on the other hand, now supports <a target="_blank" class="link" href="https://www.engadget.com/ai/my-favorite-google-ai-features-from-the-pixel-10-launch-130023979.html" data-i13n="cpos:7;pos:1">voice translations for calls</a>.</p><p>It’s not exactly clear when ChatGPT Translate debuted — it arrived with zero fanfare from OpenAI. There’s a <a target="_blank" class="link" href="https://web.archive.org/web/20251119103023/https://chatgpt.com/translate/" data-i13n="cpos:8;pos:1">snapshot of the webpage</a> from November on The Internet Archive’s Wayback Machine that looks just like the current one, but that may have simply been a case of OpenAI testing a live version of the tool.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-quietly-rolls-out-a-dedicated-chatgpt-translation-tool-133000974.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/openai-quietly-rolls-out-a-dedicated-chatgpt-translation-tool-133000974.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">d2e4d824-805f-4f3e-ac55-142d662fe2bf</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 15 Jan 2026 13:30:00 +0000</pubDate>
+                    <ingested>1768483810</ingested>
+                    <modified>2026-01-15T13:30:14+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F905d3d55-ba2e-4c91-b3ef-f5fdb8103dba&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=428e938f474146f6413d449500b6ad2211eb10a0" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F905d3d55-ba2e-4c91-b3ef-f5fdb8103dba&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=428e938f474146f6413d449500b6ad2211eb10a0" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Reuters / REUTERS]]></media:credit>
+                                <media:description><![CDATA[FILE PHOTO: ChatGPT logo is seen in this illustration taken, January 22, 2025. REUTERS/Dado Ruvic/Illustration/File Photo]]></media:description>
+                                <media:title><![CDATA[FILE PHOTO: Illustration shows ChatGPT logo]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Spotify is getting a buck more expensive in February]]></title>
+                                        <description type="html"><![CDATA[<p>Spotify is <a target="_blank" class="link" href="https://newsroom.spotify.com/2026-01-15/premium-pricing-update/" data-i13n="cpos:1;pos:1">raising the prices</a> for its premium subscriptions by $1 to $2 across the board, starting this February. Those are similar figures to the company’s last price hike in 2024. Subscribers across the US, Estonia and Latvia will soon receive an email, notifying them that they’ll be paying a larger amount for their February bill. </p><p>The streaming service said it’s raising its prices occasionally to “reflect the value that Spotify delivers,” “to continue offering the best possible experience” and to “benefit artists.” It reported last year that it paid out $10 billion to music rights-holders in 2024. However, it’s worth noting that several Grammy-nominated songwriters <a target="_blank" class="link" href="https://www.bbc.com/news/articles/cy9d53rx7jxo" data-i13n="cpos:2;pos:1">boycotted</a> an awards event it hosted to protest the supposed decreasing royalties songwriters are getting from Spotify plays. </p><p>Subscribers who choose to keep their accounts will now have to pay $13 instead of $12 a month for an individual plan or $7 instead of $6 for a student plan. The Duo plan will now cost users $19 a month instead of $17, while the Family plan will cost them $22, up $2 from its previous price of $20. Meanwhile, those who decide to cancel their plans can <a target="_blank" class="link" href="https://www.engadget.com/apps/how-to-cancel-your-spotify-subscription-133022215.html" data-i13n="cpos:3;pos:1">follow our guide</a> right here. </p><p>Spotify came under fire late last year for running recruitment ads for ICE. It said the advertisements were part of a larger campaign by the US government that ran across platforms, including Meta and Google. The company also recently confirmed that the campaign has ended that there are <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/spotify-is-no-longer-running-ads-for-ice-130000672.html" data-i13n="cpos:4;pos:1">no ICE ads currently running</a> on the service. </p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/music/spotifys-getting-a-buck-more-expensive-in-february-132300118.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/music/spotifys-getting-a-buck-more-expensive-in-february-132300118.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">65355c48-453a-4ddd-b57f-36c3bc54f4a7</guid>
+                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 15 Jan 2026 13:23:00 +0000</pubDate>
+                    <ingested>1768483429</ingested>
+                    <modified>2026-01-15T13:23:51+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Mariella Moon]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Fe1d8e21f-db29-4b2a-8857-7fda126c3d79&amp;resize=1400%2C929&amp;client=19f2b5e49a271b2bde77&amp;signature=0b8a5b25b4c30e343930c973a0d968643eddb57b" width="1400" height="929" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Fe1d8e21f-db29-4b2a-8857-7fda126c3d79&amp;resize=1400%2C929&amp;client=19f2b5e49a271b2bde77&amp;signature=0b8a5b25b4c30e343930c973a0d968643eddb57b" width="1400" height="929" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
+                                <media:description><![CDATA[FILE- This March 20, 2018 file photo shows the Spotify app on an iPad in Baltimore. (AP Photo/Patrick Semansky, File)]]></media:description>
+                                <media:title><![CDATA[Spotify-Wrapped]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Get up to $90 off reMarkable E Ink tablet bundles]]></title>
+                                        <description type="html"><![CDATA[<p>E Ink tablets can provide the best of both worlds, giving you a similar tactile response to writing with pen and paper while also conveniently holding all of your digital files. <a data-i13n="elm:affiliate_link;sellerN:Remarkable;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=1f7efcc9-4a08-437e-b0e7-e67043761cab&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=37b6fead-a9b3-44fd-8244-00ae1ade3bb9&amp;featureId=text-link&amp;merchantName=Remarkable&amp;linkText=reMarkable&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3JlbWFya2FibGUuY29tL3Nob3AvYmxhY2stZnJpZGF5IiwiY29udGVudFV1aWQiOiIzN2I2ZmVhZC1hOWIzLTQ0ZmQtODI0NC0wMGFlMWFkZTNiYjkiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcmVtYXJrYWJsZS5jb20vc2hvcC9ibGFjay1mcmlkYXkifQ&amp;signature=AQAAAWdl-Pd05wEQz4fu_Zz_7p2cyYQksBeZWXCkfNBwmj1D&amp;gcReferrer=https%3A%2F%2Fremarkable.com%2Fshop%2Fblack-friday" class="rapid-with-clickid" data-original-link="https://remarkable.com/shop/black-friday">reMarkable</a> has a new year sale going on right now on its E Ink tablets, where you can save between $70 and $90 on a bundle, depending on the configuration you choose. For example, you can get the reMarkable 2 tablet with the Marker and Book Folio for $449, instead of the usual $568.</p> 
+<p>The company also sells a newer stylus called Marker Plus that lets you erase by flipping it around just like a real pencil, but that will cost you an extra $50. If you’ve been eyeing a dedicated writing tablet for work, school or just jotting down notes without the distraction of endless apps, this bundle deal is an ideal opportunity to pick one up.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="32a61bb483d845448bef30ead1f05118" data-type="product-list" data-original-url="https://remarkable.com/shop/black-friday"></core-commerce></p> 
+<p>The reMarkable 2 earned our top pick for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html">best e-ink tablet</a>. In our <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/remarkable-2-tablet-e-ink-hands-on-review-marker-writing-note-taking-130044070.html">review</a>, we said the tablet was prettier than ever with a 10.3-inch display and a handsome aluminum frame. The tablet is only 4.7mm thick and weighs less than a pound, helping it feel lean and portable.</p> 
+<p>The display can detect over 4,000 different levels of pressure with the Marker stylus, allowing for precise shading when sketching and the latency between the stylus and the screen is just 21ms. reMarkable fitted the display with a resin layer on top of the glass to make writing on it feel more realistic. We didn&#39;t think this passed muster, but we found writing on it was a joy nonetheless.</p> 
+<p>The tablet supports PDFs and ePUBs, which can be added via the companion mobile app or a desktop computer. You can also pair the reMarkable 2 with Google Drive, Microsoft OneDrive or Dropbox to access files. The battery is rated for an impressive two weeks between charges.</p> 
+<p>The reMarkable Paper Pro, a higher-end model with a richer feature set like a full color display and a built-in reading light, is our pick for best premium e-ink tablet. The pricier tablet also has bundle deals right now with savings up to $80 depending on configuration.</p> 
+<p><em>Follow </em><a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/get-up-to-90-off-remarkable-e-ink-tablet-bundles-150242530.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/mobile/tablets/get-up-to-90-off-remarkable-e-ink-tablet-bundles-150242530.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">37b6fead-a9b3-44fd-8244-00ae1ade3bb9</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 15 Jan 2026 13:21:27 +0000</pubDate>
+                    <ingested>1768483298</ingested>
+                    <modified>2026-01-15T13:21:41+00:00</modified>
+                                            <category>
+                            <![CDATA[Tablets]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Handheld & Connected Devices]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Ffa8fc8a0-c18a-11f0-afff-1b814307d1dd&amp;resize=1400%2C779&amp;client=19f2b5e49a271b2bde77&amp;signature=27cdc26ba23e5a801a06b978f601189208e42f59" width="1400" height="779" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Ffa8fc8a0-c18a-11f0-afff-1b814307d1dd&amp;resize=1400%2C779&amp;client=19f2b5e49a271b2bde77&amp;signature=d73edb195e58ccd7a5fc5f359fd813a1d32b2757" width="1400" height="779" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[reMarkable ]]></media:credit>
+                                <media:description><![CDATA[A person looking at a tablet.]]></media:description>
+                                <media:title><![CDATA[reMarkable 2 Tablet]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[AirTags drop back down to $65 for a four-pack]]></title>
+                                        <description type="html"><![CDATA[<p>Apple keeps most of its product pricing on a tight leash, but we do see the company&#39;s AirTags go on sale pretty frequently. Another cost cut has come around for this item just in time for the holidays. Amazon is currently selling a four-pack of <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0D54JZTHY&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=24b60c33-f851-4bee-9d8b-9c00c8cc034a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=AirTags&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFk_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiMjRiNjBjMzMtZjg1MS00YmVlLTlkOGItOWMwMGM4Y2MwMzRhIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFkiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAR-tHxD_n-S9V6FZTggBPzQxNCDZMIugRbDnHNS6azZ_&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0D54JZTHY?">AirTags</a> for $65. At a third off the regular cost, that price is pretty close to the record low discount of $63 we&#39;ve seen for these Bluetooth trackers.</p> 
+<p>
+ <core-commerce id="3f2e8dbba5f04aee8fc64ab5334170d5" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0D54JZTHY?"></core-commerce></p> 
+<p>AirTags can be useful for people who travel frequently, helping you to keep track of essentials like your passport as well as a way to keep tabs on luggage while you&#39;re on the go. If you do purchase some AirTags, we have some recommendations for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-apple-airtag-cases-holders-accessories-123036404.html">useful accessories</a> to go along with them, such as different styles of cases to best attach the trackers to different types of items. These are worth looking over and adding to your shopping cart in order to make the most of the product.&nbsp;</p> <span id="end-legacy-contents"></span>
+<p>AirTags have an IP67 rating for water and dust resistance and their replaceable batteries should last for about a year. They can also support Precision Finding, which gives more exact directions to a lost item, when paired with most models after the iPhone 11. Up to five people can share an AirTag&#39;s location, which is helpful for families or large travel groups.&nbsp;</p> 
+<p><em>Follow </em><a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/airtags-drop-back-down-to-65-for-a-four-pack-202333775.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/airtags-drop-back-down-to-65-for-a-four-pack-202333775.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">24b60c33-f851-4bee-9d8b-9c00c8cc034a</guid>
+                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 15 Jan 2026 13:02:12 +0000</pubDate>
+                    <ingested>1768482145</ingested>
+                    <modified>2026-01-15T13:02:27+00:00</modified>
+                                            <category>
+                            <![CDATA[Shopping]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Anna Washenko]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Fb1dfc4b0-dc4d-11f0-b3f7-063dfe660861&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=4fe5ef6961c83c2a918b2af4fabb9d37a3d2f40b" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Fb1dfc4b0-dc4d-11f0-b3f7-063dfe660861&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=2bf2f406c1a6b19eef9bcd69991040ebcb2b1f9f" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Apple]]></media:credit>
+                                <media:description><![CDATA[Close-up photo of an AirTag peeking out of a zippered pocket in a brown leather accessory.]]></media:description>
+                                <media:title><![CDATA[Apple AirTags]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[FTC finalizes GM punishment over driver data sharing scandal]]></title>
+                                        <description type="html"><![CDATA[<p>After reaching a <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/transportation/ftc-bans-general-motors-from-selling-driver-data-for-five-years-000019615.html">proposed settlement</a> last year, the FTC has banned General Motors from sharing specific consumer data with third parties, <a data-i13n="cpos:2;pos:1" href="https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/"><em>TechCrunch</em></a> reported. The finalized order wraps up one of the more egregious cases of a corporation collecting its customers&#39; data and then using it against them.&nbsp;</p>
+<p>Two years ago, the <a data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=4e5cba01-75ef-41ee-adb9-290fda9f1aa6&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=New+York+Times+report&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI0LzAzLzExL3RlY2hub2xvZ3kvY2FybWFrZXJzLWRyaXZlci10cmFja2luZy1pbnN1cmFuY2UuaHRtbCIsImNvbnRlbnRVdWlkIjoiNGU1Y2JhMDEtNzVlZi00MWVlLWFkYjktMjkwZmRhOWYxYWE2Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI0LzAzLzExL3RlY2hub2xvZ3kvY2FybWFrZXJzLWRyaXZlci10cmFja2luZy1pbnN1cmFuY2UuaHRtbCJ9&amp;signature=AQAAAXEmREp3q0ZWfbpKVI5pqXaE8j8BbwCnWlczymj4uQ2E&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2024%2F03%2F11%2Ftechnology%2Fcarmakers-driver-tracking-insurance.html" class="rapid-with-clickid" data-original-link="https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html"><em>New York Times report</em></a> released a report detailing how GM&#39;s OnStar &quot;Smart Driver&quot; program collected and sold detailed geolocation and driving behavior data to third parties, including data brokers. Those brokers in turn sold the data to insurance providers, which jacked up the rates for some drivers based on the data. &quot;It felt like a betrayal,&quot; said a Chevy Bolt owner that saw his insurance rise by 21 percent based on the data. &quot;They’re taking information that I didn’t realize was going to be shared and screwing with our insurance.&quot;</p>
+<span id="end-legacy-contents"></span><p>According to the terms of the settlement, GM is barred from sharing specific user data with consumer reporting agencies for a five year period. The automaker is also required to request user permission before collecting, using or sharing vehicle data with any third party. It must do that when a consumer purchases a car at a dealership, with the customer asked in person whether they agree or not with the data collection, GM said.&nbsp;</p>
+<p>Some of the settlement is moot as GM stopped its Smart Driver program for all brands in April 2024. The company unenrolled all customers and stopped its third-party relationship with LexisNexis and Verisk, the brokers that sold driver data to insurance companies.&nbsp;</p>
+<p>GM faced other actions over the data collection, including lawsuits from <a data-i13n="cpos:4;pos:1" href="https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-general-motors-unlawfully-collecting-drivers-private-data-and">Texas</a>, <a data-i13n="cpos:5;pos:1" href="https://ago.nebraska.gov/attorney-general-mike-hilgers-files-lawsuit-against-general-motors-deceptive-collection-and-sale">Nebraska</a> and other states. &quot;Our investigation revealed that General Motors has engaged in egregious business practices that violated Texans’ privacy and broke the law. We will hold them accountable,&quot; said Texas AG Ken Paxton at the time.&nbsp;</p>
+<p>In a statement to <em>TechCrunch</em>, GM said: &quot;The Federal Trade Commission has formally approved the agreement reached last year with General Motors to address concerns. As vehicle connectivity becomes increasingly integral to the driving experience, GM&nbsp;remains&nbsp;committed to protecting customer privacy,&nbsp;maintaining&nbsp;trust, and ensuring customers have a clear understanding of our practices.&quot;&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/ftc-finalizes-gm-punishment-over-driver-data-sharing-scandal-130012313.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/transportation/ftc-finalizes-gm-punishment-over-driver-data-sharing-scandal-130012313.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">4e5cba01-75ef-41ee-adb9-290fda9f1aa6</guid>
+                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 15 Jan 2026 13:00:12 +0000</pubDate>
+                    <ingested>1768471170</ingested>
+                    <modified>2026-01-15T09:59:33+00:00</modified>
+                                            <category>
+                            <![CDATA[Sectors & Industries]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Business]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Steve Dent]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F43f52630-f1f0-11f0-bbf7-3512b5ae98b6&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=467d105ee8b61c88873d4f8ae7a12dfb0f862860" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F43f52630-f1f0-11f0-bbf7-3512b5ae98b6&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=2ec97d65ef15d530cd1f579e9c02e61b715741a3" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[GM]]></media:credit>
+                                <media:description><![CDATA[FTC orders GM to obtain consumer consent for all data collection]]></media:description>
+                                <media:title><![CDATA[FTC orders GM to obtain consumer consent for all data collection]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[ISS mission splashes down after medical issue]]></title>
                                         <description type="html"><![CDATA[<p>The  SpaceX Dragon spacecraft carrying the Crew-11 astronauts has splashed down into the ocean after they <a target="_blank" class="link" href="https://www.engadget.com/science/space/nasa-is-ending-crew-11-astronauts-mission-a-month-early-140000750.html" data-i13n="cpos:1;pos:1">left the ISS a month earlier</a> than planned due a medical issue. It’s the first time NASA cut a mission short <a target="_blank" class="link" href="https://www.engadget.com/science/space/nasa-delays-spacewalk-due-to-a-medical-concern-with-a-crew-member-171900024.html" data-i13n="cpos:2;pos:1">due to a medical concern</a>. The agency didn’t name the crew member and their condition but stated that they were stable and that it wasn’t a case of medical evacuation. NASA merely decided to end the mission early out of an abundance of caution, because the ISS didn’t have the tools for a proper diagnosis. </p><p> NASA astronauts Mike Fincke and Zena Cardman, JAXA’s Kimiya Yui and Russian cosmonaut Oleg Platonov — the members of Crew-11 — left for the space station on August 1 and were supposed to stay there until February. Despite the mission being cut early, they still stayed 167 days in space before they made their way back home. The Dragon capsule carrying the members splashed down off the coast of San Diego, California at 3:41AM on January 15. A SpaceX medical doctor was the first person who checked in on them, though that is routine procedure and not because of one member’s medical issue. </p><p>“I couldn’t be prouder of our astronauts and the teams on the ground at NASA, SpaceX, and across our international partnerships,” said NASA Administrator Jared Isaacman. “Their professionalism and focus kept the mission on track, even with an adjusted timeline. Crew-11 completed more than 140 science experiments that advance human exploration. Missions like Crew-11 demonstrate the capability inherent in America’s space program — our ability to bring astronauts home as needed, launch new crews quickly, and continue pushing forward on human spaceflight as we prepare for our historic Artemis II mission, from low Earth orbit to the Moon and ultimately Mars.”</p><p>With Crew-11 back on Earth, there are now only three people aboard the orbiting lab. Two are Russian cosmonauts, while the other one is NASA astronaut Chris Williams. NASA is now looking at options to be able to send Crew-12 to the ISS earlier than its planned February 15 launch. </p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">LIVE: After undocking from the <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@Space_Station</a>, Crew-11 is on their way back to Earth. Tune in to watch them splash down off the coast of California, scheduled for 3:41am ET (0841 UTC). <a href="https://t.co/mIUojli3XW">https://t.co/mIUojli3XW</a></p>— NASA (@NASA) <a href="https://twitter.com/NASA/status/2011698857994846467?ref_src=twsrc%5Etfw">January 15, 2026</a></blockquote>
  
@@ -2375,69 +2647,6 @@
                                                                                         
                             </item>
                                                                                                                                                         <item>
-                                                                                                    <title><![CDATA[reMarkable E Ink tablet bundles are up to $90 off right now]]></title>
-                                        <description type="html"><![CDATA[<p>E Ink tablet maker reMarkable is running a <a data-i13n="elm:affiliate_link;sellerN:Remarkable;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=1f7efcc9-4a08-437e-b0e7-e67043761cab&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=37b6fead-a9b3-44fd-8244-00ae1ade3bb9&amp;featureId=text-link&amp;merchantName=Remarkable&amp;linkText=bundle+deal+right+now&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3JlbWFya2FibGUuY29tLyIsImNvbnRlbnRVdWlkIjoiMzdiNmZlYWQtYTliMy00NGZkLTgyNDQtMDBhZTFhZGUzYmI5Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3JlbWFya2FibGUuY29tLyJ9&amp;signature=AQAAAXWXx1ipaSjzVqEMROAyTHfBpItEJmY_pMSY6fk_uY7Q&amp;gcReferrer=https%3A%2F%2Fremarkable.com%2F" class="rapid-with-clickid" data-original-link="https://remarkable.com/"><ins>bundle deal right now</ins></a> that can save you between $80 and $90 when buying a reMarkable 2 along with a Marker stylus and a folio case. The savings vary depending on the bundle you configure, but this can bring your out-the-door cost down to $449 from $529 for the tablet, Marker stylus and polymer weave book folio.</p> 
-<p>
- <core-commerce id="32a61bb483d845448bef30ead1f05118" data-type="product-list" data-original-url="https://remarkable.com/shop/black-friday"></core-commerce></p> 
-<p>The company also sells a newer stylus called Marker Plus that lets you erase by flipping it around just like a real pencil, but that will cost you an extra $50. If you’ve been eyeing a dedicated writing tablet for work, school or just jotting down notes without the distraction of endless apps, this bundle deal is an ideal opportunity to pick one up.</p> <span id="end-legacy-contents"></span>
-<p>The reMarkable 2 earned our top pick for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html"><ins>best e-ink tablet</ins></a>. In our <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/remarkable-2-tablet-e-ink-hands-on-review-marker-writing-note-taking-130044070.html"><ins>review</ins></a>, we said the tablet was prettier than ever with a 10.3-inch display and a handsome aluminum frame. The tablet is only 4.7mm thick and weighs less than a pound, helping it feel lean and portable.</p> 
-<p>The display can detect over 4,000 different levels of pressure with the Marker stylus, allowing for precise shading when sketching and the latency between the stylus and the screen is just 21ms. reMarkable fitted the display with a resin layer on top of the glass to make writing on it feel more realistic. We didn&#39;t think this passed muster, but we found writing on it was a joy nonetheless.</p> 
-<p>The tablet supports PDFs and ePUBs, which can be added via the companion mobile app or a desktop computer. You can also pair the reMarkable 2 with Google Drive, Microsoft OneDrive or Dropbox to access files. The battery is rated for an impressive two weeks between charges.</p> 
-<p>The reMarkable Paper Pro, a higher-end model with a richer feature set like a full color display and a built-in reading light, is our pick for best premium e-ink tablet. The pricier tablet also has bundle deals right now with savings up to $80 depending on configuration.</p> 
-<p><em>Follow </em><a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/remarkable-e-ink-tablet-bundles-are-up-to-90-off-right-now-150242312.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/mobile/tablets/remarkable-e-ink-tablet-bundles-are-up-to-90-off-right-now-150242312.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">37b6fead-a9b3-44fd-8244-00ae1ade3bb9</guid>
-                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 13 Jan 2026 15:02:42 +0000</pubDate>
-                    <ingested>1768316056</ingested>
-                    <modified>2026-01-13T14:54:19+00:00</modified>
-                                            <category>
-                            <![CDATA[Tablets]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Handheld & Connected Devices]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Andre Revilla]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Ffa8fc8a0-c18a-11f0-afff-1b814307d1dd&amp;resize=1400%2C779&amp;client=19f2b5e49a271b2bde77&amp;signature=27cdc26ba23e5a801a06b978f601189208e42f59" width="1400" height="779" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-11%2Ffa8fc8a0-c18a-11f0-afff-1b814307d1dd&amp;resize=1400%2C779&amp;client=19f2b5e49a271b2bde77&amp;signature=d73edb195e58ccd7a5fc5f359fd813a1d32b2757" width="1400" height="779" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[reMarkable ]]></media:credit>
-                                <media:description><![CDATA[A person looking at a tablet.]]></media:description>
-                                <media:title><![CDATA[reMarkable 2 Tablet]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Meta refocuses on AI hardware as metaverse layoffs begin]]></title>
                                         <description type="html"><![CDATA[<p>As <a target="_blank" class="link" href="https://www.engadget.com/ar-vr/meta-is-reportedly-going-to-slash-spending-on-the-metaverse-164547153.html" data-i13n="cpos:1;pos:1">we expected</a>, Meta has begun laying off more than 1,000 employees from its Reality Labs division, which focused on virtual reality and metaverse products, <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones?embedded-checkout=true" data-i13n="cpos:2;pos:1"><em>Bloomberg </em>reports</a>. The company will refocus on developing wearables, like its recent batch of AI-powered Ray-Ban smart glasses, according to a memo from CTO Andrew Bosworth.</p><p>The news isn’t too surprising. Reality Labs has lost more than $70 billion since the beginning of 2021, and while Meta has done a solid job of delivering desirable consumer VR headsets and smart glasses, that business hasn’t been nearly profitable enough to justify the cost. And of course, Mark Zuckerberg’s huge gamble on the metaverse, which involved <a target="_blank" class="link" href="https://www.engadget.com/facebook-new-name-meta-182151399.html" data-i13n="cpos:3;pos:1">renaming the company from Facebook to Meta in 2021,</a> has gone nowhere.</p><p>According to Bloomberg, Meta’s metaverse plans will now focus on mobile devices, which could mean a combination of its future wearables as well as existing mobile apps. “With the larger potential user base and the fastest growth rate today, we are shifting teams and resources almost exclusively to mobile to continue to accelerate adoption there,” Bosworth wrote in a memo to staff this morning.</p><p>Meta isn’t dumping its VR headset plans entirely, but according to Bosworth the VR divion will “operate as a leaner, flatter organization with a more focused road map to maximize long-term sustainability.” Basically, don’t expect a Quest 3 follow-up anytime soon.<br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ar-vr/meta-refocuses-on-ai-hardware-as-metaverse-layoffs-begin-145924706.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ar-vr/meta-refocuses-on-ai-hardware-as-metaverse-layoffs-begin-145924706.html?src=rss]]></link>
@@ -2599,214 +2808,6 @@
                                 <media:credit><![CDATA[Anker]]></media:credit>
                                 <media:description><![CDATA[Anker's Solix E10 battery backup can power your entire house in a blackout]]></media:description>
                                 <media:title><![CDATA[Anker's Solix E10 battery backup can power your entire house in a blackout]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Tesla launches a seven-seat version of the 2026 Model Y]]></title>
-                                        <description type="html"><![CDATA[<p>Tesla&#39;s 2026 Model Y is <a data-i13n="cpos:1;pos:1" href="https://www.tesla.com/modely/design#overview">now available</a> on the company&#39;s site and it comes with a new (and old) option:  a <a data-i13n="cpos:2;pos:1" href="https://www.tesla.com/modely#premium">seven-seat version</a> via a third row. The extra seating costs $2,500 and is only available if you order the Premium All-Wheel-Drive Long Range model. Tesla first teased the option last year via an email to prospective buyers with the promise of &quot;seating for up to seven and enough room for everyone&#39;s gear,&quot; <a data-i13n="cpos:3;pos:1" href="https://electrek.co/2025/06/10/tesla-teases-new-model-y-7-seater-option/"><em>Electrek</em></a> reported at the time.&nbsp;</p>
-<p>The new seats appear to be designed mainly for children as they don&#39;t offer much legroom, according to images on Tesla&#39;s configurator. Tesla notes that the seven-seat interior &quot;features fold-flat second-row and third-row seats,&quot; though it&#39;s not clear if those seats fold down electrically like the second row.&nbsp;</p>
-<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/dd396190-f05f-11f0-bbcf-23b0517cbf70" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/dd396190-f05f-11f0-bbcf-23b0517cbf70" style="height:1080px;width:1920px;" alt="Tesla&#39;s 2026 Model Y launches with a new third row" data-uuid="9ec3ad27-f6bf-3f0c-b402-7f3a18d61529"><figcaption></figcaption><div class="photo-credit">Tesla</div></figure>
-<p>Tesla is facing <a data-i13n="cpos:4;pos:1" href="https://edition.cnn.com/2026/01/02/business/tesla-byd-ev">increased competition</a>, especially in the crossover/SUV category, and saw another <a data-i13n="cpos:5;pos:1" href="https://www.abc.net.au/news/2026-01-03/tesla-loses-title-bestselling-ev-to-byd/106196066">sales decline</a> last quarter. The company previously sold a seven-seat version of the Model Y in the US for a short time before it was <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/transportation/evs/tesla-finally-launches-the-refreshed-2025-model-y-in-the-asia-pacific-region-133010038.html">refreshed </a>early last year. Since then, though, it has only been available with five seats. Tesla launched a six-seat &quot;Model YL&quot; version in China in August 2025 with a six-inch wheelbase extension that the US model lacks. Elon Musk said that model would come to the US market in late 2026 or maybe &quot;never.&quot;&nbsp;</p>
-<p>Otherwise, changes to the Model Y lineup are minor and confined to the Premium version. Those include a 20-inch dark-grey &quot;Helix&quot; &quot;wheel option, a new black headliner, a bigger, higher-resolution 16-inch display and darker rear badging.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/tesla-launches-a-seven-seat-version-of-the-2026-model-y-130039385.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/evs/tesla-launches-a-seven-seat-version-of-the-2026-model-y-130039385.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3717ac85-5655-4c7b-b17c-3966833b7079</guid>
-                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 13 Jan 2026 14:00:39 +0000</pubDate>
-                    <ingested>1768306139</ingested>
-                    <modified>2026-01-13T12:09:01+00:00</modified>
-                                            <category>
-                            <![CDATA[Autos]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Steve Dent]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Fea5710b0-f05b-11f0-bbf6-06c3228eead0&amp;resize=1400%2C749&amp;client=19f2b5e49a271b2bde77&amp;signature=95a7dcbb12aeb55a8251abd075bf8466f6a31ab3" width="1400" height="749" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Fea5710b0-f05b-11f0-bbf6-06c3228eead0&amp;resize=1400%2C749&amp;client=19f2b5e49a271b2bde77&amp;signature=892ee8ec17ba32f5e23c84a1fd9585940ad958d1" width="1400" height="749" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Tesla]]></media:credit>
-                                <media:description><![CDATA[Tesla's 2026 Model Y launches with a new third row]]></media:description>
-                                <media:title><![CDATA[Tesla's 2026 Model Y launches with a new third row]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Star Wars Outlaws developer Massive Entertainment and Ubisoft Stockholm face layoffs]]></title>
-                                        <description type="html"><![CDATA[<p>We aren&#39;t even two weeks into the new year and Ubisoft is already looking to carry out its second round of layoffs in 2026. The company has informed workers at Massive Entertainment and Ubisoft Stockholm of a &quot;proposed organizational restructure&quot; that could affect around 55 roles across its two Swedish studios. Workers at Massive (the developer of The Division series, <a target="_blank" class="link" href="https://www.engadget.com/i-really-want-to-like-star-wars-outlaws-160032476.html" data-i13n="cpos:1;pos:1"><em>Star Wars Outlaws</em></a><em> </em>and <a target="_blank" class="link" href="https://www.engadget.com/avatar-frontiers-of-pandoras-adventurous-spirit-might-just-win-you-over-160024430.html" data-i13n="cpos:2;pos:1"><em>Avatar: Frontiers of Pandora</em></a>) were <a target="_blank" class="link" href="https://www.engadget.com/gaming/ubisoft-is-laying-off-more-workers-and-offering-voluntary-buyouts-120030931.html" data-i13n="cpos:3;pos:1">offered voluntary buyouts</a> late last year as part of <a target="_blank" class="link" href="https://www.engadget.com/gaming/ubisoft-shuts-down-a-support-studio-and-lays-off-185-workers-191048262.html" data-i13n="cpos:4;pos:1">Ubisoft&#39;s ongoing cost-cutting efforts</a>.</p><p>&quot;This restructure follows the completion of the Voluntary Leave Program launched during the fall of 2025, a finalized long-term roadmap and a completed staffing and appointment process, which together have provided clearer visibility into the structure and capacity required to support the two studios’ work and sustainably over time,&quot; Ubisoft told <a target="_blank" class="link" href="https://www.ign.com/articles/ubisoft-layoffs-continue-with-55-staff-at-the-division-studio-massive-and-ubisoft-stockholm-now-impacted" data-i13n="cpos:5;pos:1"><em>IGN</em></a> in a statement. &quot;These proposed changes are forward-looking and structural, they are not related to individual performance, recent deliveries or the quality of the work produced by the teams.&quot;</p><p>Ubisoft claims that the &quot;long-term direction for the studios remains unchanged.&quot; Massive will continue working on projects that include <a target="_blank" class="link" href="https://www.engadget.com/ubisoft-confirms-the-division-3-but-its-a-long-ways-off-190006878.html" data-i13n="cpos:6;pos:1"><em>The Division 3</em></a>. Ubisoft Stockholm, meanwhile, is beavering away on a new franchise that&#39;s still under wraps for now. That project is harnessing the studio&#39;s Ubisoft Scalar cloud computing tech, according to <a target="_blank" class="link" href="https://www.gamedeveloper.com/business/ubisoft-proposes-layoffs-at-massive-entertainment-and-ubisoft-stockholm" data-i13n="cpos:7;pos:1"><em>Game Developer</em></a>.</p><p>Earlier in January, the company said it was <a target="_blank" class="link" href="https://www.engadget.com/gaming/ubisoft-is-shutting-down-a-studio-16-days-after-it-unionized-183000983.html" data-i13n="cpos:8;pos:1">shutting down Ubisoft Halifax</a>, resulting in the loss of 71 jobs. Workers at that studio unionized just 16 days earlier. Ubisoft said its decision was part of &quot;company-wide actions to streamline operations.&quot;</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/star-wars-outlaws-developer-massive-entertainment-and-ubisoft-stockholm-face-layoffs-134234968.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/star-wars-outlaws-developer-massive-entertainment-and-ubisoft-stockholm-face-layoffs-134234968.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">ce515656-e5f1-49ca-a2ee-58cae9319013</guid>
-                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 13 Jan 2026 13:42:34 +0000</pubDate>
-                    <ingested>1768311766</ingested>
-                    <modified>2026-01-13T13:42:48+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Kris Holt]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMassive_Studio_3_web.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=72da6fccead25180ad41b7f939a147a0c1b9da4f" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FMassive_Studio_3_web.jpg&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=72da6fccead25180ad41b7f939a147a0c1b9da4f" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Massive Entertainment]]></media:credit>
-                                <media:description><![CDATA[Massive Entertainment]]></media:description>
-                                <media:title><![CDATA[Massive Entertainment]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[A Resident Evil showcase is taking place on January 15]]></title>
-                                        <description type="html"><![CDATA[<p><a target="_blank" class="link" href="https://www.engadget.com/gaming/resident-evil-requiem-feels-very-familiar-but-its-so-well-made-that-i-respect-the-hell-out-of-it-180022141.html" data-i13n="cpos:1;pos:1"><em>Resident Evil Requiem</em></a>, the first new mainline entry in the series since 2021’s <em>Resident Evil Village</em>, is just over a month away and Capcom is ready to share more details. The publisher will air a Resident Evil Showcase on January 15 at 5PM ET. You’ll be able to watch it on <a target="_blank" class="link" href="https://www.twitch.tv/capcomusa" data-i13n="cpos:2;pos:1">Twitch</a> and YouTube (in <a target="_blank" class="link" href="https://www.youtube.com/@residentevil/featured" data-i13n="cpos:3;pos:1">English</a> and <a target="_blank" class="link" href="https://www.youtube.com/@biohazard" data-i13n="cpos:4;pos:1">Japanese</a>).</p><p>The stream will run for around 12 minutes. It will feature “all the latest info on <em>Resident Evil Requiem</em>,” which will almost certainly include some gameplay ahead of it hitting PS5, Xbox Series X/S, Nintendo Switch 2 and Steam on <a target="_blank" class="link" href="https://www.engadget.com/gaming/resident-evil-requiem-announced-at-summer-game-fest-2025-231136129.html" data-i13n="cpos:5;pos:1">February 27</a>. Capcom might have more in store, though. An announcement for the showcase on the Resident Evil website states that, “Some of the <em>games</em> included in the show aren&#39;t suitable for children.”</p><p>That suggests the company will share details about other RE titles. It may just be a case of Capcom offering a reminder that it’s also bringing ports of <em>Resident Evil 7</em> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/resident-evil-village-and-star-wars-outlaws-join-januarys-game-pass-additions-182500938.html" data-i13n="cpos:6;pos:1"><em>Village</em></a> to Switch 2 on February 27. Still, there’s a chance we’ll hear news of more ports. There’s also the possibility that we get a glimpse of the next Resident Evil movie, a reboot of the series from <em>Barbarian</em> and <em>Weapons</em> filmmaker Zack Cregger that’s set to hit theaters in September.&nbsp;</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/VXQveAdzC74?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/a-resident-evil-showcase-is-taking-place-on-january-15-133000548.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/a-resident-evil-showcase-is-taking-place-on-january-15-133000548.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">fed787f0-bcd4-4078-ad14-6c430e23c159</guid>
-                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 13 Jan 2026 13:30:00 +0000</pubDate>
-                    <ingested>1768311018</ingested>
-                    <modified>2026-01-13T13:30:21+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Kris Holt]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fresident_evil.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=466c507a197adfb3bab534f110a0e87ad376bb34" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fresident_evil.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=466c507a197adfb3bab534f110a0e87ad376bb34" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Capcom]]></media:credit>
-                                <media:description><![CDATA[Resident Evil Requiem]]></media:description>
-                                <media:title><![CDATA[Resident Evil Requiem]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[AirTags are back on sale, with a four-pack going for $65]]></title>
-                                        <description type="html"><![CDATA[<p>Most Apple products are pretty expensive, but some of the most affordable (and useful) ones are <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0D54JZTHY&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=24b60c33-f851-4bee-9d8b-9c00c8cc034a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=AirTags&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFk_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiMjRiNjBjMzMtZjg1MS00YmVlLTlkOGItOWMwMGM4Y2MwMzRhIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFkiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAR-tHxD_n-S9V6FZTggBPzQxNCDZMIugRbDnHNS6azZ_&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0D54JZTHY?">AirTags</a>. The Bluetooth trackers are priced pretty reasonably even when not on sale, but they can be a steal if you can get them on a discount — like right now. A four pack of AirTags is on sale for $65 at Amazon, which is only a few dollars more than the record-low price we saw during Black Friday this year.</p> 
-<p>
- <core-commerce id="3f2e8dbba5f04aee8fc64ab5334170d5" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0D54JZTHY?"></core-commerce></p> 
-<p>AirTags can be useful for people who travel frequently, helping you to keep track of essentials like your passport as well as a way to keep tabs on luggage while you&#39;re on the go. If you do purchase some AirTags, we have some recommendations for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-apple-airtag-cases-holders-accessories-123036404.html">useful accessories</a> to go along with them, such as different styles of cases to best attach the trackers to different types of items. These are worth looking over and adding to your shopping cart in order to make the most of the product.&nbsp;</p> <span id="end-legacy-contents"></span>
-<p>AirTags have an IP67 rating for water and dust resistance and their replaceable batteries should last for about a year. They can also support Precision Finding, which gives more exact directions to a lost item, when paired with most models after the iPhone 11. Up to five people can share an AirTag&#39;s location, which is helpful for families or large travel groups.&nbsp;</p> 
-<p><em>Follow </em><a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/airtags-are-back-on-sale-with-a-four-pack-going-for-65-202333994.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/deals/airtags-are-back-on-sale-with-a-four-pack-going-for-65-202333994.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">24b60c33-f851-4bee-9d8b-9c00c8cc034a</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 13 Jan 2026 13:14:02 +0000</pubDate>
-                    <ingested>1768310050</ingested>
-                    <modified>2026-01-13T13:14:12+00:00</modified>
-                                            <category>
-                            <![CDATA[Shopping]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Fb1dfc4b0-dc4d-11f0-b3f7-063dfe660861&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=4fe5ef6961c83c2a918b2af4fabb9d37a3d2f40b" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Fb1dfc4b0-dc4d-11f0-b3f7-063dfe660861&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=2bf2f406c1a6b19eef9bcd69991040ebcb2b1f9f" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Apple]]></media:credit>
-                                <media:description><![CDATA[Close-up photo of an AirTag peeking out of a zippered pocket in a brown leather accessory.]]></media:description>
-                                <media:title><![CDATA[Apple AirTags]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
