@@ -6,9 +6,130 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Fri, 23 Jan 2026 14:44:57 +0000</pubDate>
+            <pubDate>Fri, 23 Jan 2026 16:35:12 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[You can now create AI-generated coloring books in Microsoft Paint]]></title>
+                                        <description type="html"><![CDATA[<p>Microsoft CEO Satya Nadella recently went on <a data-i13n="cpos:1;pos:1" href="https://www.windowscentral.com/artificial-intelligence/microsoft-ceo-satya-nadella-says-ai-needs-to-prove-its-worth"><ins>record</ins></a> saying that AI still needs to prove its worth if society is to adopt it long-term, but he presumably thinks his company has cracked it with its latest innovation: AI coloring books.</p>
+<p>A new Microsoft Paint <a data-i13n="cpos:2;pos:1" href="https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/">feature</a> currently rolling out to Windows Insiders allows you to generate coloring book pages based on the text prompt you enter. The example Microsoft uses is &quot;a cute fluffy cat on a donut,&quot; to which the AI tool will spit out a set of slightly different options based on your prompt.</p>
+<span id="end-legacy-contents"></span><p>You can then choose which image you want, add it to your current workspace, copy or save it. Presumably you can also print it out for the purpose of entertaining your kids. No doubt the kind of real-world impact the Microsoft chief was alluding to.</p>
+<p>The coloring book feature is exclusive to Copilot+ PCs, and Microsoft is also adding a fill tolerance slider that lets you adjust the precision with which the Fill tool adds color to your canvas.</p>
+<p>As well as Paint’s new Coloring book feature, Microsoft has also improved its Write, Rewrite and Summarize AI functionality in <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9c684b1e-34b7-44ba-84cc-28ec2fd24327&amp;featureId=text-link&amp;linkText=Notepad&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cHBvcnQubWljcm9zb2Z0LmNvbS9lbi1nYi93aW5kb3dzL2VuaGFuY2UteW91ci13cml0aW5nLXdpdGgtYWktaW4tbm90ZXBhZC00MDg4Yjk1NC1jOTdiLTQ2ZGMtODEzZi05NTliZTAxNzQ2ZDUiLCJjb250ZW50VXVpZCI6IjljNjg0YjFlLTM0YjctNDRiYS04NGNjLTI4ZWMyZmQyNDMyNyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tZ2Ivd2luZG93cy9lbmhhbmNlLXlvdXItd3JpdGluZy13aXRoLWFpLWluLW5vdGVwYWQtNDA4OGI5NTQtYzk3Yi00NmRjLTgxM2YtOTU5YmUwMTc0NmQ1In0&amp;signature=AQAAAQEZpndR7_4OdS5MKacGLTXxdX9Xd4AE5PFU1QmURLAu&amp;gcReferrer=https%3A%2F%2Fsupport.microsoft.com%2Fen-gb%2Fwindows%2Fenhance-your-writing-with-ai-in-notepad-4088b954-c97b-46dc-813f-959be01746d5" class="rapid-with-clickid" data-original-link="https://support.microsoft.com/en-gb/windows/enhance-your-writing-with-ai-in-notepad-4088b954-c97b-46dc-813f-959be01746d5"><ins>Notepad</ins></a>, which integrates with GPT to fine-tune your writing and summarize complex notes. You’ll need to sign into your Microsoft account to use cloud features, but results will now appear more quickly and let you interact with the preview without having to wait for its full response. Again, you’ll need to be Windows Insider in the Canary and Dev channels on Windows 11 to take advantage of the updates initially.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/you-can-now-create-ai-generated-coloring-books-in-microsoft-paint-163512527.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/you-can-now-create-ai-generated-coloring-books-in-microsoft-paint-163512527.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">9c684b1e-34b7-44ba-84cc-28ec2fd24327</guid>
+                                                                                        <dc:creator><![CDATA[Matt Tate]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Fri, 23 Jan 2026 16:35:13 +0000</pubDate>
+                    <ingested>1769186120</ingested>
+                    <modified>2026-01-23T16:35:23+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Books & Publishing]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Matt Tate]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ff6624f40-f877-11f0-a3be-036fca3d9916&amp;resize=1400%2C924&amp;client=19f2b5e49a271b2bde77&amp;signature=ae02beec64beadf1b7a1f28a4def7cb46b2122a4" width="1400" height="924" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Ff6624f40-f877-11f0-a3be-036fca3d9916&amp;resize=1400%2C924&amp;client=19f2b5e49a271b2bde77&amp;signature=eff17079832e43896ae397224e4a17c58085c51d" width="1400" height="924" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Microsoft]]></media:credit>
+                                <media:description><![CDATA[Microsoft Paint Coloring book]]></media:description>
+                                <media:title><![CDATA[Microsoft Paint Coloring book]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[NBA League Pass is up to 55 percent off]]></title>
+                                        <description type="html"><![CDATA[<p>Basketball fans can save on <a data-i13n="elm:affiliate_link;sellerN:National Basketball Association;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c109eac4-825f-483e-8edf-51532ca9e7cb&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=a364f8fe-4cef-4bc2-89cf-730e7b34af39&amp;featureId=text-link&amp;merchantName=National+Basketball+Association&amp;linkText=NBA+League+Pass&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uYmEuY29tL2xlYWd1ZS1wYXNzLXB1cmNoYXNlIiwiY29udGVudFV1aWQiOiJhMzY0ZjhmZS00Y2VmLTRiYzItODljZi03MzBlN2IzNGFmMzkiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm5iYS5jb20vbGVhZ3VlLXBhc3MtcHVyY2hhc2UifQ&amp;signature=AQAAAdUhKaPYHJzinvfA7MLKAWA2Ghk-P2COLZr_GV2bgBXf&amp;gcReferrer=https%3A%2F%2Fwww.nba.com%2Fleague-pass-purchase" class="rapid-with-clickid" data-original-link="https://www.nba.com/league-pass-purchase">NBA League Pass</a> right now, which lets you catch a bunch of out-of-market NBA games via streaming. The League Pass Premium subscription is on sale for $75, down from the usual $160, and League Pass Standard is marked down to $50 from $110. Considering we&#39;re almost halfway though the season, the discount makes sense and is a good deal for anyone who wants to keep a close eye on the rest of the games to be played this year.</p> 
+<p>The Standard plan includes commercials and support for only one device at a time, while the Premium tier offers no commercials, in-arena streams during breaks in the game, offline viewing of full games and concurrent streams on up to three devices at once.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="5e40023bdb824a11adc46b45eac49663" data-type="product-list" data-original-url="https://www.nba.com/league-pass-purchase"></core-commerce></p> 
+<p>Last year, League Pass <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/entertainment/nba-league-pass-gets-multiview-just-in-time-for-the-season-to-start-191016755.html">added multiview</a>, which allows you to view up to four games at once on a single screen. This is included across both subscription tiers. The service also added a smart rewind tool that automatically selects key highlights and plays from each game.</p> 
+<p>Outside the US and Canada, League Pass carries every single NBA game live, but within these countries a bevy of restrictions apply. In the US, any games being shown on your regional sports network will be blacked out as the service is meant for out-of-market games only. Also, any nationally broadcast games will not be available live, but instead will be available for on-demand viewing at 6AM ET the following day. The service is only for regular-season games.</p> 
+<p>If you&#39;re an avid NBA fan that follows multiple teams then the League Pass almost certainly carries dozens of games you can watch even with the restrictions in the US. Subscribers can get a list of applicable blackouts by entering their ZIP code before signing up.</p> 
+<p><em>Follow </em><a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/nba-league-pass-is-up-to-55-percent-off-163421368.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/nba-league-pass-is-up-to-55-percent-off-163421368.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a364f8fe-4cef-4bc2-89cf-730e7b34af39</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Fri, 23 Jan 2026 16:31:26 +0000</pubDate>
+                    <ingested>1769185930</ingested>
+                    <modified>2026-01-23T16:32:14+00:00</modified>
+                                            <category>
+                            <![CDATA[National Basketball Association]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Basketball]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Sports & Recreation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F3df52680-8b22-11ef-b5ef-219c0dcdf27c&amp;resize=1400%2C780&amp;client=19f2b5e49a271b2bde77&amp;signature=ab3490c2acc26e71399b17b0e7314363c8e42fb1" width="1400" height="780" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2024-10%2F3df52680-8b22-11ef-b5ef-219c0dcdf27c&amp;resize=1400%2C780&amp;client=19f2b5e49a271b2bde77&amp;signature=9b5a13d7bfc711799de7be10f569a500c84ddad8" width="1400" height="780" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[NBA]]></media:credit>
+                                <media:description><![CDATA[An ad for the service during a game.]]></media:description>
+                                <media:title><![CDATA[NBA League Pass]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Malaysia lifts ban on Grok after taking X at its word]]></title>
                                         <description type="html"><![CDATA[<p>After being one of the first countries in the world to block Elon Musk’s Grok chatbot, Malaysia has now lifted its ban. Along with Indonesia, the country moved swiftly to temporarily <a data-i13n="cpos:1;pos:1" href="https://www.theguardian.com/technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot"><ins>halt access</ins></a> to X&#39;s frequently controversial AI chatbot earlier this month, after multiple <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/elon-musks-grok-ai-posted-csam-image-following-safeguard-lapses-140521454.html"><ins>reports</ins></a> emerged of it being used to generate deepfake sexualized images of people, including women and children.</p>
 <p>At the time, the Malaysian Communications and Multimedia Commission (MCMC) said the restrictions would remain in place until X Corp and parent xAI could prove they had enforced the necessary safeguards against misuse of the above nature.</p>
@@ -3017,107 +3138,6 @@
                                 <media:credit><![CDATA[NurPhoto via Getty Images]]></media:credit>
                                 <media:description><![CDATA[The Apple logo appears on the screen of a smartphone placed on a surface reflecting the new Siri logo. Google and Apple enter into a collaboration agreement to integrate Gemini into Siri and the entire ecosystem in Creteil, France, on January 14, 2026. (Photo by Samuel Boivin/NurPhoto via Getty Images)]]></media:description>
                                 <media:title><![CDATA[Photographic Illustrations Of The Apple-Google Agreement For The Integration Of Gemini]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple is reportedly developing a wearable AI pin]]></title>
-                                        <description type="html"><![CDATA[<p>Apple will reportedly try to succeed where <a target="_blank" class="link" href="https://www.engadget.com/the-humane-ai-pin-is-the-solution-to-none-of-technologys-problems-120002469.html" data-i13n="cpos:1;pos:1">Humane failed (miserably)</a>. On Wednesday, <em>The Information</em> <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3512fe01-96f9-404d-bb5c-4712d6f3dcc9&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=reported&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvYXBwbGUtZGV2ZWxvcGluZy1haS13ZWFyYWJsZS1waW4iLCJjb250ZW50VXVpZCI6IjM1MTJmZTAxLTk2ZjktNDA0ZC1iYjVjLTQ3MTJkNmYzZGNjOSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL2FwcGxlLWRldmVsb3BpbmctYWktd2VhcmFibGUtcGluIn0&amp;signature=AQAAARlq286Kw6pYiPC-7KJyu_qCTdZKBlcg4HS-B0q6Hbyo&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fapple-developing-ai-wearable-pin" data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:2;pos:1" data-original-link="https://www.theinformation.com/articles/apple-developing-ai-wearable-pin">reported</a> that the iPhone maker is working on an AI pin. The wearable is said to resemble a slightly thicker AirTag and include multiple cameras, a speaker, microphones, and wireless charging.</p><p>The report coincides with another <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai" data-i13n="cpos:3;pos:1">from <em>Bloomberg</em></a> that claims that Apple will revamp Siri as a ChatGPT-style chatbot. When combined with the recent announcement that <a target="_blank" class="link" href="https://www.engadget.com/ai/apples-siri-ai-will-be-powered-by-gemini-153636649.html" data-i13n="cpos:4;pos:1">Google&#39;s Gemini will power Siri AI</a>, it looks like the company is finally making a more defined play for a piece of the generative AI pie. On the other hand, the wearable pin is reportedly only in the very early stages and could still be canceled.</p><p>The pin is described as a thin, flat, circular disc with an aluminum and glass exterior. It includes two cameras (standard and wide-angle) for taking photos and videos of the user&#39;s surroundings. It also has three microphones. It includes a speaker and a physical button along one edge. It has a magnetic inductive charging interface, similar to the Apple Watch&#39;s charging mechanism.</p><p>Given the way Apple markets itself as a privacy-focused company, it will be interesting to see how the company pitches the public on what sounds like an incognito recording device. Although on that note, the App Store still hosts the Grok app, which egregiously violates privacy by <a target="_blank" class="link" href="https://www.engadget.com/big-tech/28-advocacy-groups-call-on-apple-and-google-to-ban-grok-x-over-nonconsensual-deepfakes-215048460.html" data-i13n="cpos:5;pos:1">generating nearly-nude deepfakes of real people</a> — despite Apple&#39;s rules explicitly prohibiting such apps.</p><p><em>The Information</em> says Apple could release its AI pin as early as 2027. The company sounds confident in the device&#39;s appeal, as it reportedly plans to produce around 20 million units at launch.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">3512fe01-96f9-404d-bb5c-4712d6f3dcc9</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 21 Jan 2026 20:47:05 +0000</pubDate>
-                    <ingested>1769028430</ingested>
-                    <modified>2026-01-21T20:47:14+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F5111f560-f7a5-11ee-beff-1e8dca58e60b.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bbea9cc68250700bc359cc8627295b5c343ac93c" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F5111f560-f7a5-11ee-beff-1e8dca58e60b.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=bbea9cc68250700bc359cc8627295b5c343ac93c" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Hayato Huseman for Engadget]]></media:credit>
-                                <media:description><![CDATA[The Humane AI pin on a shirt]]></media:description>
-                                <media:title><![CDATA[Humane AI pin]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Microsoft ports the Xbox app to Arm-based Windows PCs]]></title>
-                                        <description type="html"><![CDATA[<p>Microsoft <a target="_blank" class="link" href="https://blogs.windows.com/windowsexperience/2026/01/21/play-more-xbox-app-is-now-available-on-arm-based-windows-11-pcs/" data-i13n="cpos:1;pos:1">has announced</a> that the Xbox app is now available on all Arm-based Windows 11 PCs. The app&#39;s release follows <a target="_blank" class="no-affiliate-link link" href="https://techcommunity.microsoft.com/blog/windowsosplatform/windows-on-arm-runs-more-apps-and-games-with-new-prism-update/4475631" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1">an update</a> Microsoft made to its Prism emulator in December 2025, which translates x86 and x64 apps to Arm, and now includes support for AVX and AVX2. Both extensions play a role in making games run efficiently on Windows.</p><p>Windows on Arm users will be able to use the Xbox app to purchase, download and stream PC games, and Microsoft says that &quot;more than 85 percent of the Game Pass catalog&quot; now runs on Arm PCs. Unlike Valve&#39;s SteamOS, Windows on Arm also supports anti-cheat software like Epic&#39;s Easy Anti Cheat, which means you can access a wider library of online multiplayer games in comparison to what you can get on the Steam Deck.</p><p>Microsoft has been working on getting Windows running on Arm for years at this point, and the company made a major push with its own <a target="_blank" class="link" href="https://www.engadget.com/surface-pro-copilot-review-the-best-surface-tablet-ever-made-no-thanks-to-ai-160039966.html" data-i13n="cpos:3;pos:1">Arm-based hardware</a> and the launch of the <a target="_blank" class="link" href="https://www.engadget.com/microsoft-unveils-copilot-pcs-with-generative-ai-capabilities-baked-in-170445370.html" data-i13n="cpos:4;pos:1">Copilot+ PC program</a> in 2024. Many Copilot+ PCs use Qualcomm&#39;s Snapdragon chips, the latest of which the company <a target="_blank" class="link" href="https://www.engadget.com/computing/qualcomm-says-its-new-snapdragon-chips-are-the-fastest-and-most-efficient-for-windows-pcs-084535090.html" data-i13n="cpos:5;pos:1">announced in September 2025</a>. Up until this point Microsoft&#39;s handheld efforts have been focused on <a target="_blank" class="link" href="https://www.engadget.com/gaming/pc/asus-rog-xbox-ally-x-review-an-extra-life-for-xbox-130050224.html" data-i13n="cpos:6;pos:1">PCs running AMD chips</a>, but expanded support for Arm and <a target="_blank" class="link" href="https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026#:~:text=Qualcomm%20won%E2%80%99t%20talk,9th%20to%2013th." data-i13n="cpos:7;pos:1">Qualcomm&#39;s own teases</a> certainly makes it seem like an Arm-based Windows 11 handheld could be announced sooner rather than later.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/microsoft-ports-the-xbox-app-to-arm-based-windows-pcs-191049475.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/pc/microsoft-ports-the-xbox-app-to-arm-based-windows-pcs-191049475.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">8db4c7ad-7884-4b11-8e70-2c9e2433ea09</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Wed, 21 Jan 2026 19:10:49 +0000</pubDate>
-                    <ingested>1769022657</ingested>
-                    <modified>2026-01-21T19:11:00+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FXbox-app-Windows-11-Arm.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=04b00bbc25505786d40c76187cefebc5fe2a9de7" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FXbox-app-Windows-11-Arm.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=04b00bbc25505786d40c76187cefebc5fe2a9de7" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Microsoft]]></media:credit>
-                                <media:description><![CDATA[An illustration of the Xbox app running on an Arm-based laptop]]></media:description>
-                                <media:title><![CDATA[xbox-Windows-11-Arm]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
