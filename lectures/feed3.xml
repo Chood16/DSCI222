@@ -6,9 +6,64 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Sat, 24 Jan 2026 12:30:00 +0000</pubDate>
+            <pubDate>Sat, 24 Jan 2026 13:00:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[How to use Workout Buddy with Apple Watch and iOS 26]]></title>
+                                        <description type="html"><![CDATA[<p>Apple’s iOS 26 and watchOS 26 introduced a new fitness companion called Workout Buddy. This feature uses Apple Intelligence to provide spoken feedback during workouts and give motivation based on your activity history. Workout Buddy analyzes your pace, heart rate, distance and other metrics to deliver real-time encouragement and performance insights directly through connected Bluetooth headphones. It works in conjunction with the Workout app on <a target="_blank" class="link" href="https://www.engadget.com/wearables/best-apple-watch-160005462.html" data-i13n="cpos:1;pos:1">Apple Watch</a> and is partially controlled through the Fitness app on <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html" data-i13n="cpos:2;pos:1">iPhone</a>. This guide walks you through everything needed to set up and use Workout Buddy effectively during workouts.</p><h2 id="jump-link-what-workout-buddy-does">What Workout Buddy does</h2><p>It’s important to note that Workout Buddy is not a full coaching program. Instead, it adds to your workout with spoken cues that reflect how your session is going. Workout Buddy can remind you of your weekly activity totals, alert you to personal bests or performance milestones and provide an overview when you’re finished. It is designed to feel like a supportive training partner rather than a strict coach.</p><p>The feature operates in English by default and uses a text-to-speech model trained on voices from Apple Fitness+ trainers. It is available for a subset of workout types, including running, walking, cycling, high-intensity interval training (HIIT) and strength training. It requires on-device Apple Intelligence, which means you’ll need to keep one of the latest iPhones running updated software nearby during workouts.&nbsp;</p><p>Supported models include iPhone 15 Pro, iPhone 15 Pro Max and any iPhone 16 model. You’ll also need an Apple Watch running watchOS 26.&nbsp;&nbsp;</p><h2 id="jump-link-requirements-before-you-begin">Requirements before you begin</h2><p>Before Workout Buddy appears in your Fitness app or Workout app you must ensure a few things are in place. First, your Apple Watch must be running watchOS 26 or later and paired to an iPhone with iOS 26 installed. Second, your iPhone must be capable of on-device Apple Intelligence, meaning you must own one of the supported iPhone models we mentioned above and have Apple Intelligence enabled in the phone’s settings.</p><p>You’ll also need Bluetooth headphones paired with either your iPhone or your Apple Watch. Workout Buddy’s audio feedback cannot play through the watch speaker so headphones are essential. Lastly, your device language must be set to English, at least initially. If any of these things are missing, the option to enable Workout Buddy may not appear.</p><h2 id="jump-link-how-to-turn-on-workout-buddy-from-iphone">How to turn on Workout Buddy from iPhone</h2><p>While much of the interaction with Workout Buddy happens on Apple Watch during workouts, you can enable it and choose voice options from the Fitness app on iPhone.</p><p>Open the Fitness app on your iPhone and tap the <strong>Workout</strong> tab at the bottom. Scroll through the list of workout types until you find one you plan to use with Workout Buddy. Tap the waveform bubble icon associated with that workout. This will bring up settings where you can turn on Workout Buddy. Flip the toggle to enable it and choose a voice from the available options. Once you have selected a voice, close that screen and your choice is saved. When you start this workout type on Apple Watch, Workout Buddy will activate.</p><p>Enabling Workout Buddy for a workout type on iPhone means you do not need to toggle it on separately on Apple Watch each time for that specific workout. However, you may still adjust it from the watch interface for more granular control.</p><h2 id="jump-link-how-to-turn-on-workout-buddy-on-apple-watch">How to turn on Workout Buddy on Apple Watch</h2><p>To use Workout Buddy during a session, open the Workout app on your Apple Watch. Turn the Digital Crown to scroll through and select the workout you want to do, such as Outdoor Run, Outdoor Walk, Outdoor Cycle, HIIT or Strength Training. If you want to see all available workouts, tap the <strong>Add</strong> button at the bottom.</p><p>Once the workout type is selected, look for the Alerts button on screen. Tap <strong>Alerts</strong> then scroll until you see Workout Buddy. Tap <strong>Workout Buddy</strong> and flip the switch to on. You will then be asked to choose a voice if one is not already selected on your iPhone. After selecting the voice, return to the previous screen and tap Start. Workout Buddy will begin working as soon as the workout does.</p><h2 id="jump-link-using-workout-buddy-during-a-workout">Using Workout Buddy during a workout</h2><p>Once you start an exercise on your Watch or iPhone, Workout Buddy will speak to you through your connected headphones. The feedback is designed to be encouraging and relevant to your pace, performance or milestones. It may mention your current progress toward activity goals, pace, splits, personal bests or other highlights from your fitness data. At the end of your session Workout Buddy will offer a summary of key metrics like duration distance and calorie burn.</p><p>While a workout is active, you can temporarily mute the audio if you need silence. On Apple Watch during the session, swipe right to reveal controls then tap <strong>Mute</strong>. This pauses Workout Buddy’s spoken commentary without disabling the feature entirely.</p><h2 id="jump-link-customizing-and-managing-workout-buddy-settings">Customizing and managing Workout Buddy settings</h2><p>Workout Buddy is enabled on a per-workout-type basis. If you prefer voice feedback for running but silence for strength training, you can enable it for one and leave it off for the other. The Fitness app on iPhone allows you to set a default voice preference for each workout type. On Apple Watch you can quickly toggle the feature on or off before starting a session.</p><p>If Workout Buddy does not appear as an option for a particular workout type, you may need to check compatibility. Apple’s documentation indicates that only certain types* are supported initially and that the option will not appear for unsupported workouts.</p><p style="text-align:justify;"><em>*Apple Watch SE (2nd generation), Apple Watch SE 3, Apple Watch Series 6, Apple Watch Series 7, Apple Watch Series 8, Apple Watch Series 9, Apple Watch Series 10, Apple Watch Series 11, Apple Watch Ultra, Apple Watch Ultra 2, Apple Watch Ultra 3</em></p><h2 id="jump-link-troubleshooting-common-issues">Troubleshooting common issues</h2><p>If Workout Buddy fails to activate make sure your devices meet the requirements outlined above. Confirm that your iPhone with Apple Intelligence is nearby and that Bluetooth headphones are connected. If audio feedback is missing, ensure headphones are paired correctly and that the language is set to English. Some users have reported that if the headphones are paired only to the Watch rather than the iPhone, it can interfere with feedback. Switching to the iPhone often resolves that issue.</p><p>For workout types where Workout Buddy previously worked but suddenly does not appear, you may try toggling the feature off and on again in the Fitness app or rebooting both devices. In rare cases removing and re-adding the workout type on Apple Watch can refresh the settings.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/how-to-use-workout-buddy-with-apple-watch-and-ios-26-130000922.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/wearables/how-to-use-workout-buddy-with-apple-watch-and-ios-26-130000922.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">95feb3f2-7996-4fc4-ab28-d91936b37dfa</guid>
+                                                                                        <dc:creator><![CDATA[Rob Webb]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Sat, 24 Jan 2026 13:00:00 +0000</pubDate>
+                    <ingested>1769259639</ingested>
+                    <modified>2026-01-24T13:00:44+00:00</modified>
+                                            <category>
+                            <![CDATA[Health]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Fitness]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Rob Webb]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F10749c40-9297-11f0-9bfe-94f0f4d5a252&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d4a39cadb218f95668b654701b4dccdc4ea64215" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2F10749c40-9297-11f0-9bfe-94f0f4d5a252&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d4a39cadb218f95668b654701b4dccdc4ea64215" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Cherlynn Low for Engadget]]></media:credit>
+                                <media:description><![CDATA[The Apple Watch Series 11 on a wrist, showing the watchOS 26 activity rings page.]]></media:description>
+                                <media:title><![CDATA[Apple Watch Series 11]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Engadget review recap: Valerion VisionMaster Max, Canon EOS R6 III and Samsung Bespoke Fridge]]></title>
                                         <description type="html"><![CDATA[<p>Our <a target="_blank" class="link" href="https://www.engadget.com/reviews/" data-i13n="cpos:1;pos:1">reviews team</a> is rested up after the CES grind and we’re back to business. This week we reviewed the latest devices from Valerion, Canon, Samsung and Sony, covering a wide range of product categories in the process. Grab yourself a beverage and cozy up with all the reviews you might’ve missed. </p>
 <h2 id="jump-link-valerion-visionmaster-max">Valerion VisionMaster Max</h2>
@@ -2933,58 +2988,6 @@
                                 <media:credit><![CDATA[Stealing isn't innovation]]></media:credit>
                                 <media:description><![CDATA[Actors, musicians and writers team up to fight AI &#39;theft at a grand scale&#39;]]></media:description>
                                 <media:title><![CDATA[Actors, musicians and writers team up to fight AI &#39;theft at a grand scale&#39;]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Spotify's Prompted Playlist lets you describe exactly what you want to hear]]></title>
-                                        <description type="html"><![CDATA[<p>Ahead of <a target="_blank" class="link" href="https://www.engadget.com/entertainment/music/spotifys-getting-a-buck-more-expensive-in-february-132300118.html" data-i13n="cpos:1;pos:1">its upcoming price hike</a>, Spotify is rolling out a more advanced AI playlist feature in the US and Canada. Prompted Playlist, which <a target="_blank" class="link" href="https://www.engadget.com/entertainment/music/spotifys-new-playlist-feature-gives-users-more-control-over-their-recommendation-algorithm-203237903.html" data-i13n="cpos:2;pos:1">the company trialed in New Zealand late last year</a>, lets subscribers &quot;control the Spotify algorithm,&quot; as the company describes it. &quot;You&#39;re not just asking for music, you&#39;re shaping how Spotify goes about discovering it for you.&quot;</p><p>For example, you can guide it to make a playlist of songs you&#39;ve saved to your Library but haven&#39;t listened to yet. (It can tap into your entire Spotify history.) Or, you can tell it to round up songs from a specific television show or movie. (It uses real-time information about pop culture, charts, and history.)</p><p>The feature includes options to refresh the playlist over time (daily or weekly). You can edit each playlist&#39;s prompt at any time. Each track will include a short note to explain why it was chosen.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Sampled_Favorites.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Sampled_Favorites.jpg" style="height:1080px;width:1920px;" alt="Four screens showing the steps to produce a Spotify Prompted Playlist" data-uuid="741fb4f5-0eb5-48e1-9b5b-760e94542627"/><figcaption>The standard AI Playlist creator will remain alongside the new Prompted Playlist.</figcaption><div class="photo-credit">Spotify</div></figure><p>Spotify says beta testers have used Prompted Playlist to revisit songs tied to specific moments and filter out tracks they&#39;ve overplayed lately. &quot;Others are asking for long, lyric-free electronic playlists to power through a workday, or mixing in artists connected to current pop culture moments and viral trends,&quot; the company wrote.</p><p>There&#39;s room for some confusion here because Spotify already has <a target="_blank" class="link" href="https://www.engadget.com/ai/spotifys-ai-playlists-are-now-available-for-premium-users-in-the-us-130008423.html" data-i13n="cpos:3;pos:1">an &quot;AI Playlist&quot; feature</a>. That simpler type will stick around alongside the new &quot;Prompted&quot; variety, which allows for finer tuning and can sift through more data.</p><p>Prompted Playlist will be available to Spotify Premium subscribers in the US and Canada &quot;by the end of the month.&quot; Once you have access, you can try it by tapping Create, then selecting Prompted Playlist.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/spotifys-prompted-playlist-lets-you-describe-exactly-what-you-want-to-hear-140000153.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/audio/spotifys-prompted-playlist-lets-you-describe-exactly-what-you-want-to-hear-140000153.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">93b5c297-635a-4ccb-ae05-905bca07d742</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 14:00:00 +0000</pubDate>
-                    <ingested>1769090420</ingested>
-                    <modified>2026-01-22T14:00:23+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F10K_Training_Mix.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5ff9e69643293a0bc186c0fbdedba17147b6e7d0" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F10K_Training_Mix.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=5ff9e69643293a0bc186c0fbdedba17147b6e7d0" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Spotify]]></media:credit>
-                                <media:description><![CDATA[Two phone screens showing steps of Spotify&#39;s Prompted Playlist feature.]]></media:description>
-                                <media:title><![CDATA[Spotify Prompted Playlist]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
