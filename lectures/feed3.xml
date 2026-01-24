@@ -6,9 +6,58 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Sat, 24 Jan 2026 17:58:51 +0000</pubDate>
+            <pubDate>Sat, 24 Jan 2026 18:33:58 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings]]></title>
+                                        <description type="html"><![CDATA[<p>If your Gmail inbox is all out of whack today, you&#39;re not alone. Gmail users have been encountering issues with the automatic filters that keep their main inbox free from the clutter of promotional emails and non-urgent updates, and some have reported seeing notices that emails have not been scanned for spam. Google confirmed to Engadget and in an update on its <a target="_blank" class="link" href="https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ" data-i13n="cpos:1;pos:1">Workspace status dashboard</a> that it&#39;s aware of the problems, and is currently working on a fix.&nbsp;</p><p>On social media and <a target="_blank" class="link" href="https://downdetector.com/status/gmail/" data-i13n="cpos:2;pos:1">DownDetector</a>, some Gmail users have also reported delays in receiving messages, leading to issues with two-factor authentication logins. Google noted that the problem has resulted in the &quot;misclassification of emails in their inbox and additional spam warnings,&quot; including a banner that says, “Be careful with this message. Gmail hasn&#39;t scanned this message for spam, unverified senders, or harmful software.” In a statement to Engadget, a Google spokesperson echoed the message from its status dashboard, saying, &quot;We are actively working to resolve the issue. As always, we encourage users to follow standard best practices when engaging with messages from unknown senders.&quot;</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">aaee127f-ec6f-4849-b0d7-deb85afefd46</guid>
+                                                                                        <dc:creator><![CDATA[Cheyenne MacDonald]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Sat, 24 Jan 2026 18:33:58 +0000</pubDate>
+                    <ingested>1769279801</ingested>
+                    <modified>2026-01-24T18:36:45+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Cheyenne MacDonald]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgmail2.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e190809d15fd844634619b313fe4ce36830b8588" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgmail2.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=e190809d15fd844634619b313fe4ce36830b8588" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Google]]></media:credit>
+                                <media:description><![CDATA[A rendering of a smartphone displaying Gmail&#39;s sidebar, which shows the many different categories emails are sorted into]]></media:description>
+                                <media:title><![CDATA[Gmail inbox]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[US Congress members call for 'thorough review' of EA's $55 billion sale]]></title>
                                         <description type="html"><![CDATA[<p>Before <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/ea-delays-battlefield-6-season-2-to-february-17-180306743.html">Electronic Arts</a> goes private in a groundbreaking sale, some US lawmakers are pleading for some federal oversight. Democratic members of the US Congress, as part of the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://laborcaucus.house.gov/sites/evo-subsites/laborcaucus.house.gov/files/evo-media-document/letter-to-ftc-on-proposed-acquisition-of-electronic-arts-ea.pdf">Congressional Labor Caucus</a>, penned a letter asking the Federal Trade Commission to &quot;thoroughly review&quot; the $55 billion acquisition of EA.</p>
 <p><a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ea-confirms-it-will-go-private-in-55-billion-acquisition-133841614.html">EA confirmed</a> the sale to the Public Investment Fund, or the sovereign wealth fund of Saudi Arabia, Silver Lake and Affinity Partners in September, but the deal is expected to close in the first quarter of 2027. Before the official change of ownership, the 46 House Democrats who signed the letter to the FTC are calling for more scrutiny into the impacts of the deal.&nbsp;</p>
@@ -2886,132 +2935,6 @@
                                 <media:credit><![CDATA[ExpressVPN]]></media:credit>
                                 <media:description><![CDATA[ExpressVPN logo, white lettering on red background]]></media:description>
                                 <media:title><![CDATA[ExpressVPN]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Canon EOS R6 III review: A video powerhouse that's also great for photography]]></title>
-                                        <description type="html"><![CDATA[<p>With video features like RAW now the norm on midrange mirrorless cameras, Canon decided not to mess around with its latest model, the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FZVVLR9D&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=75c5fc0f-94de-4c46-97a9-25282fe3fd47&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=33-megapixel+EOS+R6+III&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Nhbm9uLUVPUy1NYXJrLUlJSS1Cb2R5L2RwL0IwRlpWVkxSOUQvP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6Ijc1YzVmYzBmLTk0ZGUtNGM0Ni05N2E5LTI1MjgyZmUzZmQ0NyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DYW5vbi1FT1MtTWFyay1JSUktQm9keS9kcC9CMEZaVlZMUjlELyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAUOqLS6a-oGiwBbOD1qdPAG7VThTFlDG4IxMXqec1Ux0&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FCanon-EOS-Mark-III-Body%2Fdp%2FB0FZVVLR9D%2F" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" data-original-link="https://www.amazon.com/Canon-EOS-Mark-III-Body/dp/B0FZVVLR9D/">33-megapixel EOS R6 III</a>. It’s a veritable cinematic beast, allowing up to 7K RAW video capture internally with fast and reliable autofocus and rock solid stabilization.&nbsp;</p>
-<p>At the same time, it&#39;s a solid photo camera with high burst speeds and warm, accurate image quality. The R6 III has stiff competition with <a target="_blank" class="link" href="https://www.engadget.com/cameras/sonys-much-anticipated-a7-v-is-here-with-a-faster-33mp-sensor-and-4k-120p-video-140403371.html" data-i13n="cpos:2;pos:1">Sony’s 33MP A7 V</a>, though, as the latter delivers higher dynamic range. The price could also be an issue for buyers, as the R6 III costs $300 more than its predecessor. Whether it’s worth that extra money depends on what you’re planning to do with it.&nbsp;&nbsp;</p>
-<p>
- <core-commerce data-type="product-list" id="1d5cc7ca-6560-4eb8-b930-94a85b5c9dd5" data-original-url="https://www.amazon.com/Canon-EOS-Mark-III-Body/dp/B0FZVVLR9D/ref=sr_1_1ZVVLR9D/ref=sr_1_1"></core-commerce></p>
-<h2 id="jump-link-handling-and-design">Handling and design</h2>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Canon%20EOS%20R6%20Mark%20III_6077" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Canon%20EOS%20R6%20Mark%20III_6077" style="height:1579px;width:2800px;" alt="Canon EOS R6 III" data-uuid="caddcf81-8dd6-4dd0-a662-aa24f90f5289">
- <figcaption>
-  Canon EOS R6 III
- </figcaption>
- <div class="photo-credit">
-  Steve Dent for Engadget
- </div>
-</figure>
-<p>The EOS R6 III is quintessentially Canon in terms of design. It strongly resembles the R6 II and <a target="_blank" class="link" href="https://www.engadget.com/cameras/canon-eos-r5-ii-review-canons-most-powerful-camera-yet-puts-sony-on-notice-160013865.html" data-i13n="cpos:3;pos:1">EOS R5 II</a>, with the same button and dial layout at the rear. In terms of functionality, this is a good thing as everything falls perfectly to hand, letting you control it by feel once you’re used to it. However, the R6 III’s design is a bit bland, so if you’re looking for a stylish camera <em>a la</em> Fujifilm, this is not the one.&nbsp;</p>
-<p>Holding the R6 III is also a pleasure thanks to the grippy, soft rubber exterior, though at 1.5 pounds it’s a bit heavier than the A7 V. It’s comfortable to hold and use all day, unlike Sony’s A7 V which felt uncomfortable after prolonged usage because of the harder material and sharp crease around the fingertip area.&nbsp;</p>
-<p>The R6 III’s 3.69-million dot, 120 fps electronic viewfinder (EVF) worked fine for me to check color and focus, but falls short of the one on the much cheaper Nikon Z6 III. The flip-out 3-inch 1.65-million-dot rear touch display is on par for this category and does the job well. For storage, the R6 III supports CFexpress Type B cards for capturing RAW video, along with SD UHS II for MP4 video and photos.&nbsp;</p>
-<p>Other key features include headphone and microphone ports, a full-sized HDMI input (instead of microHDMI as before, thankfully) and a USB-C port for charging and transfers. Battery life is decent for this category with a maximum 510 shots per charge or 620 shots if you engage the power saving mode or about 90 minutes of continuous 4K capture. However, you can roughly double those figures with Canon&#39;s optional $150 BG-R20 battery grip.</p>
-<h2 id="jump-link-performance">Performance</h2>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Canon%20EOS%20R6%20Mark%20III_3812" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Canon%20EOS%20R6%20Mark%20III_3812" style="height:1590px;width:2800px;" alt="Canon&#39;s EOS R6 III offers fast burst speeds and skin-tone friendly colors" data-uuid="acce9715-1ff5-4595-8d3d-2e20700be316">
- <figcaption>
-  Canon&#39;s EOS R6 III offers fast burst speeds and skin-tone friendly colors
- </figcaption>
- <div class="photo-credit">
-  Steve Dent for Engadget
- </div>
-</figure>
-<p>The R6 III offers a boost in shooting speeds over its predecessor thanks to an all-new 33MP sensor. It has a faster readout speed than the R6 II as well, allowing for faster bursts and lower rolling shutter skew. In comparison, Sony’s A7 V also has a 33MP sensor but it’s partially stacked, so it delivers less distortion when shooting fast-moving subjects.&nbsp;</p>
-<p>With that new sensor and a 34 percent faster Digic X processor, the R6 III can shoot bursts at up to 40 fps in electronic and 12 fps in mechanical shutter modes (with continuous AF and AE enabled). That’s second only to the Panasonic S1 II (70 fps) in this price range. You can fill the buffer in about 3.7 seconds at that speed (150 RAW frames), which is a decent amount for a midrange camera.</p>
-<p>You usually want to avoid the electronic shutter with fast-moving action due to rolling shutter distortion, but the R6 III’s faster sensor can handle objects that are moving reasonably quickly. I also caught a few photos of babies, bikes and dogs I might have otherwise missed by using the new pre-capture mode that records up to 15 photos before fully declencing the shutter.</p>
-<p>The new sensor and processor also make the R6 III’s autofocus system faster and more accurate than before. When shooting bursts for fast moving action like dogs running or biking, less than five percent of my shots were out of focus. And the EOS R6 III can now track animals, birds and vehicles, on top of the faces, eyes and bodies of people.&nbsp;</p>
-<p>This camera also has a couple of new autofocus tricks, including one called Register People Priority. That lets you save up to 10 individuals on camera that it can identify and automatically switch to. I found it handy in a large gathering, helping me focus on my niece enjoying her second Christmas. However, the R6 III lacks a few autofocus features found on the R5 II like “action priority” for sports, eye control AF and AI upscaling.&nbsp;</p>
-<p>In-body stabilization is also excellent, keeping the sensor rock-steady for handheld shooting with 8.5 stops of shake reduction. With that enabled, I was able to nicely blur action on the streets while keeping the background sharply in focus at shutter speeds down to a full second.&nbsp;</p>
-<h2 id="jump-link-image-quality">Image quality</h2><core-slideshow data-slideshowid="bfdabb80-a86e-499b-8168-6e0fa364c25b"/>
-<p>With a 33MP sensor instead of a 24MP sensor, the R6 III offers quite a bit more sharpness and a touch more dynamic range than its predecessor. When shooting RAW, I was able to coax a lot of detail out of high contrast shots on sunny days with dark shadows. However, Sony’s A7 V soundly beats the R6 III in terms of dynamic range, thanks to its innovative new sensor.&nbsp;</p>
-<p>The R6 III’s high ISO performance isn’t too bad for a higher-resolution camera either, with noise staying under control up to ISO 12,800. As is typical with Canon models, skin tones are warmer and more flattering than on Sony and Nikon cameras, due to the slightly more yellow-biased pink tones. Those pleasing colors were consistent, even at high ISOs, when I shot kids and adults at a couple of indoor gatherings. If you don’t want the hassle of RAW, JPEG rendering is excellent straight out of the camera, with well balanced sharpening and noise reduction.</p>
-<p>Note that switching to electronic shutter mode drops the sensor to a 12-bit readout, which helps burst speeds but hurts image quality. This is a pretty big downside compared to the A7 V, which maintains 14-bit quality even when shooting at the camera’s maximum rate at 30 fps. So while on paper the R6 III wins the speed race, the 10 extra fps won’t be worth the drop in quality for many photographers.&nbsp;</p>
-<h2 id="jump-link-video">Video</h2>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/canon-eos-r6-iii-8693.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/canon-eos-r6-iii-8693.jpg" style="height:1609px;width:2800px;" alt="Canon&#x002019;s EOS R6 III " data-uuid="c6aadb60-92ef-4870-bc0b-9e4f8ea02693">
- <figcaption>
-  Canon’s EOS R6 III 
- </figcaption>
- <div class="photo-credit">
-  Steve Dent for Engadget
- </div>
-</figure>
-<p>Canon has improved video on the R6 III in every way, putting it nearly on par with the more expensive R5 II. Though it can’t shoot 8K, it can handle 7K RAW video at up to 60 fps (on CFexpress only) and 4K at 120p, with less rolling shutter than the R6 II. It also supports 3:2 “open gate” video that uses the full sensor area so you can output high-res vertical video and other formats.</p>
-<p>The R6 III supports 4K 10-bit MP4 shooting at high data rates too if you’d rather save storage space or shoot on SD cards. You also get CLog 2 on top of CLog 3 capability for improved dynamic range. Oddly though, Canon made it a bit of a pain to switch to log modes compared to past models, forcing you to slog through a bunch of menus to do so.&nbsp;</p>
-<p>Video autofocus is excellent across all resolutions, with rapid subject acquisition and reliable tracking. Face and eye detection work very well, and I only occasionally noticed slight autofocus lag with fast-moving subjects, particularly when they were moving toward the camera.&nbsp;</p>
-<div>
- <div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;">
-  <iframe src="https://www.youtube.com/embed/rkHnO2iHnwU?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe>
- </div>
-</div>
-<p>As for stabilization, I could smoothly shoot handheld with no crop, provided I didn’t move the camera too aggressively. Digital stabilization allowed even more movement and the enhanced setting let me shoot smoothly while walking (7K doesn’t work in the digital stabilization modes, though). <a target="_blank" class="link" href="https://www.engadget.com/panasonic-s5-ii-review-the-full-frame-vlogging-camera-youve-been-waiting-for-150028638.html" data-i13n="cpos:4;pos:1">Panasonic’s S5 II</a> is still the best in this regard with slightly smoother stabilization, but the R6 III isn’t far behind.</p>
-<p>Video on the EOS R6 III is extremely sharp in RAW and the HQ modes, particularly with supersampled 4K HQ. Other 4K modes are subsampled, but nearly as sharp. Rolling shutter is better managed than before, but you’ll still want to avoid things like whip pans, sudden jolts or rapid subjects like propellers or golf swings.&nbsp;</p>
-<p>In a variety of shooting scenarios in bright and dark conditions, Canon’s excellent color science delivered warm skin tones and accurate colors. Shooting RAW video allowed me to widely adjust shots in post, while the CLog 2 mode drastically improved dynamic range while I was shooting in contrasty conditions. For instance, I shot the famous Paris department store windows and was able to extract detail from the very bright and dark parts of the video.</p>
-<p>Overheating has been an issue in the past on Canon’s R6 models, but the R6 III never shut down for me, even during a few tests of over 15 minutes. Overall, it reliably delivered outstanding video quality and I actually preferred it to the R5 II due to the smaller RAW file sizes.&nbsp;</p>
-<h2 id="jump-link-wrap-up">Wrap-up</h2>
-<figure>
- <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/canon-eos-r6-iii-8738_8122.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/canon-eos-r6-iii-8738_8122.jpg" style="height:1479px;width:2800px;" alt="Canon EOS R6 III mirrorless camera" data-uuid="d3597bfa-ed2e-48e0-a430-0c3e1aceeb1f">
- <figcaption>
-  Canon EOS R6 III mirrorless camera
- </figcaption>
- <div class="photo-credit">
-  Steve Dent for Engadget
- </div>
-</figure>
-<p>Canon’s EOS R6 III is now the best midrange camera for creators thanks to the RAW video, rapid and accurate autofocus and excellent handling. At the same time, it’s a solid camera for photography with high burst speeds, extra resolution and, again, reliable AF. If it’s mainly photography you’re interested in, though, Sony’s $2,900 A7 V is a better choice. It matches the R6 III’s resolution, price and autofocus but offers superior dynamic range and lower rolling shutter distortion.</p>
-<p>Other video-centric options may be more attractive for other reasons — including budget. <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0D77SL8CY&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=75c5fc0f-94de-4c46-97a9-25282fe3fd47&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Nikon%E2%80%99s+24MP+Z6+III&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL05pa29uLUZ1bGwtRnJhbWUtbWlycm9ybGVzcy1JbnRlcm5hbC1SZWNvcmRpbmcvZHAvQjBENzdTTDhDWT90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiI3NWM1ZmMwZi05NGRlLTRjNDYtOTdhOS0yNTI4MmZlM2ZkNDciLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vTmlrb24tRnVsbC1GcmFtZS1taXJyb3JsZXNzLUludGVybmFsLVJlY29yZGluZy9kcC9CMEQ3N1NMOENZIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAUzwLpZK3e9R3WUtsVBlwt_QE_hnG-hOIlFfGJaGR9Go&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FNikon-Full-Frame-mirrorless-Internal-Recording%2Fdp%2FB0D77SL8CY" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1" data-original-link="https://www.amazon.com/Nikon-Full-Frame-mirrorless-Internal-Recording/dp/B0D77SL8CY">Nikon’s 24MP Z6 III</a> offers similar capabilities, has a partially stacked sensor and retails for $2,400, but can often be found on sale for less. <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0F8MHCD7V&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=75c5fc0f-94de-4c46-97a9-25282fe3fd47&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Panasonic%E2%80%99s+S1+II&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1BhbmFzb25pYy1NaXJyb3JsZXNzLVNob290aW5nLUludGVybmFsLVJlY29yZGluZy9kcC9CMEY4TUhDRDdWLz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiI3NWM1ZmMwZi05NGRlLTRjNDYtOTdhOS0yNTI4MmZlM2ZkNDciLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vUGFuYXNvbmljLU1pcnJvcmxlc3MtU2hvb3RpbmctSW50ZXJuYWwtUmVjb3JkaW5nL2RwL0IwRjhNSENEN1YvIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAaeELDB5rfrR_mUHCfEYD6cYpI20pXISSB_7HqF_s5Fj&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FPanasonic-Mirrorless-Shooting-Internal-Recording%2Fdp%2FB0F8MHCD7V%2F" data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:6;pos:1" data-original-link="https://www.amazon.com/Panasonic-Mirrorless-Shooting-Internal-Recording/dp/B0F8MHCD7V/">Panasonic’s S1 II</a> is also a good pick due to its RAW video and creator-centric features, though it costs more at $3,200.&nbsp;</p>
-<p>Which one to buy, then, depends on your budget, usage (video or photography) and whether you already have lenses in one system or another. With that said, if it’s a Canon camera you’re after and you lean toward content creation, the EOS R6 III is your best choice.&nbsp;</p>
-<p><br></p>
-<p></p>This article originally appeared on Engadget at https://www.engadget.com/cameras/canon-eos-r6-iii-review-a-video-powerhouse-thats-also-great-for-photography-153000494.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/cameras/canon-eos-r6-iii-review-a-video-powerhouse-thats-also-great-for-photography-153000494.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">75c5fc0f-94de-4c46-97a9-25282fe3fd47</guid>
-                                                                                        <dc:creator><![CDATA[Steve Dent]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 15:30:00 +0000</pubDate>
-                    <ingested>1769095860</ingested>
-                    <modified>2026-01-22T15:31:15+00:00</modified>
-                                            <category>
-                            <![CDATA[Cameras & Photography]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Steve Dent]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FCanon%2520EOS%2520R6%2520Mark%2520III&amp;resize=1400%2C821&amp;client=19f2b5e49a271b2bde77&amp;signature=59c648c339b1949aebbb4a8d6abeafbbc58c0036" width="1400" height="821" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FCanon%2520EOS%2520R6%2520Mark%2520III&amp;resize=1400%2C821&amp;client=19f2b5e49a271b2bde77&amp;signature=59c648c339b1949aebbb4a8d6abeafbbc58c0036" width="1400" height="821" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Steve Dent for Engadget]]></media:credit>
-                                <media:description><![CDATA[Canon&#39;s EOS R6 III has powerful video features and fast photo shooting speeds.]]></media:description>
-                                <media:title><![CDATA[Canon EOS R6 III review: A video powerhouse that also excels at photography]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
