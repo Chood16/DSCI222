@@ -6,9 +6,549 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Fri, 09 Jan 2026 20:45:07 +0000</pubDate>
+            <pubDate>Fri, 07 Nov 2025 12:00:00 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[How to generate AI images using ChatGPT]]></title>
+                                        <description type="html"><![CDATA[<p><a target="_blank" class="link" href="https://www.engadget.com/ai/now-you-can-generate-images-directly-from-chatgpt-and-sora-180047905.html" data-i13n="cpos:1;pos:1">Since March 2025</a>, ChatGPT has been capable of generating images. Following a <a target="_blank" class="link" href="https://www.engadget.com/ai/openais-built-in-image-generator-for-chatgpt-is-now-available-to-free-users-120003146.html" data-i13n="cpos:2;pos:1">period</a> where it briefly wasn't available to free users, you now don't even pay for one of OpenAI's subscriptions to use this feature. And while making images inside of ChatGPT is easy, there are some nuances worth explaining. For example, did you know you can ask ChatGPT to edit photos you've taken? It's more powerful than you might think. Here’s everything you need to know about generating AI images with ChatGPT.&nbsp;&nbsp;</p><h2 id="jump-link-how-to-create-images-with-chatgpt-using-text-prompts">How to create images with ChatGPT using text prompts&nbsp;</h2><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/chatgpt-how-to-3.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/chatgpt-how-to-3.jpg" style="height:1080px;width:1920px;" alt="To begin making an image in ChatGPT, you can start by typing in the prompt bar. " data-uuid="12487b37-d7dd-4ca9-991b-480b7361ff1a"><figcaption>To begin making an image in ChatGPT, you can start by typing in the prompt bar. </figcaption><div class="photo-credit">Igor Bonifacic for Engadget</div></figure><p>You can start generating images in ChatGPT simply by typing in the prompt bar what you want to see. There's no need to overthink things; as long as you have some version of "generate an image" followed by a description of your idea, ChatGPT will do the rest.&nbsp;&nbsp;</p><p>Depending on the complexity of the prompt and whether you pay for ChatGPT, it may take a minute or two for the chatbot to complete your image request. Sometimes the process can take longer if OpenAI's servers are experiencing greater traffic than usual.</p><p>At the end of last year, OpenAI <a target="_blank" class="link" href="https://www.engadget.com/ai/chatgpt-image-generation-is-now-faster-and-better-at-following-tweaks-180000750.html" data-i13n="cpos:3;pos:1">updated the model powering image generation</a> to make it faster, as well as better at rendering text and following instructions. At the same time, it added a dedicated "Images" section to ChatGPT's sidebar. Here you can see all the images you've made, alongside sample prompts and suggestions for styles to try out, making it a great place to start if you've never used an image generator before.&nbsp;&nbsp;&nbsp;&nbsp;</p><h2 id="jump-link-how-to-create-images-with-chatgpt-using-existing-photos">How to create images with ChatGPT using existing photos</h2><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/chatgpt-how-to-1.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/chatgpt-how-to-1.jpg" style="height:1080px;width:1920px;" alt="You can also upload images to ChatGPT." data-uuid="95a6fe1c-c213-446e-a94c-336af4f4f086"><figcaption>You can also upload images to ChatGPT.</figcaption><div class="photo-credit">Igor Bonifacic for Engadget</div></figure><p>In addition to generating images from text prompts, ChatGPT can modify existing photos or images you upload. This is my preferred way of making images with ChatGPT; I don't need to describe the composition, I can use an existing one to guide the chatbot. To use an existing image as a starting point for a new generation, follow these steps:&nbsp;&nbsp;&nbsp;&nbsp;</p><ol><li><p>Tap the "<strong>+</strong>"<strong> </strong>icon, located to the left of the prompt bar.&nbsp;&nbsp;</p></li><li><p>Select <strong>Add photos &amp; files.&nbsp;</strong></p></li><li><p>Select the image you want ChatGPT to edit. If uploading an image from your phone, you'll first need to grant ChatGPT access to your camera roll.&nbsp;&nbsp;&nbsp;</p></li><li><p>Write a prompt describing the changes you want.&nbsp;&nbsp;&nbsp;</p></li></ol><p>If generating from the Images section, tap "Add photos" instead.</p><p>Keep in mind any photos you upload to OpenAI's servers may be used by the company to <a target="_blank" class="link" href="https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance" data-i13n="cpos:4;pos:1">train future models</a>. You can opt out of allowing your data to be used for training by following these steps:&nbsp;</p><ol><li><p>Open the sidebar menu.&nbsp;</p><ol><li><p>On mobile, tap the two lines on the top left of the interface; on desktop, click instead on the OpenAI logo.</p></li></ol></li><li><p>Tap your name to access account settings.&nbsp;</p></li><li><p>Tap <strong>Data controls</strong>.</p></li><li><p>Toggle off <strong>Improve the model for everyone</strong>. </p></li></ol><h2 id="jump-link-how-to-edit-the-images-chatgpt-generates">How to edit the images ChatGPT generates</h2><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/openai-how-to-edit.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/openai-how-to-edit.jpg" style="height:1080px;width:1920px;" alt="ChatGPT gives you a few different ways to edit images." data-uuid="e4c670c9-758c-4e6a-83ad-87a3988d450f"><figcaption>ChatGPT gives you a few different ways to edit images.</figcaption><div class="photo-credit">Igor Bonifacic for Engadget</div></figure><p>If you're unhappy with ChatGPT's output, you have two options. You can either prompt it to create an entirely new image, or edit parts of the picture it just generated. As always, the process for both involves simply typing what you want in the prompt bar. On mobile, OpenAI gives users a few different ways of accomplishing the same task.</p><p>To generate an entirely new image:&nbsp;&nbsp;</p><ol><li><p>Tap the three dots icon below the image ChatGPT created.&nbsp;</p></li><li><p>Select <strong>Retry</strong>.<strong>&nbsp;</strong></p></li></ol><p>To edit part of an existing image generation:&nbsp;</p><ol><li><p>Tap the image ChatGPT created.&nbsp;</p></li><li><p>Tap <strong>Select area</strong>.</p></li><li><p>Use your finger to mask the section of the image you want ChatGPT to tweak. The slider on the left allows you to adjust the size of the masking brush. On desktop, masking is also available if you click on an image and then click on the paintbrush icon on the top right.&nbsp;</p></li><li><p>Describe what you want ChatGPT to add, remove or replace through the prompt bar.</p></li></ol><p>ChatGPT can also blend one of your photos with an image it has generated. To do this:&nbsp;</p><ol><li><p>Tap an image ChatGPT created.</p></li><li><p>Tap<strong> Blend in a photo</strong>.</p></li><li><p>Upload the photo you wish&nbsp;</p></li></ol><p>Like all AI systems, ChatGPT is non-deterministic, meaning even if you prompt it in the same way multiple times, it won't generate the exact same response each time. &nbsp;</p><h2 id="jump-link-tips-to-create-better-images-with-chatgpt">Tips to create better images with ChatGPT</h2><p>The best advice I can offer is to be specific<strong> </strong>when prompting ChatGPT. The more detail you can provide when describing what you want from it, the better the results. And remember: ChatGPT can hallucinate — as you may have noticed from one of the example pictures I included above. In the image of the tortoiseshell cat, not only is the tortie not sitting on the window sill as instructed, it's sitting on a table that doesn't make much sense. So, most of all, be patient. Prompting an AI model is not exact science, and it can take a few tries before it creates the result you want.&nbsp;</p><h2 id="jump-link-faqs">FAQs</h2><h3 id="jump-link-how-do-you-access-chatgpt">How do you access ChatGPT?</h3><p>ChatGPT is available on the web, desktop and mobile. To access it on your computer, open your preferred browser and navigate to <a target="_blank" class="link" href="http://chatgpt.com" data-i13n="cpos:5;pos:1"></a><a target="_blank" class="link">chatgpt.com</a>. OpenAI also offers dedicated Mac and Windows apps you can download from the <a target="_blank" class="link" href="https://chatgpt.com/download/" data-i13n="cpos:6;pos:1">company's website</a>. On iOS and Android, you'll need to download the ChatGPT app from either the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=6cae2b0e-a866-4c00-8dcd-1f7113fe54b1&amp;featureId=text-link&amp;linkText=App+Store&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2FwcHMuYXBwbGUuY29tL3VzL2FwcC9jaGF0Z3B0L2lkNjQ0ODMxMTA2OSIsImNvbnRlbnRVdWlkIjoiNmNhZTJiMGUtYTg2Ni00YzAwLThkY2QtMWY3MTEzZmU1NGIxIiwib3JpZ2luYWxVcmwiOiJodHRwczovL2FwcHMuYXBwbGUuY29tL3VzL2FwcC9jaGF0Z3B0L2lkNjQ0ODMxMTA2OSJ9&amp;signature=AQAAAamGgW7eqj9ZJmcUWFHefjak9ntq9I4LpWYnIfj-yY0o&amp;gcReferrer=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fchatgpt%2Fid6448311069" data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:7;pos:1" data-original-link="https://apps.apple.com/us/app/chatgpt/id6448311069">App Store</a> or <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=6cae2b0e-a866-4c00-8dcd-1f7113fe54b1&amp;featureId=text-link&amp;linkText=Google+Play&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLm9wZW5haS5jaGF0Z3B0JmhsPWVuX0NBIiwiY29udGVudFV1aWQiOiI2Y2FlMmIwZS1hODY2LTRjMDAtOGRjZC0xZjcxMTNmZTU0YjEiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20ub3BlbmFpLmNoYXRncHQmaGw9ZW5fQ0EifQ&amp;signature=AQAAAYyiXhU7UjmkWzKJ7RMub6LfOGfU0ve6cOZLWZrbqTTv&amp;gcReferrer=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.openai.chatgpt%26hl%3Den_CA" data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:8;pos:1" data-original-link="https://play.google.com/store/apps/details?id=com.openai.chatgpt&amp;hl=en_CA">Google Play</a> before you can start using the chatbot.&nbsp;&nbsp;&nbsp;</p><p>Since ChatGPT runs on OpenAI's servers, as long as you can access the chatbot, you'll be able to use it to create images no matter the age of your phone or computer.&nbsp;</p><h3 id="jump-link-can-chatgpt-generate-images-for-free">Can ChatGPT generate images for free?&nbsp;</h3><p>Yes, ChatGPT can generate images for free, as long as you create an OpenAI account. However, there is a daily rate cap and GPT-5 will take longer to make a free image. Following <a target="_blank" class="link" href="https://x.com/sama/status/1905296867145154688" data-i13n="cpos:9;pos:1">March 27, 2025</a>, OpenAI briefly limited free users to three image generations per day. The company has since relaxed that restriction, though it doesn't list a specific limit on its website. In my experience, you'll be able to generate about six to seven images every 24 hours.</p><p>OpenAI offers <a target="_blank" class="link" href="https://chatgpt.com/pricing/" data-i13n="cpos:10;pos:1">three different subscription plans</a>, each with their own set of image generation perks.&nbsp;&nbsp;</p><ul><li><p>ChatGPT Go, which costs $8 per month, offers "more image creation."&nbsp;</p></li><li><p>ChatGPT Plus, which costs $20 per month, offers "expanded and faster image creation."</p></li><li><p>ChatGPT Pro, which costs $200 per month, offers "unlimited and faster image creation."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></li></ul><p><strong>Note</strong>: ChatGPT Go will be included in <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-is-bringing-ads-to-chatgpt-192831449.html" data-i13n="cpos:11;pos:1">OpenAI's forthcoming ads pilot</a>, which will see the company display sponsored content alongside organic responses from ChatGPT. The company does not plan to display ads to Plus and Pro users.&nbsp;&nbsp;&nbsp;</p><h3 id="jump-link-can-chatgpt-generate-an-existing-photo">Can ChatGPT generate an existing photo?&nbsp;</h3><p>No. For copyright reasons, ChatGPT can't replicate photos or exact real world events. For example, when I asked it to recreate the photo of Zinedine Zidane's iconic 2006 World Cup headbutt, ChatGPT refused.&nbsp;&nbsp;</p><p>"I can make an artistic reinterpretation inspired by the emotion or energy of that moment — for example, a stylized painting showing the tension and intensity of competition, without depicting real individuals," it told me.&nbsp;&nbsp;</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/how-to-generate-ai-images-using-chatgpt-120000560.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/how-to-generate-ai-images-using-chatgpt-120000560.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">6cae2b0e-a866-4c00-8dcd-1f7113fe54b1</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 18:05:00 +0000</pubDate>
+                    <ingested>1769450753</ingested>
+                    <modified>2026-01-26T18:06:01+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fchatgpt-how-to-lede-1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f82e455ad57a865dfacb89b10cc81f4f16b8337a" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fchatgpt-how-to-lede-1.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f82e455ad57a865dfacb89b10cc81f4f16b8337a" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Igor Bonifacic for Engadget]]></media:credit>
+                                <media:description><![CDATA[ChatGPT is available on both iOS and Android.]]></media:description>
+                                <media:title><![CDATA[ChatGPT Image Generation]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Claude now offers deeper integrations with apps like Canva and Slack]]></title>
+                                        <description type="html"><![CDATA[<p>Anthropic has been building out support for third-party apps inside of Claude. As of today, the chatbot can now connect to platforms like Slack and <a target="_blank" class="link" href="https://www.engadget.com/ai/claude-ai-now-integrates-with-canva-201808571.html" data-i13n="cpos:1;pos:1">Canva</a>, fetching up files from inside those apps or performing tasks within them on a user&#39;s behalf.</p><p>For instance, when connected to Box, Claude can now search for files, preview documents inline and answer questions about the content in front of you. Meanwhile, with a connection to Asana, it can now turn chats into projects, tasks and timelines your co-workers can then find and interact with on the project management app.&nbsp;</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/bluAmTHoEow?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Box and Asana are just two of the platforms adding deeper integrations with Claude today. In total, there are nine launch partners, with some of the more notable ones including Canva, Figma and Slack.&nbsp;&nbsp;&nbsp;</p><p>As with Anthropic&#39;s past integrations, the new functionality is powered by Model Context Protocol (MCP) servers. MCP is a technology Anthropic released in <a target="_blank" class="link" href="https://www.anthropic.com/news/model-context-protocol" data-i13n="cpos:2;pos:1">fall 2024</a> to make it easier for third-party platforms to connect their systems to Claude. Since then, the protocol has become an industry standard. OpenAI, for instance, <a target="_blank" class="link" href="https://community.openai.com/t/introducing-support-for-remote-mcp-servers-image-generation-code-interpreter-and-more-in-the-responses-api/1266973" data-i13n="cpos:3;pos:1">adopted MCP last year</a>, and has been building additional support since then. At the end of last year, Anthropic donated the protocol to the <a target="_blank" class="link" href="https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation" data-i13n="cpos:4;pos:1">Linux Foundation</a>. The company says AI platforms will be able to bring similar integrations to their own products since they&#39;re built on a new open extension designed by Anthropic. &nbsp; </p>This article originally appeared on Engadget at https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">e1ed1d18-91f6-43ce-93d3-30c269fbad43</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
+                    <ingested>1769450429</ingested>
+                    <modified>2026-01-26T18:00:32+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fclaude-mcp-asana.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8f7d0f7e07903a1288fbb449725d83cd19bee182" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fclaude-mcp-asana.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8f7d0f7e07903a1288fbb449725d83cd19bee182" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Anthropic / Asana]]></media:credit>
+                                <media:description><![CDATA[Claude can now more directly interact with apps like Asana and Canva.]]></media:description>
+                                <media:title><![CDATA[Claude Asana MCP]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Trump admin reportedly plans to use AI to write federal regulations]]></title>
+                                        <description type="html"><![CDATA[<p>The Trump administration is planning on using Google Gemini to draft important federal regulations, <a data-i13n="cpos:1;pos:1" href="https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations"><ins>as reported by </ins><em><ins>ProPublica</ins></em></a>. This is starting with the Department of Transportation, according to interviews with agency staffers. Regulations created by the DOT help keep us safe when traveling.</p>
+<p>The plan was initially presented to DOT staffers last month, with agency attorney Daniel Cohen writing to colleagues about AI&#39;s &quot;potential to revolutionize the way we draft rulemakings.&quot; Gregory Zerzan, the agency&#39;s general counsel, has indicated that President Donald Trump is &quot;very excited by this initiative&quot; and that DOT will be &quot;the first agency that is fully enabled to use AI to draft rules.&quot; This does suggest a pilot program of sorts, with eventual plans to bring AI to other departments.</p>
+<span id="end-legacy-contents"></span><div id="c7604dd648514ab68e0ce54091b1ded9"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: The Trump administration is planning to use AI to write federal regulations despite the risk of hallucinations.<br><br>“We don&#39;t even need a very good rule,” <a href="https://twitter.com/USDOT?ref_src=twsrc%5Etfw">@USDOT</a>’s top lawyer said of the plan, per meeting notes reviewed by ProPublica. “We want good enough.” 🧵 <a href="https://t.co/YKGvmlkMCt">pic.twitter.com/YKGvmlkMCt</a></p>— Jesse Coburn (@Jesse_Coburn) <a href="https://twitter.com/Jesse_Coburn/status/2015764243728003411?ref_src=twsrc%5Etfw">January 26, 2026</a></blockquote>
+ 
+
+</div>
+<p>Oddly, Zerzan doesn&#39;t seem that interested in high-quality regulations. <em>ProPublica</em> received transcripts of a meeting in which he declared that &quot;we don&#39;t need the perfect rule on XYZ. We don&#39;t even need a very good rule on XYZ.&quot; He went on to say that &quot;we want good enough&quot; and that &quot;we&#39;re flooding the zone.&quot;</p>
+<p>Let me remind you that DOT regulates the safety standards of commercial aircraft, along with rules involving the transport of hazardous materials and driver qualifications. The agency&#39;s rules touch on every aspect of transportation safety. Why would the federal government rely on a new technology that&#39;s <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/techs-biggest-losers-of-2025-140000419.html"><ins>notorious for making mistakes</ins></a>?</p>
+<div id="cc820b6000094d528455767cda0daac8"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">AI “hallucinations” eg false/made-up info now becoming a problem in scientific publications. Kudos to <a href="https://twitter.com/alexcdot?ref_src=twsrc%5Etfw">@alexcdot</a> et al on building an AI hallucination detector and finding that certain journals/authors have used LLMs to generate papers that also made it through peer review. Here’s… <a href="https://t.co/i4Be1lS8xq">pic.twitter.com/i4Be1lS8xq</a></p>— Daphne Zohar (@daphnezohar) <a href="https://twitter.com/daphnezohar/status/2014305838219837720?ref_src=twsrc%5Etfw">January 22, 2026</a></blockquote>
+ 
+
+</div>
+<p>The answer is speed. Writing and revising complex federal regulations can take months, but Google Gemini can spit something out in minutes. A DOT employee giving a presentation on the program suggested that many parts of these regulations are just &quot;word salad&quot; anyways, so AI should be able to do just fine.</p>
+<p>&quot;It shouldn’t take you more than 20 minutes to get a draft rule out of Gemini,&quot; Zerzan said. The plan is to compress the timeline in which transportation regulations are written and reviewed. The department has already used AI to draft an unpublished Federal Aviation Administration rule.</p>
+<p>Federal agencies have used AI for years, but not to actually write regulations. It&#39;s primarily been used for the purpose of translating documents, analyzing data and categorizing public comments. Trump, however, is a huge <a data-i13n="cpos:3;pos:1" href="https://www.ai.gov/"><ins>proponent of the technology</ins></a>. He has released multiple executive orders <a data-i13n="cpos:4;pos:1" href="https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"><ins>in support of AI</ins></a> and once shared an AI-created video in which <a data-i13n="cpos:5;pos:1" href="https://www.theguardian.com/us-news/2025/oct/20/trump-ai-video-no-kings"><ins>he flew a fighter jet</ins></a> and dropped what appears to be feces on American citizens.</p>
+<p>Skeptics say that large language models like Gemini shouldn&#39;t be in charge of drafting complicated and consequential regulations that impact millions of everyday Americans. Mistakes could lead to lawsuits and even injuries and deaths.</p>
+<p>Mike Horton, DOT’s former acting chief artificial intelligence officer, said using Gemini to draft regulations was like “having a high school intern that’s doing your rulemaking.” He also said that agency leaders under Trump &quot;want to go fast and break things, but going fast and breaking things means people are going to get hurt.&quot;</p>
+<p>&quot;Just because these tools can produce a lot of words doesn’t mean that those words add up to a high-quality government decision,” said Bridget Dooling, a professor at Ohio State University who studies administrative law. “It’s so tempting to try to figure out how to use these tools, and I think it would make sense to try. But I think it should be done with a lot of skepticism.&quot;</p>
+<p>DOT has experienced a net loss of more than 4,000 employees since Trump started his second term. This includes <a data-i13n="cpos:6;pos:1" href="https://data.opm.gov/explore-data/analytics/workforce-changes"><ins>over 100 attorneys</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/trump-admin-reportedly-plans-to-use-ai-to-write-federal-regulations-175155111.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/trump-admin-reportedly-plans-to-use-ai-to-write-federal-regulations-175155111.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">a5c56888-99bb-4834-b50c-eeedd5a6ab3f</guid>
+                                                                                        <dc:creator><![CDATA[Lawrence Bonk]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 17:51:56 +0000</pubDate>
+                    <ingested>1769449917</ingested>
+                    <modified>2026-01-26T17:52:01+00:00</modified>
+                                            <category>
+                            <![CDATA[Politics & Government]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Lawrence Bonk]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fcab28bc0-9e4b-11f0-b52e-25a82bf4dffb&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=e0d4055995f41682e9f67b3e11ff531e21994f05" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-09%2Fcab28bc0-9e4b-11f0-b52e-25a82bf4dffb&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=7294e8ef52a1d53561e42a6d0bc010f313ea82bb" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Win McNamee via Getty Images]]></media:credit>
+                                <media:description><![CDATA[WASHINGTON, DC - SEPTEMBER 30: U.S. President Donald Trump (L) answers questions while childhood cancer survivors and their families gather in the Oval Office at the White House on September 30, 2025 in Washington, DC. According to Trump, the executive order he was signing will accelerate pediatric cancer research, including by harnessing the power of artificial intelligence. (Photo by Win McNamee/Getty Images)]]></media:description>
+                                <media:title><![CDATA[President Trump Signs Executive Order In Oval Office]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[ExpressVPN deal: Two-year plans are up to 78 percent off]]></title>
+                                        <description type="html"><![CDATA[<p>If you're looking to up your privacy game on the internet in the new year, you can do so for a little less than usual thanks to <a data-i13n="cpos:1;pos:1" href="https://checkout.expressvpn.com/order">ExpressVPN's</a> latest deal. Its two-year plans are up to 78 percent off right now: the Advanced tier is on sale for $101 for two years, plus four additional free months. That works out to $3.59 per month during the promotional period.</p> 
+<p>We’ve consistently liked ExpressVPN because it’s fast, easy to use and widely available across a large global server network. In fact, it's our current pick for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">best premium VPN</a>. One of the biggest drawbacks has always been its high cost, and this deal temporarily solves that issue.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="e8bfbbd20bb1436c83f85e60232ea509" data-type="product-list" data-original-url="https://checkout.expressvpn.com/order"></core-commerce></p> 
+<p>In our <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cybersecurity/vpn/expressvpn-review-2025-fast-speeds-and-a-low-learning-curve-160052884.html">review</a> we were able to get fast download and upload speeds, losing only 7 percent in the former and 2 percent in the latter worldwide. We found that it could unblock Netflix anywhere, and its mobile and desktop apps were simple to operate. We gave ExpressVPN an overall score of 85 out of 100.</p> 
+<p>The virtual private network service now has three tiers. Basic is cheaper with fewer features, while Pro costs more and adds extra perks like support for 14 simultaneous devices and a password manager. Advanced sits in the middle and includes the password manager but only supports 12 devices.</p> 
+<p>The Basic plan is $78 right now for 28 months, down from $363, and the Pro plan is $168, down from $560. That's 78 percent and 70 percent off, respectively. All plans carry a 30-day money-back guarantee for new users, so you can try it without committing long term if you’re on the fence.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-78-percent-off-180602243.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-78-percent-off-180602243.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">ad6bc22c-2c6b-4ec4-832c-d6d9af119838</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 17:45:36 +0000</pubDate>
+                    <ingested>1769449536</ingested>
+                    <modified>2026-01-26T17:45:37+00:00</modified>
+                                            <category>
+                            <![CDATA[Internet & Networking Technology]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Fef2e63b0-dd12-11f0-bf67-578319329ec3&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f0df25cd7e2518fc9043cd00c8c28d43c87f46c7" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2Fef2e63b0-dd12-11f0-bf67-578319329ec3&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=91c99c575cdf338134169b244c006c4424c89d91" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[ExpressVPN]]></media:credit>
+                                <media:description><![CDATA[ExpressVPN logo, white lettering on red background]]></media:description>
+                                <media:title><![CDATA[ExpressVPN]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Ball x Pit's first update brings an endless mode and much more to the chaos]]></title>
+                                        <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/3EIJeqbptiY?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>It’s time to jump back into the pit. <em>Ball x Pit </em>is <a target="_blank" class="link" href="https://www.engadget.com/gaming/engadgets-games-of-the-year-2024-133005519.html" data-i13n="cpos:1;pos:1">one of the very best games of 2025</a> and there’s now even more to play around with in the brick-busting roguelite. The first major free update for the game (<a target="_blank" class="link" href="https://www.engadget.com/gaming/ball-x-pit-is-evolving-with-a-string-of-free-updates-in-2026-181947946.html" data-i13n="cpos:2;pos:1">one of three that’s on the cards this year</a>) just arrived on all platforms. It added a bunch more stuff to the mix, including two new characters, eight extra special balls with powerful abilities and an endless mode.</p><p>Developer Kenny Sun wrote on the <a target="_blank" class="link" href="https://blog.playstation.com/2026/01/26/ball-x-pit-the-regal-update-launches-today/" data-i13n="cpos:3;pos:1"><em>PlayStation Blog</em></a> that because fans demanded it so much, endless mode jumped right to the top of the to-do list. After you beat a level’s boss, you can keep going as long as you can stay alive and really put your builds to the test. </p><p>The Regal Update brought two more playable hunters to the mix as well. Opt to use The Falconer, and you’ll fire balls from two birds, one at each side of the screen. When balls return to The Carouser, they orbit around him to deal extra damage. Sun added that this character “twists ball trajectories with a personal gravity field that pulls shots off their usual paths.”</p><p>Then there are the new balls. The Stone Ball is powerful, but disintegrates as it bounces. Two of the latest balls deal spins on fire damage and the Fireworks Ball seems like it’ll add even more chaotic visual flair. The update added a trio of passives too. I enjoy creating builds around baby balls (a secondary type of ball that doesn’t have a special ability), so I’m eager to try out Iron Onesie. This passive scales up the damage of special balls depending on how many baby balls are in play. </p><p>Finally, the update introduced support for more languages. You can play <em>Ball x Pit </em>in Spanish (Latin America), Polish, Italian, Thai, Turkish and Ukrainian.</p><p>In anticipation of the update, I jumped back into <em>Ball x Pit </em>over the weekend for a quick refresher. Before I knew it, four hours had gone by. This game is <a target="_blank" class="link" href="https://www.engadget.com/gaming/ball-x-pits-deeply-satisfying-grind-keeps-me-coming-back-for-more-171000754.html" data-i13n="cpos:4;pos:1">once again going to be an existential threat to my time.</a> </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/ball-x-pits-first-update-brings-an-endless-mode-and-much-more-to-the-chaos-174306548.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/ball-x-pits-first-update-brings-an-endless-mode-and-much-more-to-the-chaos-174306548.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">eaec43fe-3b9d-4261-aad2-f3bac9fe4cbb</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 17:43:06 +0000</pubDate>
+                    <ingested>1769449387</ingested>
+                    <modified>2026-01-26T17:43:08+00:00</modified>
+                                            <category>
+                            <![CDATA[Sports & Recreation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fball_pit.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=ea494b7018cdf7d035866dbe907bb0cdea252712" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[TikTok says a power outage is causing issues with the app in the US]]></title>
+                                        <description type="html"><![CDATA[<p>If your TikTok feed has felt a little off lately, it&#39;s not just you. TikTok says it&#39;s working to fix its service in the US following a power outage at one of its data centers that&#39;s caused widespread issues in the app. TikTok users have reported problems logging in and uploading videos, as well as with the app&#39;s &quot;for you&quot; algorithm.</p><p>&quot;Since yesterday we’ve been working to restore our services following a power outage at a U.S. data center impacting TikTok and other apps we operate,&quot; the company wrote in a statement Monday. &quot;We&#39;re working with our data center partner to stabilize our service. We&#39;re sorry for this disruption and hope to resolve it soon.&quot;</p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since yesterday we’ve been working to restore our services following a power outage at a U.S. data center impacting TikTok and other apps we operate. We&#39;re working with our data center partner to stabilize our service. We&#39;re sorry for this disruption and hope to resolve it soon.</p>— TikTok USDS Joint Venture (@tiktokusdsjv) <a href="https://twitter.com/tiktokusdsjv/status/2015807214871535741?ref_src=twsrc%5Etfw">January 26, 2026</a></blockquote>
+
+
+</div><p>The issues come just days after TikTok finalized a deal to spin off its US business into a separate entity <a target="_blank" class="link" href="https://www.engadget.com/big-tech/tiktok-finalizes-deal-for-its-us-entity-010543484.html" data-i13n="cpos:1;pos:1">largely controlled</a> by US investors. That timing hasn&#39;t gone unnoticed by users, many of whom are already suspicious of the company pushing a terms of service and privacy policy in the hours after the deal was finalized.&nbsp;</p><p>The problems affecting the app&#39;s recommendation algorithm have also raised questions about TikTok USDS Joint Venture&#39;s plans to &quot;retrain&quot; TikTok&#39;s central feature. Since Sunday, users have reported seeing a wave of generic videos flood their feeds, which are typically hyper-personalized. Other users have reported seeing the same few videos repeated over and over again.&nbsp;</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/social-media/tiktok-says-a-power-outage-is-causing-issues-with-the-app-in-the-us-173426617.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/social-media/tiktok-says-a-power-outage-is-causing-issues-with-the-app-in-the-us-173426617.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">6c92f4e5-a484-40cc-b29f-ef5732fb73d6</guid>
+                                                                                        <dc:creator><![CDATA[Karissa Bell]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 17:34:26 +0000</pubDate>
+                    <ingested>1769448875</ingested>
+                    <modified>2026-01-26T17:34:37+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Karissa Bell]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F7d1055d4-44ff-4243-bc39-05f5277dadd7&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=24cc818ddc8c3729c0a89ef65e5394cae84d26e1" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F7d1055d4-44ff-4243-bc39-05f5277dadd7&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=24cc818ddc8c3729c0a89ef65e5394cae84d26e1" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Cheng Xin via Getty Images]]></media:credit>
+                                <media:description><![CDATA[CHONGQING, CHINA - JANUARY 23: In this photo illustration, a smartphone displays the TikTok application page on the Apple App Store, with TikTok branding visible in the background, on January 23, 2026, in Chongqing, China. In a post shared earlier in the day on Truth Social, U.S. President Donald Trump said he helped keep TikTok operating in the United States, citing efforts involving American investors and discussions with Chinese counterparts, and expressed appreciation for Chinese President Xi Jinping&#39;s approach toward allowing the deal to proceed amid ongoing U.S. national security scrutiny. (Photo illustration by Cheng Xin/Getty Images)]]></media:description>
+                                <media:title><![CDATA[TikTok App Page Shown On Apple App Store On Smartphone]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Winter Olympics: How to watch, schedule of events, and everything else you need to know about the 2026 Milano Cortina games]]></title>
+                                        <description type="html"><![CDATA[<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/2026-01/7beba20e-81ae-4469-aae3-08dcc7f3f743" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/2026-01/7beba20e-81ae-4469-aae3-08dcc7f3f743" style="height:4642px;width:6963px;" alt="LIVIGNO, ITALY - DECEMBER 26: A logo with ring of MilanoCortina on December 26, 2025 in Livigno, Italy. Livigno as part of the Valtellina cluster is one of the areas for the upcoming Milano Cortina 2026 Winter Olympics and will host men&#39;s alpine skiing, snowboard, freestyle skiing and ski mountaineering competitions. (Photo by Mattia Ozbot/Getty Images)" data-uuid="da542786-442c-3033-9c40-2b70070f205a">
+ <figcaption>
+  The Milano Cortina 2026 Winter Olympics are coming up. (Mattia Ozbot/Getty Images)
+ </figcaption>
+ <div class="photo-credit">
+  Mattia Ozbot via Getty Images
+ </div>
+</figure> 
+<p>The <a data-i13n="cpos:1;pos:1" href="https://sports.yahoo.com/olympics/">2026 Winter Olympics</a> are taking place in Italy this year, with all the action taking place in Milan and the Alpine city of Cortina. This year marks the fourth time Italy has hosted the Winter Games; most recently, Turin hosted in 2006. Of the 16 sports that will be featured at the Winter Olympics, there will be 15 returning favorites, including figure skating, Alpine skiing, curling, ice hockey, speedskating, snowboarding, freestyle skiing and ski jumping, and one entirely new sport, snow mountaineering. (Will it be as big a hit as the 2024 Summer Games&#39; new addition, <a data-i13n="cpos:2;pos:1" href="https://sports.yahoo.com/olympic-breaking-live-updates-rules-124130700.html">breaking</a>? It remains to be seen.)</p> 
+<p>Live coverage of every event at the Olympic Winter Games Milano Cortina 2026 will be available to stream on Peacock — though thanks to the time difference between Italy and the U.S., to watch many of the events live, you&#39;ll have to wake up (or stay up) until 2AM or 3AM ET. Primetime replays and select live coverage will air on NBC. The games officially kick off with the opening ceremony on Feb. 6, 2026.</p> <span id="end-legacy-contents"></span>
+<p>Here&#39;s what else you need to know about watching the 2026 Winter Olympics.</p> 
+<h2 id="jump-link-how-to-watch-the-2026-winter-olympics"><strong>How to watch the 2026 Winter Olympics</strong></h2> 
+<p>
+ <core-commerce id="f1d6ae1c96104bc2b1c7c632ae2525b9" data-type="product-list" data-original-url="https://www.peacocktv.com/"></core-commerce></p> 
+<p>
+ <core-commerce id="52ac3e1a141a4cc18a11a4b628835d45" data-type="product-list" data-original-url="https://www.directv.com/stream/"></core-commerce></p> 
+<p><strong>Dates:</strong> Feb. 6 - Feb. 22</p> 
+<p><strong>TV channel: </strong>NBC</p> 
+<p><strong>Streaming:</strong> Peacock</p> 
+<h2 id="jump-link-when-are-the-2026-winter-olympics"><strong>When are the 2026 Winter Olympics?</strong></h2> 
+<p>The Winter Olympics officially begin with the opening ceremony on Feb. 6, although some events will start as early as Feb. 4). The Milano Cortina 2026 games will run through Feb. 22. The closing ceremony of the 2026 Winter Olympics will take place in the Arena di Verona on Feb. 22.</p> 
+<h2 id="jump-link-where-are-the-winter-olympics-this-year"><strong>Where are the Winter Olympics this year?</strong></h2> 
+<p>The 2026 Winter Olympics will be held in Northern Italy, primarily in Milan and also the Alpine mountain resort town of Cortina d&#39;Ampezzo, where events like bobsled, skeleton, alpine skiing, curling, para snowboard, and more will take place.</p> 
+<h2 id="jump-link-what-channel-are-the-olympics-on"><strong>What channel are the Olympics on?</strong></h2> 
+<p>The 2026 Winter Olympics will air on NBC and stream live on Peacock.</p> 
+<h2 id="jump-link-how-to-watch-the-2026-winter-olympics-without-cable"><strong>How to watch the 2026 Winter Olympics without cable</strong></h2> 
+<p>
+ <core-commerce id="1647beeeb21d4fe6a855b1a6e281fa74" data-type="product-list" data-original-url="https://www.peacocktv.com/"></core-commerce></p> 
+<p>
+ <core-commerce id="8b0ee9c20d5a4182b83864b59a328f01" data-type="product-list" data-original-url="https://www.directv.com/stream/"></core-commerce></p> 
+<h2 id="jump-link-when-is-the-winter-olympics-opening-ceremony"><strong>When is the Winter Olympics opening ceremony?</strong></h2> 
+<p>The Milano Cortina 2026 opening ceremony will be held on Feb. 6, 2026. Due to the time difference, the ceremony will kick off around 2PM ET/11AM PT.</p> 
+<h2 id="jump-link-winter-olympics-time-difference"><strong>Winter Olympics time difference</strong></h2> 
+<p>This year&#39;s Olympic Games are in Italy, which is 6 hours ahead of U.S. Eastern Time. Meaning that some events will start bright and early for U.S. viewers, and live coverage will likely wrap up around 4PM ET each day. NBC will have primetime replays of the biggest moments each night.</p> 
+<h2 id="jump-link-2026-winter-olympics-tvstreaming-schedule"><strong>2026 Winter Olympics TV/streaming schedule:</strong></h2> 
+<p><em>All times Eastern.</em></p> 
+<p><strong>Wednesday, Feb. 4</strong> (early competition starts)</p> 
+<ul> 
+ <li><p>Curling (round robin) – 2AM (Peacock – Live)</p></li> 
+ <li><p>Curling (round robin) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Alpine skiing training – 3–6AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Thursday, Feb. 5</strong></p> 
+<ul> 
+ <li><p>Curling (round robin) – 2AM (Peacock – Live)</p></li> 
+ <li><p>Curling (round robin) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Freestyle skiing qualifications – 4AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard qualifications – 6AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Friday, Feb. 6</strong> – opening ceremony</p> 
+<ul> 
+ <li><p>Curling (round robin) – 2AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (team event short programs) – 6AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard slopestyle qualifications – 6AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating (early distances) – 8AM (Peacock – Live)</p></li> 
+ <li><p>opening ceremony – 2PM (Peacock – Live)</p></li> 
+ <li><p>opening ceremony – 8PM (NBC – Primetime)</p></li> 
+</ul> 
+<p><strong>Saturday, Feb. 7</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (men’s downhill) – 3AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard slopestyle finals – 6AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating medals – 7AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (team free programs) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (group play begins) – 10AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Sunday, Feb. 8</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (women’s downhill) – 3AM (Peacock – Live)</p></li> 
+ <li><p>Freestyle skiing moguls finals – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (pairs short program) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Luge (singles runs) – 9AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (group play) – 12PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Monday, Feb. 9</strong></p> 
+<ul> 
+ <li><p>Biathlon sprint – 5AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating medals – 7AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (pairs free skate – medals) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Curling (round robin) – 9AM (Peacock – Live)</p></li> 
+ <li><p>Skeleton (heat 1–2) – 11AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Tuesday, Feb. 10</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (giant slalom) – 4AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard halfpipe qualifications – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (men’s short program) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Curling (round robin) – 10AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Wednesday, Feb. 11</strong></p> 
+<ul> 
+ <li><p>Nordic combined – 4AM (Peacock – Live)</p></li> 
+ <li><p>Freestyle skiing aerials finals – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (men’s free skate – medals) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating medals – 11AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Thursday, Feb. 12</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (slalom) – 4AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard halfpipe finals – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (ice dance rhythm dance) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Curling (medal round qualifiers) – 10AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Friday, Feb. 13</strong></p> 
+<ul> 
+ <li><p>Biathlon pursuit – 5AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (ice dance free dance – medals) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Skeleton finals – 10AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (quarterfinals) – 12PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Saturday, Feb. 14</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (team combined) – 4AM (Peacock – Live)</p></li> 
+ <li><p>Cross-country skiing distance race – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (women’s short program) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating medals – 11AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Sunday, Feb. 15</strong></p> 
+<ul> 
+ <li><p>Snowboard cross finals – 6AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating (women’s free skate – medals) – 8AM (Peacock – Live)</p></li> 
+ <li><p>Luge relay – 11AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (semifinals) – 1PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Monday, Feb. 16</strong></p> 
+<ul> 
+ <li><p>Freestyle skiing dual moguls – 6AM (Peacock – Live)</p></li> 
+ <li><p>Cross-country skiing team sprint – 8AM (Peacock – Live)</p></li> 
+ <li><p>Curling (medal games) – 10AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Tuesday, Feb. 17</strong></p> 
+<ul> 
+ <li><p>Biathlon relay – 5AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating team pursuit – 7AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (placement games) – 12PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Wednesday, Feb. 18</strong></p> 
+<ul> 
+ <li><p>Alpine skiing (final technical events) – 4AM (Peacock – Live)</p></li> 
+ <li><p>Freestyle skiing big air – 6AM (Peacock – Live)</p></li> 
+ <li><p>Curling (gold medal match) – 9AM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Thursday, Feb. 19</strong></p> 
+<ul> 
+ <li><p>Cross-country skiing marathon – 6AM (Peacock – Live)</p></li> 
+ <li><p>Snowboard parallel events – 8AM (Peacock – Live)</p></li> 
+ <li><p>Hockey (bronze medal games) – 1PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Friday, Feb. 20</strong></p> 
+<ul> 
+ <li><p>Biathlon mass start – 6AM (Peacock – Live)</p></li> 
+ <li><p>Speedskating final medals – 8AM (Peacock – Live)</p></li> 
+ <li><p>Figure skating gala – 1PM (Peacock – Live)</p></li> 
+</ul> 
+<p><strong>Saturday, Feb. 21</strong></p> 
+<ul> 
+ <li><p>Men’s hockey gold medal game – 12PM (Peacock – Live)</p></li> 
+ <li><p>Women’s hockey gold medal game – 3PM (Peacock – Live)</p></li> 
+ <li><p>Men’s hockey gold medal game – 8PM (NBC – Primetime)</p></li> 
+</ul> 
+<p><strong>Sunday, Feb. 22</strong> – closing ceremony</p> 
+<ul> 
+ <li><p>Cross-country skiing final event – 6AM (Peacock – Live)</p></li> 
+ <li><p>closing ceremony – 2PM (Peacock – Live)</p></li> 
+ <li><p>closing ceremony – 8PM (NBC – Primetime)</p></li> 
+</ul> 
+<h2 id="jump-link-more-ways-to-watch-the-2026-winter-olympics-on-nbc">More ways to watch the 2026 Winter Olympics on NBC</h2> 
+<p>While Peacock is the best way to watch the Winter Olympics, there are other options if you restrict yourself to the NBC broadcasts. As our guide to the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html">best live TV streaming services to cut cable</a> notes, both YouTube TV and Hulu + Live TV are excellent options, but you&#39;ll want to skip Fubo until and unless the service resolves its contract dispute with Comcast, as NBC channels remain unavailable for now.&nbsp;&nbsp;</p> 
+<p>
+ <core-commerce id="06094710bde44960835af18d7ba4e4b3" data-type="product-list" data-original-url="https://www.amazon.com/Antenna-Support-Booster-Channels-Reception/dp/B0F542J65B/"></core-commerce></p> 
+<p></p> 
+<p>
+ <core-commerce id="1e644de536f74f9793ec7b0e5c825a2f" data-type="product-list"></core-commerce></p> 
+<p>
+ <core-commerce id="e31ebcc858b04ca59331a508d55ba7e0" data-type="product-list" data-original-url="https://tv.youtube.com/welcome/"></core-commerce></p> 
+<p></p> 
+<p></p> 
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/winter-olympics-how-to-watch-schedule-of-events-and-everything-else-you-need-to-know-about-the-2026-milano-cortina-games-172409424.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/winter-olympics-how-to-watch-schedule-of-events-and-everything-else-you-need-to-know-about-the-2026-milano-cortina-games-172409424.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">eca0487b-e039-4319-89d0-8969baa49f32</guid>
+                                                                                        <dc:creator><![CDATA[Danica Creahan,Liz Kocan]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 26 Jan 2026 17:24:15 +0000</pubDate>
+                    <ingested>1769448268</ingested>
+                    <modified>2026-01-26T17:24:35+00:00</modified>
+                                            <category>
+                            <![CDATA[Sports & Recreation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Danica Creahan]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Fc556fff0-f574-11f0-bdeb-8ad1596efd4c&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=b102b2470ea57c31557fc24eebcbaa41851fbb1b" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Monarch Money's budgeting app is 50 percent off for new users right now]]></title>
                                         <description type="html"><![CDATA[<p>The start of the new year is a great time to get your finances in order, and a good budgeting app can help with that. Instead of laboring over a spreadsheet, you can try one of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/apps/best-budgeting-apps-120036303.html">our favorite budgeting apps</a> for less than usual. <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=1764214b-3509-4628-8631-8692fa12e904&amp;featureId=text-link&amp;linkText=Monarch+Money&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5tb25hcmNoLmNvbS8iLCJjb250ZW50VXVpZCI6IjE3NjQyMTRiLTM1MDktNDYyOC04NjMxLTg2OTJmYTEyZTkwNCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubW9uYXJjaC5jb20vIn0&amp;signature=AQAAAf9OYtqtov5bl24yd1K5MnBqj85n36sOszbLnLpvqV4W&amp;gcReferrer=https%3A%2F%2Fwww.monarch.com%2F" class="rapid-with-clickid" data-original-link="https://www.monarch.com/">Monarch Money</a> is running a sale that gives new users 50 percent off one year of the service, bringing the final cost down to just $50. Just use the code <strong>NEWYEAR2026</strong> at checkout to get the discount.</p> 
 <p>Monarch Money makes for a capable and detailed budgeting companion. You can use the service via apps for iOS, Android, iPadOS or the web, and Monarch also offers a Chrome extension that can sync your Amazon and Target transactions and automatically categorize them. Like other budgeting apps, Monarch Money lets you connect multiple financial accounts and track your money based on where you spend it over time. Monarch offers two different approaches to tracking budgeting (flexible and category budgeting) depending on what fits your life best, and the ability to add a budget widget on your phone so you can know how you&#39;re tracking that month.</p> <span id="end-legacy-contents"></span>
@@ -2659,366 +3199,6 @@
                                 <media:credit><![CDATA[Sennheiser]]></media:credit>
                                 <media:description><![CDATA[Lifestyle image of Sennheiser Sennheiser RS 275 TV Headphones and digital receiver]]></media:description>
                                 <media:title><![CDATA[Sennheiser RS 275 TV Headphones]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Darth Maul's standalone series premieres on Disney+ on April 6]]></title>
-                                        <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/oonACDq89BY?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Darth Maul, the beloved, sometimes spider-legged former Sith Lord first introduced in <em>Star Wars: Episode 1 — The Phantom Menace</em>, is officially getting his own animated spin-off on April 6, 2026, based on <a target="_blank" class="link" href="https://www.youtube.com/watch?v=oonACDq89BY" data-i13n="cpos:1;pos:1">a new teaser trailer</a> published by Disney. <em>Star Wars: Maul — Shadow Lord</em> was <a target="_blank" class="link" href="https://www.hollywoodreporter.com/tv/tv-news/darth-maul-animated-series-coming-to-disney-plus-1236194926/" data-i13n="cpos:2;pos:1">originally announced</a> at Star Wars Celebration in 2025, and is set after Maul&#39;s arc in <em>Star Wars: The Clone Wars</em> but before his appearance in <em>Star Wars: Rebels</em>.</p><p>The 10-episode series covers Maul&#39;s plot to rebuild his criminal syndicate &quot;on a planet untouched by the Empire,&quot; <a target="_blank" class="link" href="https://www.starwars.com/news/star-wars-maul-shadow-lord-first-trailer-poster-art" data-i13n="cpos:3;pos:1">according to Lucasfilm</a>. &quot;There, he crosses paths with a disillusioned young Jedi Padawan who may just be the apprentice he is seeking to aid him in his relentless pursuit for revenge.&quot; <em>Shadow Lord</em> will premiere with two episodes on April 6, and will stream two episodes a week on Disney+ through May 6.</p><p>Like most of Disney&#39;s popular animated Star Wars shows, <em>Maul — Shadow Lord</em> is created by Dave Filoni, a George Lucas supplicant, co-creator of <em>The Clone Wars</em> and <a target="_blank" class="link" href="https://www.engadget.com/entertainment/kathleen-kennedy-steps-down-as-lucasfilm-president-marking-a-new-era-for-the-star-wars-franchise-003407687.html" data-i13n="cpos:4;pos:1">newly minted</a> President and Chief Creative Officer at Luscafilm. Besides picking up the story threads he helped establish in his previous animated work, <em>Maul — Shadow Lord</em> could be representative of the work that will define his tenure: stories that play in the pre-existing Star Wars sandbox.</p><p>Since completing their sequel trilogy in 2019 with <em>Star Wars: The Rise of Skywalker</em>, Disney and Lucasfilm have struggled to define what the future of their franchise will actually be. New projects have <a target="_blank" class="link" href="https://variety.com/2020/film/news/patty-jenkins-star-wars-1234851113/" data-i13n="cpos:5;pos:1">languished in pre-production</a>, interesting TV shows <a target="_blank" class="link" href="https://www.engadget.com/entertainment/tv-movies/star-wars-the-acolyte-isnt-getting-a-second-season-120033350.html" data-i13n="cpos:6;pos:1">have gotten cancelled</a> and the only things that seem to come out with any consistency are spin-offs of <em>The Mandalorian </em>and <em>The Clone Wars</em>. Disney and Lucasfilm will release <a target="_blank" class="link" href="https://www.engadget.com/entertainment/tv-movies/disneys-mandalorian-and-grogu-trailer-shows-the-fall-of-a-lumbering-giant-141515618.html" data-i13n="cpos:7;pos:1"><em>The Mandalorian and Grogu</em></a> on May 22, 2026, the first new Star Wars movie to hit theaters in seven years. The Shawn Levy-directed <a target="_blank" class="link" href="https://www.engadget.com/entertainment/tv-movies/ryan-goslings-star-wars-movie-is-titled-starfighter-and-will-be-released-in-2027-123049184.html" data-i13n="cpos:8;pos:1"><em>Star Wars: Starfighter</em></a>, the first film set chronologically after the events of <em>Rise of Skywalker</em>, is slated to premiere on May 28, 2027.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/darth-mauls-standalone-series-premieres-on-disney-on-april-6-224036720.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/darth-mauls-standalone-series-premieres-on-disney-on-april-6-224036720.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e8342ded-cef1-4851-b54d-9d826235029b</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 22:40:36 +0000</pubDate>
-                    <ingested>1769121645</ingested>
-                    <modified>2026-01-22T22:40:48+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmaul-main_23403e98.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8f11f603680d999fe899d59240afa0d4dc6218e5" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmaul-main_23403e98.jpeg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=8f11f603680d999fe899d59240afa0d4dc6218e5" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Lucasfilm]]></media:credit>
-                                <media:description><![CDATA[Darth Maul holding a dual-bladed lightsaber.]]></media:description>
-                                <media:title><![CDATA[Maul-Shadow-Lord]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[JBL made a pair of AI-powered practice amps]]></title>
-                                        <description type="html"><![CDATA[<p>JBL is trying its hand at something new, with a pair of AI-powered practice amps. The BandBox Solo and BandBox Trio include an onboard Stem AI that purportedly lets you separate or remove vocals and instruments from any music streamed over Bluetooth. So, say you&#39;re a young guitarist learning “Stairway to Heaven” (as one does). At least in theory, you could use the speaker to remove Jimmy Page&#39;s part and hone your chops with the rest of the band.</p><p>The $250 BandBox Solo, designed for individual musicians, has a single guitar / mic input. And the $600 BandBox Trio, better for bands, supports up to four instrument inputs. The latter also has a few extra perks not found in the Solo: onboard controls (to reduce reliance on the app) and an LCD.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/jbl.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/jbl.jpg" style="height:1079px;width:1915px;" alt="A hand adjusting knobs on the JBL BandBox Trio speaker" data-uuid="f3522b07-5c29-4542-8521-4dcd3a0b253d"><figcaption>The more expensive BandBox Trio has an LCD and more onboard controls.</figcaption><div class="photo-credit">JBL</div></figure><p>The JBL One app lets you add filters to match a variety of modern and vintage amp models. You&#39;ll also find effects like phaser, chorus, and reverb, as well as a pitch shifter and tuner. A built-in looper will allow for layering, but JBL says that feature will arrive via a software update in October.</p><p>JBL says the BandBox Solo supports up to six hours of battery life. The BandBox Trio is said to last up to 10 hours. But the latter has a replaceable battery, so you could buy a spare (for an as-yet-unknown price) and double that time.</p><p>The <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f671e4c0-78f5-4be4-a1dc-bc74e91d5c55&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b2a5cbfe-8d8c-4131-b0b7-d3db14c557cc&amp;featureId=text-link&amp;merchantName=JBL&amp;linkText=%24250+BandBox+Solo&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5qYmwuY29tL0JBTkRCT1gtU09MTy5odG1sIiwiY29udGVudFV1aWQiOiJiMmE1Y2JmZS04ZDhjLTQxMzEtYjBiNy1kM2RiMTRjNTU3Y2MiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmpibC5jb20vQkFOREJPWC1TT0xPLmh0bWwifQ&amp;signature=AQAAAfm1YIEn_qn3itz64ngtL8RHagmhk9uoGtW3-Ny8j-nG&amp;gcReferrer=https%3A%2F%2Fwww.jbl.com%2FBANDBOX-SOLO.html" data-i13n="elm:affiliate_link;sellerN:JBL;elmt:;cpos:1;pos:1" data-original-link="https://www.jbl.com/BANDBOX-SOLO.html">$250 BandBox Solo</a> and <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f671e4c0-78f5-4be4-a1dc-bc74e91d5c55&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b2a5cbfe-8d8c-4131-b0b7-d3db14c557cc&amp;featureId=text-link&amp;merchantName=JBL&amp;linkText=%24600+BandBox+Trio&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5qYmwuY29tL0JBTkRCT1gtVFJJTy5odG1sIiwiY29udGVudFV1aWQiOiJiMmE1Y2JmZS04ZDhjLTQxMzEtYjBiNy1kM2RiMTRjNTU3Y2MiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmpibC5jb20vQkFOREJPWC1UUklPLmh0bWwifQ&amp;signature=AQAAAfgztluLlU4JOEbPLhBkKYp0y-0fnc6onVPT_eGbZVUI&amp;gcReferrer=https%3A%2F%2Fwww.jbl.com%2FBANDBOX-TRIO.html" data-i13n="elm:affiliate_link;sellerN:JBL;elmt:;cpos:2;pos:1" data-original-link="https://www.jbl.com/BANDBOX-TRIO.html">$600 BandBox Trio</a> are available to pre-order from JBL&#39;s website starting today. Shipments and third-party retail availability are scheduled for March 1.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/speakers/jbl-made-a-pair-of-ai-powered-practice-amps-221000631.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/audio/speakers/jbl-made-a-pair-of-ai-powered-practice-amps-221000631.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">b2a5cbfe-8d8c-4131-b0b7-d3db14c557cc</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 22:10:00 +0000</pubDate>
-                    <ingested>1769119826</ingested>
-                    <modified>2026-01-22T22:10:29+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjbl_2.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=f67c23de766a671f54f395da1874301abff70765" width="1400" height="840" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjbl_2.jpg&amp;resize=1400%2C840&amp;client=19f2b5e49a271b2bde77&amp;signature=f67c23de766a671f54f395da1874301abff70765" width="1400" height="840" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[JBL]]></media:credit>
-                                <media:description><![CDATA[Product images of the JBL BandBox Solo and BandBox Trio]]></media:description>
-                                <media:title><![CDATA[JBL BandBox]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Telly has only delivered 35,000 of its free televisions with always-on ads]]></title>
-                                        <description type="html"><![CDATA[<p>Telly appeared on the home theater scene <a target="_blank" class="link" href="https://www.engadget.com/telly-will-give-you-a-free-tv-if-youll-watch-non-stop-ads-164319359.html" data-i13n="cpos:1;pos:1">in 2023</a> with an unusual proposition. Its business model revolves around giving customers free dual-screen televisions where the lower screen shows non-stop advertisements. At the time, the start-up’s execs projected that Telly would ship its first 500,000 screens that summer. However, Janko Roettgers of <a target="_blank" class="link" href="https://www.lowpass.cc/p/telly-35000-tvs-10-percent-breakage" data-i13n="cpos:2;pos:1"><em>Lowpass</em></a> reported that Telly only had <a target="_blank" class="link" href="https://www.lowpass.cc/p/telly-35000-tvs-10-percent-breakage" data-i13n="cpos:3;pos:1">35,000 sets</a> in people&#39;s homes at the end of the third quarter of 2025. The figure appears to come from a quarterly investor update, but Telly didn&#39;t provide Roettgers with any comment on the report.</p><p>Personally, I don&#39;t think I&#39;d want a free TV that perpetually pelts me with ads, but it seems Telly did in fact have some interest in its approach; the company reportedly had 250,000 pre-orders in June 2023. However, it ran into issues with getting those televisions to customers in one piece. The quarterly report allegedly said that 10 percent of Telly&#39;s shipments through FedEx arrived broken. A <a target="_blank" class="link" href="https://www.reddit.com/r/TellyTV/comments/1hjiwvo/broken_tellys/" data-i13n="cpos:4;pos:1">thread</a> on the company&#39;s Reddit page from a year ago backs that up, chronicling delayed shipments and broken replacements. So in short, things aren’t going so great for the company right now.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">7c48e4be-853c-4c3a-9a66-c18965764ade</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 21:50:33 +0000</pubDate>
-                    <ingested>1769118639</ingested>
-                    <modified>2026-01-22T21:50:51+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FTelly.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7b41b641091761e2a79ec5fa3455cf38e5ef8730" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FTelly.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7b41b641091761e2a79ec5fa3455cf38e5ef8730" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Telly]]></media:credit>
-                                <media:description><![CDATA[Dual-screen television from Telly]]></media:description>
-                                <media:title><![CDATA[Telly]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[David Ellison extends deadline for Warner Bros. Discovery takeover offer]]></title>
-                                        <description type="html"><![CDATA[<p>Paramount Skydance CEO David Ellison is apparently still hopeful that investors will approve his $108.4 billion hostile takeover of Warner Bros. Discovery. Paramount Skydance <a target="_blank" class="link" href="https://www.paramount.com/press/paramount-files-proxy-materials-and-extends-tender-offer" data-i13n="cpos:1;pos:1">announced Thursday</a> that it&#39;s extending its all-cash offer to acquire the storied studio, and giving investors until February 20, 2026 to accept. The company&#39;s previous offer expired on January 21, but with <a target="_blank" class="link" href="https://www.engadget.com/entertainment/paramount-wont-quit-files-suit-against-warner-bros-discovery-over-rejected-bid-175317166.html" data-i13n="cpos:2;pos:1">a lawsuit in the works</a> and <a target="_blank" class="link" href="https://www.wbd.com/news/netflix-and-warner-bros-discovery-amend-agreement-all-cash-transaction" data-i13n="cpos:3;pos:1">a revised Netflix deal</a> to compete with, Paramount Skydance wants to stay in the conversation.</p><p>Netflix and Warner Bros. Discovery originally announced their <a target="_blank" class="link" href="https://www.engadget.com/entertainment/netflix-to-buy-warner-bros-for-827-billion-120836295.html" data-i13n="cpos:4;pos:1">$82.7 billion acquisition agreement</a> in December 2025. Netflix&#39;s deal is for a significant portion, but notably not all, of Warner Bros. Discovery as it exists today. If approved, the streaming service would acquire Warner Bros. film studios, New Line Cinema, HBO, HBO Max, the company&#39;s theme parks, game studios and select linear channels like TNT, but not the collection of reality TV and news programming that Warner Bros. Discovery calls <a target="_blank" class="link" href="https://www.engadget.com/entertainment/warner-bros-discovery-will-split-into-two-media-giants-144553585.html" data-i13n="cpos:5;pos:1">“Global Networks.”</a></p><p>Paramount Skydance made its <a target="_blank" class="link" href="https://ir.paramount.com/news-releases/news-release-details/paramount-launches-all-cash-tender-offer-acquire-warner-bros" data-i13n="cpos:6;pos:1">competing offer</a> of $108.4 billion for all of Warner Bros. Discovery a few days later in December, with the recommendation that shareholders reject the Netflix deal. To add pressure, Paramount Skydance also <a target="_blank" class="link" href="https://www.engadget.com/entertainment/paramount-wont-quit-files-suit-against-warner-bros-discovery-over-rejected-bid-175317166.html" data-i13n="cpos:7;pos:1">sued</a> Warner Bros. Discovery in January alleging that the company had not provided adequate information about why it favored Netflix over Paramount. Beyond offering more money, Paramount contends its deal is more likely to be approved by regulators because owning Warner Bros. doesn&#39;t &quot;entrench Netflix&#39;s market dominance.&quot; <a target="_blank" class="link" href="https://s201.q4cdn.com/336605034/files/doc_downloads/2026/FINAL-WBD-Amended-14D-9-Shareholder-Letter-01-07-25.pdf" data-i13n="cpos:8;pos:1">Warner Bros. Discovery claims that</a> funding for Paramount&#39;s deal &quot;remains inadequate&quot; and that the company is uncertain Paramount Skydance will actually be able to complete the deal.</p><p>David Ellison was previously able to <a target="_blank" class="link" href="https://www.engadget.com/paramount-and-skydance-will-merge-to-create-new-tech-media-giant-140052942.html" data-i13n="cpos:9;pos:1">merge Skydance with Paramount </a>using the financial backing of his billionaire father Larry Ellison, and the Ellison family&#39;s friendly relationship with the Trump administration. Promising to make sure that CBS News represents &quot;a diversity of viewpoints” via a newly appointed <a target="_blank" class="link" href="https://deadline.com/2025/08/skydance-paramount-merger-cbs-news-1236481168/" data-i13n="cpos:10;pos:1">ombudsman</a>, and that the merged Paramount Skydance won&#39;t create any diversity, equity and inclusion programs was enough <a target="_blank" class="link" href="https://www.engadget.com/entertainment/fcc-approves-skydances-8-billion-paramount-acquisition-032028104.html" data-i13n="cpos:11;pos:1">to get the FCC to approve the merger</a>. Ellison might have thought acquiring Warner Bros. Discovery would be equally easy, but at least so far that hasn&#39;t worked out as planned.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/david-ellison-extends-deadline-for-warner-bros-discovery-takeover-offer-204752313.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/david-ellison-extends-deadline-for-warner-bros-discovery-takeover-offer-204752313.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e9a88ff9-8c85-4305-a835-21506b4531ac</guid>
-                                                                                        <dc:creator><![CDATA[Ian Carlos Campbell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 20:47:52 +0000</pubDate>
-                    <ingested>1769114877</ingested>
-                    <modified>2026-01-22T20:48:00+00:00</modified>
-                                            <category>
-                            <![CDATA[Mergers, Acquisitions & Takeovers]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Investment & Company Information]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Finance]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Ian Carlos Campbell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2F210bff90-df44-11f0-b2a8-810d66a7a0cb&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d767621b261f26fcc2a003579f45b4822485ecc5" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-12%2F210bff90-df44-11f0-b2a8-810d66a7a0cb&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=d767621b261f26fcc2a003579f45b4822485ecc5" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[ASSOCIATED PRESS]]></media:credit>
-                                <media:description><![CDATA[The Paramount Pictures water tower is seen in Los Angeles, Wednesday, Dec. 17, 2025.(AP Photo/Jae C. Hong)]]></media:description>
-                                <media:title><![CDATA[Warner Bros]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Fable will let you be a heartless landlord this fall]]></title>
-                                        <description type="html"><![CDATA[<p>After half a decade of waiting, Microsoft finally offered an <a target="_blank" class="link" href="https://news.xbox.com/en-us/2026/01/22/fable-interview-overview-details-developer-direct-2026/" data-i13n="cpos:1;pos:1">extended preview</a> of its long-awaited reboot of the beloved Fable RPG franchise on Thursday. During the company’s <a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/xbox-developer-direct-2026-how-to-watch-and-what-we-expect-to-see-from-fable-forza-horizon-6-and-beast-of-reincarnation-161000242.html" data-i13n="slk:recent Developer_Direct showcase;cpos:2;pos:1">recent Developer Direct showcase</a>, Playground Games, best known for its works on the Forza Horizon<em> </em>series, shared nearly 11 minutes of gameplay footage and commentary related to the upcoming title. The new game will feature a fully open world for players to explore, with locations from previous Fable games like Bowerstone making a return.  </p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/C5qWGaqzk98?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Playground didn’t say exactly where the new game takes place in the Fable timeline. If you played 2010’s <em>Fable 3</em>, you may recall there was a time gap between each of the original games, with the final Lionhead entry giving players the chance to explore a version of Albion that’s been thrown into the tumult of an industrial revolution. This new game appears to offer a more traditional Medieval fantasy setting. </p><p>From what little Playground shared of the story, the player character is the first hero born in Albion in a generation. Like previous Fable games, their story will begin when they’re a child. They’ll leave their home of Briar Hill after a “mysterious stranger” turns all the inhabitants into stone. Before you set off on your adventure, you’ll be able to decide what your hero looks like, with customization including options for different skin tones, head shapes, tattoos and scars. </p><p>All pretty standard stuff, and combat doesn’t look groundbreaking. Your character can use a combination of melee and ranged weapons, alongside magic, to defeat their foes. In addition to a health bar, enemies appear to have a posture meter players can break through both light and heavy attacks, before carrying out “stylish” finishers. Judging from the footage Playground shared, combat doesn’t quite have the kinetic feel of say a FromSoftware title.  </p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/IvB6AGwEINs?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Thankfully, there’s more to the game than just fighting monsters. Like past Fable games, players can ask villagers out on dates, before eventually marrying them and having children, and you’re not limited to a monogamous relationship. It looks like Playground built a modern polycule simulator. Beyond that, you can also purchase every house and business in Albion. The game’s NPCs will develop an opinion of your hero and their actions. Say you evict an artist that lived in one of the houses you bought, you can later meet them on the street and they’ll tell you to your face that you’re awful. Wonderful stuff. </p><p>From a technical perspective, the footage Playground showed off looked on the rough side. The game’s frame rate and frame pacing wasn’t smooth, and I’m pretty sure I saw ghosting in some of the animations. Hopefully the studio has enough time between now and when the game is finally released sometime this autumn to polish the presentation. When the game does arrive, it will be available on Xbox Series X/S, PC via Xbox and Steam, PlayStation 5 and Game Pass Ultimate.  </p><p>Microsoft first announced a new Fable game was in development <a target="_blank" class="link" href="https://www.engadget.com/fable-xbox-series-x-windows-10-playground-games-confirmed-171804707.html" data-i13n="cpos:3;pos:1">back in 2020.</a> It then went three years before <a target="_blank" class="link" href="https://www.engadget.com/take-a-peek-at-xboxs-fable-reboot-in-action-172438277.html" data-i13n="cpos:4;pos:1">sharing a preview of the title</a>, which was originally slated to arrive in 2025 before it was <a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/xbox-has-delayed-its-fable-reboot-until-2026-173118802.html" data-i13n="cpos:5;pos:1">delayed to this year last February</a>.     </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/fable-will-let-you-be-a-heartless-landlord-this-fall-200409310.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/fable-will-let-you-be-a-heartless-landlord-this-fall-200409310.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">c4285c05-03ad-4886-9d2c-f5d4762464a3</guid>
-                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 20:04:09 +0000</pubDate>
-                    <ingested>1769112259</ingested>
-                    <modified>2026-01-22T20:04:22+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Igor Bonifacic]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffable-hero.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=0856e440192b8ba8d351bd33d3ac01f0291be4fe" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffable-hero.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=0856e440192b8ba8d351bd33d3ac01f0291be4fe" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Microsoft / Playground Games]]></media:credit>
-                                <media:description><![CDATA[The first in Fable game in close to a decade arrives later this year.]]></media:description>
-                                <media:title><![CDATA[Fable]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Double Fine announces delightful-looking multiplayer pottery game Kiln]]></title>
-                                        <description type="html"><![CDATA[<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/mi0iRV0U3VY?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Double Fine has been on a tear with its smaller projects lately. The popular indie game developer is following up last year&#39;s atmospheric adventure game<em> </em><a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/doublefine-keeper-gameplay-gamescom2025-123038715.html" data-i13n="cpos:1;pos:1"><em>Keeper</em></a><em> </em>with a new title in a totally different direction. As its Double Fine founder Tim Schaefer attempted to say five times fast during today&#39;s Xbox Developer Direct, <a target="_blank" class="link" href="https://www.doublefine.com/games/kiln" data-i13n="cpos:2;pos:1"><em>Kiln</em></a><em> </em>is an &quot;online multiplayer pottery party brawler&quot; that boasts exactly the sort of colorful, clever fun that fans have come to expect from the studio.&nbsp;</p><p><em>Kiln</em> is a game with two facets: creation and destruction. On the creation side, players get to design a ceramic vessel of their choosing, anything from a dainty saucer to a massive vat. From the clips showed, this riff on character creation imitates many of the real processes of throwing on the wheel. There are options to decorate your vessel with glazes and stickers for additional personalization.</p><p>Once you&#39;ve made your pottery creation, it&#39;s time to destroy it. The game mode that Double Fine showed off during the Developer Direct is called Quench. In these capture-the-flag style matches, your teammates are trying to carry water in the vessels they&#39;ve designed to the enemy&#39;s kiln, where the goal is to douse its flames before opponents can do the same to yours. Different vessel types have different attacks for smashing enemy ceramics to shards, so there can be a strategic angle to building up a smart team composition with a mix of defensive and offensive capabilities.</p><p><em>Kiln</em> looks like a really fun time, and it is due out in spring 2026. The game will be available on Xbox Series X/S, PlayStation 5 and Steam, as well as through Xbox programs such as Game Pass Ultimate and Xbox Cloud Gaming. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/double-fine-announces-delightful-looking-multiplayer-pottery-game-kiln-195837155.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/gaming/double-fine-announces-delightful-looking-multiplayer-pottery-game-kiln-195837155.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">6ab113a0-119d-4149-8b39-1fd0985ea75a</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 19:58:37 +0000</pubDate>
-                    <ingested>1769111924</ingested>
-                    <modified>2026-01-22T19:58:47+00:00</modified>
-                                            <category>
-                            <![CDATA[Video Games]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FKILN-Screenshot-005-Announce-Make_It_Unique.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=f425cc8ebbdc94903505f27cee5ea4b58a866e43" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Substack now has a TV app]]></title>
-                                        <description type="html"><![CDATA[<p>It was only 16 months ago that Substack <a target="_blank" class="link" href="https://www.engadget.com/apps/substack-a-newsletter-service-is-now-also-a-live-video-company-150004585.html" data-i13n="cpos:1;pos:1">expanded into live video</a>. Since then, it&#39;s become a widely adopted medium on the platform, including by its ever-growing <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cad4782e-89f8-4401-b62a-617b27bcfec7&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=list&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI1LzAzLzMxL2J1c2luZXNzL21lZGlhL3R2LW5ld3MtYW5jaG9ycy1zdWJzdGFjay5odG1sIiwiY29udGVudFV1aWQiOiJjYWQ0NzgyZS04OWY4LTQ0MDEtYjYyYS02MTdiMjdiY2ZlYzciLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjUvMDMvMzEvYnVzaW5lc3MvbWVkaWEvdHYtbmV3cy1hbmNob3JzLXN1YnN0YWNrLmh0bWwifQ&amp;signature=AQAAAds2T5x6fgycGvIQxqk9Jd9VugThpHQFurl0KQ4z3d-v&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2025%2F03%2F31%2Fbusiness%2Fmedia%2Ftv-news-anchors-substack.html" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:2;pos:1" data-original-link="https://www.nytimes.com/2025/03/31/business/media/tv-news-anchors-substack.html">list</a> of cable news expats. Now, the company has <a target="_blank" class="link" href="https://on.substack.com/p/introducing-the-substack-tv-app-now" data-i13n="cpos:3;pos:1">decided</a> it&#39;s ready for a bigger screen. Starting today, you can install a new Substack TV app on Apple TV and Google TV devices.</p><p>Substack describes the app&#39;s initial launch as focusing on &quot;reliable, high-quality viewing&quot; for the platform&#39;s long-form videos. It centers around video posts and livestreams from the creators and publications you follow. There&#39;s also a &quot;For You&quot; section that combines those videos with algorithmic recommendations. And you can browse dedicated pages for each channel.</p><p>Viewing access aligns with your subscription level. So, if a channel restricts videos to paying subscribers on Substack’s mobile app and website, the same paywall applies here. However, the company says it&#39;s working on adding previews of paid content for free subscribers. It also plans to add audio posts, search, improved discovery and separate sections for different shows within a single publication.</p><p>At least one of those legacy media expats who moved to Substack is optimistic about the feature. &quot;This is a game-changing moment for the rise of independent media,&quot; former CNN anchor Jim Acosta wrote in the announcement post. &quot;Substack has proven that legacy media consumers are not only searching for fresh alternatives; they are finding them.&quot;</p><p>Based on the comments in Substack’s announcement, some of the platform’s die-hards are less enthusiastic than Acosta. “File this under – thing we didn’t ask for,” Ashli Pollard wrote. “This is not YouTube,” a commenter named Dustin added. “Elevate the written word.” I personally don’t see any harm in another way to watch the videos Substack already hosts. (Its newsletters aren’t going anywhere.) But given how Big Tech companies tend to pivot further toward the most en vogue (and profitable) medium of the day, I can see why purists feel the need to dig in their heels.</p><p>Regardless, you can find the Substack TV app by searching for its name in the tvOS App Store or the Apps section on Google and Android TV devices. You can sign in by scanning a QR code with your phone.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/substack-now-has-a-tv-app-195408592.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/substack-now-has-a-tv-app-195408592.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">cad4782e-89f8-4401-b62a-617b27bcfec7</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 22 Jan 2026 19:54:08 +0000</pubDate>
-                    <ingested>1769111654</ingested>
-                    <modified>2026-01-22T19:54:27+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Mobile Apps]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F73fd198b-19d8-4800-8348-ff1fe3abe294_1600x1066.jpg&amp;resize=1400%2C932&amp;client=19f2b5e49a271b2bde77&amp;signature=1b012b336b268a0838ff41260d9e50ad46c0bd10" width="1400" height="932" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F73fd198b-19d8-4800-8348-ff1fe3abe294_1600x1066.jpg&amp;resize=1400%2C932&amp;client=19f2b5e49a271b2bde77&amp;signature=1b012b336b268a0838ff41260d9e50ad46c0bd10" width="1400" height="932" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Substack]]></media:credit>
-                                <media:description><![CDATA[A TV mounted on a wall, showing video recommendations from the Substack TV app]]></media:description>
-                                <media:title><![CDATA[Substack TV app]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
