@@ -6,9 +6,61 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Tue, 27 Jan 2026 20:51:35 +0000</pubDate>
+            <pubDate>Tue, 27 Jan 2026 21:37:37 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools]]></title>
+                                        <description type="html"><![CDATA[<p>Adobe Photoshop <a target="_blank" class="link" href="https://blog.adobe.com/en/publish/2026/01/27/new-photoshop-innovations-provide-creative-pros-more-control-realism-precision" data-i13n="cpos:1;pos:1">introduced</a> some new features that are rolling out for creators today. As you&#39;d expect from any service operator in this day and age, there&#39;s some AI involved. Adobe has improved the tools for Generative Fill, Generative Expand and Remove that are powered by its Firefly generative AI platform. Using these tools for image editing should now produce results in 2K resolution with fewer artifacts and increased detail all while delivering better matches for the provided prompts. The Reference Image option for Generative Fill has also been upgraded to deliver &quot;geometry-aware results that better match the scene.&quot;&nbsp;</p><p>&nbsp;One of the other new updates is a beta version of Dynamic Text, which should allow simpler transformation of a text layer into a curved shape. Photoshop has also added new adjustment layers: Clarity, Dehaze and Grain. These allow non-destructive image editing on layers.</p>This article originally appeared on Engadget at https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">fed77372-b7b0-4872-9c41-6537a756cb0e</guid>
+                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 27 Jan 2026 21:37:37 +0000</pubDate>
+                    <ingested>1769549865</ingested>
+                    <modified>2026-01-27T21:37:48+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Anna Washenko]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAdobe_Photoshop_Firefly_Fill.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a929c965248d4536310725a8781a7be197e0c2f9" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAdobe_Photoshop_Firefly_Fill.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a929c965248d4536310725a8781a7be197e0c2f9" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Adobe]]></media:credit>
+                                <media:description><![CDATA[Illustration demonstrating new Photoshop tools to use gen-AI for creating a new texture in an image.]]></media:description>
+                                <media:title><![CDATA[Adobe Photoshop Firefly Fill]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Astronomers discover over 800 cosmic anomalies using a new AI tool]]></title>
                                         <description type="html"><![CDATA[<p>Here&#39;s a use of AI that appears to do more good than harm. A pair of astronomers at the European Space Agency (ESA) <a target="_blank" class="link" href="https://esahubble.org/news/heic2603/?lang" data-i13n="cpos:1;pos:1">developed</a> a neural network that searches through space images for anomalies. The results were far beyond what human experts could have done. In two and a half days, it sifted through nearly 100 million image cutouts, discovering 1,400 anomalous objects.</p><p>The creators of the AI model, David O&#39;Ryan and Pablo Gómez, call it AnomalyMatch. The pair trained it on (and applied it to) the <a target="_blank" class="link" href="https://hla.stsci.edu/" data-i13n="cpos:2;pos:1">Hubble Legacy Archive</a>, which houses tens of thousands of datasets from Hubble&#39;s 35-year history. &quot;While trained scientists excel at spotting cosmic anomalies, there&#39;s simply too much Hubble data for experts to sort through at the necessary level of fine detail by hand,&quot; the ESA wrote in its press release.</p><p>After less than three days of scanning, AnomalyMatch returned a list of likely anomalies. It still requires human eyes at the end: Gómez and O&#39;Ryan reviewed the candidates to confirm which were truly abnormal. Among the 1,400 anomalous objects the pair confirmed, more than 800 were previously undocumented.</p><p>Most of the results showed galaxies merging or interacting, which can lead to odd shapes or long tails of stars and gas. Others were gravitational lenses. (That&#39;s where the gravity of a foreground galaxy bends spacetime so that the light from a background galaxy is warped into a circle or arc.) Other discoveries included planet-forming disks viewed edge-on, galaxies with huge clumps of stars and <a target="_blank" class="link" href="https://en.wikipedia.org/wiki/Jellyfish_galaxy" data-i13n="cpos:3;pos:1">jellyfish galaxies</a>. Adding a bit of mystery, there were even &quot;several dozen objects that defied classification altogether.&quot;</p><p>&quot;This is a fantastic use of AI to maximize the scientific output of the Hubble archive,&quot; Gómez is quoted as saying in the ESA&#39;s announcement. &quot;Finding so many anomalous objects in Hubble data, where you might expect many to have already been found, is a great result. It also shows how useful this tool will be for other large datasets.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></link>
@@ -433,6 +485,55 @@
                                                                                         
                             </item>
                                                                                                                                                         <item>
+                                                                                                    <title><![CDATA[Google AI Plus is now available in the US for $8 a month]]></title>
+                                        <description type="html"><![CDATA[<p>Google AI Plus, the company’s most affordable AI subscription plan, is now rolling out in the US. It will cost you $8 a month for its features, though you can get it for $4 a month for the first two months for a limited time only. AI Plus gives you access to 200GB of storage, as well as access to the Gemini 3 Pro model, Deep Research and <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-nano-banana-pro-image-generator-leverages-gemini-3-for-improved-visuals-and-text-rendering-185505073.html" data-i13n="cpos:1;pos:1">Nano Banana Pro</a> inside the Gemini app. Nano Banana Pro generates images that look so realistic, they’re nearly indistinguishable from ordinary photos snapped on phones. Google even had to <a target="_blank" class="link" href="https://www.engadget.com/ai/google-limits-free-nano-banana-pro-image-generation-usage-due-to-high-demand-223442929.html" data-i13n="cpos:2;pos:1">limit its usage</a> due to high demand. </p><p>A subscription to AI Plus also expands your access to Google’s AI filmmaking tool Flow, its image-to-video creator tool Whisk and its research assistant tool NotebookLM. In addition to the US, the plan is now making its way to 34 more countries, making it available in all regions where Google is selling its AI services. In the US, the new option costs less than half of a $20 AI Pro subscription, which comes with 2TB of storage and access to more tools like code assist. Google’s most expensive AI plan, the <a target="_blank" class="link" href="https://www.engadget.com/ai/google-wants-250-per-month-in-return-for-its-new-ai-ultra-plan-180248513.html" data-i13n="cpos:3;pos:1">AI Ultra</a>, costs a whopping $250 a month and comes with 30TB of storage, along with all the AI tools the company can offer. Take note that if you’re paying for a Google One Premium 2TB subscription, you’ll also get all of AI Plus’ features over the next few days. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">bbd3aae1-4c4f-433c-abf9-d2d04959ae4e</guid>
+                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 27 Jan 2026 18:00:00 +0000</pubDate>
+                    <ingested>1769536847</ingested>
+                    <modified>2026-01-27T18:00:50+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Mariella Moon]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Ff82c1320-52bd-11f0-8bfb-f7492469908e&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=c6adfbfb86c6658546b9f27b90f02b1dc9d83bb3" width="1400" height="934" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Ff82c1320-52bd-11f0-8bfb-f7492469908e&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=c6adfbfb86c6658546b9f27b90f02b1dc9d83bb3" width="1400" height="934" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Kenneth Cheung via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Toronto, Canada -  March 2, 2025:  AI assistant apps on a smartphone - OpenAI ChatGPT, Google Gemini, and Anthropic Claude.]]></media:description>
+                                <media:title><![CDATA[Artificial Intelligence AI Assistant Apps - ChatGPT, Google Gemini, Anthropic Claude]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[OpenAI releases Prism, a Claude Code-like app for scientific research]]></title>
                                         <description type="html"><![CDATA[<p>OpenAI is releasing a new app called Prism today, and it hopes it does for science what coding agents like Claude Code and its own Codex platform have done for programming.&nbsp;</p><p>Prism builds on <a target="_blank" class="link" href="https://crixet.com/" data-i13n="cpos:1;pos:1">Crixet</a>, a cloud-based LaTeX platform the company is announcing it acquired today. For the uninitiated, <a target="_blank" class="link" href="https://www.latex-project.org/" data-i13n="cpos:2;pos:1">LaTeX</a> is a typesetting system for formatting scientific documents and journals. Nearly the entire scientific community relies on LaTeX, but it can make some tasks, such as drawing diagrams through TikZ commands, time-consuming to do. Beyond that, LaTeX is just one of the software tools a scientist might turn to when preparing to publish their research.&nbsp;&nbsp;&nbsp;</p><p>That&#39;s where Prism comes into the picture. Like Crixet before it, the app offers robust LaTeX editing and a built-in AI assistant. Where previously it was Crixet&#39;s own Chirp agent, now it&#39;s <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-releases-gpt-52-to-take-on-google-and-anthropic-185029007.html" data-i13n="cpos:3;pos:1">GPT-5.2 Thinking</a>. OpenAI&#39;s model can help with more than just formatting journals — in a press demo, an OpenAI employee used it to find and incorporate scientific literature that was relevant to the paper they were working on, with GPT-5.2 automating the process of writing the bibliography.&nbsp;</p><p>&quot;None of this absolves the scientist of the responsibility to verify that their references are correct, but it can certainly speed up the process,&quot; said Kevin Weil, vice president of science for OpenAI, when asked during the demo the possibility of ChatGPT generating fake citations.&nbsp;</p><p>&quot;We&#39;re conscious that, as AI becomes more capable, there are concerns around volume, quality and trust in the scientific community,&quot; he later added. &quot;Our view is that the right response is not to keep AI at arm&#39;s length or let it operate invisibly in the background; it&#39;s to integrate it directly into scientific workflows in ways that preserve accountability and keep researchers in control.&quot;&nbsp;</p><p>Later in the same demo, the OpenAI employee used Prism to generate a lesson plan for a graduate course on general relativity, as well as a set of problems for students to solve. OpenAI envisions these features helping scientists and professors spend less time on the more tedious tasks in their professions.&nbsp;</p><p>Prism is available to anyone with a personal ChatGPT account. It includes support for unlimited projects and collaborators. OpenAI plans to bring the software to organizations on ChatGPT Business, Team, Enterprise and Education plans soon.&nbsp;Crixet won’t be offered separately. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html?src=rss]]></link>
@@ -481,55 +582,6 @@
                                 <media:credit><![CDATA[OpenAI]]></media:credit>
                                 <media:description><![CDATA[Prism can edit and format LaTeX.]]></media:description>
                                 <media:title><![CDATA[OpenAI Prism]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Google AI Plus is now available in the US for $8 a month]]></title>
-                                        <description type="html"><![CDATA[<p>Google AI Plus, the company’s most affordable AI subscription plan, is now rolling out in the US. It will cost you $8 a month for its features, though you can get it for $4 a month for the first two months for a limited time only. AI Plus gives you access to 200GB of storage, as well as access to the Gemini 3 Pro model, Deep Research and <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-nano-banana-pro-image-generator-leverages-gemini-3-for-improved-visuals-and-text-rendering-185505073.html" data-i13n="cpos:1;pos:1">Nano Banana Pro</a> inside the Gemini app. Nano Banana Pro generates images that look so realistic, they’re nearly indistinguishable from ordinary photos snapped on phones. Google even had to <a target="_blank" class="link" href="https://www.engadget.com/ai/google-limits-free-nano-banana-pro-image-generation-usage-due-to-high-demand-223442929.html" data-i13n="cpos:2;pos:1">limit its usage</a> due to high demand. </p><p>A subscription to AI Plus also expands your access to Google’s AI filmmaking tool Flow, its image-to-video creator tool Whisk and its research assistant tool NotebookLM. In addition to the US, the plan is now making its way to 34 more countries, making it available in all regions where Google is selling its AI services. In the US, the new option costs less than half of a $20 AI Pro subscription, which comes with 2TB of storage and access to more tools like code assist. Google’s most expensive AI plan, the <a target="_blank" class="link" href="https://www.engadget.com/ai/google-wants-250-per-month-in-return-for-its-new-ai-ultra-plan-180248513.html" data-i13n="cpos:3;pos:1">AI Ultra</a>, costs a whopping $250 a month and comes with 30TB of storage, along with all the AI tools the company can offer. Take note that if you’re paying for a Google One Premium 2TB subscription, you’ll also get all of AI Plus’ features over the next few days. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">bbd3aae1-4c4f-433c-abf9-d2d04959ae4e</guid>
-                                                                                        <dc:creator><![CDATA[Mariella Moon]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 27 Jan 2026 18:00:00 +0000</pubDate>
-                    <ingested>1769536847</ingested>
-                    <modified>2026-01-27T18:00:50+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Mariella Moon]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Ff82c1320-52bd-11f0-8bfb-f7492469908e&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=c6adfbfb86c6658546b9f27b90f02b1dc9d83bb3" width="1400" height="934" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-06%2Ff82c1320-52bd-11f0-8bfb-f7492469908e&amp;resize=1400%2C934&amp;client=19f2b5e49a271b2bde77&amp;signature=c6adfbfb86c6658546b9f27b90f02b1dc9d83bb3" width="1400" height="934" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Kenneth Cheung via Getty Images]]></media:credit>
-                                <media:description><![CDATA[Toronto, Canada -  March 2, 2025:  AI assistant apps on a smartphone - OpenAI ChatGPT, Google Gemini, and Anthropic Claude.]]></media:description>
-                                <media:title><![CDATA[Artificial Intelligence AI Assistant Apps - ChatGPT, Google Gemini, Anthropic Claude]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
@@ -3183,57 +3235,6 @@
                                 <media:credit><![CDATA[Adams Immersive]]></media:credit>
                                 <media:description><![CDATA[A grainy black and white still from the Playdate game Outside Parties that shows a hooded figure in a boat holding a long oar, with two statue-like headless figures behind it, one of which has wings. A third headless figure stands on a dock beside them]]></media:description>
                                 <media:title><![CDATA[Outside Parties]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Microsoft releases second emergency Windows 11 update to fix Outlook crashes]]></title>
-                                        <description type="html"><![CDATA[<p>Microsoft issued another out-of-band update to fix a bug that caused <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/microsoft-makes-outlook-free-to-use-for-mac-201328421.html">Outlook</a> to crash for Windows 11 users. This second <a data-i13n="cpos:2;pos:1" href="https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-25h2#2738msgdesc">emergency patch</a> addresses issues seen with Outlook and files stored in the cloud following Microsoft&#39;s January 2026 Windows security update.</p>
-<p>According to Microsoft, this update fixes a bug where some apps that &quot;open or save files stored in cloud-backed locations&quot; became unresponsive or displayed error messages. Some users also experienced Outlook crashing or not opening when PST files are stored in cloud-based options like OneDrive.</p>
-<span id="end-legacy-contents"></span><p>This is the second time this year that Microsoft had to issue a last-minute fix for bugs related to its January security update. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html">Last week</a>, some Windows 11 devices couldn&#39;t shut down or hibernate, while other devices running Windows 10 or 11 couldn&#39;t log in through remote connections. For more context, Microsoft only issues out-of-band updates when there&#39;s a serious issue that can&#39;t wait until its regular update cycle. Fortunately, the latest out-of-band update is cumulative, so you only need to download and install this one to fix the issues seen with the January update.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">5b52de00-c9d8-4644-a192-9726b4d47c3d</guid>
-                                                                                        <dc:creator><![CDATA[Jackson Chen]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sun, 25 Jan 2026 19:20:12 +0000</pubDate>
-                    <ingested>1769368820</ingested>
-                    <modified>2026-01-25T19:20:23+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Jackson Chen]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F6b459a70-fa1b-11f0-9bbc-f746844105b6&amp;resize=1400%2C1003&amp;client=19f2b5e49a271b2bde77&amp;signature=050a7c94ab6582d54c3b4daca34ccd7a1d8e1aa1" width="1400" height="1003" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F6b459a70-fa1b-11f0-9bbc-f746844105b6&amp;resize=1400%2C1003&amp;client=19f2b5e49a271b2bde77&amp;signature=4d6f4853f9cf381ae02be987e3ef4f07b66b6f42" width="1400" height="1003" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Microsoft]]></media:credit>
-                                <media:description><![CDATA[Microsoft Outlook running on a laptop.]]></media:description>
-                                <media:title><![CDATA[Outlook on a laptop]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
