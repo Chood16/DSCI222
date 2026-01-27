@@ -6,9 +6,61 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Tue, 27 Jan 2026 20:12:45 +0000</pubDate>
+            <pubDate>Tue, 27 Jan 2026 20:51:35 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Astronomers discover over 800 cosmic anomalies using a new AI tool]]></title>
+                                        <description type="html"><![CDATA[<p>Here&#39;s a use of AI that appears to do more good than harm. A pair of astronomers at the European Space Agency (ESA) <a target="_blank" class="link" href="https://esahubble.org/news/heic2603/?lang" data-i13n="cpos:1;pos:1">developed</a> a neural network that searches through space images for anomalies. The results were far beyond what human experts could have done. In two and a half days, it sifted through nearly 100 million image cutouts, discovering 1,400 anomalous objects.</p><p>The creators of the AI model, David O&#39;Ryan and Pablo Gómez, call it AnomalyMatch. The pair trained it on (and applied it to) the <a target="_blank" class="link" href="https://hla.stsci.edu/" data-i13n="cpos:2;pos:1">Hubble Legacy Archive</a>, which houses tens of thousands of datasets from Hubble&#39;s 35-year history. &quot;While trained scientists excel at spotting cosmic anomalies, there&#39;s simply too much Hubble data for experts to sort through at the necessary level of fine detail by hand,&quot; the ESA wrote in its press release.</p><p>After less than three days of scanning, AnomalyMatch returned a list of likely anomalies. It still requires human eyes at the end: Gómez and O&#39;Ryan reviewed the candidates to confirm which were truly abnormal. Among the 1,400 anomalous objects the pair confirmed, more than 800 were previously undocumented.</p><p>Most of the results showed galaxies merging or interacting, which can lead to odd shapes or long tails of stars and gas. Others were gravitational lenses. (That&#39;s where the gravity of a foreground galaxy bends spacetime so that the light from a background galaxy is warped into a circle or arc.) Other discoveries included planet-forming disks viewed edge-on, galaxies with huge clumps of stars and <a target="_blank" class="link" href="https://en.wikipedia.org/wiki/Jellyfish_galaxy" data-i13n="cpos:3;pos:1">jellyfish galaxies</a>. Adding a bit of mystery, there were even &quot;several dozen objects that defied classification altogether.&quot;</p><p>&quot;This is a fantastic use of AI to maximize the scientific output of the Hubble archive,&quot; Gómez is quoted as saying in the ESA&#39;s announcement. &quot;Finding so many anomalous objects in Hubble data, where you might expect many to have already been found, is a great result. It also shows how useful this tool will be for other large datasets.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">2bc6c081-d643-4e5b-b49b-31e1a004a2ec</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Tue, 27 Jan 2026 20:51:35 +0000</pubDate>
+                    <ingested>1769547101</ingested>
+                    <modified>2026-01-27T20:51:44+00:00</modified>
+                                            <category>
+                            <![CDATA[Science]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Space & Astronomy]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeremy-perkins-uhjiu8FjnsQ-unsplash.jpg&amp;resize=1400%2C909&amp;client=19f2b5e49a271b2bde77&amp;signature=c3c8b7b7452b2c36cab8296893fb4229b0a09998" width="1400" height="909" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeremy-perkins-uhjiu8FjnsQ-unsplash.jpg&amp;resize=1400%2C909&amp;client=19f2b5e49a271b2bde77&amp;signature=c3c8b7b7452b2c36cab8296893fb4229b0a09998" width="1400" height="909" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Jeremy Perkins / Unsplash]]></media:credit>
+                                <media:description><![CDATA[View of a night sky: countless stars against space&#39;s black backdrop]]></media:description>
+                                <media:title><![CDATA[Space]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Sennheiser debuts new models of wired headphones and earbuds]]></title>
                                         <description type="html"><![CDATA[<p>Wireless audio has become the industry standard, but there are still options out there for people who prefer a wired connection. Two new choices joining the market come from Sennheiser, which has released the CX 80U wired earbuds and HD 400U wired over-ear headphones. These new takes on the company&#39;s previous models for wired listening have replaced the 3.5mm audio jack connector with a USB-C cable. Both sets support 24-bit, 96 kHz digital audio playback. They&#39;re compatible with a broad array of devices, including iOS, iPadOS, Android, ChromeOS, MacOS, Windows and SteamOS.&nbsp;</p><p>Both of these items are priced at an entry level for a brand that might charge <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/sennheisers-hdb-630-headphones-combine-wireless-convenience-with-wired-lossless-audio-220000711.html" data-i13n="cpos:1;pos:1">up to $500</a> for its higher-end headphones. The CX 80U earbuds cost $40 and the HD 400U headphones retail for $100. Both products are available starting today.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/headphones/sennheiser-debuts-new-models-of-wired-headphones-and-earbuds-201245058.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/audio/headphones/sennheiser-debuts-new-models-of-wired-headphones-and-earbuds-201245058.html?src=rss]]></link>
@@ -3182,57 +3234,6 @@
                                 <media:credit><![CDATA[Microsoft]]></media:credit>
                                 <media:description><![CDATA[Microsoft Outlook running on a laptop.]]></media:description>
                                 <media:title><![CDATA[Outlook on a laptop]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Apple reportedly plans to reveal its Gemini-powered Siri in February]]></title>
-                                        <description type="html"><![CDATA[<p>A new and improved Siri may finally make an appearance, but this time, it could be with a Google Gemini glow up. According to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb"><em>Bloomberg</em></a>&#39;s Mark Gurman, Apple wants to announce a new Siri in &quot;the second half of February&quot; that will show off the results of its recently announced <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apples-siri-ai-will-be-powered-by-gemini-153636649.html">partnership with Google</a> and offer demonstrations of the Gemini-powered capabilities.</p>
-<p>After this reveal, Gurman reported that the new Siri will make its way to iOS 26.4, which is also slated to enter beta testing in February before its public release in March or early April. Apple has been meaning to launch its <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apple-is-delaying-its-smarter-more-personal-siri-183513424.html">next-gen Siri</a> ever since its announcement at WWDC 2024, but now we know that this Gemini-powered Siri will behave more like an <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apple-is-reportedly-overhauling-siri-to-be-an-ai-chatbot-205303818.html">AI chatbot</a>, similar to OpenAI&#39;s ChatGPT, thanks to another <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2OTAyNDk2NywiZXhwIjoxNzY5NjI5NzY3LCJhcnRpY2xlSWQiOiJUOFRXOVlLR0NURlUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.awOoIDGdEkCAvho8waoXR6VVVojI3jGvQHJeDjwcyrs&amp;leadSource=uverify%20wall"><em>Bloomberg</em> report</a> from last week.&nbsp;</p>
-<span id="end-legacy-contents"></span><p>Following the reported demo that&#39;s scheduled for late February, Gurman said Apple will have a grand reveal of the new Siri, which is currently codenamed Campos, at its annual developer conference in the summer. After that, the latest Siri and the accompanying Gemini-powered Apple Intelligence features are expected to arrive with iOS 27, iPadOS 27 and macOS 27, which are expected to be available as beta releases in the summer.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">d26d2f34-8d3b-441e-a781-341dd31d42a6</guid>
-                                                                                        <dc:creator><![CDATA[Jackson Chen]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Sun, 25 Jan 2026 17:43:56 +0000</pubDate>
-                    <ingested>1769363043</ingested>
-                    <modified>2026-01-25T17:44:06+00:00</modified>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Jackson Chen]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ff428e370-fa0b-11f0-bfce-5a0cae24b562&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=7ca8f4d2febe42ad8e0f18c843419ae4a8a610fa" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Ff428e370-fa0b-11f0-bfce-5a0cae24b562&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=535d4dd5e6bdefabfc13f2a307b8a5d3e8e33ad3" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Apple]]></media:credit>
-                                <media:description><![CDATA[The revamped Siri was shown off during WWDC 2024.]]></media:description>
-                                <media:title><![CDATA[Collage of Siri actions]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
