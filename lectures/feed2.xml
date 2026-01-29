@@ -6,9 +6,267 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Thu, 29 Jan 2026 15:24:46 +0000</pubDate>
+            <pubDate>Thu, 29 Jan 2026 18:36:46 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[Google's Project Genie lets you generate your own interactive worlds]]></title>
+                                        <description type="html"><![CDATA[<p>This past summer, Google DeepMind <a target="_blank" class="link" href="https://www.engadget.com/ai/google-deepminds-genie-3-can-dynamically-alter-the-state-of-its-simulated-worlds-140052124.html" data-i13n="slk:debuted Genie 3;cpos:1;pos:1">debuted Genie 3</a>. It’s what’s known as a world world, an AI system capable of generating images and reacting as the user moves through the environment the software is simulating. At the time, DeepMind positioned Genie 3 as a tool for training AI agents. Now, it’s making the model available to people outside of Google to try with <a target="_blank" class="link" href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/" data-i13n="cpos:2;pos:1">Project Genie</a>. </p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/YxkGdX4WIBE?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>To start, you’ll need Google’s $250 per month AI Ultra plan to <a target="_blank" class="link" href="https://www.engadget.com/ai/google-wants-250-per-month-in-return-for-its-new-ai-ultra-plan-180248513.html" data-i13n="cpos:3;pos:1">check out Project Genie</a>. You’ll also need to live in the US and be 18 years or older. At launch, Project Genie offers three different modes of interaction: World Sketching, exploration and remixing. The first sees Google’s <a target="_blank" class="link" href="https://www.engadget.com/ai/googles-nano-banana-pro-image-generator-leverages-gemini-3-for-improved-visuals-and-text-rendering-185505073.html" data-i13n="cpos:4;pos:1">Nano Banana Pro</a> model generating the source image Genie 3 will use to create the world you will later explore. At this stage, you can describe your character, define the camera perspective — be it first-person, third-person or isometric — and how you want to explore the world Genie 3 is about to generate. Before you can jump into the model’s creation, Nano Banana Pro will “sketch” what you’re about to see so you can make tweaks. It’s also possible to write your own prompts for worlds others have used Genie to generate. </p><p>One thing to keep in mind is that Genie 3 is not a game engine. While its outputs can look game-like, and it can simulate physical interactions, there aren’t traditional game mechanics here. Generations are also limited to 60 seconds, as is the presentation, which is capped at 24 frames per second and 720p. Still, if you’re an AI Ultra subscriber, this is a cool opportunity to see the bleeding edge of what DeepMind has been working over the past couple of years.         </p>This article originally appeared on Engadget at https://www.engadget.com/ai/googles-project-genie-lets-you-generate-your-own-interactive-worlds-183646186.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/googles-project-genie-lets-you-generate-your-own-interactive-worlds-183646186.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f96776b3-9f86-4da3-a49e-ab792ecdecfc</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 29 Jan 2026 18:36:46 +0000</pubDate>
+                    <ingested>1769711811</ingested>
+                    <modified>2026-01-29T18:36:54+00:00</modified>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fproject-genie.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=212b815a9a961d53fbec232ba67e099c7a1636d3" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fproject-genie.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=212b815a9a961d53fbec232ba67e099c7a1636d3" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Google]]></media:credit>
+                                <media:description><![CDATA[Project Genie allows people outside of Google to try the company&#39;s Genie 3 world model.]]></media:description>
+                                <media:title><![CDATA[Project Genie]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[How to watch the 2026 Super Bowl: Patriots vs. Seahawks channel, start time, where to stream and more]]></title>
+                                        <description type="html"><![CDATA[<figure>
+ <img src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/cc347970-fa64-11f0-bade-27b412e6d1e8" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-01/87a386c0-fa64-11f0-bef7-37149ceace56" style="height:2787px;width:4960px;" alt="DENVER, COLORADO - JANUARY 25: Drake Maye #10 of the New England Patriots leads a huddle during the first quarter of the AFC Championship game against the Denver Broncos at Empower Field At Mile High on January 25, 2026 in Denver, Colorado. (Photo by Lauren Leigh Bacho/Getty Images)" data-uuid="1ca8cfc9-c53e-3722-8c45-5c0ac433c019" data-crop="height:2787;width:4960;x:56;y:352">
+ <figcaption>
+  The New England Patriots are headed to the 2026 Super Bowl. (Lauren Leigh Bacho via Getty Images)
+ </figcaption>
+ <div class="photo-credit">
+  Lauren Leigh Bacho via Getty Images
+ </div>
+</figure> 
+<p>Drake Maye and the New England Patriots face Sam Darnold and the Seattle Seahawks at <a data-i13n="cpos:1;pos:1" href="https://sports.yahoo.com/nfl/topic/super-bowl/">Super Bowl LX</a>, which will be held at Levi&#39;s Stadium in Santa Clara, CA this year. For those of you who don&#39;t have your calendars blocked off already, the game is on February 8, with kickoff scheduled for 6:30 p.m. ET.&nbsp;</p> 
+<p>Like all other Sunday Night Football games this season, the championship game will be broadcast on NBC, and will stream live on Peacock. (Oh, and in case the Super Bowl isn&#39;t enough for you, you can catch coverage of the Winter Olympics all morning and after the football game <a data-i13n="cpos:2;pos:1" href="https://www.nbcsports.com/pressbox/press-releases/super-bowl-lx-and-milan-cortina-2026-olympic-winter-games-headline-legendary-february-8-schedule-on-nbc-peacock">on NBC</a>, too!) Here&#39;s everything you need to know to tune in to Super Bowl LX on February 8, including the game channel, where to stream, and who&#39;s performing at halftime.</p> 
+<h2 id="jump-link-how-to-watch-the-los-angeles-chargers-vs-new-england-patriots-this-sunday">How to watch Super Bowl LX</h2> 
+<p>
+ <core-commerce id="6385b01fd93a46e1bead9be2aa70df09" data-type="product-list" data-original-url="https://www.peacocktv.com/?"/></p> 
+<p>
+ <core-commerce id="35e62e3779834329873e9458dc04c1ac" data-type="product-list" data-original-url="https://www.directv.com/stream/"/></p> 
+<p><strong>Date:</strong> Sunday, Feb. 8, 2026</p> 
+<p><strong>Time:</strong> 6:30 p.m. ET</p> 
+<p><strong>TV channel:</strong> NBC, Telemundo</p> 
+<p><strong>Streaming:</strong> Peacock, DirecTV, NFL+ and more</p> 
+<h2 id="jump-link-los-angeles-chargers-vs-new-england-patriots-game-time">2026 Super Bowl<strong> game time</strong></h2> 
+<p>The 2026 Super Bowl is set to begin at 6:30 p.m. ET/3:30 p.m. PT on Feb. 8, 2026.</p> 
+<h2 id="jump-link-los-angeles-chargers-vs-new-england-patriots-game-channel">2026 Super Bowl <strong>game channel</strong></h2> 
+<p>The 2026 Super Bowl will air on NBC, with a Spanish-language broadcast available on Telemundo.&nbsp;</p> 
+<h2 id="jump-link-2026-super-bowl-teams">2026 Super Bowl teams:</h2> 
+<p>The New England Patriots and the Seattle Seahawks will play in the 2026 Super Bowl.</p> 
+<h2 id="jump-link-where-is-the-2026-super-bowl-being-played">Where is the 2026 Super Bowl being played?</h2> 
+<p>The 2026 Super Bowl will be held at Levi&#39;s Stadium in Santa Clara, CA, home of the San Francisco 49ers.</p> 
+<h2 id="jump-link-what-teams-are-playing-in-the-2026-super-bowl">What teams are playing in the 2026 Super Bowl?</h2> 
+<p>The teams for the 2026 Super Bowl will be determined after the AFC and NFC Championship games are played on Sunday, Jan. 25. You can keep tabs on the post-season <a data-i13n="cpos:3;pos:1" href="https://sports.yahoo.com/nfl/playoff-bracket/">playoff bracket here</a>.</p> 
+<h2 id="jump-link-how-to-watch-the-los-angeles-chargers-vs-new-england-patriots-game-without-cable"><strong>How to watch the </strong>2026 Super Bowl<strong> without cable</strong></h2> 
+<p>You can stream NBC and Telemundo on platforms like DirecTV and Hulu + Live TV, both of which are among Engadget&#39;s choices for <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html">best streaming services for live TV</a>. (Note that <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/entertainment/streaming/missing-nbc-on-fubo-heres-how-to-watch-sunday-night-football-figure-skating-and-more-this-week-014052346.html">Fubo and NBC are currently in the midst of a contract dispute</a> and NBC channels are not available on the platform.) The game will also be streaming on Peacock and on NFL+, though with an NFL+ subscription, you&#39;re limited to watching the game on mobile devices.&nbsp;</p> 
+<p>
+ <core-commerce id="d9b771e8a71a4bb0859d8c7f2cb6a3f3" data-type="product-list" data-original-url="https://www.peacocktv.com/"/></p> 
+<p>
+ <core-commerce id="dab4c414b8fe40b29c2ec2d4ddd242e3" data-type="product-list" data-original-url="https://www.directv.com/stream/"/></p> 
+<p>
+ <core-commerce id="b3c0cc65f0674fd4976ab9e2010d2912" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0F542J65B"/></p> 
+<h2 id="jump-link-who-is-performing-at-the-2026-super-bowl">Who is performing at the 2026 Super Bowl halftime show?</h2> 
+<p>Bad Bunny, who holds the title as the most-streamed artist in the world, will be headlining the 2026 Super Bowl halftime performance. You can expect that show to begin after the second quarter, likely between 8-8:30 p.m. ET. Singer Charlie Puth will also be at the game to perform the National Anthem, Brandi Carlile is scheduled to sing &quot;America The Beautiful,&quot; and Coco Jones will perform &quot;Lift Every Voice and Sing.&quot;</p> 
+<h2 id="jump-link-">Where to buy tickets to the 2026 Super Bowl:&nbsp;</h2> 
+<p>Tickets to the 2026 Super Bowl are available on third-party resale platforms like StubHub and Gametime.&nbsp;</p> <a class="athena-button rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=3daa87f2-c6d3-40c7-9637-c8aa7895a6c1&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f3d4e4b2-2273-433c-87e7-fbfb4424f573&amp;featureId=shopnow-button&amp;merchantName=StubHub&amp;linkText=Find+tickets+on+Stubhub&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zdHViaHViLmNvbS9uZmwtdGlja2V0cy9ncm91cGluZy8xMjEiLCJjb250ZW50VXVpZCI6ImYzZDRlNGIyLTIyNzMtNDMzYy04N2U3LWZiZmI0NDI0ZjU3MyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuc3R1Ymh1Yi5jb20vbmZsLXRpY2tldHMvZ3JvdXBpbmcvMTIxIn0&amp;signature=AQAAAfA8_JCpm3vjKOGqh4pBwj3yqwOUfyGoJ9hKT74uuukh&amp;gcReferrer=https%3A%2F%2Fwww.stubhub.com%2Fnfl-tickets%2Fgrouping%2F121" id="0f6237dc9cdf480bad1c5c2ce893a853" data-i13n="elm:affiliate_link;sellerN:StubHub;elmt:;sec:shop-now;cpos:1;pos:1" data-original-link="https://www.stubhub.com/nfl-tickets/grouping/121">Find tickets on Stubhub</a> 
+<h2 id="jump-link-every-way-to-watch-nfl-games-this-season"></h2> <a class="athena-button rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=3b9fa87c-42fc-4c0d-9b00-70b0827f43ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f3d4e4b2-2273-433c-87e7-fbfb4424f573&amp;featureId=shopnow-button&amp;merchantName=Gametime&amp;linkText=Find+tickets+on+Gametime&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2dhbWV0aW1lLmNvL3N1cGVyLWJvd2wtdGlja2V0cy9wZXJmb3JtZXJzL25mbHN1cGVyYm93bCIsImNvbnRlbnRVdWlkIjoiZjNkNGU0YjItMjI3My00MzNjLTg3ZTctZmJmYjQ0MjRmNTczIiwib3JpZ2luYWxVcmwiOiJodHRwczovL2dhbWV0aW1lLmNvL3N1cGVyLWJvd2wtdGlja2V0cy9wZXJmb3JtZXJzL25mbHN1cGVyYm93bCJ9&amp;signature=AQAAARDhhK4Cl3oKObRC0QYWtu4kKAM3n8_eswi90EkuE_UK&amp;gcReferrer=https%3A%2F%2Fgametime.co%2Fsuper-bowl-tickets%2Fperformers%2Fnflsuperbowl" id="a5f40e134e584960b3e9358aa41e760c" data-i13n="elm:affiliate_link;sellerN:Gametime;elmt:;sec:shop-now;cpos:1;pos:1" data-original-link="https://gametime.co/super-bowl-tickets/performers/nflsuperbowl">Find tickets on Gametime</a> 
+<h2 id="jump-link-more-ways-to-watch-super-bowl-lx"><strong>More ways to watch Super Bowl LX</strong></h2> 
+<p></p> 
+<p>
+ <core-commerce id="a829a9b525e4434fafb21c1bf795bbf1" data-type="product-list"/></p> 
+<p>
+ <core-commerce id="c93d42229a3d4dd184a88108a3d9b229" data-type="product-list"/></p> 
+<p>
+ <core-commerce id="da7f283b92ce420391d1432d5bedda05" data-type="product-list" data-original-url="https://id.nfl.com/select-subscription?"/></p> 
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-start-time-where-to-stream-and-more-175759610.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-start-time-where-to-stream-and-more-175759610.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">f3d4e4b2-2273-433c-87e7-fbfb4424f573</guid>
+                                                                                        <dc:creator><![CDATA[Liz Kocan]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 29 Jan 2026 17:57:59 +0000</pubDate>
+                    <ingested>1769709490</ingested>
+                    <modified>2026-01-29T17:58:15+00:00</modified>
+                                            <category>
+                            <![CDATA[American Football]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Sports & Recreation]]>
+                        </category>
+                                            <category>
+                            <![CDATA[National Football League]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Liz Kocan]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F87a386c0-fa64-11f0-bef7-37149ceace56&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=ddf25b9a3edcaef4cbba4d5ace8ef57cbceec699" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2F53a262c0-efdc-11f0-bad7-eb3e107dbc0a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=1bfc41821c7d3875b1a3245bc332320249be9b60" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[USA TODAY Sports via Reuters Connect / Reuters]]></media:credit>
+                                <media:description><![CDATA[Feb 10, 2025; New Orleans, LA, USA; The Super Bowl LX (60) logo is unveiled at the Super Bowl LIX host committee handoff press conference. Mandatory Credit: Kirby Lee-Imagn Images]]></media:description>
+                                <media:title><![CDATA[NFL: Super Bowl LIX-Host Committee Handoff Press Conference]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Maingear's latest retro gaming desktop takes you back to the Quake era]]></title>
+                                        <description type="html"><![CDATA[<p>Maingear is back with another nostalgia-fueled gaming PC. The Retro98 may look like it&#39;s made for playing <em>Quake</em> while you wait for <em>The Phantom Menace</em> trailer to drop. But on the inside, the beige box is powerful enough to slay today&#39;s most demanding AAA games. &quot;You&#39;re not going to find this PC at your local Radio Shack,&quot; Maingear promises.</p><p>If you&#39;re at least middle-aged, the Retro98&#39;s exterior is instantly familiar. The hand-built tower includes an LED fan-speed display, a working turbo button and a power-lockout key. Sticking with the nostalgic motif, its front I/O is hidden behind the Maingear logo. I can already hear The Beastie Boys&#39; “Intergalactic” playing in the background.</p><p>Fortunately, you won&#39;t be limited to 1998 games. (Dope as they are.) It has up to a <a target="_blank" class="link" href="https://www.engadget.com/computing/amd-ryzen-9-9950x3d-review-a-no-compromise-cpu-for-demanding-gamers-152452811.html" data-i13n="cpos:1;pos:1">Ryzen 9 9950X3D</a> processor, <a target="_blank" class="link" href="https://www.engadget.com/gaming/pc/nvidia-geforce-rtx-5090-review-pure-ai-excess-for-2000-140053371.html" data-i13n="cpos:2;pos:1">GeForce RTX 5090</a> graphics, 64GB Kingston Fury RAM and 4TB Kingston FURY Renegade NVMe Gen5 SSD. The maxed-out version (described by Maingear as &quot;unapologetically overkill&quot;) even includes open-loop liquid cooling.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/maingear_2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/maingear_2.jpg" style="height:1067px;width:1778px;" alt="Two beige-tower PCs that look like they were ripped from 1998. One is opened, revealing modern components inside." data-uuid="5a0d73ef-f37e-46a3-bf7f-7aa08643a2fe"/><figcaption>The Retro98 starts at $2,500 and goes all the way up to $9,799.</figcaption><div class="photo-credit">Maingear</div></figure><p>Now for the bad news. As you might expect from a <a target="_blank" class="link" href="https://www.engadget.com/computing/maingears-retro95-pc-blends-90s-workstation-nostalgia-with-modern-horsepower-123027821.html" data-i13n="cpos:3;pos:1">retro novelty PC</a> like this, you&#39;ll have to pay a pretty penny. The base model (Intel Core Ultra 7 265K / NVIDIA GeForce RTX 5070) costs $2,499. There are two other standard tiers, priced at $3,499 and $4,999. Finally, the open-loop-cooled &quot;Alpha&quot; build is a whopping $9,799. Hey, those aren&#39;t 1998 prices!</p><p>The Retro98 also has an extremely limited run. Maingear is producing only 32 standard units and six alpha units. The company says it won&#39;t bring this build back once those sell out. However, there is a workaround for tinkerers: Since it&#39;s based on the <a target="_blank" class="link" href="https://www.silverstonetek.com/en/product/info/computer-chassis/flp02/" data-i13n="cpos:4;pos:1">SilverStone FLP02</a> tower PC case, you could grab one of those and build your own.</p><p>Those wealthy and nostalgic enough to take the plunge can order the Retro98 today from <a target="_blank" class="link" href="https://maingear.com/collections/retro98" data-i13n="cpos:5;pos:1">Maingear’s website</a>. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/maingears-latest-retro-gaming-desktop-takes-you-back-to-the-quake-era-174958445.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/gaming/pc/maingears-latest-retro-gaming-desktop-takes-you-back-to-the-quake-era-174958445.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">3fbc11cf-f0e2-42ee-a70d-45393ba50331</guid>
+                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 29 Jan 2026 17:49:58 +0000</pubDate>
+                    <ingested>1769709009</ingested>
+                    <modified>2026-01-29T17:50:12+00:00</modified>
+                                            <category>
+                            <![CDATA[Computing]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Will Shanklin]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FRetro98_Alpha_Cool_Desk_BG.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=088d0ec3d6763ace41912e9d2a29c93fd86c8e13" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FRetro98_Alpha_Cool_Desk_BG.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=088d0ec3d6763ace41912e9d2a29c93fd86c8e13" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Maingear]]></media:credit>
+                                <media:description><![CDATA[A gaming PC tower that looks like one from 1998. It&#39;s surrounded by vintage monitors, games and other period-accurate gear.]]></media:description>
+                                <media:title><![CDATA[Maingear Retro98]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[Spotify has a group messaging feature now]]></title>
+                                        <description type="html"><![CDATA[<p>Spotify is adding group chats to the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/entertainment/music/spotify-introduces-an-in-app-messaging-feature-134401088.html"><ins>messaging service</ins></a> it premiered last year. In <a data-i13n="cpos:2;pos:1" href="https://newsroom.spotify.com/2025-08-26/introducing-messages-a-new-way-to-share-what-you-love-on-spotify-with-friends-and-family/"><ins>an addendum</ins></a> to the original blog post introducing Messages, the company announced that users can initiate chats with up to 10 of their friends to share the podcasts, playlists and songs they are listening to.</p>
+<p>The <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/music/spotify-introduces-an-in-app-messaging-feature-134401088.html"><ins>in-app messaging</ins></a> feature, which was released last August, works to keep users on the app instead of navigating to another platform to share content with friends. Since its introduction, Spotify has added functionality bit by bit. Earlier this month, the company added the ability to share what you&#39;re listening to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/entertainment/music/spotify-now-lets-you-share-what-youre-listening-to-in-real-time-via-chat-173749120.html"><ins>in real-time</ins></a>. Users can also invite chat participants to join a Jam, the app’s collaborative listening tool.</p>
+<span id="end-legacy-contents"></span><p>Spotify isn&#39;t the only content platform trying to make in-app messaging a thing. Late last year, YouTube said it would be <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/entertainment/youtube/youtube-is-once-again-trying-to-make-dms-happen-205724221.html"><ins>testing DMs</ins></a>, after originally adding the feature in 2017 before removing it in 2019.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/spotify-has-a-group-messaging-feature-now-173734450.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/entertainment/streaming/spotify-has-a-group-messaging-feature-now-173734450.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">20844f9b-b9cf-4b21-a2cf-399cfdcb579f</guid>
+                                                                                        <dc:creator><![CDATA[Andre Revilla]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Thu, 29 Jan 2026 17:37:34 +0000</pubDate>
+                    <ingested>1769708263</ingested>
+                    <modified>2026-01-29T17:37:45+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Andre Revilla]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Faeedbd10-fd37-11f0-8bff-e04f5fb984e3&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=51038e3974f23482de8eb7f0c9956952c9203d04" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2026-01%2Faeedbd10-fd37-11f0-8bff-e04f5fb984e3&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=4e483620e52c52ece525325776a70e05b11447fc" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[Spotify]]></media:credit>
+                                <media:description><![CDATA[Spotify Messages]]></media:description>
+                                <media:title><![CDATA[Spotify Messages]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[A Waymo robotaxi struck a child near a school]]></title>
                                         <description type="html"><![CDATA[<p>Waymo <a target="_blank" class="link" href="https://waymo.com/blog/2026/01/a-commitment-to-transparency-and-road-safety" data-i13n="cpos:1;pos:1">said</a> one of its robotaxis struck a child, who sustained minor injuries. The incident took place in Santa Monica, California, on January 23. The company reported it to the National Highway Traffic Safety Administration (NHTSA), which has <a target="_blank" class="link" href="https://www.nhtsa.gov/?nhtsaId=PE26001" data-i13n="cpos:2;pos:1">opened an investigation</a>.&nbsp;</p><p>The agency said the incident occurred close to a school within regular drop-off hours, with other children and a crossing guard nearby. The child ran from behind a double-parked SUV into the path of a Waymo Driver. Waymo said its vehicle detected the child immediately as they emerged and that the robotaxi braked hard to lower its speed from around 17 mph to under 6 mph at the time of impact.&nbsp;</p><p>Waymo said the child stood up immediately and moved to the sidewalk. The company contacted emergency services and the vehicle remained stationary at the side of the road until law enforcement allowed it to leave.</p><p>The NHTSA&#39;s Office of Defects Investigation will examine whether the Waymo Driver used appropriate caution given that it was close to a school during drop-off hours and children were close by. The probe is expected to look at the intended behavior of the vehicle&#39;s automated driving systems around schools (particularly during regular pick-up and drop-off times) and Waymo&#39;s response to the incident.</p><p>On the day that the incident took place, the National Transportation Safety Board <a target="_blank" class="link" href="https://www.engadget.com/transportation/ntsb-will-investigate-why-waymos-robotaxis-are-illegally-passing-school-buses-160943613.html" data-i13n="cpos:3;pos:1">opened an investigation</a> into Waymo over its vehicles improperly passing school buses in Austin, Texas. Last month, the company <a target="_blank" class="link" href="https://www.engadget.com/transportation/waymos-robotaxi-fleet-is-being-recalled-again-this-time-for-failing-to-stop-for-school-buses-190222243.html" data-i13n="cpos:4;pos:1">carried out a voluntary software recall</a> (i.e. it updated its systems) after the NHTSA opened an investigation into Waymo vehicles allegedly driving past stationary school buses in both Austin and Atlanta.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/a-waymo-robotaxi-struck-a-child-near-a-school-152446302.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/transportation/a-waymo-robotaxi-struck-a-child-near-a-school-152446302.html?src=rss]]></link>
@@ -3630,214 +3888,6 @@
                                 <media:credit><![CDATA[Engadget]]></media:credit>
                                 <media:description><![CDATA[Best E Ink tablets]]></media:description>
                                 <media:title><![CDATA[Best E Ink tablets]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing]]></title>
-                                        <description type="html"><![CDATA[<p>Meta has faced some serious questions about how it allows its underage users to interact with AI-powered chatbots. Most recently, internal communications obtained by the New Mexico Attorney General&#39;s Office revealed that although Meta CEO Mark Zuckerberg was opposed to the chatbots having &quot;explicit&quot; conversations with minors, he also rejected the idea of placing parental controls on the feature. </p><p><em>Reuters</em> <a target="_blank" class="link" href="https://www.reuters.com/legal/government/meta-ceo-zuckerberg-blocked-curbs-sex-talking-chatbots-minors-court-filing-2026-01-27/" data-i13n="cpos:1;pos:1">reported</a> that in an exchange between two unnamed Meta employees, one wrote that we &quot;pushed hard for parental controls to turn GenAI off – but GenAI leadership pushed back stating Mark decision.” In its statement to the publication, Meta accused the New Mexico Attorney General of &quot;cherry picking documents to paint a flawed and inaccurate picture.&quot; New Mexico is suing Meta on charges that the company “failed to stem the tide of damaging sexual material and sexual propositions delivered to children;” the case is scheduled to go to trial in February. </p><p>Despite only being available for a brief time, Meta&#39;s chatbots have already accumulated quite a history of behavior that veers into offensive if not outright illegal. In <a target="_blank" class="link" href="https://www.engadget.com/ai/metas-ai-chatbots-were-reportedly-able-to-engage-in-sexual-conversations-with-minors-193726679.html" data-i13n="cpos:2;pos:1">April 2025</a>, <em>The Wall Street Journal</em> released an investigation that found Meta&#39;s chatbots could engage in fantasy sex conversations with minors, or could be directed to mimic a minor and engage in sexual conversation. The report claimed that Zuckerberg had wanted looser guards implemented around Meta&#39;s chatbots, but a spokesperson denied that the company had overlooked protections for children and teens.&nbsp;</p><p>Internal review documents revealed in <a target="_blank" class="link" href="https://www.engadget.com/ai/an-internal-meta-ai-document-said-chatbots-could-have-sensual-conversations-with-children-191101296.html" data-i13n="cpos:3;pos:1">August 2025</a> detailed several hypothetical situations of what chatbot behaviors would be permitted, and the lines between sensual and sexual seemed pretty hazy. The document also permitted the chatbots to argue racist concepts. At the time, a representative told Engadget that the offending passages were hypotheticals rather than actual policy, which doesn&#39;t really seem like much of an improvement, and that they were removed from the document.&nbsp;</p><p>Despite the multiple instances of questionable use of the chatbots, Meta only decided to suspend teen accounts&#39; access to them <a target="_blank" class="link" href="https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html" data-i13n="cpos:4;pos:1">last week</a>. The company said it is temporarily removing access while it develops the parental controls that Zuckerberg had allegedly rejected using.</p><p>&quot;Parents have long been able to see if their teens have been chatting with AIs on Instagram, and in October we announced our plans to go further, building new tools to give parents more control over their teens’ experiences with AI characters,&quot; a representative from Meta said. &quot;Last week we once again reinforced our commitment to delivering on our promise of parental controls for AI, pausing teen access to AI characters completely until the updated version is ready.&quot;</p><p>New Mexico filed this lawsuit against Meta in <a target="_blank" class="link" href="https://www.engadget.com/meta-faces-another-lawsuit-over-child-safety-164732291.html" data-i13n="cpos:5;pos:1">December 2023</a> on claims that the company&#39;s platforms failed to protect minors from harassment by adults. Internal documents revealed early on in that complaint revealed that <a target="_blank" class="link" href="https://www.engadget.com/facebook-and-instagrams-algorithms-facilitated-child-sexual-harassment-state-lawsuit-claims-095314139.html" data-i13n="cpos:6;pos:1">100,000 child users</a> were harassed daily on Meta&#39;s services.</p><p><strong>Update, January 27, 2025, 6:52PM ET: </strong>Added statement from Meta spokesperson.</p><p><strong>Update, January 27, 2025, 6:15PM ET: </strong>Corrected misstated timeline of the New Mexico lawsuit, which was filed in December 2023, not December 2024.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">deb08569-f282-473f-830d-d74a58155acd</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 27 Jan 2026 23:52:34 +0000</pubDate>
-                    <ingested>1769557963</ingested>
-                    <modified>2026-01-27T23:52:46+00:00</modified>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F15d138f1-33c8-43ac-919a-68c611e42222&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=859f5ee817b2f1177299b37ab46fd13d3a620da3" width="1400" height="933" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2F15d138f1-33c8-43ac-919a-68c611e42222&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=859f5ee817b2f1177299b37ab46fd13d3a620da3" width="1400" height="933" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[REUTERS / REUTERS]]></media:credit>
-                                <media:description><![CDATA[Meta&#39;s CEO Mark Zuckerberg returns to his seat after standing and facing the audience while he testified during the Senate Judiciary Committee hearing on online child sexual exploitation at the U.S. Capitol in Washington, U.S., January 31, 2024. REUTERS/Evelyn Hockstein]]></media:description>
-                                <media:title><![CDATA[Senate Judiciary Committee hearing on online child sexual exploitation, at the U.S. Capitol in Washington]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Meta blocks links to ICE List, a Wiki that names agents]]></title>
-                                        <description type="html"><![CDATA[<p>Meta has started blocking links to ICE List, a website that compiles information about incidents involving Immigrations and Customs Enforcement (ICE) and Border Patrol agents, and lists thousands of their employees&#39; names. It seems that the latter detail is what caused Meta to take action in a move that was first <a target="_blank" class="no-affiliate-link link" href="https://www.wired.com/story/meta-is-blocking-links-to-ice-list-on-facebook-instagram-and-threads/" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1">reported by</a> <em>Wired</em>.&nbsp;</p><p>ICE List is a crowdsourced Wiki that describes itself as &quot;an independently maintained public documentation project focused on immigration-enforcement activity&quot; in the US. &quot;Its purpose is to record, organize, and preserve verifiable information about enforcement actions, agents, facilities, vehicles, and related incidents that would otherwise remain fragmented, difficult to access, or undocumented,&quot; its website states.</p><p>Along with notable incidents, the website also lists the names of individual agents associated with ICE, CBP and other DHS agencies. According to <a target="_blank" class="no-affiliate-link link" href="https://www.wired.com/story/ice-agents-are-doxing-themselves/" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1"><em>Wired</em></a>, the website&#39;s creators said much of that information had come from a &quot;leak,&quot; though it appears to be based largely on public LinkedIn profiles. As <em>Wired </em>notes:</p><blockquote><p>The site went viral earlier this month when it claimed to have uploaded a leaked list of 4,500 DHS employees to its site, but a WIRED analysis found that the list relied heavily on information the employees shared publicly about themselves on sites such as LinkedIn.</p></blockquote><p>Links to ICE List have been spreading widely for several weeks, including on Meta&#39;s platforms. There are numerous links to the website on Threads, some of which go back several weeks. Now though, clicking on previously-shared links instead results in a message that the link can&#39;t be opened. Users who try to share new links on Threads or Facebook also see error messages. &quot;Posts that look like spam according to our Community Guidelines are blocked on Facebook and can&#39;t be edited,&quot; the notice says.&nbsp;&nbsp;</p><p>When reached for comment, a Meta spokesperson pointed to the company&#39;s privacy policy barring the disclosure of personally identifiable information (PII). The company didn&#39;t address why it chose to start blocking the website after several weeks, or whether it considers public LinkedIn profiles to be in violation of its rules against doxxing. </p><p>It is, however, not the first time Meta has opted to remove users&#39; posts tracking information about ICE actions. The social network previously took down a Facebook group that <a target="_blank" class="no-affiliate-link link" href="https://www.nytimes.com/2025/10/15/technology/meta-removes-ice-facebook-page.html" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1">tracked ICE sightings</a> in Chicago <a target="_blank" class="link" href="https://www.engadget.com/meta-removes-facebook-group-for-tracking-ice-agents-after-doj-pressure-203429574.html" data-i13n="cpos:4;pos:1">after pressure</a> from the Justice Department. </p><p><em>Have a tip for Karissa? You can reach her by </em><a target="_blank" class="link" href="mailto:karissa.bell@engadget.com" data-i13n="slk:email;cpos:5;pos:1"><em>email</em></a><em>, on </em><a target="_blank" class="link" href="https://x.com/karissabe" data-i13n="slk:X;cpos:6;pos:1"><em>X</em></a><em>, </em><a target="_blank" class="link" href="https://bsky.app/profile/karissabe.bsky.social" data-i13n="slk:Bluesky;cpos:7;pos:1"><em>Bluesky</em></a><em>, </em><a target="_blank" class="link" href="https://www.threads.com/@karissabe" data-i13n="slk:Threads;cpos:8;pos:1"><em>Threads</em></a><em>, or send a message to @karissabe.51 to chat confidentially on Signal.</em></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">67d6e353-d481-4157-9714-7e440c097333</guid>
-                                                                                        <dc:creator><![CDATA[Karissa Bell]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 27 Jan 2026 23:14:10 +0000</pubDate>
-                    <ingested>1769555658</ingested>
-                    <modified>2026-01-27T23:14:21+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Karissa Bell]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthreads_ice_list.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=00a08e9784e6bd5f5ada23742e6c99fecb9289ad" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthreads_ice_list.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=00a08e9784e6bd5f5ada23742e6c99fecb9289ad" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Threads]]></media:credit>
-                                <media:description><![CDATA[Meta&#39;s apps, including Threads, are blocking links to ICE List.]]></media:description>
-                                <media:title><![CDATA[threads ice list]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools]]></title>
-                                        <description type="html"><![CDATA[<p>Adobe Photoshop <a target="_blank" class="link" href="https://blog.adobe.com/en/publish/2026/01/27/new-photoshop-innovations-provide-creative-pros-more-control-realism-precision" data-i13n="cpos:1;pos:1">introduced</a> some new features that are rolling out for creators today. As you&#39;d expect from any service operator in this day and age, there&#39;s some AI involved. Adobe has improved the tools for Generative Fill, Generative Expand and Remove that are powered by its Firefly generative AI platform. Using these tools for image editing should now produce results in 2K resolution with fewer artifacts and increased detail all while delivering better matches for the provided prompts. The Reference Image option for Generative Fill has also been upgraded to deliver &quot;geometry-aware results that better match the scene.&quot;&nbsp;</p><p>&nbsp;One of the other new updates is a beta version of Dynamic Text, which should allow simpler transformation of a text layer into a curved shape. Photoshop has also added new adjustment layers: Clarity, Dehaze and Grain. These allow non-destructive image editing on layers.</p>This article originally appeared on Engadget at https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">fed77372-b7b0-4872-9c41-6537a756cb0e</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 27 Jan 2026 21:37:37 +0000</pubDate>
-                    <ingested>1769549865</ingested>
-                    <modified>2026-01-27T21:37:48+00:00</modified>
-                                            <category>
-                            <![CDATA[Software]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Technology & Electronics]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAdobe_Photoshop_Firefly_Fill.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a929c965248d4536310725a8781a7be197e0c2f9" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FAdobe_Photoshop_Firefly_Fill.png&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=a929c965248d4536310725a8781a7be197e0c2f9" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Adobe]]></media:credit>
-                                <media:description><![CDATA[Illustration demonstrating new Photoshop tools to use gen-AI for creating a new texture in an image.]]></media:description>
-                                <media:title><![CDATA[Adobe Photoshop Firefly Fill]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Astronomers discover over 800 cosmic anomalies using a new AI tool]]></title>
-                                        <description type="html"><![CDATA[<p>Here&#39;s a use of AI that appears to do more good than harm. A pair of astronomers at the European Space Agency (ESA) <a target="_blank" class="link" href="https://esahubble.org/news/heic2603/?lang" data-i13n="cpos:1;pos:1">developed</a> a neural network that searches through space images for anomalies. The results were far beyond what human experts could have done. In two and a half days, it sifted through nearly 100 million image cutouts, discovering 1,400 anomalous objects.</p><p>The creators of the AI model, David O&#39;Ryan and Pablo Gómez, call it AnomalyMatch. The pair trained it on (and applied it to) the <a target="_blank" class="link" href="https://hla.stsci.edu/" data-i13n="cpos:2;pos:1">Hubble Legacy Archive</a>, which houses tens of thousands of datasets from Hubble&#39;s 35-year history. &quot;While trained scientists excel at spotting cosmic anomalies, there&#39;s simply too much Hubble data for experts to sort through at the necessary level of fine detail by hand,&quot; the ESA wrote in its press release.</p><p>After less than three days of scanning, AnomalyMatch returned a list of likely anomalies. It still requires human eyes at the end: Gómez and O&#39;Ryan reviewed the candidates to confirm which were truly abnormal. Among the 1,400 anomalous objects the pair confirmed, more than 800 were previously undocumented.</p><p>Most of the results showed galaxies merging or interacting, which can lead to odd shapes or long tails of stars and gas. Others were gravitational lenses. (That&#39;s where the gravity of a foreground galaxy bends spacetime so that the light from a background galaxy is warped into a circle or arc.) Other discoveries included planet-forming disks viewed edge-on, galaxies with huge clumps of stars and <a target="_blank" class="link" href="https://en.wikipedia.org/wiki/Jellyfish_galaxy" data-i13n="cpos:3;pos:1">jellyfish galaxies</a>. Adding a bit of mystery, there were even &quot;several dozen objects that defied classification altogether.&quot;</p><p>&quot;This is a fantastic use of AI to maximize the scientific output of the Hubble archive,&quot; Gómez is quoted as saying in the ESA&#39;s announcement. &quot;Finding so many anomalous objects in Hubble data, where you might expect many to have already been found, is a great result. It also shows how useful this tool will be for other large datasets.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">2bc6c081-d643-4e5b-b49b-31e1a004a2ec</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Tue, 27 Jan 2026 20:51:35 +0000</pubDate>
-                    <ingested>1769547101</ingested>
-                    <modified>2026-01-27T20:51:44+00:00</modified>
-                                            <category>
-                            <![CDATA[Science]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Space & Astronomy]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeremy-perkins-uhjiu8FjnsQ-unsplash.jpg&amp;resize=1400%2C909&amp;client=19f2b5e49a271b2bde77&amp;signature=c3c8b7b7452b2c36cab8296893fb4229b0a09998" width="1400" height="909" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjeremy-perkins-uhjiu8FjnsQ-unsplash.jpg&amp;resize=1400%2C909&amp;client=19f2b5e49a271b2bde77&amp;signature=c3c8b7b7452b2c36cab8296893fb4229b0a09998" width="1400" height="909" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Jeremy Perkins / Unsplash]]></media:credit>
-                                <media:description><![CDATA[View of a night sky: countless stars against space&#39;s black backdrop]]></media:description>
-                                <media:title><![CDATA[Space]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
