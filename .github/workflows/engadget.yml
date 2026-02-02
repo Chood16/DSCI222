@@ -2,7 +2,7 @@ name: Update Engadget Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour (UTC)
+   # - cron: '0 * * * *'  # runs every hour (UTC)
   workflow_dispatch:      # allows manual trigger
 
 jobs:
