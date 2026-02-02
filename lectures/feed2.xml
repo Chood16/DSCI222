@@ -6,9 +6,110 @@
             <description><![CDATA[Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics]]></description>
             <language>en-US</language>
             <copyright>copyright Yahoo 2026</copyright>
-            <pubDate>Mon, 02 Feb 2026 17:07:50 +0000</pubDate>
+            <pubDate>Mon, 02 Feb 2026 18:31:03 +0000</pubDate>
             <generator>Yahoo http://yahoo.com</generator>
                                                                                                                                                                             <item>
+                                                                                                    <title><![CDATA[OpenAI brings its Codex coding app to Mac, with new multi-agent abilities included]]></title>
+                                        <description type="html"><![CDATA[<p>Since last spring, OpenAI has <a target="_blank" class="link" href="https://chatgpt.com/features/codex/?utm_source=google&amp;utm_medium=paid_search&amp;utm_campaign=GOOG_M_SEM_GBR_Codex_TEM_BAU_ACQ_PER_MIX_ALL_NAMER_CA_EN_111325&amp;c_id=23224835927&amp;c_agid=188410099575&amp;c_crid=782256994950&amp;c_kwid=%7Bkeywordid%7D&amp;c_ims=&amp;c_pms=9198201&amp;c_nw=g&amp;c_dvc=c&amp;gad_source=1&amp;gad_campaignid=23224835927&amp;gclid=CjwKCAiAs4HMBhBJEiwACrfNZW4TMqMJP6cw8cNDyPyBXGdRLfqIKcHjOjnILLeSvLlD-2gFJ0i1_BoCZqoQAvD_BwE" data-i13n="cpos:1;pos:1">offered Codex</a>. What started life as the company&#39;s response to <a target="_blank" class="link" href="https://www.engadget.com/ai/anthropics-new-claude-model-can-think-both-fast-and-slow-203307140.html" data-i13n="cpos:2;pos:1">Claude Code</a> is becoming <a target="_blank" class="link" href="https://openai.com/index/introducing-the-codex-app/" data-i13n="cpos:3;pos:1">something more sophisticated</a> with the release of a new dedicated macOS app. At its most basic form, Codex is a programming agent capable of writing code for users, but now it can also manage multiple AI assistants that can work together to complete more complex tasks.</p><p>OpenAI gives an example of how this could work in practice. The company used Codex to create a Mario Kart-like racing game, complete with a selection of different playable cars, eight tracks and a collection of powerups players can use against the competition. For a single AI agent, generating a game from scratch, with all the needed visual assets, would be a tough ask, but Codex was able to complete the task because it could delegate the work of making the game to different models with complementary capabilities.&nbsp;</p><p>For example, it turned to <a target="_blank" class="link" href="https://www.engadget.com/ai/chatgpt-image-generation-is-now-faster-and-better-at-following-tweaks-180000750.html" data-i13n="cpos:4;pos:1">GPT Image</a> for the visual assets, while a separate model simultaneously coded the web game. &quot;It took on the roles of designer, game developer and QA tester to validate its work by actually playing the game,&quot; OpenAI says of the process.&nbsp;</p><p>If that sounds complicated, OpenAI has tried to make it more approachable with a section of the app titled Skills. The feature bundles “instructions, resources, and scripts so Codex can reliably connect to tools, run workflows, and complete tasks according to your team’s preferences,&quot; the company explains. &quot;The Codex app includes a dedicated interface to create and manage skills. You can explicitly ask Codex to use specific skills, or let it automatically use them based on the task at hand.&quot;</p><p>As you might imagine, Codex can also automate repetitive tasks. A dedicated Automations section of the app allows you to schedule tasks, which the software will complete in the background. &quot;At OpenAI, we’ve been using Automations to handle the repetitive but important tasks, like daily issue triage, finding and summarizing CI failures, generating daily release briefs, checking for bugs, and more,&quot; the company said.&nbsp;</p><p>The release of the Codex macOS app comes as AI startups explore what a group of AI agents working in parallel can accomplish. At the start of the year, Anysphere, the company behind Cursor, <a target="_blank" class="link" href="https://cursor.com/blog/scaling-agents" data-i13n="cpos:5;pos:1">found</a> it was possible to build a working web browser from scratch using such an approach, though it did encounter problems along the way.&nbsp;</p><p>For a limited time, OpenAI is making Codex available to ChatGPT Free and <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-is-bringing-ads-to-chatgpt-192831449.html" data-i13n="cpos:6;pos:1">Go users</a> so they can see what&#39;s possible with this new software. At the same time, the company is doubling rates for Plus and Pro subscribers. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-mac-with-new-multi-agent-abilities-included-183103262.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-mac-with-new-multi-agent-abilities-included-183103262.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">8e482e61-b7c4-4b55-b7e3-6a699a2731be</guid>
+                                                                                        <dc:creator><![CDATA[Igor Bonifacic]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 02 Feb 2026 18:31:03 +0000</pubDate>
+                    <ingested>1770057064</ingested>
+                    <modified>2026-02-02T18:31:06+00:00</modified>
+                                            <category>
+                            <![CDATA[Software]]>
+                        </category>
+                                            <category>
+                            <![CDATA[Technology & Electronics]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Igor Bonifacic]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcodex-app.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=be959836568d35e9bd56585a88948dd1d126b048" width="1400" height="787" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcodex-app.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=be959836568d35e9bd56585a88948dd1d126b048" width="1400" height="787" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[OpenAI]]></media:credit>
+                                <media:description><![CDATA[OpenAI&#39;s Codex coding agent is now available as a standalone macOS app.]]></media:description>
+                                <media:title><![CDATA[OpenAI Codex]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
+                                                                                                    <title><![CDATA[A developer turned Wikipedia into a social media-style feed]]></title>
+                                        <description type="html"><![CDATA[<p>While it&#39;s important to stay informed about what&#39;s going on in the world, endlessly scrolling through your social media feeds and absorbing what&#39;s likely to be a largely negative influx of information can&#39;t be great for your mental wellbeing. Perhaps with an eye on stopping you from doomscrolling, developer Lyra Rebane created <a target="_blank" class="link" href="https://xikipedia.org/" data-i13n="cpos:1;pos:1">Xikipedia</a>, a social media-style feed of <a target="_blank" class="link" href="https://www.engadget.com/ai/wikimedia-says-ai-bots-and-summaries-are-hurting-wikipedias-traffic-134331033.html" data-i13n="cpos:2;pos:1">Wikipedia</a> entries.</p><p>The web app algorithmically <a target="_blank" class="link" href="https://bsky.app/profile/rebane2001.bsky.social/post/3mdtj5cc7pk2b" data-i13n="cpos:3;pos:1">displays info</a> from Simple Wikipedia. &quot;It is made as a demonstration of how even a basic non-[machine learning] algorithm with no data from other users can quickly learn what you engage with to suggest you more similar content,&quot; the Xikipedia landing page reads. &quot;No data is collected or shared here, the algorithm runs locally and the data disappears once you refresh or close the tab.&quot;</p><p>You can opt to see entries from certain categories (including custom ones) and you can like “posts,” each of which is a summary of the relevant Simple Wikipedia entry. Liking a post makes it more likely for posts from the same category, parent categories and linked articles to appear in your feed, <a target="_blank" class="link" href="https://bsky.app/profile/rebane2001.bsky.social/post/3mdtjztjn4s2h" data-i13n="cpos:4;pos:1">Rebane explained</a>.</p><p>You can click or tap on a post to visit the full article. It&#39;s important to note that, since Xikipedia pulls text and images from random articles, you&#39;ll probably see some NSFW material if you scroll for long enough, so be warned. You&#39;ll also likely need to wait a beat for Xikipedia to load its 40MB of data.</p><p>As someone who has <a target="_blank" class="link" href="http://en.wikipedia.org/wiki/Special:Random" data-i13n="cpos:5;pos:1">a bookmark</a> that takes me to a random Wikipedia article whenever I click it, I love the idea of Xikipedia. The Simple English Wikipedia has more than 278,000 articles, so there are hundreds of thousands of posts available to scroll through. However, it doesn’t seem to be updated as often as the main version of Wikipedia. The discography section of one musician&#39;s page I ended up on was missing their two most recent albums. Still, it&#39;s worth treating this like Wikipedia proper: as a starting point for discovering new things (sort of in the tradition of StumbleUpon).</p>This article originally appeared on Engadget at https://www.engadget.com/apps/a-developer-turned-wikipedia-into-a-social-media-style-feed-174924280.html?src=rss]]></description>
+                                                                                         <link><![CDATA[https://www.engadget.com/apps/a-developer-turned-wikipedia-into-a-social-media-style-feed-174924280.html?src=rss]]></link>
+                                        <source_id>engadget_479</source_id>
+                                                                    <guid isPermalink="false">4ee0b393-676f-463e-b8d1-695fa553311a</guid>
+                                                                                        <dc:creator><![CDATA[Kris Holt]]></dc:creator>
+                                                                <source><![CDATA[Engadget]]></source>
+                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
+                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
+                                                                <pubDate>Mon, 02 Feb 2026 17:49:24 +0000</pubDate>
+                    <ingested>1770054569</ingested>
+                    <modified>2026-02-02T17:49:34+00:00</modified>
+                                            <category>
+                            <![CDATA[Social & Online Media]]>
+                        </category>
+                                            <category>
+                            <![CDATA[site|engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[provider_name|Engadget]]>
+                        </category>
+                                            <category>
+                            <![CDATA[region|US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[language|en-US]]>
+                        </category>
+                                            <category>
+                            <![CDATA[author_name|Kris Holt]]>
+                        </category>
+                                        
+                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-04%2Fb0bc0890-1b97-11f0-aefb-32dc82e8871a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=097b21dcf9867b00121d549ce8a3b9de0251c098" width="1400" height="933" medium="image">
+                                                                    <media:keywords>headline</media:keywords>
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[1]]></dc:identifier>
+                                <media:credit><![CDATA[]]></media:credit>
+                                <media:description><![CDATA[]]></media:description>
+                                <media:title><![CDATA[]]></media:title>
+                                                        </media:content>
+                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2025-04%2Fb0bc0890-1b97-11f0-aefb-32dc82e8871a&amp;resize=1400%2C933&amp;client=19f2b5e49a271b2bde77&amp;signature=097b21dcf9867b00121d549ce8a3b9de0251c098" width="1400" height="933" medium="image">
+                                                                <media:media_html><![CDATA[]]></media:media_html>
+                                <dc:identifier><![CDATA[2]]></dc:identifier>
+                                <media:credit><![CDATA[RICCARDO MILANI via Getty Images]]></media:credit>
+                                <media:description><![CDATA[Illustration of the Wikipedia the free encyclopedia website application, Paris, France, January 24, 2025. Wikipedia is a collaborative, multilingual online encyclopedia created by Jimmy Wales and Larry Sanger in January 2001. (Photo by Riccardo Milani / Hans Lucas / Hans Lucas via AFP) (Photo by RICCARDO MILANI/Hans Lucas/AFP via Getty Images)]]></media:description>
+                                <media:title><![CDATA[FRA-ILLUSTRATION-APP]]></media:title>
+                                                        </media:content>
+                                                                                        
+                            </item>
+                                                                                                                                                        <item>
                                                                                                     <title><![CDATA[Grok, which maybe stopped undressing women without their consent, still undresses men]]></title>
                                         <description type="html"><![CDATA[<p>It looks like Grok is still being gross. Elon Musk says his chatbot stopped making sexualized images without a person&#39;s consent, but <a data-i13n="cpos:1;pos:1" href="https://www.theverge.com/report/872062/grok-still-undressing-men"><em><ins>The Verge</ins></em><ins> recently discovered</ins></a> this is not entirely true. It maybe (and I say maybe) <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/x-says-grok-will-no-longer-edit-images-of-real-people-into-bikinis-231430257.html"><ins>stopped undressing women</ins></a> without their consent, but this doesn&#39;t seem to apply to men.</p>
 <p>A reporter with the organization ran some tests with Grok and found that the bot &quot;readily undresses men and is still churning out intimate images on demand.&quot; He confirmed this with images of himself, asking Grok to remove clothing from uploaded photos. It performed this task for free on the Grok app, via the chatbot interface on X and via the standalone website. The website didn&#39;t even require an account to digitally alter images.</p>
@@ -2017,7 +2118,7 @@
                             </item>
                                                                                                                                                         <item>
                                                                                                     <title><![CDATA[Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from]]></title>
-                                        <description type="html"><![CDATA[<p></p><p>The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025. The &quot;vast majority&quot; of that content was reported by Amazon, which found the material in its training data, according to an investigation by <a target="_blank" class="link" href="https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data" data-i13n="cpos:1;pos:1"><em>Bloomberg</em></a>. In addition, Amazon said only that it obtained the inappropriate content from external sources used to train its AI services and claimed it could not provide any further details about where the CSAM came from.&nbsp;</p><p>Amazon provided Engadget with the following statement to explain why it doesn’t have data that can provide any further action on the </p><p><em>“When we set up this reporting channel in 2024, we informed NCMEC that we would not have sufficient information to create actionable reports, because of the third-party nature of the scanned data. The separate channel ensures that these reports would not dilute the efficacy of our other reporting channels. Because of how this data is sourced, we don&#39;t have the data that comprises an actionable report.”</em></p><p>&quot;This is really an outlier,&quot; Fallon McNulty, executive director of NCMEC’s CyberTipline, told <em>Bloomberg</em>. The CyberTipline is where many types of US-based companies are legally required to report suspected CSAM. “Having such a high volume come in throughout the year begs a lot of questions about where the data is coming from, and what safeguards have been put in place.” She added that aside from Amazon, the AI-related reports the organization received from other companies last year included actionable data that it could pass along to law enforcement for next steps. Since Amazon isn’t disclosing sources, McNulty said its reports have proved “inactionable.”</p><p>Amazon provided Engadget with these additional details, which were first reported in <em>Bloomberg</em>:</p><p><em>“Amazon is committed to preventing CSAM across all of its businesses, and we are not aware of any instances of our models generating CSAM. In accordance with our commitments to responsible AI and the Generative AI Principles to Prevent Child Abuse, we take a deliberately cautious approach to scanning foundation model training data, including data from the public web, to identify and remove known CSAM and protect our customers. While our proactive safeguards cannot provide the same detail in NCMEC reports as consumer-facing tools, we stand by our commitment to responsible AI and will continue our work to prevent CSAM.”</em></p><p>The company also reiterated that “we intentionally use an over-inclusive threshold for scanning, which yields a high percentage of false positives” to explain the high volume of content the company reported.</p><p>Safety questions for minors have emerged as a critical concern for the artificial intelligence industry in recent months. CSAM has skyrocketed in NCMEC&#39;s records; compared with the more than 1 million AI-related reports the organization received last year, the 2024 total was 67,000 reports while 2023 only saw 4,700 reports.&nbsp;</p><p>In addition to issues such as abusive content being used to train models, AI chatbots have also been implicated in several dangerous or tragic cases involving young users. <a target="_blank" class="link" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html" data-i13n="cpos:2;pos:1">OpenAI</a> and <a target="_blank" class="link" href="https://www.engadget.com/ai/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide-184529475.html" data-i13n="cpos:3;pos:1">Character.AI</a> have both been sued after teenagers planned their suicides with those companies&#39; platforms. <a target="_blank" class="link" href="https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html" data-i13n="cpos:4;pos:1">Meta</a> is also being sued for alleged failures to protect teen users from sexually explicit conversations with chatbots.</p><p><strong>Update, January 30, 2026, 11:05AM ET:</strong> This story has been updated with several statements from Amazon.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss]]></description>
+                                        <description type="html"><![CDATA[<p></p><p>The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025. The &quot;vast majority&quot; of that content was reported by Amazon, which found the material in its training data, according to an investigation by <a target="_blank" class="link" href="https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data" data-i13n="cpos:1;pos:1"><em>Bloomberg</em></a>. In addition, Amazon said only that it obtained the inappropriate content from external sources used to train its AI services and claimed it could not provide any further details about where the CSAM came from.&nbsp;</p><p>Amazon provided Engadget with the following statement to explain why it doesn’t have data that can provide any further action on what it found.</p><p><em>“When we set up this reporting channel in 2024, we informed NCMEC that we would not have sufficient information to create actionable reports, because of the third-party nature of the scanned data. The separate channel ensures that these reports would not dilute the efficacy of our other reporting channels. Because of how this data is sourced, we don&#39;t have the data that comprises an actionable report.”</em></p><p>&quot;This is really an outlier,&quot; Fallon McNulty, executive director of NCMEC’s CyberTipline, told <em>Bloomberg</em>. The CyberTipline is where many types of US-based companies are legally required to report suspected CSAM. “Having such a high volume come in throughout the year begs a lot of questions about where the data is coming from, and what safeguards have been put in place.” She added that aside from Amazon, the AI-related reports the organization received from other companies last year included actionable data that it could pass along to law enforcement for next steps. Since Amazon isn’t disclosing sources, McNulty said its reports have proved “inactionable.”</p><p>Amazon provided Engadget with these additional details, which were first reported in <em>Bloomberg</em>:</p><p><em>“Amazon is committed to preventing CSAM across all of its businesses, and we are not aware of any instances of our models generating CSAM. In accordance with our commitments to responsible AI and the Generative AI Principles to Prevent Child Abuse, we take a deliberately cautious approach to scanning foundation model training data, including data from the public web, to identify and remove known CSAM and protect our customers. While our proactive safeguards cannot provide the same detail in NCMEC reports as consumer-facing tools, we stand by our commitment to responsible AI and will continue our work to prevent CSAM.”</em></p><p>The company also reiterated that “we intentionally use an over-inclusive threshold for scanning, which yields a high percentage of false positives” to explain the high volume of content the company reported.</p><p>Safety questions for minors have emerged as a critical concern for the artificial intelligence industry in recent months. CSAM has skyrocketed in NCMEC&#39;s records; compared with the more than 1 million AI-related reports the organization received last year, the 2024 total was 67,000 reports while 2023 only saw 4,700 reports.&nbsp;</p><p>In addition to issues such as abusive content being used to train models, AI chatbots have also been implicated in several dangerous or tragic cases involving young users. <a target="_blank" class="link" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html" data-i13n="cpos:2;pos:1">OpenAI</a> and <a target="_blank" class="link" href="https://www.engadget.com/ai/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide-184529475.html" data-i13n="cpos:3;pos:1">Character.AI</a> have both been sued after teenagers planned their suicides with those companies&#39; platforms. <a target="_blank" class="link" href="https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html" data-i13n="cpos:4;pos:1">Meta</a> is also being sued for alleged failures to protect teen users from sexually explicit conversations with chatbots.</p><p><strong>Update, January 30, 2026, 11:05AM ET:</strong> This story has been updated with several statements from Amazon.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss]]></description>
                                                                                          <link><![CDATA[https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss]]></link>
                                         <source_id>engadget_479</source_id>
                                                                     <guid isPermalink="false">7ddb2cb0-004b-40bb-b045-57c0b0313211</guid>
@@ -2026,8 +2127,8 @@
                                                                                             <dc:publisher><![CDATA[Engadget]]></dc:publisher>
                                                                             <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
                                                                 <pubDate>Fri, 30 Jan 2026 16:05:02 +0000</pubDate>
-                    <ingested>1769789112</ingested>
-                    <modified>2026-01-30T16:05:16+00:00</modified>
+                    <ingested>1770053910</ingested>
+                    <modified>2026-02-02T17:38:34+00:00</modified>
                                             <category>
                             <![CDATA[Internet & Networking Technology]]>
                         </category>
@@ -3130,119 +3231,6 @@
                                 <media:credit><![CDATA[Marvel]]></media:credit>
                                 <media:description><![CDATA[Panel from a 1967 comic, showing two Spider-Mans pointing at each other.]]></media:description>
                                 <media:title><![CDATA[Two Spider-Mans]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Publishers are blocking the Internet Archive for fear AI scrapers can use it as a workaround]]></title>
-                                        <description type="html"><![CDATA[<p>The Internet Archive has often been a valuable resource for journalists, from it&#39;s finding records of deleted tweets or providing academic texts for background research. However, the advent of AI has created a new tension between the parties. A few major publications have begun blocking the nonprofit digital library&#39;s access to their content based on concerns that AI companies&#39; bots are using the Internet Archive&#39;s collections to indirectly scrape their articles.</p><p>&quot;A lot of these AI businesses are looking for readily available, structured databases of content,&quot; Robert Hahn, head of business affairs and licensing for <em>The Guardian</em>, told <a target="_blank" class="link" href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/" data-i13n="cpos:1;pos:1"><em>Nieman Lab</em></a>. &quot;The Internet Archive’s API would have been an obvious place to plug their own machines into and suck out the IP.&quot;</p><p><em>The New York Times</em> took a similar step. &quot;We are blocking the Internet Archive&#39;s bot from accessing the <em>Times</em> because the Wayback Machine provides unfettered access to <em>Times</em> content — including by AI companies — without authorization,&quot; a representative from the newspaper confirmed to Nieman Lab. Subscription-focused publication the <em>Financial Times</em> and social forum Reddit have also made moves to selectively block how the Internet Archive catalogs their material. </p><p>Many publishers have attempted to sue AI businesses for how they access content used to train large language models. To name a few just from the realm of journalism:</p><ul><li><p><em>The New York Times</em> sued <a target="_blank" class="link" href="https://www.engadget.com/the-new-york-times-is-suing-openai-and-microsoft-for-copyright-infringement-181212615.html" data-i13n="cpos:2;pos:1">OpenAI and Microsoft</a></p></li><li><p>The Center for Investigative Reporting sued <a target="_blank" class="link" href="https://www.engadget.com/the-nations-oldest-nonprofit-newsroom-is-suing-openai-and-microsoft-174748454.html" data-i13n="cpos:3;pos:1">OpenAI and Microsoft</a></p></li><li><p><em>The Wall Street Journal </em>and <em>New York Post</em> sued <a target="_blank" class="link" href="https://www.engadget.com/ai/wall-street-journal-and-new-york-post-are-suing-perplexity-ai-for-copyright-infringement-050135219.html" data-i13n="cpos:4;pos:1">Perplexity</a></p></li><li><p>A group of publishers including <em>The Atlantic</em>, <em>The Guardian</em> and <em>Politico</em> sued <a target="_blank" class="link" href="https://www.engadget.com/ai/major-publishers-sue-ai-startup-cohere-over-copyright-infringement-165352238.html" data-i13n="cpos:5;pos:1">Cohere</a></p></li><li><p>Penske Media sued <a target="_blank" class="link" href="https://www.engadget.com/big-tech/google-faces-its-first-ai-overviews-lawsuit-from-a-major-us-publisher-162333462.html" data-i13n="cpos:6;pos:1">Google</a></p></li><li><p><em>The New York Times</em> and the <em>Chicago Tribune</em> sued <a target="_blank" class="link" href="https://www.engadget.com/ai/the-new-york-times-and-chicago-tribune-sue-perplexity-over-alleged-copyright-infringement-153656431.html" data-i13n="cpos:7;pos:1">Perplexity</a></p></li></ul><p>Other media outlets have sought financial deals before offering up their libraries as training material, although those arrangements seem to provide compensation to the publishing companies rather than the writers. And that&#39;s not even delving into the copyright and piracy issues also being fought against AI tools by other creative fields, from <a target="_blank" class="link" href="https://www.engadget.com/ai/judge-rejects-anthropics-record-breaking-15-billion-settlement-for-ai-copyright-lawsuit-033512498.html" data-i13n="cpos:8;pos:1">fiction writers</a> to <a target="_blank" class="link" href="https://www.engadget.com/getty-images-sues-the-maker-of-ai-art-generator-stable-diffusion-over-data-scraping-allegations-184502897.html" data-i13n="cpos:9;pos:1">visual artists</a> to <a target="_blank" class="link" href="https://www.engadget.com/ai/music-publishers-sue-anthropic-for-3-billion-over-flagrant-piracy-185459358.html" data-i13n="cpos:10;pos:1">musicians</a>. The whole <em>Nieman Lab</em> <a target="_blank" class="link" href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/" data-i13n="cpos:11;pos:1">story</a> is well worth a read for anyone who has been following any of these creative industries’ responses to artificial intelligence.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/publishers-are-blocking-the-internet-archive-for-fear-ai-scrapers-can-use-it-as-a-workaround-204001754.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/ai/publishers-are-blocking-the-internet-archive-for-fear-ai-scrapers-can-use-it-as-a-workaround-204001754.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">15b72149-6ac4-4301-bdaf-2802e62e6491</guid>
-                                                                                        <dc:creator><![CDATA[Anna Washenko]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 29 Jan 2026 20:40:01 +0000</pubDate>
-                    <ingested>1769719212</ingested>
-                    <modified>2026-01-29T20:40:15+00:00</modified>
-                                            <category>
-                            <![CDATA[Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Business]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Books & Publishing]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Arts & Entertainment]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Social & Online Media]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Anna Washenko]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Fec934035-d5bd-43f1-9f1d-5593602c528a&amp;resize=1400%2C875&amp;client=19f2b5e49a271b2bde77&amp;signature=4937a5c0cb750537e84c373362ef4a1cb0dc1ffd" width="1400" height="875" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Fec934035-d5bd-43f1-9f1d-5593602c528a&amp;resize=1400%2C875&amp;client=19f2b5e49a271b2bde77&amp;signature=4937a5c0cb750537e84c373362ef4a1cb0dc1ffd" width="1400" height="875" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Shutter2U via Getty Images]]></media:credit>
-                                <media:description><![CDATA[Cyber security padlock blue abstract digital binary code background. Decoding technology and Computer network protection concept. New futuristic system technology sign and symbol. Vector illustration.]]></media:description>
-                                <media:title><![CDATA[Cyber security padlock blue abstract digital binary code background. Decoding technology and Computer network protection concept. New futuristic system technology sign and symbol. Vector illustration.]]></media:title>
-                                                        </media:content>
-                                                                                        
-                            </item>
-                                                                                                                                                        <item>
-                                                                                                    <title><![CDATA[Waymo begins service at San Francisco International Airport]]></title>
-                                        <description type="html"><![CDATA[<p>As fans and media prepare to descend on the Bay Area for <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-start-time-where-to-stream-and-more-175759610.html" data-i13n="cpos:1;pos:1">Super Bowl LX</a>, what does a high-tech city like San Francisco do? Why, call in the robotaxis, of course. On Thursday, Alphabet&#39;s Waymo began <a target="_blank" class="link" href="https://waymo.com/blog/2026/01/waymo-rides-at-sfo" data-i13n="cpos:2;pos:1">offering</a> fully autonomous rides at San Francisco International Airport (SFO).</p><p>There are some limits. For now, SFO access is restricted to &quot;a select number of riders.&quot; However, access will gradually expand over the coming months. The service is also limited to the SFO Rental Car Center (pickups and drop-offs) at launch. Waymo says it will expand to other airport locations, including terminals, &quot;in the future.&quot;</p><p><em>The San Francisco Standard</em> <a target="_blank" class="link" href="https://sfstandard.com/2026/01/29/waymo-begins-operating-sfo-just-time-super-bowl/" data-i13n="cpos:3;pos:1">notes</a> that SFO is now the third airport in Waymo&#39;s repertoire. The San Francisco launch follows the company&#39;s service at <a target="_blank" class="link" href="https://www.engadget.com/transportation/waymos-driverless-cars-will-start-driving-on-freeways-in-three-us-cities-171654775.html" data-i13n="cpos:4;pos:1">Phoenix Sky Harbor and San Jose Mineta</a>. As for the Bay Area, Waymo now serves more than 260 square miles in the region.</p><p>Unfortunately, this isn&#39;t Waymo&#39;s only appearance in the news this week. On Wednesday, the company said <a target="_blank" class="link" href="https://www.engadget.com/transportation/a-waymo-robotaxi-struck-a-child-near-a-school-152446302.html" data-i13n="cpos:5;pos:1">one of its robotaxis struck a child</a>, who sustained minor injuries. The incident took place on January 23 in Santa Monica. The National Highway Traffic Safety Administration (NHTSA) has opened an investigation.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/waymo-begins-service-at-san-francisco-international-airport-192913050.html?src=rss]]></description>
-                                                                                         <link><![CDATA[https://www.engadget.com/transportation/evs/waymo-begins-service-at-san-francisco-international-airport-192913050.html?src=rss]]></link>
-                                        <source_id>engadget_479</source_id>
-                                                                    <guid isPermalink="false">e4af089c-a601-42c2-bafb-eadf81e5c442</guid>
-                                                                                        <dc:creator><![CDATA[Will Shanklin]]></dc:creator>
-                                                                <source><![CDATA[Engadget]]></source>
-                                                                                            <dc:publisher><![CDATA[Engadget]]></dc:publisher>
-                                                                            <dc:rightsHolder><![CDATA[Engadget]]></dc:rightsHolder>
-                                                                <pubDate>Thu, 29 Jan 2026 19:29:13 +0000</pubDate>
-                    <ingested>1769714959</ingested>
-                    <modified>2026-01-29T19:29:22+00:00</modified>
-                                            <category>
-                            <![CDATA[Travel & Tourism]]>
-                        </category>
-                                            <category>
-                            <![CDATA[Transportation]]>
-                        </category>
-                                            <category>
-                            <![CDATA[site|engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[provider_name|Engadget]]>
-                        </category>
-                                            <category>
-                            <![CDATA[region|US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[language|en-US]]>
-                        </category>
-                                            <category>
-                            <![CDATA[author_name|Will Shanklin]]>
-                        </category>
-                                        
-                                                                                                                                                                                                                                                                                                                <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSFO_Blog_16x9.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=eea775dfdf7ec14e80ad349b9ae438e5cd20ba96" width="1400" height="787" medium="image">
-                                                                    <media:keywords>headline</media:keywords>
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[1]]></dc:identifier>
-                                <media:credit><![CDATA[]]></media:credit>
-                                <media:description><![CDATA[]]></media:description>
-                                <media:title><![CDATA[]]></media:title>
-                                                        </media:content>
-                                                                                                                                                                                                            <media:content url="https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FSFO_Blog_16x9.jpg&amp;resize=1400%2C787&amp;client=19f2b5e49a271b2bde77&amp;signature=eea775dfdf7ec14e80ad349b9ae438e5cd20ba96" width="1400" height="787" medium="image">
-                                                                <media:media_html><![CDATA[]]></media:media_html>
-                                <dc:identifier><![CDATA[2]]></dc:identifier>
-                                <media:credit><![CDATA[Waymo]]></media:credit>
-                                <media:description><![CDATA[Marketing photo, showing a passenger waiting curbside at SFO Airport for an autonomous ride. Overlaid text: &quot;Arriving now at SFO.&quot;]]></media:description>
-                                <media:title><![CDATA[Arriving now at SFO]]></media:title>
                                                         </media:content>
                                                                                         
                             </item>
