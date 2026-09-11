@@ -14,7 +14,7 @@ jobs: # A job is a list of steps run on a specific environment
 
       - name: Download Engadget RSS feed # user-defined name
         run: | # curl allows for data transfer, -s means progress is hidden, -o specifies the output file
-          curl -s https://wvusports.com/rss -o lectures/wvu_sports.xml
+          curl -s https://wvusports.com/api/v2/rss/xml -o lectures/wvu_sports.xml
 
       - name: Commit and push lectures/wvu_sports.xml # user-defined name
         env:
