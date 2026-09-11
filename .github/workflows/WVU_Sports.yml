@@ -10,7 +10,7 @@ jobs: # A job is a list of steps run on a specific environment
     runs-on: ubuntu-latest # Ubuntu is a virtual environment provided by GitHub
     steps:
       - name: Checkout repository # user-defined name
-        uses: actions/checkout@v3 # clones repo, allowing for read/write
+        uses: actions/checkout@v5 # clones repo, allowing for read/write
 
       - name: Download Engadget RSS feed # user-defined name
         run: | # curl allows for data transfer, -s means progress is hidden, -o specifies the output file
